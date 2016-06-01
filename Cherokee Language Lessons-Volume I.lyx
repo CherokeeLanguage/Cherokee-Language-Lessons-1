@@ -467,11 +467,11 @@ ISBN: 978-1-300-85439-5
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.1 $
+$Revision: 1.2 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/01 21:43:14 $ UTC
+$Date: 2016/06/01 23:51:56 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -716,7 +716,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.1 $
+$Revision: 1.2 $
 \noun default
 .
 \end_layout
@@ -825,11 +825,11 @@ Cherokee is grouped into three major dialects:
 \end_layout
 
 \begin_layout Description
-Elati
+ᎡᎳᏘ
 \begin_inset space ~
 \end_inset
 
-(ᎡᎳᏘ).
+(Elati).
  This dialect was historically spoken by inhabitants of the Lower Towns
  in the vicinity of the South Carolina–Georgia border before the forced
  removal of 1838 and uses an 
@@ -862,11 +862,37 @@ The Lower
 \end_layout
 
 \begin_layout Description
-Kituhwa
+ᎣᏔᎵ
 \begin_inset space ~
 \end_inset
 
-(ᎩᏚᏩ).
+(Otali).
+ This dialect is spoken in Oklahoma and by the Snowbird Community in North
+ Carolina and is known as the 
+\begin_inset Quotes eld
+\end_inset
+
+Western
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Overhill
+\begin_inset Quotes erd
+\end_inset
+
+ dialect.
+\end_layout
+
+\begin_layout Description
+ᎩᏚᏩ
+\begin_inset space ~
+\end_inset
+
+(Kituhwa).
  Commonly referred to as the 
 \begin_inset Quotes eld
 \end_inset
@@ -886,32 +912,6 @@ The Middle
 
  dialect.
  
-\end_layout
-
-\begin_layout Description
-Otali
-\begin_inset space ~
-\end_inset
-
-(ᎣᏔᎵ).
- This dialect is spoken in Oklahoma and by the Snowbird Community in North
- Carolina and is known as the 
-\begin_inset Quotes eld
-\end_inset
-
-Western
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-Overhill
-\begin_inset Quotes erd
-\end_inset
-
- dialect.
 \end_layout
 
 \begin_layout Standard
@@ -954,7 +954,11 @@ CED
 \end_layout
 
 \begin_layout Section
-TPR/TPRS
+Comprehension Approach
+\end_layout
+
+\begin_layout Subsection
+TPR
 \end_layout
 
 \begin_layout Quotation
@@ -1008,6 +1012,10 @@ https://en.wikipedia.org/wiki/Total_physical_response
 
 \end_layout
 
+\begin_layout Subsection
+TPRS
+\end_layout
+
 \begin_layout Quotation
 TPR Storytelling (Teaching Proficiency through Reading and Storytelling
  or TPRS) is a method of teaching foreign languages.
@@ -1043,20 +1051,7 @@ https://en.wikipedia.org/wiki/TPR_Storytelling
 \end_layout
 
 \begin_layout Standard
-You should work with a partner using the supplied 
-\begin_inset Quotes eld
-\end_inset
-
-challenge and response
-\begin_inset Quotes erd
-\end_inset
-
- call list exercises.
-\end_layout
-
-\begin_layout Standard
-It is also recommended that you join the an online Cherokee language learning
- group.
+It is recommended that you join an online Cherokee language learning group.
  Two such groups are 
 \begin_inset Flex URL
 status collapsed
@@ -1080,10 +1075,7 @@ https://www.facebook.com/groups/CherokeeOnlineClassSupportGroup/
 \end_inset
 
 .
-\end_layout
-
-\begin_layout Standard
-You will find people of all skill levels willing to help you in your journey
+ You will find people of all skill levels willing to help you in your journey
  of learning to successfully speak, read, and write Cherokee.
 \end_layout
 
