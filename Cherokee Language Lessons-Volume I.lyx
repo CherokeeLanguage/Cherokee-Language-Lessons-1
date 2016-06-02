@@ -252,49 +252,6 @@ begin{multicols}{2}
 \end_layout
 
 \begin_layout Itemize
-Ray Cochran <Hawk's Calls> (Language consultation)
-\end_layout
-
-\begin_layout Itemize
-Charles E.
- Kauffman (Voice for audio disks, Language consultation, Flute player)
-\end_layout
-
-\begin_layout Itemize
-Sagonige Asaladisgi ᏌᎪᏂᎨ ᎠᏌᎳᏗᏍᎩ (Language consultation)
-\end_layout
-
-\begin_layout Itemize
-ᏕᎳᎧᏘᏯ ᏗᎵᏔᏕᎩ, ᎠᏁᏢᏗᏍᎩ (Language consultation)
-\end_layout
-
-\begin_layout Itemize
-Carl B.
- Mankinen, Ph.D.
- (Proofing).
-\end_layout
-
-\begin_layout Itemize
-ᏔᎻᎵ ᏫᏝᎧ (Language consultation)
-\end_layout
-
-\begin_layout Itemize
-Tim Orr (Reviewer, Test student)
-\end_layout
-
-\begin_layout Itemize
-Mary Rae (Proofing)
-\end_layout
-
-\begin_layout Itemize
-Tim Nuttle (Proofing)
-\end_layout
-
-\begin_layout Itemize
-Lawrence Panther (Proofing, Language consultation)
-\end_layout
-
-\begin_layout Itemize
 All the students who participated in the 
 \begin_inset Flex URL
 status collapsed
@@ -346,13 +303,13 @@ begin{multicols}{2}
 \end_layout
 
 \begin_layout Itemize
-The Cherokee-English Dictionary - 
+The Cherokee-English Dictionary 1975 - 
 \emph on
 Durbin Feeling.
 \end_layout
 
 \begin_layout Itemize
-A Reference Grammar of Oklahoma Cherokee - 
+A Reference Grammar of Oklahoma Cherokee 2008 - 
 \emph on
 Brad Montgomery-Anderson
 \end_layout
@@ -442,7 +399,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-Cherokee Language Lessons
+Cherokee Language Lessons, 2nd Edition
 \end_layout
 
 \begin_layout Standard
@@ -459,19 +416,19 @@ Published by Michael Joyner at Smashwords
 \end_layout
 
 \begin_layout Standard
-Copyright 2014, Michael Joyner
+Copyright 2016, Michael Joyner
 \end_layout
 
 \begin_layout Standard
-ISBN: 978-1-300-85439-5
+ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.2 $
+$Revision: 1.3 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/01 23:51:56 $ UTC
+$Date: 2016/06/01 23:54:55 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -716,7 +673,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.2 $
+$Revision: 1.3 $
 \noun default
 .
 \end_layout
@@ -954,51 +911,35 @@ CED
 \end_layout
 
 \begin_layout Section
-Comprehension Approach
+The Approach
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Standard
+This lesson material uses many of the concepts from both the 
+\emph on
 TPR
+\emph default
+ and the 
+\emph on
+TPRS
+\emph default
+ language learning approaches.
 \end_layout
 
-\begin_layout Quotation
-Total physical response (TPR) is a language teaching method developed by
- James Asher, a professor emeritus of psychology at San José State University.
+\begin_layout Quote
+
+\emph on
+Total physical response
+\emph default
+ (TPR) is a language teaching method developed by James Asher, a professor
+ emeritus of psychology at San José State University.
  It is based on the coordination of language and physical movement.
  In TPR, instructors give commands to students in the target language, and
- students respond with whole-body actions.
+ students respond with whole-body actions\SpecialChar \ldots{}
+
 \end_layout
 
-\begin_layout Quotation
-The method is an example of the comprehension approach to language teaching.
- The listening and responding (with actions) serves two purposes: It is
- a means of quickly recognizing meaning in the language being learned, and
- a means of passively learning the structure of the language itself.
- Grammar is not taught explicitly, but can be learned from the language
- input.
- TPR is a valuable way to learn vocabulary, especially idiomatic terms,
- e.g., phrasal verbs.
-\end_layout
-
-\begin_layout Quotation
-Asher developed TPR as a result of his experiences observing young children
- learning their first language.
- He noticed that interactions between parents and children often took the
- form of speech from the parent followed by a physical response from the
- child.
- Asher made three hypotheses based on his observations: first, that language
- is learned primarily by listening; second, that language learning must
- engage the right hemisphere of the brain; and third, that learning language
- should not involve any stress.
-\end_layout
-
-\begin_layout Quotation
-Total physical response is often used alongside other methods and techniques.
- It is popular with beginners and with young learners, although it can be
- used with students of all levels and all age groups.
-\end_layout
-
-\begin_layout Quotation
+\begin_layout Quote
 \begin_inset Flex URL
 status collapsed
 
@@ -1012,31 +953,23 @@ https://en.wikipedia.org/wiki/Total_physical_response
 
 \end_layout
 
-\begin_layout Subsection
-TPRS
+\begin_layout --Separator--
+
 \end_layout
 
-\begin_layout Quotation
-TPR Storytelling (Teaching Proficiency through Reading and Storytelling
- or TPRS) is a method of teaching foreign languages.
+\begin_layout Quote
+
+\emph on
+TPR Storytelling
+\emph default
+ (Teaching Proficiency through Reading and Storytelling or TPRS) is a method
+ of teaching foreign languages.
  TPRS lessons use a mixture of reading and storytelling to help students
- learn a foreign language in a classroom setting.
- The method works in three steps: in step one the new vocabulary structures
- to be learned are taught using a combination of translation, gestures,
- and personalized questions; in step two those structures are used in a
- spoken class story; and finally, in step three, these same structures are
- used in a class reading.
- Throughout these three steps, the teacher will use a number of techniques
- to help make the target language comprehensible to the students, including
- careful limiting of vocabulary, constant asking of easy comprehension questions
-, frequent comprehension checks, and very short grammar explanations known
- as "pop-up grammar".
- Many teachers also assign additional reading activities such as free voluntary
- reading, and there have been several easy novels written by TPRS teachers
- for this purpose.
+ learn a foreign language\SpecialChar \ldots{}
+
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 \begin_inset Flex URL
 status collapsed
 
@@ -1051,32 +984,32 @@ https://en.wikipedia.org/wiki/TPR_Storytelling
 \end_layout
 
 \begin_layout Standard
-It is recommended that you join an online Cherokee language learning group.
- Two such groups are 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-https://www.facebook.com/groups/Jalagi.Gawonihisdi/
+Many activities involve TPR by participants performing physical actions
+ in response to commands.
+ As the activities are carried out, TPRS is used to enhance the learning
+ experience by having the participants perform a very simplified form of
+ storytelling by providing different verbal responses based on what is happening
+ or has happened.
 \end_layout
 
-\end_inset
-
- and 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-https://www.facebook.com/groups/CherokeeOnlineClassSupportGroup/
+\begin_layout Standard
+☞ 
+\emph on
+The core concept of TPR is physical activity in response to the language
+ being learned.
 \end_layout
 
-\end_inset
+\begin_layout Standard
+☞ 
+\emph on
+The core concept of TPRS is speaking the language being learned to describe
+ things.
+\end_layout
 
-.
- You will find people of all skill levels willing to help you in your journey
- of learning to successfully speak, read, and write Cherokee.
+\begin_layout Standard
+In addition to the TPR and TPRS approaches, there also sections explaining
+ core grammar concepts in combination with the more traditional translation
+ exercises.
 \end_layout
 
 \begin_layout Chapter
