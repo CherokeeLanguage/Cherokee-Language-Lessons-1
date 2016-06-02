@@ -454,11 +454,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.5 $
+$Revision: 1.6 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/02 03:07:01 $ UTC
+$Date: 2016/06/02 03:08:57 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +703,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.5 $
+$Revision: 1.6 $
 \noun default
 .
 \end_layout
@@ -983,6 +983,13 @@ https://en.wikipedia.org/wiki/Total_physical_response
 
 \end_layout
 
+\begin_layout Quote
+☞ 
+\emph on
+The core concept of TPR is physical activity in response to the language
+ being learned.
+\end_layout
+
 \begin_layout --Separator--
 
 \end_layout
@@ -1013,6 +1020,13 @@ https://en.wikipedia.org/wiki/TPR_Storytelling
 
 \end_layout
 
+\begin_layout Quote
+☞ 
+\emph on
+The core concept of TPRS is speaking the language being learned to describe
+ things.
+\end_layout
+
 \begin_layout Standard
 Many activities involve TPR by participants performing physical actions
  in response to commands.
@@ -1023,23 +1037,8 @@ Many activities involve TPR by participants performing physical actions
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-The core concept of TPR is physical activity in response to the language
- being learned.
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-The core concept of TPRS is speaking the language being learned to describe
- things.
-\end_layout
-
-\begin_layout Standard
 In addition to the TPR and TPRS approaches, there also sections explaining
- core grammar concepts in combination with the more traditional translation
- exercises.
+ grammar concepts in combination with traditional translation exercises.
 \end_layout
 
 \begin_layout Chapter
