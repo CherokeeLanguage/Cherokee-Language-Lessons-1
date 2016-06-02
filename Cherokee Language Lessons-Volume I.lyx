@@ -454,11 +454,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.4 $
+$Revision: 1.5 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/02 00:53:52 $ UTC
+$Date: 2016/06/02 03:07:01 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +703,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.4 $
+$Revision: 1.5 $
 \noun default
 .
 \end_layout
@@ -3957,12 +3957,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏦᎢᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Second Lesson
+Third Lesson
 \end_layout
 
 \end_inset
@@ -73007,12 +73007,12 @@ ju
 \end_layout
 
 \begin_layout Chapter
-ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏅᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Second Lesson
+Fourth Lesson
 \end_layout
 
 \end_inset
@@ -73827,12 +73827,12 @@ Challenge and Response List:
 \end_layout
 
 \begin_layout Chapter
-ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᎯᏍᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Second Lesson
+Fifth Lesson
 \end_layout
 
 \end_inset
@@ -80147,12 +80147,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏦᎢᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏑᏓᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Third Lesson
+Sixth Lesson
 \end_layout
 
 \end_inset
@@ -85755,12 +85755,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏅᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᎦᎵᏉᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Fourth Lesson
+Seventh Lesson
 \end_layout
 
 \end_inset
