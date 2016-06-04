@@ -454,11 +454,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.6 $
+$Revision: 1.7 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/02 03:08:57 $ UTC
+$Date: 2016/06/02 03:37:08 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +703,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.6 $
+$Revision: 1.7 $
 \noun default
 .
 \end_layout
@@ -73020,7 +73020,7 @@ Fourth Lesson
 \end_layout
 
 \begin_layout Section
-Vocabulary
+ᏘᎪᎵᏯ (Read them)
 \end_layout
 
 \begin_layout Standard
@@ -73047,30 +73047,6 @@ begin{multicols}{2}
 \end_layout
 
 \begin_layout Description
-Ꮒ! [ni!] 
-\begin_inset Quotes eld
-\end_inset
-
-Look at that!
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎥᎥ [v²v] 
-\begin_inset Quotes eld
-\end_inset
-
-Yes
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᎠᏲ! [ạ²yo] 
 \begin_inset Quotes eld
 \end_inset
@@ -73083,53 +73059,11 @@ Ouch!
 \end_layout
 
 \begin_layout Description
-ᎥᏝ,
-\begin_inset space ~
-\end_inset
-
-Ꮭ [vtla, vhla, tla, hla] 
-\begin_inset Quotes eld
-\end_inset
-
-No
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎰᏩ [họ²wa] 
-\begin_inset Quotes eld
-\end_inset
-
-OK.
- Alright.
- Sure.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᎣᏍᏓ [o⁴sda] 
 \begin_inset Quotes eld
 \end_inset
 
-Good
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏲᎢ [u²yo⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Bad
+Good.
 \begin_inset Quotes erd
 \end_inset
 
@@ -73149,6 +73083,94 @@ Hello.
 \begin_inset Quotes erd
 \end_inset
 
+ ☞ 
+\emph on
+This literally means 
+\begin_inset Quotes eld
+\end_inset
+
+all is just fine
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+ᎤᏲᎢ [u²yo⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎥᎥ [v²v] 
+\begin_inset Quotes eld
+\end_inset
+
+Yes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎥᏍᎩᎩ? [v¹sgị²gi?] 
+\begin_inset Quotes eld
+\end_inset
+
+Really?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎥᏝ,
+\begin_inset space ~
+\end_inset
+
+Ꮭ [vtla, vhla, tla, hla] 
+\begin_inset Quotes eld
+\end_inset
+
+No.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎰᏩ [họ²wa] 
+\begin_inset Quotes eld
+\end_inset
+
+Okay.
+ Alright.
+ Sure.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮒ! [ni!] 
+\begin_inset Quotes eld
+\end_inset
+
+Look at that!
+\begin_inset Quotes erd
+\end_inset
+
 
 \end_layout
 
@@ -73165,6 +73187,18 @@ Cherokee.
 \end_layout
 
 \begin_layout Description
+ᏩᏙ [wạ²do] 
+\begin_inset Quotes eld
+\end_inset
+
+Thanks.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏲᏁᎦ,
 \begin_inset space ~
 \end_inset
@@ -73173,7 +73207,7 @@ Cherokee.
 \begin_inset Quotes eld
 \end_inset
 
-English
+English.
 \begin_inset Quotes erd
 \end_inset
 
@@ -73203,42 +73237,10 @@ white
 \begin_inset Quotes erd
 \end_inset
 
- and can be understood to literally mean 
-\begin_inset Quotes eld
-\end_inset
-
-of or relating to white people
-\begin_inset Quotes erd
-\end_inset
-
 .
 \end_layout
 
 \end_deeper
-\begin_layout Description
-ᎥᏍᎩᎩ? [v¹sgị²gi?] 
-\begin_inset Quotes eld
-\end_inset
-
-Really?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏩᏙ [wạ²do] 
-\begin_inset Quotes eld
-\end_inset
-
-Thanks
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -73266,13 +73268,13 @@ end{multicols}
 \begin_inset Quotes erd
 \end_inset
 
- is an affirmative response and can be translated into English as various
- things depending on what it is in response to.
- Two of the more common translations are 
+ is an affirmative response and can be understood to mean different things
+ depending on how it is used.
+ Two of the more common meanings are 
 \begin_inset Quotes eld
 \end_inset
 
-OK
+Okay
 \begin_inset Quotes erd
 \end_inset
 
@@ -73287,7 +73289,7 @@ You are welcome
 .
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Flashcards
 \end_layout
 
@@ -73303,26 +73305,127 @@ Create flash cards from the vocabulary list with the Cherokee words in Syllabary
 \end_layout
 
 \begin_layout Section
-Written Exercises
+ᏂᏔᏛᎦ (Do them)
 \end_layout
 
 \begin_layout Standard
-Estimated time: 10 minutes.
+Each of the following sets are composed of 
+\begin_inset Quotes eld
+\end_inset
+
+mini-skits
+\begin_inset Quotes erd
+\end_inset
+
+ to be performed in order.
+ Each 
+\begin_inset Quotes eld
+\end_inset
+
+mini-skit
+\begin_inset Quotes erd
+\end_inset
+
+ indicates the vocabulary being practiced followed by the skit to be acted
+ out.
+ ☞ 
+\emph on
+Don't be afraid to 
+\begin_inset Quotes eld
+\end_inset
+
+over-act
+\begin_inset Quotes erd
+\end_inset
+
+ a little bit.
 \end_layout
 
 \begin_layout Standard
+You will need the following props:
+\end_layout
 
-\bar under
-Handwrite
-\bar default
- the answers for each of the following problems as you do them.
- These exercises will not be effective if you type the answers instead of
- handwriting them.
+\begin_layout Itemize
+A pretend 
+\begin_inset Quotes eld
+\end_inset
+
+gift
+\begin_inset Quotes erd
+\end_inset
+
+ that can be passed from person to person.
+\end_layout
+
+\begin_layout Itemize
+A pretend 
+\begin_inset Quotes eld
+\end_inset
+
+cactus
+\begin_inset Quotes erd
+\end_inset
+
+ that can be touched.
+ A picture or drawing works well.
+ ☞ 
+\emph on
+Do not use a real cactus with spines.
+\end_layout
+
+\begin_layout Itemize
+A pretend 
+\begin_inset Quotes eld
+\end_inset
+
+fire
+\begin_inset Quotes erd
+\end_inset
+
+ that can be touched.
+ A picture or drawing works well.
+ ☞ 
+\emph on
+Do not use a real fire.
+\end_layout
+
+\begin_layout Itemize
+A sheet of paper with only Cherokee writing on it.
+\end_layout
+
+\begin_layout Itemize
+A sheet of paper with only English writing on it.
 \end_layout
 
 \begin_layout Standard
+If there are five in your study group, split up into groups of two and three.
+\end_layout
 
-\lang english
+\begin_layout Standard
+If there are more than five in your study group, split up into groups of
+ three to four.
+\end_layout
+
+\begin_layout Standard
+Follow the appropriate instructions based on your group's size.
+\end_layout
+
+\begin_layout Subsection
+Groups of Three to Four
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Items being passed should pass through all members of the group while performing
+ the instructions each time it is passed.
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -73333,110 +73436,109 @@ status collapsed
 begin{multicols}{2}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
 \begin_layout Enumerate
-Translate each of the following word lists into English.
- As you do each line, cover up your previous answers.
+ᎠᏲ
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Ni, Vv, Ni, Wado
-\end_layout
-
-\begin_layout Enumerate
-Vv, Ayo, Vv
-\end_layout
-
-\begin_layout Enumerate
-Ayo, Hla, Wado, Ayo
-\end_layout
-
-\begin_layout Enumerate
-Hla, Howa, Hla
-\end_layout
-
-\begin_layout Enumerate
-Howa, Osda, Howa, Wado
-\end_layout
-
-\begin_layout Enumerate
-Osda, Uyoi, Osda
-\end_layout
-
-\begin_layout Enumerate
-Uyoi, Osiyo, Uyoi
-\end_layout
-
-\begin_layout Enumerate
-Osiyo, Jalagi, Osiyo
-\end_layout
-
-\begin_layout Enumerate
-Jalagi, Yonega, Wado, Jalagi
-\end_layout
-
-\begin_layout Enumerate
-Yonega, Vsgigi?, Yonega
-\end_layout
-
-\begin_layout Enumerate
-Vsgigi?, Ni, Vsgigi?
+Each person should tap the cactus then say “ᎠᏲ!” and shake their hand as
+ if injured.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Translate each of the following word lists into Cherokee.
- As you do each line, cover up your previous answers.
+ᎣᏏᏲ
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-No, OK, No
+Wave hello to each other while saying “ᎣᏏᏲ”.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-OK, Bad, OK
+Ꮒ, ᏴᏭᏁᎦ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Bad, Yes, Bad
+Point to the English paper and say “Ꮒ! ᏴᏭᏁᎦ!”
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Yes, Good, Thanks, Yes
+Ꮒ, ᏣᎳᎩ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Good, Hello, Good
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Hello, Ouch!, Hello, Thanks
+ᎠᏲ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Ouch!, English, Ouch!
+Each person should tap the fire then say “ᎠᏲ!” and shake their hand as if
+ injured.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-English, Really?, Thanks, English
+ᎣᏏᏲ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Really?, Cherokee, Thanks, Really?
+Shake hands with each other while saying “ᎣᏏᏲ”.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Cherokee, Look at that!, Cherokee
+Ꮒ, ᏲᏁᎦ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Look at that!, No, Look at that!
+Point to the English paper and say “Ꮒ! ᏲᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift from left to right.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
 \end_layout
 
 \end_deeper
@@ -73456,13 +73558,11 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Section
-Translation Answers
+\begin_layout Subsubsection*
+Set 2
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -73473,108 +73573,117 @@ status collapsed
 begin{multicols}{2}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
 \begin_layout Enumerate
-Translate into English.
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Look!, Yes, Look!, Thanks
-\end_layout
-
-\begin_layout Enumerate
-Yes, Ouch!, Yes
-\end_layout
-
-\begin_layout Enumerate
-Ouch!, No, Thanks, Ouch!
-\end_layout
-
-\begin_layout Enumerate
-No, Ok, No
-\end_layout
-
-\begin_layout Enumerate
-Ok, Good, Ok, Thanks
-\end_layout
-
-\begin_layout Enumerate
-Good, Bad, Good
-\end_layout
-
-\begin_layout Enumerate
-Bad, Hello, Bad
-\end_layout
-
-\begin_layout Enumerate
-Hello, Cherokee, Hello
-\end_layout
-
-\begin_layout Enumerate
-Cherokee, English, Thanks, Cherokee
-\end_layout
-
-\begin_layout Enumerate
-English, Really?, English
-\end_layout
-
-\begin_layout Enumerate
-Really?, Look at that!, Really?
+Pass the gift from left to right.
+ The person to receive it should indicate they don't want it and say “Ꮭ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Translate into Cherokee.
+ᎠᏲ
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Hla, Howa, Hla
+Each person should tap the cactus then say “ᎠᏲ!” and shake their hand as
+ if injured.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Howa, Uyoi, Howa
+ᎣᏏᏲ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Uyoi, Vv, Uyoi
+Bow slightly to each other while saying “ᎣᏏᏲ”.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Vv, Osda, Wado, Vv
+Ꮒ, ᏲᏁᎦ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Osda, Osiyo, Osda
+Point to the English paper and say “Ꮒ! ᏲᏁᎦ!”
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Osiyo, Ayo!, Osiyo, Wado
+Ꮒ, ᏣᎳᎩ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Ayo!, Yonega, Ayo!
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Yonega, Vsgigi?, Wado, Yonega
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Vsgigi?, Jalagi, Wado, Vsgigi?
+Pass the gift from left to right.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-Jalagi, Ni!, Jalagi
+ᎥᏝ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-Ni!, Hla, Ni!
+Pass the gift from left to right.
+ The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the fire then say “ᎠᏲ!” and shake their hand as if
+ injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Bow slightly to each other while saying “ᎣᏏᏲ”.
 \end_layout
 
 \end_deeper
@@ -73594,235 +73703,885 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Section
-Oral Exercises
+\begin_layout Subsubsection*
+Set 3
 \end_layout
 
 \begin_layout Standard
-Remember, the 
-\begin_inset Quotes eld
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
 \end_inset
 
-v
-\begin_inset Quotes erd
-\end_inset
 
- makes a sound like the (u) in r
-\bar under
-u
-\bar default
-ng and is always sounded through the nose.
- Also, don't forget to keep the tip of your tongue against the backside
- of your lower front teeth each time you speak any Cherokee word.
 \end_layout
 
 \begin_layout Enumerate
-Have your partner call the Cherokee challenge word from each of the bracketed
- sets in the following 
-\begin_inset Quotes eld
-\end_inset
-
-challenge and response
-\begin_inset Quotes erd
-\end_inset
-
- list.
- Repeat the Cherokee challenge and then try to give the correct English
- translation.
- (Only your partner should see the list.) (Estimated time: 20 minutes.)
+Ꮒ, ᏴᏭᏁᎦ
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-When you give a correct answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-vv
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-osda
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-If you give an incorrect answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-hla
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- and then give the correct answer.
- You should then repeat the correct answer that is given to you.
- 
+Point to the English paper and say “Ꮒ! ᏴᏭᏁᎦ!”
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Switch roles with your partner and repeat the previous exercise.
- (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_layout Enumerate
-Have your partner call the English challenge word from each of the bracketed
- sets in the following 
-\begin_inset Quotes eld
-\end_inset
-
-challenge and response
-\begin_inset Quotes erd
-\end_inset
-
- list.
- Try and give the correct Cherokee translation.
- (Estimated time: 20 minutes.)
+Ꮒ, ᏣᎳᎩ
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-When you give a correct answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-vv
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-osda
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-If you give an incorrect answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-hla
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- and then give the correct answer.
- You should then repeat the correct answer that is given to you.
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Switch roles with your partner and repeat the previous exercise.
- (Estimated time: 20 minutes.)
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
 \end_layout
 
-\begin_layout Subsubsection
-Challenge and Response List:
-\end_layout
-
+\begin_deeper
 \begin_layout Enumerate
-[Hla: No], [Vv: Yes], [Howa: OK], [Vv: Yes], [Wado: Thanks]
+Pass the gift from left to right.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-[Howa: OK], [Uyoi: Bad], [Osda: Good], [Hla: No]
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-[Vv: Yes], [Wado: Thanks], [Ayo!: Ouch!], [Osda: Good], [Howa: OK]
+Pass the gift from left to right.
+ The person to receive it should indicate they don't want it and say “Ꮭ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-[Osiyo: Hello], [Uyoi: Bad], [Ayo!: Ouch!], [Yonega: English]
+ᎠᏲ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-[Osda: Good], [Yonega: English], [Jalagi: Cherokee], [Ayo!: Ouch!]
+Each person should tap the fire then say “ᎠᏲ!” and shake their hand as if
+ injured.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-[Vsgigi?: Really?], [Jalagi: Cherokee], [Ni!: Look at that!], [Osiyo: Hello]
+ᎣᏏᏲ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-[Yonega: English], [Vsgigi?: Really?], [Ni!: Look at that!], [Hla: No]
+Wave hello to each other while saying “ᎣᏏᏲ”.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-[Vv: Yes], [Jalagi: Cherokee], [Ni!: Look at that!], [Howa: OK], [Wado:
- Thanks]
+Ꮒ, ᏲᏁᎦ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-[Vsgigi?: Really?], [Uyoi: Bad], [Osda: Good], [Ni!: Look at that!]
+Point to the English paper and say “Ꮒ! ᏲᏁᎦ!”
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-[Ayo!: Ouch!], [Osiyo: Hello], [Yonega: English], [Jalagi: Cherokee]
+Ꮒ, ᏣᎳᎩ
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-[Vsgigi?: Really?], [Ni!: Look at that!], [Hla: No], [Vv: Yes]
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-[Howa: OK], [Uyoi: Bad], [Osda: Good], [Ayo!: Ouch!]
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-[Osiyo: Hello], [Yonega: English], [Jalagi: Cherokee], [Vsgigi?: Really?]
+Pass the gift from left to right.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
 \end_layout
 
-\begin_layout Enumerate
-[Ni!: Look at that!], [Hla: No], [Vv: Yes], [Wado: Thanks], [Howa: OK]
-\end_layout
-
-\begin_layout Enumerate
-[Uyoi: Bad], [Osda: Good], [Ayo!: Ouch!], [Osiyo: Hello]
-\end_layout
-
-\begin_layout Enumerate
-[Yonega: English], [Jalagi: Cherokee], [Vsgigi?: Really?], [Ni!: Look at
- that!]
-\end_layout
-
-\begin_layout Enumerate
-[Hla: No], [Vv: Yes], [Uyoi: Bad], [Yonega: English]
-\end_layout
-
+\end_deeper
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift from left to right.
+ The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the cactus then say “ᎠᏲ!” and shake their hand as
+ if injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Shake hands with each other while saying “ᎣᏏᏲ”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏴᏭᏁᎦ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the English paper and say “Ꮒ! ᏴᏭᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift from left to right.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift from left to right.
+ The person to receive it should indicate they don't want it and say “Ꮭ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift from left to right.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift from left to right.
+ The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Groups of Two
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the cactus then say “ᎠᏲ!” and shake their hand as
+ if injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Shake hands with each other while saying “ᎣᏏᏲ”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏲᏁᎦ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the English paper and say “Ꮒ! ᏲᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the fire then say “ᎠᏲ!” and shake their hand as if
+ injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Bow slightly to each other while saying “ᎣᏏᏲ”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏴᏭᏁᎦ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the English paper and say “Ꮒ! ᏴᏭᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the cactus then say “ᎠᏲ!” and shake their hand as
+ if injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Wave hello to each other while saying “ᎣᏏᏲ”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏴᏭᏁᎦ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the English paper and say “Ꮒ! ᏴᏭᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person to receive it should indicate they don't want it and say “Ꮭ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the fire then say “ᎠᏲ!” and shake their hand as if
+ injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Bow slightly to each other while saying “ᎣᏏᏲ”.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮒ, ᏲᏁᎦ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the English paper and say “Ꮒ! ᏲᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the cactus then say “ᎠᏲ!” and shake their hand as
+ if injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Wave hello to each other while saying “ᎣᏏᏲ”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏲᏁᎦ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the English paper and say “Ꮒ! ᏲᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person to receive it should indicate they don't want it and say “Ꮭ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Each person should tap the fire then say “ᎠᏲ!” and shake their hand as if
+ injured.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏏᏲ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Shake hands with each other while saying “ᎣᏏᏲ”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏴᏭᏁᎦ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the English paper and say “Ꮒ! ᏴᏭᏁᎦ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮒ, ᏣᎳᎩ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point to the Cherokee paper and say “Ꮒ! ᏣᎳᎩ!”
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏙ, ᎰᏩ, ᎥᏍᎩᎩ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person receiving it should say “ᎥᏍᎩᎩ? ᏩᏙ!”.
+ The person giving the gift should then respond with “ᎰᏩ!”.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Pass the gift back and forth.
+ The person to receive it should indicate they don't want it and say “Ꮭ!”.
+ The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
+ The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The gift should then be passed.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Someone Alone
+\end_layout
+
+\begin_layout Standard
+Use a prop such as a pillow or broom as an imaginary study partner.
+ Follow the instructions for two people.
+ Have your imaginary partner act out any actions.
+ Speak for your imaginary partner where appropriate.
 \end_layout
 
 \begin_layout Chapter
