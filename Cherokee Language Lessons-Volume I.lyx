@@ -454,11 +454,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.17 $
+$Revision: 1.18 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/05 04:13:40 $ UTC
+$Date: 2016/06/05 14:07:09 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +703,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.17 $
+$Revision: 1.18 $
 \noun default
 .
 \end_layout
@@ -75718,6 +75718,28 @@ Sixth Lesson
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+Reminder: Whenever you see 
+\begin_inset Quotes eld
+\end_inset
+
+he
+\begin_inset Quotes erd
+\end_inset
+
+ you can usually substitute 
+\begin_inset Quotes eld
+\end_inset
+
+she
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
 Review the following vocabulary then do the exercises.
 \end_layout
 
@@ -75787,7 +75809,68 @@ They see them.
 
 \end_layout
 
-\begin_layout --Separator--
+\begin_layout Description
+ᏥᎪᏩᏘᎭ [ji²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I see him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮵ̣ᎪᏩᏘᎭ [jị²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏥᎪᏩᏘᎭ [ga²ji²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I see them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏕᏥ̣ᎪᏩᏘᎭ [de²jị²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I see them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎴ,
+\begin_inset space ~
+\end_inset
+
+ᏃᎴ [ạ²le, nọ²le] 
+\begin_inset Quotes eld
+\end_inset
+
+And.
+ Or.
+\begin_inset Quotes erd
+\end_inset
+
 
 \end_layout
 
@@ -75819,7 +75902,51 @@ There.
 
 \end_layout
 
-\begin_layout --Separator--
+\begin_layout Description
+ᎠᎨᏯ [ạ²ge²³hya] 
+\begin_inset Quotes eld
+\end_inset
+
+A woman.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᎨᏯ [ạ²ni²ge²³hya] 
+\begin_inset Quotes eld
+\end_inset
+
+Women.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏍᎦᏯ [ạ²sgạ²ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A man.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᏍᎦᏯ [ạ²ni²sgạ²ya] 
+\begin_inset Quotes eld
+\end_inset
+
+Men.
+\begin_inset Quotes erd
+\end_inset
+
 
 \end_layout
 
@@ -75828,8 +75955,34 @@ There.
 \begin_inset Quotes eld
 \end_inset
 
-Dog.
+A dog.
  Dogs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏄᎾ [nu²³na] 
+\begin_inset Quotes eld
+\end_inset
+
+A potato.
+ Potatoes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏅᏯ [nv¹ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A rock.
+ Rocks.
 \begin_inset Quotes erd
 \end_inset
 
@@ -75841,7 +75994,7 @@ Dog.
 \begin_inset Quotes eld
 \end_inset
 
-Cat.
+A cat.
  Cats.
 \begin_inset Quotes erd
 \end_inset
@@ -75849,7 +76002,51 @@ Cat.
 
 \end_layout
 
-\begin_layout --Separator--
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᎦᎵᏉᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Seventh Lesson
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
