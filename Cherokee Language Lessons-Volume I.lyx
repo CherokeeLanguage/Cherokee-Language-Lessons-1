@@ -454,11 +454,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.16 $
+$Revision: 1.17 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/05 04:10:28 $ UTC
+$Date: 2016/06/05 04:13:40 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +703,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.16 $
+$Revision: 1.17 $
 \noun default
 .
 \end_layout
@@ -75719,39 +75719,138 @@ Sixth Lesson
 
 \begin_layout Standard
 Review the following vocabulary then do the exercises.
- Take your time and work through the pronunciation guide for each word.
-\end_layout
-
-\begin_layout Subsection
-Standalone Pronouns
 \end_layout
 
 \begin_layout Standard
-Unlike English, which has many standalone personal pronouns like 
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-he
+He sees him or it.
 \begin_inset Quotes erd
 \end_inset
 
-, 
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᎪᏩᏘᎭ [a¹nị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-she
+They see him or it.
 \begin_inset Quotes erd
 \end_inset
 
-, 
+
+\end_layout
+
+\begin_layout Description
+ᏓᎪᏩᏘᎭ [da¹gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-we
+He sees them.
 \begin_inset Quotes erd
 \end_inset
 
-, etc., when referring to people, Cherokee has only two:
+
+\end_layout
+
+\begin_layout Description
+ᏓᏂᎪᏩᏘᎭ [da¹nị²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They see them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout --Separator--
+
+\end_layout
+
+\begin_layout Description
+ᎠᎭᏂ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏂ [ạ³hạ²ni, ạ³hni] 
+\begin_inset Quotes eld
+\end_inset
+
+Here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎿ [u¹hna⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+There.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout --Separator--
+
+\end_layout
+
+\begin_layout Description
+ᎩᏟ [gi²hli] 
+\begin_inset Quotes eld
+\end_inset
+
+Dog.
+ Dogs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏪᏌ [we²³sa] 
+\begin_inset Quotes eld
+\end_inset
+
+Cat.
+ Cats.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout --Separator--
+
 \end_layout
 
 \begin_layout Description
@@ -75763,7 +75862,76 @@ we
 \begin_inset Quotes eld
 \end_inset
 
-I, Me, We, Us.
+I.
+ We.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎥᏍᎩᎾ [v¹sgị²na] 
+\begin_inset Quotes eld
+\end_inset
+
+He.
+ She.
+ They.
+ That.
+ Those.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎥᏍᎩ [v¹sgị] - 
+\emph on
+Alternate pronunciation.
+\end_layout
+
+\begin_layout Description
+ᏍᎩᎾ [sgị²na] - 
+\emph on
+Alternate pronunciation.
+\end_layout
+
+\begin_layout Description
+ᎾᏍᎩ [na¹sgi] - 
+\emph on
+Alternate pronunciation.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎯᎠ,
+\begin_inset space ~
+\end_inset
+
+ᎯᎢ [hị²ɂa, hị²ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He.
+ She.
+ They.
+ This.
+ These.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮎ [na] 
+\begin_inset Quotes eld
+\end_inset
+
+That, Those
 \begin_inset Quotes erd
 \end_inset
 
@@ -75775,7 +75943,8 @@ I, Me, We, Us.
 \begin_inset Quotes eld
 \end_inset
 
-You one, You two, You all.
+You.
+ You all.
 \begin_inset Quotes erd
 \end_inset
 
@@ -75783,31 +75952,113 @@ You one, You two, You all.
 \end_layout
 
 \begin_layout Standard
-How you indicate 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The word 
 \begin_inset Quotes eld
 \end_inset
 
-he
+ᎥᏍᎩᎾ
 \begin_inset Quotes erd
 \end_inset
 
-, 
+ is used to refer someone or something that is usually out of reach.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-she
+That him.
+ That her.
+ That them.
 \begin_inset Quotes erd
 \end_inset
 
-, 
+
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The word 
 \begin_inset Quotes eld
 \end_inset
 
-we
+ᎯᎠ
 \begin_inset Quotes erd
 \end_inset
 
-, etc., in Cherokee will be covered in later lesson material.
+ is used to refer someone or something that is usually within reach.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+This him.
+ This her.
+ This them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The word 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮎ
+\begin_inset Quotes erd
+\end_inset
+
+ works like a combination of the English words 
+\begin_inset Quotes eld
+\end_inset
+
+the
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+that/those
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Chapter
+ᎦᎵᏉᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Seventh Lesson
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
