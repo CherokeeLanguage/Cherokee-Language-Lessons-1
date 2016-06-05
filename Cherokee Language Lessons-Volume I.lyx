@@ -454,11 +454,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.10 $
+$Revision: 1.11 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/04 16:25:38 $ UTC
+$Date: 2016/06/04 16:33:11 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +703,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.10 $
+$Revision: 1.11 $
 \noun default
 .
 \end_layout
@@ -3121,7 +3121,7 @@ Animacy
 \end_layout
 
 \begin_layout Standard
-Animacy normally refers to whether a thing is alive or not.
+Animacy refers to whether a thing is alive or not.
  Most alive things are considered animate.
  Most non-living things are considered inanimate.
  If something moves about by itself without outside help, some speakers
@@ -74020,44 +74020,19 @@ Fifth Lesson
 \end_layout
 
 \begin_layout Section
-Numbers Practice
+ᏘᎪᎵᏯ (Read them)
 \end_layout
 
 \begin_layout Standard
-The number lessons are designed to allow you to count, put things into order,
- and do basic math in Cherokee.
- Simply learning the Cherokee names for the English words for numbers only
- allows you to translate from English to Cherokee and vice-versa when dealing
- with numbers.
- It does not allow you to think in Cherokee while dealing with quantities
- and ordered positions.
- It is important that the counting and ordering exercises are completed
- as instructed if you want to be able to think in Cherokee while dealing
- with quantities and ordered positions.
-\end_layout
-
-\begin_layout Subsection
-Counting
+Review the following vocabulary then do the exercises.
 \end_layout
 
 \begin_layout Standard
-These exercises cover the counting numbers 
-\begin_inset Quotes eld
-\end_inset
-
-sagwu (ᏌᏊ)
-\begin_inset Quotes erd
-\end_inset
-
- through 
-\begin_inset Quotes eld
-\end_inset
-
-gahlgwogi (ᎦᎵᏉᎩ)
-\begin_inset Quotes erd
-\end_inset
-
-.
+☞ 
+\emph on
+Reminder: Animacy refers to whether a thing is alive or not.
+ Most alive things are considered animate.
+ Most non-living things are considered inanimate.
 \end_layout
 
 \begin_layout Standard
@@ -74079,21 +74054,122 @@ begin{multicols}{2}
 \end_layout
 
 \begin_layout Description
+ᎠᎴ,
+\begin_inset space ~
+\end_inset
+
+ᏃᎴ [ạ²le, nọ²le] 
+\begin_inset Quotes eld
+\end_inset
+
+And.
+ Or.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The word 
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᎴ
+\begin_inset Quotes erd
+\end_inset
+
+ indicates either 
+\begin_inset Quotes eld
+\end_inset
+
+and
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+or
+\begin_inset Quotes erd
+\end_inset
+
+ depending on context.
+\end_layout
+
+\begin_layout Description
+ᎯᎳ
+\begin_inset space ~
+\end_inset
+
+ᎢᎦ [hị²la⁴ i²³ga⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+How many?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎳ ᎢᎦ
+\begin_inset Quotes erd
+\end_inset
+
+ is used when talking about inanimate things.
+\end_layout
+
+\begin_layout Description
+ᎯᎳ
+\begin_inset space ~
+\end_inset
+
+ᎢᏯᏂ [hị²la⁴ ị²yạ³ni] 
+\begin_inset Quotes eld
+\end_inset
+
+How many?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎳ ᎢᏯᏂ
+\begin_inset Quotes erd
+\end_inset
+
+ is used when talking about animate things.
+\end_layout
+
+\begin_layout Subsection
+ᏗᏎᏍᏗ (Numbers)
+\end_layout
+
+\begin_layout Description
 ᏌᏊ [sa¹gwu⁴] 
 \begin_inset Quotes eld
 \end_inset
 
 One.
- 
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
 \begin_inset Quotes erd
 \end_inset
 
@@ -74106,16 +74182,6 @@ One.
 \end_inset
 
 Two.
- 
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
 \begin_inset Quotes erd
 \end_inset
 
@@ -74128,16 +74194,6 @@ Two.
 \end_inset
 
 Three.
- 
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
 \begin_inset Quotes erd
 \end_inset
 
@@ -74150,16 +74206,6 @@ Three.
 \end_inset
 
 Four.
- 
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
 \begin_inset Quotes erd
 \end_inset
 
@@ -74172,16 +74218,6 @@ Four.
 \end_inset
 
 Five.
- 
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
 \begin_inset Quotes erd
 \end_inset
 
@@ -74194,16 +74230,6 @@ Five.
 \end_inset
 
 Six.
- 
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
 \begin_inset Quotes erd
 \end_inset
 
@@ -74216,16 +74242,6 @@ Six.
 \end_inset
 
 Seven.
- 
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
 \begin_inset Quotes erd
 \end_inset
 
@@ -74249,1776 +74265,135 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-Estimated time: 15 minutes.
-\end_layout
-
-\begin_layout Standard
-For each of the following dice, count aloud the dots in Cherokee, then write
- down the final Cherokee number as a Cherokee word.
- If you fail to count aloud the dots, you will not learn how to count in
- Cherokee correctly.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="8" columns="6">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚃
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚃
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚄
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Estimated time: 15 minutes.
-\end_layout
-
-\begin_layout Standard
-For each of the following tallies, count aloud the individual marks in Cherokee,
- then write down the final Cherokee number as a Cherokee word for each tally.
- If you fail to count aloud the individual marks, you will not learn how
- to count in Cherokee correctly.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="8" columns="6">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Estimated time: 25 minutes.
-\end_layout
-
-\begin_layout Standard
-Write out tally marks (
-\begin_inset Graphics
-	filename artwork/tally_1_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-, 
-\begin_inset Graphics
-	filename artwork/tally_2_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-, 
-\begin_inset Graphics
-	filename artwork/tally_3_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-, 
-\begin_inset Graphics
-	filename artwork/tally_4_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-, 
-\begin_inset Graphics
-	filename artwork/tally_5_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-, 
-\begin_inset Graphics
-	filename artwork/tally_51_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-, 
-\begin_inset Graphics
-	filename artwork/tally_52_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-) for each of the following quantities.
- As you write down each mark in each tally, count aloud in Cherokee until
- you reach the required number of marks.
- Have your study partner call the numbers out to you.
- If you fail to count aloud each individual mark as you write out each tally,
- you will not learn how to count in Cherokee correctly.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Sagwu, Tali, Sagwu, Tali, Joi, Nvhgi, Sagwu
-\end_layout
-
-\begin_layout Enumerate
-Tali, Joi, Nvhgi, Hisgi, Sudali, Joi, Nvhgi
-\end_layout
-
-\begin_layout Enumerate
-Sagwu, Tali, Hisgi, Sudali, Gahlgwogi, Sagwu, Joi
-\end_layout
-
-\begin_layout Enumerate
-Nvhgi, Hisgi, Sudali, Gahlgwogi, Sagwu, Tali, Joi
-\end_layout
-
-\begin_layout Enumerate
-Gahlgwogi, Sagwu, Tali, Hisgi, Sudali, Tali, Joi
-\end_layout
-
-\begin_layout Enumerate
-Nvhgi, Gahlgwogi, Sagwu, Tali, Joi, Nvhgi, Hisgi
-\end_layout
-
-\begin_layout Enumerate
-Nvhgi, Hisgi, Sudali, Gahlgwogi, Hisgi, Sudali, Tali
-\end_layout
-
-\begin_layout Enumerate
-Joi, Nvhgi, Hisgi, Gahlgwogi, Sagwu, Sudali, Gahlgwogi
-\end_layout
-
-\begin_layout Enumerate
-Nvhgi, Hisgi, Sagwu, Tali, Sudali, Gahlgwogi, Tali
-\end_layout
-
-\begin_layout Enumerate
-Joi, Nvhgi, Sudali, Gahlgwogi, Nvhgi, Hisgi, Sudali
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Estimated time: 10 minutes.
-\end_layout
-
-\begin_layout Standard
-Write out all the numbers in the following ranges.
- The first one has been completed for you as an example.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Tali, Nvhgi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-
-\emph on
-Tali, Joi, Nvhgi
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Sagwu, Nvhgi
-\end_layout
-
-\begin_layout Enumerate
-Tali, Hisgi
-\end_layout
-
-\begin_layout Enumerate
-Nvhgi, Sudali
-\end_layout
-
-\begin_layout Enumerate
-Hisgi, Gahlgwogi
-\end_layout
-
-\begin_layout Enumerate
-Joi, Hisgi
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Ordering
-\end_layout
-
-\begin_layout Standard
-These exercises cover the ordering numbers 
+With the exception of the special word 
 \begin_inset Quotes eld
 \end_inset
 
-igvyii (ᎢᎬᏱᎢ)
+ᎢᎬᏱᎢ (first)
+\begin_inset Quotes erd
+\end_inset
+
+, all of the ordering numbers are the same as the counting numbers with
+ either 
+\begin_inset Quotes eld
+\end_inset
+
+-ᎢᏁᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+-ᏏᏁᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ added onto the end.
+ This is very similar to the way English adds 
+\begin_inset Quotes eld
+\end_inset
+
+-th
+\begin_inset Quotes erd
+\end_inset
+
+ to the end of most ordering numbers like 
+\begin_inset Quotes eld
+\end_inset
+
+fourth
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+fifth
+\begin_inset Quotes erd
+\end_inset
+
+, and 
+\begin_inset Quotes eld
+\end_inset
+
+sixth
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Generally:
+\end_layout
+
+\begin_layout Itemize
+The ordering numbers are created by dropping the ending vowel then adding
+ 
+\begin_inset Quotes eld
+\end_inset
+
+-ᎢᏁᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Ordering numbers higher than one that end with 
+\begin_inset Quotes eld
+\end_inset
+
+ᏌᏊ
+\begin_inset Quotes erd
+\end_inset
+
+ use 
+\begin_inset Quotes eld
+\end_inset
+
+ᏌᏊᎯᏁᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ and not 
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎬᏱᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This is because 
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎬᏱᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ has a closer literal meaning of 
+\begin_inset Quotes eld
+\end_inset
+
+earlier than, place of
+\begin_inset Quotes erd
+\end_inset
+
+ and is only used where referring to the true first position.
+\end_layout
+
+\begin_layout Itemize
+For the the ordering numbers 
+\begin_inset Quotes eld
+\end_inset
+
+ᏌᏚᏏᏁᎢ (eleventh)
 \begin_inset Quotes erd
 \end_inset
 
@@ -76026,7 +74401,15 @@ igvyii (ᎢᎬᏱᎢ)
 \begin_inset Quotes eld
 \end_inset
 
-gahlgwoginei (ᎦᎵᏉᎩᏁᎢ)
+ᏐᏁᎳᏚᏏᏁᎢ (nineteenth)
+\begin_inset Quotes erd
+\end_inset
+
+ you don't drop the ending vowel and instead add 
+\begin_inset Quotes eld
+\end_inset
+
+-ᏏᏁᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -76151,169 +74534,310 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Standard
-With the exception of the special word 
-\begin_inset Quotes eld
-\end_inset
-
-igvyii (first)
-\begin_inset Quotes erd
-\end_inset
-
-, all of the ordering numbers are the same as the counting numbers with
- either 
-\begin_inset Quotes eld
-\end_inset
-
--ineɂi
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
--sineɂi
-\begin_inset Quotes erd
-\end_inset
-
- added onto the end.
- This is very similar to the way English adds 
-\begin_inset Quotes eld
-\end_inset
-
--th
-\begin_inset Quotes erd
-\end_inset
-
- to the end of most ordering numbers like 
-\begin_inset Quotes eld
-\end_inset
-
-fourth
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-fifth
-\begin_inset Quotes erd
-\end_inset
-
-, and 
-\begin_inset Quotes eld
-\end_inset
-
-sixth
-\begin_inset Quotes erd
-\end_inset
-
-.
+\begin_layout Section
+ᏂᏔᏛᎦ (Do them)
 \end_layout
 
 \begin_layout Standard
-Generally:
+The number lessons are designed to allow you to count and put things into
+ order in Cherokee.
+ Simply learning the Cherokee names for the English words for numbers only
+ allows you to translate from English to Cherokee and vice-versa when dealing
+ with numbers.
+ It does not allow you to think in Cherokee while dealing with quantities
+ and ordered positions.
+\end_layout
+
+\begin_layout Standard
+You will need the following props:
 \end_layout
 
 \begin_layout Itemize
-The ordering numbers are created by dropping the ending vowel then adding
+Two sets of items that are countable.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The first set should be smooth stones, checkers, or dried beans.
+\end_layout
+
+\begin_layout Itemize
+The second should be toy stuffed animals or pictures of live animals.
  
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+☞ 
+\emph on
+During the exercises you must pretend that these are living animals.
+\end_layout
+
+\begin_layout Standard
+Divide up into groups of three to five.
+ If you don't have enough people, use props for imaginary people and act
+ the imaginary people out.
+\end_layout
+
+\begin_layout Standard
+Each challenge-response is structured in one of the following two ways:
+\end_layout
+
+\begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
 
--inei
+ᎯᎳ _____?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects an appropriate number of items from the correct group and places
+ them before 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
 \begin_inset Quotes erd
 \end_inset
 
 .
 \end_layout
 
-\begin_layout Itemize
-When creating any ordering number that ends with 
+\begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
 
-sagwu
+Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
- after the number 
+ asks 
 \begin_inset Quotes eld
 \end_inset
 
-tali
+Ꭱ
 \begin_inset Quotes erd
 \end_inset
 
- you use 
+: 
 \begin_inset Quotes eld
 \end_inset
 
-sagwuhinei
+ᎯᎳ _____?
 \begin_inset Quotes erd
 \end_inset
 
- and not 
-\begin_inset Quotes eld
-\end_inset
-
-igvyii
-\begin_inset Quotes erd
-\end_inset
-
-.
- Because 
-\begin_inset Quotes eld
-\end_inset
-
-igvyii
-\begin_inset Quotes erd
-\end_inset
-
- has a closer literal meaning of 
-\begin_inset Quotes eld
-\end_inset
-
-earlier than, place of
-\begin_inset Quotes erd
-\end_inset
-
- it is only used where referring to the true first position.
+ while pointing at the items for counting.
 \end_layout
 
-\begin_layout Itemize
-If the ordering number ends in 
+\begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
 
--u
+Ꭱ
 \begin_inset Quotes erd
 \end_inset
 
-, you don't drop the ending vowel and instead add 
+ counts out loud the items one by one then repeats the final count to 
 \begin_inset Quotes eld
 \end_inset
 
--sinei
+Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
 .
- This applies to the ordering numbers 
+\end_layout
+
+\end_deeper
+\begin_layout --Separator--
+
+\end_layout
+
+\begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
 
-sadusinei (eleventh)
+ᎦᏙ ᎤᏍᏗ _____?
 \begin_inset Quotes erd
 \end_inset
 
- through 
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
 
-sohneladusinei (nineteenth)
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects seven items from either group and places them before 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ lined up in a row.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ _____?
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says out loud the position of each item from 
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎬᏱᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ to ____.
+ Then 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ points to the correct item and says to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ _____.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Groups of Two to Five
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The remaining people are grouped together and are designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, rotate positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+, and one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
@@ -76321,32 +74845,159 @@ sohneladusinei (nineteenth)
 \end_layout
 
 \begin_layout Standard
-Estimated time: 10 minutes.
-\end_layout
-
-\begin_layout Standard
-With 
+☞ 
+\emph on
+Keep rotating until everyone has been in position 
 \begin_inset Quotes eld
 \end_inset
 
-igvyii
+Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
- being on the left, write down the position of each 
-\begin_inset Quotes eld
-\end_inset
+, starting over with the first set of challenges as needed.
+\end_layout
 
-☒
-\begin_inset Quotes erd
-\end_inset
-
- from left to right.
+\begin_layout Subsection
+Someone Alone
 \end_layout
 
 \begin_layout Standard
+On index cards, slips of paper, or something similar, write out the challenges
+ on each of the front sides along with the correct response on the reverse
+ side for the first set of challenges.
+ Do this for each challenge as listed.
+ There will be challenges and responses repeated.
+ Keep the cards in order.
+\end_layout
 
-\lang english
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 1
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Place the stack of index cards, challenge side up, response side down.
+\end_layout
+
+\begin_layout Standard
+For each 
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎳ ____?
+\begin_inset Quotes erd
+\end_inset
+
+ challenge count out loud the correct number of appropriate items then flip
+ the card over checking that you counted correct and that you selected between
+ animate vs inanimate correctly.
+\end_layout
+
+\begin_layout Standard
+For each 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎤᏍᏗ ____?
+\begin_inset Quotes erd
+\end_inset
+
+ challenge line up ten items then indicate the position of each until you
+ reach the position indicated.
+ Flip the card over and verify you stopped at the correct position.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 2
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Adjust the index cards to match the new set, creating new ones as needed,
+ and removing those not in the set.
+ Follow the instructions previously given for 
+\begin_inset Quotes eld
+\end_inset
+
+Set 1
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 3
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Adjust the index cards to match the new set, creating new ones as needed,
+ and removing those not in the set.
+ Follow the instructions previously given for 
+\begin_inset Quotes eld
+\end_inset
+
+Set 1
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 4
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Adjust the index cards to match the new set, creating new ones as needed,
+ and removing those not in the set.
+ Follow the instructions previously given for 
+\begin_inset Quotes eld
+\end_inset
+
+Set 1
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -76357,53 +75008,128 @@ status collapsed
 begin{multicols}{2}
 \end_layout
 
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
 \begin_layout Enumerate
-
-\size larger
-☒☐☐☐☐☐☐
+ᎯᎳ ᎢᎦ? ⚀
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-
-\size larger
-☐☒☐☐☐☐☐
+ᏌᏊ.
+ (Inanimate).
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-
-\size larger
-☐☐☐☐☐☒☐
+ᎯᎳ ᎢᏯᏂ? ⚁
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-
-\size larger
-☐☐☐☒☐☐☐
+ᏌᏊ, ᏔᎵ.
+ (Animate).
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-
-\size larger
-☐☐☐☐☒☐☐
+ᎯᎳ ᎢᎦ? ⚂
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-
-\size larger
-☐☐☐☐☐☐☒
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Inanimate).
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-
-\size larger
-☐☐☒☐☐☐☐
+ᎯᎳ ᎢᏯᏂ? ⚃
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚄
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚃
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚁
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚄
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚂
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Animate).
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -76420,146 +75146,481 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Standard
-Estimated time: 10 minutes.
+\begin_layout Subsubsection*
+Set 2
 \end_layout
 
 \begin_layout Standard
-Using the previous list, with 
-\begin_inset Quotes eld
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
 \end_inset
 
-igvyii
-\begin_inset Quotes erd
+
+\end_layout
+
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚅
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚃
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏔᎵᏁᎢ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+☐☒☐☐☐☐☐
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚄
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎦᎵᏉᎩᏁᎢ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+☐☐☐☐☐☐☒
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚅
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎢᎬᏱᎢ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+☒☐☐☐☐☐☐
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
 \end_inset
 
- being on the right, write down the position of each 
-\begin_inset Quotes eld
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
 \end_inset
 
-☒
-\begin_inset Quotes erd
+
+\end_layout
+
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚁
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚂
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚃
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚄
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚅
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏑᏓᎵᏁᎢ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+☐☐☐☐☐☒☐
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚁
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
 \end_inset
 
- from right to left.
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚂
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚃
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚄
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚅
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎯᏍᎩᏁᎢ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+☐☐☐☐☒☐☐
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚁
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚂
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᏑᏓᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Sixth Lesson
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
-Relationship, Description, and Culture
+ᏘᎪᎵᏯ (Read them)
 \end_layout
 
 \begin_layout Standard
-Cherokee is a language of relationship.
- Most words and sentences describe the relationship between things on a
- continuous basis.
- For example, to talk about someone being a friend, requires that you indicate
- with whom they are friends.
- While Cherokee has a word that can be translated as 
-\begin_inset Quotes eld
-\end_inset
-
-friendship
-\begin_inset Quotes erd
-\end_inset
-
-, there is no word that directly translates to 
-\begin_inset Quotes eld
-\end_inset
-
-a friend
-\begin_inset Quotes erd
-\end_inset
-
- without indicating with whom the friendship resides.
- It is always 
-\begin_inset Quotes eld
-\end_inset
-
-his friend
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-my friend
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-your friend
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-their friend
-\begin_inset Quotes erd
-\end_inset
-
-.
- A person who is not in relationship to anyone, has no friends, therefore
- can not be called 
-\begin_inset Quotes eld
-\end_inset
-
-a friend
-\begin_inset Quotes erd
-\end_inset
-
-, no matter how friendly they may be.
-\end_layout
-
-\begin_layout Standard
-Cherokee is also a language of description.
- Like many Native American languages, Cherokee is polysynthetic, meaning
- that many special basic word parts called morphemes may be linked together
- to form a new larger, single word.
- This allows the easy creation of new and descriptive words to reflect or
- express modern concepts.
- One example is 
-\begin_inset Quotes eld
-\end_inset
-
-di²tị²yo²³hị²hi (ᏗᏘᏲᎯᎯ)
-\begin_inset Quotes erd
-\end_inset
-
-, literally “he argues repeatedly and on purpose with a purpose”, which
- is used to refer to attorneys.
- Another example is 
-\begin_inset Quotes eld
-\end_inset
-
-di²da²ni²³yi⁴sgi (ᏗᏓᏂᏱᏍᎩ)
-\begin_inset Quotes erd
-\end_inset
-
-, literally “the final catcher” or “he catches them finally and conclusively”,
- which is used to refer to policemen.
-\end_layout
-
-\begin_layout Standard
-As you learn Cherokee, you will notice that the literal or exact meaning
- of many words and phrases do not match up with their English counterparts
- in the translations.
- This is because many times the intent of what is being said is expressed
- very differently between the two languages.
- Where possible, it is alway important to learn the literal meaning of Cherokee
- words and phrases and to treat their English translations as only approximation
-s based on usage and not meaning.
- Do not make the mistake of trying to string Cherokee words together like
- they are English words, you will wind up speaking gibberish.
-\end_layout
-
-\begin_layout Section
-Vocabulary
+Review the following vocabulary then do the exercises.
+ Take your time and work through the pronunciation guide for each word.
 \end_layout
 
 \begin_layout Subsection
@@ -76661,6 +75722,136 @@ Clitics are special word endings that are used to add or change the meanings
  to express a great many complicated things in short order.
  It is important to note that these endings cannot be used alone.
  They must always be combined with an existing word to form a new word.
+\end_layout
+
+\begin_layout Description
+-ᏍᎪ [-sgo] 
+\begin_inset Quotes eld
+\end_inset
+
+Yes or No?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When we add 
+\begin_inset Quotes eld
+\end_inset
+
+-sgo
+\begin_inset Quotes erd
+\end_inset
+
+ to the end of the first word in a sentence, we indicate we are asking 
+\begin_inset Quotes eld
+\end_inset
+
+Is it?
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Examples: Howasgo? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it OK?
+\begin_inset Quotes erd
+\end_inset
+
+, Sagwusgo? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it one?
+\begin_inset Quotes erd
+\end_inset
+
+, Ayvsgo? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it me?
+\begin_inset Quotes erd
+\end_inset
+
+, Vhlasgo? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it no?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-Ꮝ [-s] 
+\begin_inset Quotes eld
+\end_inset
+
+Yes or No?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This is the short form of 
+\begin_inset Quotes eld
+\end_inset
+
+-sgo
+\begin_inset Quotes erd
+\end_inset
+
+ and is used more often in everyday speech than the full form of 
+\begin_inset Quotes eld
+\end_inset
+
+-sgo
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Examples: Howas? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it OK?
+\begin_inset Quotes erd
+\end_inset
+
+, Sagwus? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it one?
+\begin_inset Quotes erd
+\end_inset
+
+, Ayvs? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it me?
+\begin_inset Quotes erd
+\end_inset
+
+, Vhlas? 
+\begin_inset Quotes eld
+\end_inset
+
+Is it no?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -80337,6 +79528,120 @@ Sixth Lesson
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Relationship and Description
+\end_layout
+
+\begin_layout Standard
+Cherokee is a language of relationship.
+ Most words and sentences describe the relationship between things on a
+ continuous basis.
+ For example, to talk about someone being a friend, requires that you indicate
+ with whom they are friends.
+ While Cherokee has a word that can be translated as 
+\begin_inset Quotes eld
+\end_inset
+
+friendship
+\begin_inset Quotes erd
+\end_inset
+
+, there is no word that directly translates to 
+\begin_inset Quotes eld
+\end_inset
+
+a friend
+\begin_inset Quotes erd
+\end_inset
+
+ without indicating with whom the friendship resides.
+ It is always 
+\begin_inset Quotes eld
+\end_inset
+
+his friend
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+my friend
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+your friend
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+their friend
+\begin_inset Quotes erd
+\end_inset
+
+.
+ A person who is not in relationship to anyone, has no friends, therefore
+ can not be called 
+\begin_inset Quotes eld
+\end_inset
+
+a friend
+\begin_inset Quotes erd
+\end_inset
+
+, no matter how friendly they may be.
+\end_layout
+
+\begin_layout Standard
+Cherokee is also a language of description.
+ Like many Native American languages, Cherokee is polysynthetic, meaning
+ that many special basic word parts called morphemes may be linked together
+ to form a new larger, single word.
+ This allows the easy creation of new and descriptive words to reflect or
+ express modern concepts.
+ One example is 
+\begin_inset Quotes eld
+\end_inset
+
+ᏗᏘᏲᎯᎯ (di²tị²yo²³hị²hi)
+\begin_inset Quotes erd
+\end_inset
+
+, literally “he argues repeatedly and on purpose with a purpose”, which
+ is used to refer to attorneys.
+ Another example is 
+\begin_inset Quotes eld
+\end_inset
+
+ᏗᏓᏂᏱᏍᎩ (di²da²ni²³yi⁴sgi)
+\begin_inset Quotes erd
+\end_inset
+
+, literally “the final catcher” or “he catches them finally and conclusively”,
+ which is used to refer to policemen.
+\end_layout
+
+\begin_layout Standard
+As you learn Cherokee, you will notice that the literal or exact meaning
+ of many words and phrases do not match up with their English counterparts
+ in the translations.
+ This is because many times the intent of what is being said is expressed
+ very differently between the two languages.
+ Where possible, it is alway important to learn the literal meaning of Cherokee
+ words and phrases and to treat their English translations as only approximation
+s based on usage and not meaning.
+ Do not make the mistake of trying to string Cherokee words together like
+ they are English words, you will wind up speaking gibberish.
 \end_layout
 
 \begin_layout Section
