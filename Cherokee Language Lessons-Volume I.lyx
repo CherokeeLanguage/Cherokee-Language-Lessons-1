@@ -454,11 +454,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.11 $
+$Revision: 1.12 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/04 16:33:11 $ UTC
+$Date: 2016/06/05 03:49:26 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -703,7 +703,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.11 $
+$Revision: 1.12 $
 \noun default
 .
 \end_layout
@@ -74067,11 +74067,7 @@ And.
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-☞ 
+ ☞ 
 \emph on
 The word 
 \begin_inset Quotes eld
@@ -74101,6 +74097,22 @@ or
 \end_layout
 
 \begin_layout Description
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᏗ [gạ²do² u⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Which one?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎯᎳ
 \begin_inset space ~
 \end_inset
@@ -74113,11 +74125,7 @@ How many?
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-☞ 
+ ☞ 
 \emph on
 
 \begin_inset Quotes eld
@@ -74143,11 +74151,7 @@ How many?
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-☞ 
+ ☞ 
 \emph on
 
 \begin_inset Quotes eld
@@ -74539,8 +74543,8 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-The number lessons are designed to allow you to count and put things into
- order in Cherokee.
+The following exercises are designed to allow you to count and put things
+ into order in Cherokee.
  Simply learning the Cherokee names for the English words for numbers only
  allows you to translate from English to Cherokee and vice-versa when dealing
  with numbers.
@@ -74762,7 +74766,7 @@ Each challenge-response is structured in one of the following two ways:
 
 \end_deeper
 \begin_layout Subsection
-Groups of Two to Five
+Groups of Three to Five
 \end_layout
 
 \begin_layout Standard
@@ -74858,6 +74862,20 @@ Keep rotating until everyone has been in position
 , starting over with the first set of challenges as needed.
 \end_layout
 
+\begin_layout Standard
+☞ 
+\emph on
+Any imaginary study partners always stay as one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ and do not rotate.
+\end_layout
+
 \begin_layout Subsection
 Someone Alone
 \end_layout
@@ -74910,8 +74928,8 @@ For each
 \begin_inset Quotes erd
 \end_inset
 
- challenge line up ten items then indicate the position of each until you
- reach the position indicated.
+ challenge line up seven items then indicate the position of each until
+ you reach the position indicated.
  Flip the card over and verify you stopped at the correct position.
 \end_layout
 
