@@ -458,11 +458,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.22 $
+$Revision: 1.23 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/05 18:22:46 $ UTC
+$Date: 2016/06/06 01:38:17 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -707,7 +707,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.22 $
+$Revision: 1.23 $
 \noun default
 .
 \end_layout
@@ -79368,10 +79368,54 @@ Any imaginary study partners always stay as one of the
 \end_layout
 
 \begin_layout Standard
-Each challenge-response come in one of three forms and should be done as
+Each challenge-response comes in one of three forms and should be done as
  in the following examples:
 \end_layout
 
+\begin_layout Enumerate
+[Ꭰ→Ꭱ] ᏌᏊ ᎠᎴ ᎠᏂᏔᎵ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ says to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: One and two.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭱ] ᏂᎯ (→1).
+ ᎠᏴ (2↺).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: You (while pointing at one person).
+ Us (while pointing at self and one other).
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎢᎾ ᏪᏌ.
  ᎾᎥ ᎠᏂᏍᎦᏯ.
@@ -79444,50 +79488,6 @@ Each challenge-response come in one of three forms and should be done as
 \end_inset
 
  responds: That cat is there.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-[Ꭰ→Ꭱ] ᏌᏊ ᎠᎴ ᎠᏂᏔᎵ.
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- says to 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-: One and two.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-[Ꭱ] ᏂᎯ (→1).
- ᎠᏴ (2↺).
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- responds: You (points at one person).
- Us (points at self and one other).
 \end_layout
 
 \end_deeper
