@@ -4,28 +4,12 @@
 \begin_header
 \textclass extbook
 \begin_preamble
+%\usepackage{wallpaper}
 \usepackage{multicol}
-\usepackage{wallpaper}
-%\usepackage{xeindex}
-%\IndexList{Syllabary Words}{%
-%Ꭰ?,Ꭱ?,Ꭲ?,Ꭳ?,Ꭴ?,Ꭵ?,
-%Ꭶ?,Ꭷ?,Ꭸ?,Ꭹ?,Ꭺ?,Ꭻ?,Ꭼ?,
-%Ꭽ?,Ꭾ?,Ꭿ?,Ꮀ?,Ꮁ?,Ꮂ?,
-%Ꮃ?,Ꮄ?,Ꮅ?,Ꮆ?,Ꮇ?,Ꮈ?,
-%Ꮉ?,Ꮊ?,Ꮋ?,Ꮌ?,Ꮍ?,
-%Ꮎ?,Ꮏ?,Ꮐ?,Ꮑ?,Ꮒ?,Ꮓ?,Ꮔ?,Ꮕ?,
-%Ꮖ?,Ꮗ?,Ꮘ?,Ꮙ?,Ꮚ?,Ꮛ?,
-%Ꮝ?,Ꮜ?,Ꮞ?,Ꮟ?,Ꮠ?,Ꮡ?,Ꮢ?,
-%Ꮣ?,Ꮤ?,Ꮥ?,Ꮦ?,Ꮧ?,Ꮨ?,Ꮩ?,Ꮪ?,Ꮫ?,
-%Ꮬ?,Ꮭ?,Ꮮ?,Ꮯ?,Ꮰ?,Ꮱ?,Ꮲ?,
-%Ꮳ?,Ꮴ?,Ꮵ?,Ꮶ?,Ꮷ?,Ꮸ?,
-%Ꮹ?,Ꮺ?,Ꮻ?,Ꮼ?,Ꮽ?,Ꮾ?,
-%Ꮿ?,Ᏸ?,Ᏹ?,Ᏺ?,Ᏻ?,Ᏼ?}%
-%
-%\let\myIndex\theindex\renewcommand{\theindex}{\cleardoublepage\myIndex\phantomsection\addcontentsline{toc}{chapter}{\indexname}}
 \widowpenalty=10000
 \clubpenalty=10000 
 \raggedbottom
+\usepackage{pdflscape}
 \end_preamble
 \use_default_options false
 \maintain_unincluded_children false
@@ -458,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.24 $
+$Revision: 1.25 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/06 01:42:44 $ UTC
+$Date: 2016/06/06 01:47:43 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -707,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.24 $
+$Revision: 1.25 $
 \noun default
 .
 \end_layout
@@ -177568,22 +177552,6 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{landscape}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Section
 Names
 \begin_inset CommandInset label
@@ -177802,6 +177770,26 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
 \end_layout
 
 \end_inset
