@@ -458,11 +458,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.23 $
+$Revision: 1.24 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/06 01:38:17 $ UTC
+$Date: 2016/06/06 01:42:44 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -707,7 +707,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.23 $
+$Revision: 1.24 $
 \noun default
 .
 \end_layout
@@ -177457,10 +177457,363 @@ end{multicols}
 
 \begin_layout Chapter
 \start_of_appendix
-ᏴᏫ
+Additional Resources
 \end_layout
 
 \begin_layout Section
+The Leitner System
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:The-Leitner-system"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The Leitner system is a widely used method to efficiently use flashcards
+ that was proposed by the German science journalist Sebastian Leitner in
+ the 1970s.
+ It is a simple implementation of the principle of spaced repetition, where
+ cards are reviewed at increasing interval.
+\end_layout
+
+\begin_layout Paragraph*
+Method
+\end_layout
+
+\begin_layout Standard
+In this method flashcards are sorted into groups according to how well you
+ know each one in the Leitner's learning box.
+ This is how it works: you try to recall the solution written on a flashcard.
+ If you succeed, you send the card to the next group.
+ But if you fail, you send it back to the first group.
+ Each succeeding group has a longer period of time before you are required
+ to revisit the cards.
+\end_layout
+
+\begin_layout Paragraph*
+Example
+\end_layout
+
+\begin_layout Standard
+Suppose you have 3 groups called Group 1, Group 2 and Group 3.
+ The cards in Group 1 are the ones that you often make mistakes with, and
+ Group 3 contains the cards that you know very well.
+ You might choose to study the Group 1 cards once a day, Group 2 every 3
+ days, and the Group 3 cards every 5 days.
+ If you look at a Group 1 card and get the correct answer, you “promote”
+ it to Group 2.
+ A correct answer with a Group 2 card “promotes” that card to Group 3.
+ If you make a mistake with a Group 2 or Group 3 card, it gets “demoted”
+ to the first level, which forces you to study that card more often.
+\end_layout
+
+\begin_layout Standard
+The advantage of this method is that you can focus on the most difficult
+ flashcards, which remain in the first few groups.
+ The result is, ideally, a reduction in the amount of study time needed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hspace*{\fill}
+\end_inset
+
+
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://en.wikipedia.org/wiki/Leitner_system
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{landscape}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Names
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Names"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+
+\emph on
+Your Name in Cherokee: Tips for Transliteration: Translation - by Knave
+ from Raleigh, North Carolina
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quotation
+There are many sites and books out there that have overused the consonant
+ Q as a default replacement for any foreign consonant that has no direct
+ analogue with the Cherokee syllabary.
+ The references out there were somewhat misinformed and apparently forgot
+ about the plethora of already-transliterated names in the Bible which used
+ several different letter combinations to replicate English sounds, instead
+ of relying only on the Q.
+\end_layout
+
+\begin_layout Paragraph*
+Let's begin \SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Quotation
+
+\emph on
+*Note: Letters within slashes are the IPA symbols.
+ Transliterations from the Bible will follow the Cherokee letter in parentheses.
+\end_layout
+
+\begin_layout Paragraph*
+Rhotic Vowels
+\end_layout
+
+\begin_layout Quotation
+Unstressed -er /
+\series bold
+ɚ
+\series default
+/ (as in dinner) = A (sometimes E, depending on preference)
+\end_layout
+
+\begin_layout Quotation
+Stressed -er, -ur /
+\series bold
+ɝ
+\series default
+/ (as in turkey) = V
+\end_layout
+
+\begin_layout Quotation
+Stressed -ar /
+\series bold
+ɑ˞
+\series default
+/ (as in star) = A
+\end_layout
+
+\begin_layout Quotation
+Stressed -or /
+\series bold
+ɔ˞
+\series default
+/ (as in north) = O
+\end_layout
+
+\begin_layout Paragraph*
+Consonants
+\end_layout
+
+\begin_layout Quotation
+B, Br = Qu (Bernice = ᏆᏂᏏ “Quanisi”)
+\end_layout
+
+\begin_layout Quotation
+Bl = Tl (Publius = ᏆᏟᏯ “Quatliya”)
+\end_layout
+
+\begin_layout Quotation
+C /
+\series bold
+k
+\series default
+/ (hard) = K / G (Corinth = ᎪᎵᏂᏗᏱ “Golinidiyi”)
+\end_layout
+
+\begin_layout Quotation
+C /
+\series bold
+s
+\series default
+/ (soft) = S (Cilicia = ᏏᎵᏏᏱ “Silisiyi”)
+\end_layout
+
+\begin_layout Quotation
+Ch /
+\series bold
+tʃ
+\series default
+/ (as in cheese) = Ts (Rachel = ᎴᏥᎵ “Letsili”)
+\end_layout
+
+\begin_layout Quotation
+Cl, Cr = Tl (Claudius = ᏠᏗᏯ “Tlodiya”, Crete = ᏟᏗ “Tlidi”)
+\end_layout
+
+\begin_layout Quotation
+F, Ph = Qu / W (Felix = ᏈᎵᏏ “Quilisi”, Nephthali = ᏁᏩᏔᎵ “Newatali”)
+\end_layout
+
+\begin_layout Quotation
+J = Ts (Jesus = ᏥᏌ “Tsisa”)
+\end_layout
+
+\begin_layout Quotation
+K = K / G
+\end_layout
+
+\begin_layout Quotation
+P, Pr = Qu (Priscilla = ᏈᏏᎳ “Quisila”)
+\end_layout
+
+\begin_layout Quotation
+Pl = Tl
+\end_layout
+
+\begin_layout Quotation
+R = L / W (Rachel = ᎴᏥᎵ “Letsili”)
+\end_layout
+
+\begin_layout Quotation
+Sh /
+\series bold
+ʃ
+\series default
+/ (as in sheep) = S
+\end_layout
+
+\begin_layout Quotation
+T, Th = T / D (Matthew = ᎹᏚ “Madu”)
+\end_layout
+
+\begin_layout Quotation
+Tr = Tl (Troas = ᏠᎠᏏ “Tloasi”)
+\end_layout
+
+\begin_layout Quotation
+V = W
+\end_layout
+
+\begin_layout Quotation
+X = Gi-S (Usually just transliterated with the S syllables, but if the /ks/
+ sound needs to be stressed like in Maxwell = ᎺᎩᏍᏪᎵ “Megisweli” / Max =
+ ᎺᎩᏏ “Megisi”
+\end_layout
+
+\begin_layout Quotation
+Z = Ts / S (Zabulon = ᏤᏆᎳᏂ “Tsequalani”, Nazareth = ᎾᏎᎵᏗ “Naselidi”)
+\end_layout
+
+\begin_layout Quotation
+Zh /
+\series bold
+ʒ
+\series default
+/ = Ts
+\end_layout
+
+\begin_layout Quotation
+These analogues are not always 100% correct, but it is the standard in translite
+rating from English to Cherokee.
+ Use this as a base guide and note that vowels will be transliterated more
+ at random and you must listen to what sound it makes to replicate it properly
+ in the Cherokee syllabary.
+\end_layout
+
+\begin_layout Quotation
+I hope this helps! Good luck, transliterators! Feel free to ask me (Knave)
+ if you have any questions!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏴᏫ
+\end_layout
+
+\begin_layout Subsection
 English Subject Ordered
 \end_layout
 
@@ -177487,7 +177840,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 He \SpecialChar \ldots{}
@@ -178634,7 +178987,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 He and I, we \SpecialChar \ldots{}
@@ -179502,7 +179855,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 I \SpecialChar \ldots{}
@@ -180256,7 +180609,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 They \SpecialChar \ldots{}
@@ -181517,7 +181870,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 They and I, we \SpecialChar \ldots{}
@@ -182385,7 +182738,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 You all \SpecialChar \ldots{}
@@ -183017,7 +183370,7 @@ yourselves
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 You all and I, we \SpecialChar \ldots{}
@@ -183720,7 +184073,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 You one \SpecialChar \ldots{}
@@ -184474,7 +184827,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 You one and I, we \SpecialChar \ldots{}
@@ -185177,7 +185530,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 You two \SpecialChar \ldots{}
@@ -185832,7 +186185,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 English Object Ordered
 \end_layout
 
@@ -185859,7 +186212,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -186676,7 +187029,7 @@ each other
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -187481,7 +187834,7 @@ him
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -187732,7 +188085,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -188891,7 +189244,7 @@ it
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -189303,7 +189656,7 @@ me
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -189554,7 +189907,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -190147,7 +190500,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -190952,7 +191305,7 @@ them-animate
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -192111,7 +192464,7 @@ them-inanimate
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -192362,7 +192715,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -192774,7 +193127,7 @@ us, him and me
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -193186,7 +193539,7 @@ us, them and me
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -193433,7 +193786,7 @@ us, you all and me
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -193680,7 +194033,7 @@ us, you one and me
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -194092,7 +194445,7 @@ you all
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -194504,7 +194857,7 @@ you one
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -194916,7 +195269,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -195167,7 +195520,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -195437,7 +195790,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Passive Voice
 \end_layout
 
@@ -195464,7 +195817,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -196154,7 +196507,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsection
 Syllabary Ordered
 \end_layout
 
@@ -196181,7 +196534,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 Ꭰ
 \end_layout
 
@@ -196816,7 +197169,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭱ
@@ -197374,7 +197727,7 @@ You all being
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭲ
@@ -198559,7 +198912,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭳ
@@ -199414,7 +199767,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭴ
@@ -199829,7 +200182,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭵ
@@ -199955,7 +200308,7 @@ I being
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭶ
@@ -200195,7 +200548,7 @@ them-animate
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭸ
@@ -200816,7 +201169,7 @@ They being
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭹ
@@ -201058,7 +201411,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭺ
@@ -201351,7 +201704,7 @@ them-animate
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭼ
@@ -201534,7 +201887,7 @@ me
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭽ
@@ -201664,7 +202017,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꭿ
@@ -201849,7 +202202,7 @@ him
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꮝ
@@ -202472,7 +202825,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꮣ
@@ -202887,7 +203240,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꮥ
@@ -203807,7 +204160,7 @@ them-inanimate
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꮩ
@@ -204336,7 +204689,7 @@ a
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꮪ
@@ -204694,7 +205047,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꮳ
@@ -204936,7 +205289,7 @@ b
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Subsubsection
 
 \lang english
 Ꮵ
@@ -205155,345 +205508,8 @@ end{landscape}
 
 \end_layout
 
-\begin_layout Chapter
-Additional Resources
-\end_layout
-
 \begin_layout Section
-The Leitner System
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:The-Leitner-system"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The Leitner system is a widely used method to efficiently use flashcards
- that was proposed by the German science journalist Sebastian Leitner in
- the 1970s.
- It is a simple implementation of the principle of spaced repetition, where
- cards are reviewed at increasing interval.
-\end_layout
-
-\begin_layout Paragraph*
-Method
-\end_layout
-
-\begin_layout Standard
-In this method flashcards are sorted into groups according to how well you
- know each one in the Leitner's learning box.
- This is how it works: you try to recall the solution written on a flashcard.
- If you succeed, you send the card to the next group.
- But if you fail, you send it back to the first group.
- Each succeeding group has a longer period of time before you are required
- to revisit the cards.
-\end_layout
-
-\begin_layout Paragraph*
-Example
-\end_layout
-
-\begin_layout Standard
-Suppose you have 3 groups called Group 1, Group 2 and Group 3.
- The cards in Group 1 are the ones that you often make mistakes with, and
- Group 3 contains the cards that you know very well.
- You might choose to study the Group 1 cards once a day, Group 2 every 3
- days, and the Group 3 cards every 5 days.
- If you look at a Group 1 card and get the correct answer, you “promote”
- it to Group 2.
- A correct answer with a Group 2 card “promotes” that card to Group 3.
- If you make a mistake with a Group 2 or Group 3 card, it gets “demoted”
- to the first level, which forces you to study that card more often.
-\end_layout
-
-\begin_layout Standard
-The advantage of this method is that you can focus on the most difficult
- flashcards, which remain in the first few groups.
- The result is, ideally, a reduction in the amount of study time needed.
-\end_layout
-
-\begin_layout Standard
-\begin_inset space \hspace*{\fill}
-\end_inset
-
-
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://en.wikipedia.org/wiki/Leitner_system
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Names
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Names"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-
-\emph on
-Your Name in Cherokee: Tips for Transliteration: Translation - by Knave
- from Raleigh, North Carolina
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quotation
-There are many sites and books out there that have overused the consonant
- Q as a default replacement for any foreign consonant that has no direct
- analogue with the Cherokee syllabary.
- The references out there were somewhat misinformed and apparently forgot
- about the plethora of already-transliterated names in the Bible which used
- several different letter combinations to replicate English sounds, instead
- of relying only on the Q.
-\end_layout
-
-\begin_layout Paragraph*
-Let's begin \SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Quotation
-
-\emph on
-*Note: Letters within slashes are the IPA symbols.
- Transliterations from the Bible will follow the Cherokee letter in parentheses.
-\end_layout
-
-\begin_layout Paragraph*
-Rhotic Vowels
-\end_layout
-
-\begin_layout Quotation
-Unstressed -er /
-\series bold
-ɚ
-\series default
-/ (as in dinner) = A (sometimes E, depending on preference)
-\end_layout
-
-\begin_layout Quotation
-Stressed -er, -ur /
-\series bold
-ɝ
-\series default
-/ (as in turkey) = V
-\end_layout
-
-\begin_layout Quotation
-Stressed -ar /
-\series bold
-ɑ˞
-\series default
-/ (as in star) = A
-\end_layout
-
-\begin_layout Quotation
-Stressed -or /
-\series bold
-ɔ˞
-\series default
-/ (as in north) = O
-\end_layout
-
-\begin_layout Paragraph*
-Consonants
-\end_layout
-
-\begin_layout Quotation
-B, Br = Qu (Bernice = ᏆᏂᏏ “Quanisi”)
-\end_layout
-
-\begin_layout Quotation
-Bl = Tl (Publius = ᏆᏟᏯ “Quatliya”)
-\end_layout
-
-\begin_layout Quotation
-C /
-\series bold
-k
-\series default
-/ (hard) = K / G (Corinth = ᎪᎵᏂᏗᏱ “Golinidiyi”)
-\end_layout
-
-\begin_layout Quotation
-C /
-\series bold
-s
-\series default
-/ (soft) = S (Cilicia = ᏏᎵᏏᏱ “Silisiyi”)
-\end_layout
-
-\begin_layout Quotation
-Ch /
-\series bold
-tʃ
-\series default
-/ (as in cheese) = Ts (Rachel = ᎴᏥᎵ “Letsili”)
-\end_layout
-
-\begin_layout Quotation
-Cl, Cr = Tl (Claudius = ᏠᏗᏯ “Tlodiya”, Crete = ᏟᏗ “Tlidi”)
-\end_layout
-
-\begin_layout Quotation
-F, Ph = Qu / W (Felix = ᏈᎵᏏ “Quilisi”, Nephthali = ᏁᏩᏔᎵ “Newatali”)
-\end_layout
-
-\begin_layout Quotation
-J = Ts (Jesus = ᏥᏌ “Tsisa”)
-\end_layout
-
-\begin_layout Quotation
-K = K / G
-\end_layout
-
-\begin_layout Quotation
-P, Pr = Qu (Priscilla = ᏈᏏᎳ “Quisila”)
-\end_layout
-
-\begin_layout Quotation
-Pl = Tl
-\end_layout
-
-\begin_layout Quotation
-R = L / W (Rachel = ᎴᏥᎵ “Letsili”)
-\end_layout
-
-\begin_layout Quotation
-Sh /
-\series bold
-ʃ
-\series default
-/ (as in sheep) = S
-\end_layout
-
-\begin_layout Quotation
-T, Th = T / D (Matthew = ᎹᏚ “Madu”)
-\end_layout
-
-\begin_layout Quotation
-Tr = Tl (Troas = ᏠᎠᏏ “Tloasi”)
-\end_layout
-
-\begin_layout Quotation
-V = W
-\end_layout
-
-\begin_layout Quotation
-X = Gi-S (Usually just transliterated with the S syllables, but if the /ks/
- sound needs to be stressed like in Maxwell = ᎺᎩᏍᏪᎵ “Megisweli” / Max =
- ᎺᎩᏏ “Megisi”
-\end_layout
-
-\begin_layout Quotation
-Z = Ts / S (Zabulon = ᏤᏆᎳᏂ “Tsequalani”, Nazareth = ᎾᏎᎵᏗ “Naselidi”)
-\end_layout
-
-\begin_layout Quotation
-Zh /
-\series bold
-ʒ
-\series default
-/ = Ts
-\end_layout
-
-\begin_layout Quotation
-These analogues are not always 100% correct, but it is the standard in translite
-rating from English to Cherokee.
- Use this as a base guide and note that vowels will be transliterated more
- at random and you must listen to what sound it makes to replicate it properly
- in the Cherokee syllabary.
-\end_layout
-
-\begin_layout Quotation
-I hope this helps! Good luck, transliterators! Feel free to ask me (Knave)
- if you have any questions!
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Also By The Author
+Also Published By The Author
 \end_layout
 
 \begin_layout Standard
@@ -205551,15 +205567,15 @@ Desktop Computer Games
 \end_layout
 
 \begin_layout Itemize
+Cherokee Bound Pronouns
+\end_layout
+
+\begin_layout Itemize
 Cherokee Language Animals
 \end_layout
 
 \begin_layout Itemize
 Cherokee Syllabary
-\end_layout
-
-\begin_layout Itemize
-Esperanto Animals
 \end_layout
 
 \begin_layout Subsection*
@@ -205567,6 +205583,10 @@ Android Apps
 \end_layout
 
 \begin_layout Itemize
+Cherokee Bound Pronouns
+\end_layout
+
+\begin_layout Itemize
 Cherokee Language Animals
 \end_layout
 
@@ -205574,185 +205594,16 @@ Cherokee Language Animals
 Cherokee Syllabary
 \end_layout
 
-\begin_layout Itemize
-Esperanto Animals
-\end_layout
-
 \begin_layout Subsection*
-OUYA Apps
+iOS Apps
 \end_layout
 
 \begin_layout Itemize
-Cherokee Language Animals
+Cherokee Bound Pronouns
 \end_layout
 
 \begin_layout Itemize
-Esperanto Animals
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Creative Commons
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Creative-Commons"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-This work is licensed under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
- This means you are free to copy, share, and update this material under
- the condition that attribution is kept, no endorsements are implied, and
- your work is also licensed the same.
- 
-\emph on
-Commercial use is permitted.
-
-\emph default
- To view a copy of this license, visit 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://creativecommons.org/licenses/by-sa/3.0/us/
-\end_layout
-
-\end_inset
-
- or send a letter to Creative Commons, 171 Second Street, Suite 300, San
- Francisco, California, 94105, USA.
-\end_layout
-
-\begin_layout Subsection*
-In Summary:
-\begin_inset Foot
-status collapsed
-
-\begin_layout Plain Layout
-The summary is not the license.
- It is simply a handy reference for understanding the license and as such,
- has no legal value.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-You are free:
-\end_layout
-
-\begin_layout Itemize
-to Share — to copy, distribute, and transmit the work.
-\end_layout
-
-\begin_layout Itemize
-to Remix — to adapt the work.
-\end_layout
-
-\begin_layout Standard
-Under the following conditions:
-\end_layout
-
-\begin_layout Itemize
-Attribution — You must attribute the work in the manner specified by the
- author or licensor (but not in any way that suggests that they endorse
- you or your use of the work).
-\end_layout
-
-\begin_layout Itemize
-Share Alike — If you alter, transform, or build upon this work, you may
- distribute the resulting work only under the same or similar license to
- this one.
-\end_layout
-
-\begin_layout Standard
-With the understanding that:
-\end_layout
-
-\begin_layout Itemize
-Waiver — Any of the above conditions can be waived if you get permission
- from the copyright holder.
-\end_layout
-
-\begin_layout Itemize
-Other Rights — In no way are any of the following rights affected by the
- license:
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Your fair dealing or fair use rights;
-\end_layout
-
-\begin_layout Itemize
-Apart from the remix rights granted under this license, the author's moral
- rights;
-\end_layout
-
-\begin_layout Itemize
-Rights other persons may have either in the work itself or in how the work
- is used, such as publicity or privacy rights.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Notice — For any reuse or distribution, you must make clear to others the
- license terms of this work.
- The best way to do this is with a link to 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://creativecommons.org/licenses/by-sa/3.0/us/
-\end_layout
-
-\end_inset
-
-.
+Cherokee Syllabary
 \end_layout
 
 \begin_layout Standard
