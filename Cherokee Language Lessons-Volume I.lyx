@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.28 $
+$Revision: 1.29 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/06 02:45:49 $ UTC
+$Date: 2016/06/06 23:17:45 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.28 $
+$Revision: 1.29 $
 \noun default
 .
 \end_layout
@@ -81303,7 +81303,7 @@ Eighth Lesson
 \end_layout
 
 \begin_layout Standard
-Review the following vocabulary then do the exercises.
+Review the following vocabulary.
 \end_layout
 
 \begin_layout Standard
@@ -81321,6 +81321,195 @@ begin{multicols}{2}
 raggedcolumns
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎪᏪᎵ [go²hwe²li] 
+\begin_inset Quotes eld
+\end_inset
+
+A sheet of paper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎪᏪᎵ [dị²go²hwe²li] 
+\begin_inset Quotes eld
+\end_inset
+
+Sheets of paper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Review the following phrases.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏂᎯᏍᎪ
+\begin_inset space ~
+\end_inset
+
+ᎢᎾ
+\begin_inset space ~
+\end_inset
+
+_____? 
+\begin_inset Quotes eld
+\end_inset
+
+Is the _____ far from you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏂᎯᏍᎪ
+\begin_inset space ~
+\end_inset
+
+ᎾᎥ
+\begin_inset space ~
+\end_inset
+
+_____? 
+\begin_inset Quotes eld
+\end_inset
+
+Is the _____ near you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎥᎥ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏴ
+\begin_inset space ~
+\end_inset
+
+ᎾᎥ
+\begin_inset space ~
+\end_inset
+
+_____.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, the _____ is near me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎥᎥ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏴ
+\begin_inset space ~
+\end_inset
+
+ᎢᎾ
+\begin_inset space ~
+\end_inset
+
+_____.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Yes, the _____ is far from me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎥᏝ
+\begin_inset space ~
+\end_inset
+
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, the _____ isn't.
+\begin_inset Quotes erd
 \end_inset
 
 
@@ -81349,7 +81538,22 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+In the following exercises, words ending in -ᏍᎪ are sometimes shortened
+ to only end in -Ꮝ.
+\end_layout
+
+\begin_layout Standard
 You will need the following props:
+\end_layout
+
+\begin_layout Itemize
+One sheet of paper with only Cherokee writing on it.
+\end_layout
+
+\begin_layout Itemize
+One sheet of paper with only English writing on it.
 \end_layout
 
 \begin_layout Itemize
