@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.29 $
+$Revision: 1.30 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/06 23:17:45 $ UTC
+$Date: 2016/06/07 00:41:08 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.29 $
+$Revision: 1.30 $
 \noun default
 .
 \end_layout
@@ -81327,6 +81327,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+ᎠᎭᏫ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏫ [ạ²hạ²wi, ạ²hwi] 
+\begin_inset Quotes eld
+\end_inset
+
+A deer.
+ Deer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎪᏪᎵ [go²hwe²li] 
 \begin_inset Quotes eld
 \end_inset
@@ -81352,6 +81369,95 @@ Sheets of paper.
 \end_layout
 
 \end_deeper
+\begin_layout Description
+ᎫᎴ [gu²le] 
+\begin_inset Quotes eld
+\end_inset
+
+An acorn.
+ Acorns.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏙᏯ [do²ya] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b9b"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A beaver.
+ Beaver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᏯ [tu²³ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A bean.
+ Beans.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᏍᏚ [ji²sdu] 
+\begin_inset Quotes eld
+\end_inset
+
+A rabbit.
+ Rabbits.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏩᎭᏯ,
+\begin_inset space ~
+\end_inset
+
+ᏩᏯ [wạ²hạ²ya, wạ²hya] 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf.
+ Wolves.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 
 \lang english
@@ -81557,15 +81663,191 @@ One sheet of paper with only English writing on it.
 \end_layout
 
 \begin_layout Itemize
-Four female dolls or pictures of women -- one woman per picture.
+Two pictures of individual women.
+ ☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Itemize
-Four male dolls or pictures of men -- one man per picture.
+Two pictures of individual men.
+ ☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Itemize
-Four toy dogs or pictures of dogs -- one dog per picture.
+Two pictures of individual dogs.
+ ☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Two pictures of individual cats
+\emph on
+.
+ 
+\emph default
+☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Two pictures of individual deer.
+ ☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Two pictures of individual wolves.
+ ☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Two pictures of individual rabbits.
+ ☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Two pictures of individual beaver.
+ ☞ 
+\emph on
+Tag one with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and the other with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Itemize
@@ -81577,7 +81859,11 @@ Four small rocks or pictures of rocks -- one rock per picture.
 \end_layout
 
 \begin_layout Itemize
-Four toy cats or pictures of cats -- one cat per picture.
+Four acorns or pictures of acorns -- one acorn per picture.
+\end_layout
+
+\begin_layout Itemize
+Four beans or pictures of beans -- one bean per picture.
 \end_layout
 
 \begin_layout Standard
