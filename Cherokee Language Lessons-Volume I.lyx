@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.37 $
+$Revision: 1.38 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 00:42:05 $ UTC
+$Date: 2016/06/08 02:31:00 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.37 $
+$Revision: 1.38 $
 \noun default
 .
 \end_layout
@@ -82273,19 +82273,28 @@ end{multicols}
 You will need the following props:
 \end_layout
 
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Itemize
-Two sheet of paper with only Cherokee writing on it.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
+Two slips of paper with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82293,310 +82302,93 @@ Tag one with
 \begin_inset Quotes erd
 \end_inset
 
+ on them.
+\end_layout
+
+\begin_layout Itemize
+Two slips of paper with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ on them.
+\end_layout
+
+\begin_layout Itemize
+A sheet of paper with only Cherokee writing on it.
+\end_layout
+
+\begin_layout Itemize
+A sheet of paper with only English writing on it.
+\end_layout
+
+\begin_layout Itemize
+A woman doll.
+\end_layout
+
+\begin_layout Itemize
+A man doll.
+\end_layout
+
+\begin_layout Itemize
+A toy dogs.
+\end_layout
+
+\begin_layout Itemize
+A toy cat
+\emph on
 .
 \end_layout
 
 \begin_layout Itemize
-Two sheet of paper with only English writing on it.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+A toy deer.
 \end_layout
 
 \begin_layout Itemize
-Two women dolls.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+A toy wolf.
 \end_layout
 
 \begin_layout Itemize
-Two men dolls.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+A toy rabbit.
 \end_layout
 
 \begin_layout Itemize
-Two toy dogs.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+A toy beaver.
 \end_layout
 
 \begin_layout Itemize
-Two toy cats
-\emph on
-.
- 
-\emph default
-☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+A potato.
 \end_layout
 
 \begin_layout Itemize
-Two toy deer.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+A rock.
 \end_layout
 
 \begin_layout Itemize
-Two toy wolves.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+An acorn.
 \end_layout
 
 \begin_layout Itemize
-Two toy rabbits.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+A bean.
 \end_layout
 
-\begin_layout Itemize
-Two toy beaver.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
+\begin_layout Plain Layout
 
- and the other with 
-\begin_inset Quotes eld
-\end_inset
 
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
+\backslash
+end{multicols}
 \end_layout
 
-\begin_layout Itemize
-Two potatoes.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
 \end_inset
 
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
 
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-Two small rocks.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-Two acorns.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-Two beans.
- ☞ 
-\emph on
-Tag one with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎣᏍᏓ
-\begin_inset Quotes erd
-\end_inset
-
- and the other with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏲᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
@@ -82752,7 +82544,23 @@ Each challenge-response comes in one of five main forms and should be done
 \begin_inset Quotes erd
 \end_inset
 
- places a bad beaver and a good man before 
+ places a beaver with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ and a man with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ before 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82843,7 +82651,23 @@ Each challenge-response comes in one of five main forms and should be done
 \begin_inset Quotes erd
 \end_inset
 
- places a good deer and a bad wolf before 
+ places a deer with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ and a wolf with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ before 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82910,7 +82734,23 @@ Each challenge-response comes in one of five main forms and should be done
 \begin_inset Quotes erd
 \end_inset
 
- places a bad deer and a good man before 
+ places a deer with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ and a man with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+ before 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82977,7 +82817,23 @@ Each challenge-response comes in one of five main forms and should be done
 \begin_inset Quotes erd
 \end_inset
 
- places a bad deer and a bad wolf before 
+ places a deer with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ and a wolf with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ before 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83045,7 +82901,23 @@ Each challenge-response comes in one of five main forms and should be done
 \begin_inset Quotes erd
 \end_inset
 
- places a bad rabbit and a bad cat before 
+ places a rabbit with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ and a cat with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᏲᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ before 
 \begin_inset Quotes eld
 \end_inset
 
