@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.38 $
+$Revision: 1.39 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 02:31:00 $ UTC
+$Date: 2016/06/08 02:41:23 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.38 $
+$Revision: 1.39 $
 \noun default
 .
 \end_layout
@@ -82504,7 +82504,7 @@ Keep rotating until everyone has been in position
 \begin_inset Quotes eld
 \end_inset
 
-Ꭰ
+Ꭱ
 \begin_inset Quotes erd
 \end_inset
 
@@ -83914,7 +83914,7 @@ Write out each of the following Cherokee sentences followed by an English
 \end_layout
 
 \begin_layout Standard
-The first three have been done as examples.
+The first one has been done as an example.
  When done, compare your answers to the answers at the end of this section.
 \end_layout
 
@@ -83958,61 +83958,49 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎠᏍᎦᏯᏍ ᎪᏪᎵᏊ ᎠᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Is the man seeing only the paper?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ ᏥᎪᏘᎭᏊ.
+\end_layout
+
+\begin_layout Enumerate
+ᎪᏪᎵᏍᎪ ᎠᏂᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎨᏯᏍ ᎫᎴ ᏓᎪᏘᎭᏊ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏍᎦᏯᏊ ᎠᏫ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏙ ᏪᏌ? ᎣᏍᏓᏍᎪ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎨᏯᏍᎪ ᏓᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᏪᏌ ᏥᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ ᏄᎾ? ᎦᎵᏉᎩᏧ?
+\end_layout
+
+\begin_layout Enumerate
 ᎠᏍᎦᏯ ᏄᎾ ᏓᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The man sees the potatoes.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏯᏍ ᎠᎪᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Does the woman see it?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏂᏍᎦᏯᏍᎪ ᏗᎪᏪᎵ ᏓᏂᎪᏘᎭᏊ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Are the men only seeing the papers?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏯ ᎠᎪᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏅᏯᏍᎪ ᏓᏂᎪᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᏅᏯ ᎠᎪᏘᎭᏊ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏂᎨᏯ ᏥᏍᏚᏊ ᏓᏂᎪᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎨᏯ ᏚᏯ ᏓᎪᏘᎭᏊ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᏫᏊ ᎠᏂᎪᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏚᏯ Ꮵ̣ᎪᏘᎭᏊ.
 \end_layout
 
 \begin_layout Standard
@@ -84059,43 +84047,43 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏲᏁᎦᏍ?
+ᎠᎨᏯ ᏓᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎦᏥᎪᏘᎭ.
+ᎠᏂᏍᎦᏯᏊᏍ ᏥᏍᏚ ᎠᏂᎪᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᏄᎾ Ꭿ̣ᎪᏘᎭ.
+ᎠᎨᏯᏍᎪ ᏪᏌᏊ ᏓᎪᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎨᏯ ᏥᎪᏘᎭ.
+ᎯᎳ ᎢᏯᏂ ᎠᎭᏫ? ᏑᏓᎵᏍ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯ ᎩᏟ ᎠᏂᎪᏘᎭᏊ.
+ᎠᏂᎨᏯᏍᎪ ᏄᎾ ᎠᏂᎪᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᏩᎭᏯ ᏓᏂᎪᏘᎭᏊ.
+ᎠᏂᏍᎦᏯᏊ ᏚᏯ ᏓᏂᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏕᎯ̣ᎪᏘᎭ.
+ᎫᎴᏍ ᏓᎪᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯᏊ ᏥᏍᏚ ᎠᏂᎪᏘᎭ.
+ᎠᏍᎦᏯᏍᎪ ᏩᏯ ᎠᎪᏘᎭᏊ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏲᎢᏧ?
+ᎠᏍᎦᏯ ᎠᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏚᏯᏍᎪ ᏕᎯ̣ᎪᏘᎭ?
+ᏅᏯ ᎠᎪᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -84142,23 +84130,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯᏊ ᎠᎭᏫ ᏓᏂᎪᏘᎭ.
+Ꭿ̣ᎪᏘᎭᏍ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᏂᎪᏘᎭ.
+ᎦᏥᎪᏘᎭᏍ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏲᎢᏊᏍ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏍᎦᏯᏍᎪ ᏙᏯ ᏓᎪᏘᎭᏊ?
-\end_layout
-
-\begin_layout Enumerate
-ᎫᎴ ᏓᎪᏘᎭ.
+ᎠᎨᏯ ᏩᎭᏯᏊ ᏓᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -84166,19 +84146,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏥᎪᏘᎭ.
+ᏚᏯᏍᎪ Ꭿ̣ᎪᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏫᏍ ᎦᎯᎪᏘᎭ?
+ᎤᏲᎢᏊᏧ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎨᏯᏊ ᎪᏪᎵ ᎠᎪᏘᎭ.
+ᏴᏭᏁᎦᎾᎲ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᏓᏂᎪᏘᎭ.
+ᎣᏍᏓᏊᏍ?
+\end_layout
+
+\begin_layout Enumerate
+ᏅᏯᏍᎪ ᏕᎯ̣ᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᏅᏯ ᎠᎪᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -84225,15 +84213,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎫᎴ ᎠᎪᏘᎭ.
+ᎦᎯᎪᏘᎭᏍ?
 \end_layout
 
 \begin_layout Enumerate
-Ꭿ̣ᎪᏘᎭ.
+ᏕᎯ̣ᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯᏧ ᏪᏌ ᏓᏂᎪᏘᎭ?
+ᎠᏂᎨᏯ ᏙᏯ ᎠᏂᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -84241,27 +84229,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏩᏯ ᏥᎪᏘᎭᏊ.
+ᎫᎴ ᎠᏂᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏥᎪᏘᎭᏍ?
+ᎠᏂᎨᏯ ᏅᏯᏊ ᏓᏂᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯᏍᎪ ᎠᏂᎪᏘᎭ?
+ᎦᎯᎪᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎦᎯᎪᏘᎭᏍᎪ?
+ᎠᎨᏯᏍᎪ ᎠᎪᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯᏊ ᎫᎴ ᏓᎪᏘᎭ.
+ᏄᎾᏍᎪ ᎠᎪᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯᏊᏍ ᏙᏯ ᎠᎪᏘᎭ?
+ᎯᎳ ᎢᏯᏂ ᎠᏫ? ᎦᎵᏉᎩᏧ?
 \end_layout
 
 \begin_layout Standard
@@ -84312,102 +84300,102 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎠᏍᎦᏯᏍ ᎪᏪᎵᏊ ᎠᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Is the man seeing only the paper?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ ᏥᎪᏘᎭᏊ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I am only seeing the rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎪᏪᎵᏍᎪ ᎠᏂᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do they see the paper?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎨᏯᏍ ᎫᎴ ᏓᎪᏘᎭᏊ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Is the woman only seeing the acorns?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏍᎦᏯᏊ ᎠᏫ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Only the man sees the deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᏪᏌ? ᎣᏍᏓᏍᎪ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Which cat? Is it the good one?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎨᏯᏍᎪ ᏓᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Does the woman see them?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ ᏥᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I see the cat.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ ᏄᎾ? ᎦᎵᏉᎩᏧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+How many potatoes? It is seven, right?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
 ᎠᏍᎦᏯ ᏄᎾ ᏓᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 The man sees the potatoes.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏯᏍ ᎠᎪᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Does the woman see it?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏂᏍᎦᏯᏍᎪ ᏗᎪᏪᎵ ᏓᏂᎪᏘᎭᏊ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Are the men only seeing the papers?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏯ ᎠᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The woman sees it.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᏅᏯᏍᎪ ᏓᏂᎪᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Do they see the rocks?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᏅᏯ ᎠᎪᏘᎭᏊ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The man is only seeing the rock.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏂᎨᏯ ᏥᏍᏚᏊ ᏓᏂᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The women see only the rabbits.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏯ ᏚᏯ ᏓᎪᏘᎭᏊ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The woman is only seeing the beans.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᏫᏊ ᎠᏂᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The men see only the deer.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᏚᏯ Ꮵ̣ᎪᏘᎭᏊ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-I am only seeing the bean.
 \end_layout
 
 \end_deeper
@@ -84455,102 +84443,102 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏲᏁᎦᏍ?
+ᎠᎨᏯ ᏓᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Is it English?
+The woman see them.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎩᏟ ᎦᏥᎪᏘᎭ.
+ᎠᏂᏍᎦᏯᏊᏍ ᏥᏍᏚ ᎠᏂᎪᏘᎭ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-I see the dogs.
+Are only the men seeing the rabbit?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᏄᎾ Ꭿ̣ᎪᏘᎭ.
+ᎠᎨᏯᏍᎪ ᏪᏌᏊ ᏓᎪᏘᎭ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-You see the potato.
+Is the woman seeing only the cats?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎨᏯ ᏥᎪᏘᎭ.
+ᎯᎳ ᎢᏯᏂ ᎠᎭᏫ? ᏑᏓᎵᏍ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-I see the woman.
+How many deer? Is it six?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏂᎨᏯ ᎩᏟ ᎠᏂᎪᏘᎭᏊ.
+ᎠᏂᎨᏯᏍᎪ ᏄᎾ ᎠᏂᎪᏘᎭ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-The women are only seeing the dog.
+Do the women see the potato?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᏩᎭᏯ ᏓᏂᎪᏘᎭᏊ.
+ᎠᏂᏍᎦᏯᏊ ᏚᏯ ᏓᏂᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-The men are only seeing the wolves.
+Only the men see the beans.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᏕᎯ̣ᎪᏘᎭ.
+ᎫᎴᏍ ᏓᎪᏘᎭ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-You see them.
+Does he or she see the acorns?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏂᎨᏯᏊ ᏥᏍᏚ ᎠᏂᎪᏘᎭ.
+ᎠᏍᎦᏯᏍᎪ ᏩᏯ ᎠᎪᏘᎭᏊ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Only the women see the rabbit.
+Is the man only seeing the wolf?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎤᏲᎢᏧ?
+ᎠᏍᎦᏯ ᎠᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-It is bad, right?
+The man sees it.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᏚᏯᏍᎪ ᏕᎯ̣ᎪᏘᎭ?
+ᏅᏯ ᎠᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Do you see the beans?
+He or she sees the rock.
 \end_layout
 
 \end_deeper
@@ -84598,52 +84586,32 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯᏊ ᎠᎭᏫ ᏓᏂᎪᏘᎭ.
+Ꭿ̣ᎪᏘᎭᏍ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Only the women see the deer.
+Do you see it?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᏂᎪᏘᎭ.
+ᎦᏥᎪᏘᎭᏍ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-The men see it.
+Do I see them?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎤᏲᎢᏊᏍ?
+ᎠᎨᏯ ᏩᎭᏯᏊ ᏓᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Is it just bad?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏍᎦᏯᏍᎪ ᏙᏯ ᏓᎪᏘᎭᏊ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Is the man only seeing the beaver?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎫᎴ ᏓᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-He/she sees the acorns.
+The woman sees only the wolves.
 \end_layout
 
 \end_deeper
@@ -84658,42 +84626,62 @@ I see them.
 
 \end_deeper
 \begin_layout Enumerate
-ᎦᏥᎪᏘᎭ.
+ᏚᏯᏍᎪ Ꭿ̣ᎪᏘᎭ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-I see them.
+Do you see the bean?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏫᏍ ᎦᎯᎪᏘᎭ?
+ᎤᏲᎢᏊᏧ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Do you see the deer?
+It is just bad, right?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎨᏯᏊ ᎪᏪᎵ ᎠᎪᏘᎭ.
+ᏴᏭᏁᎦᎾᎲ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Only the woman sees the paper.
+But what about it being English?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᏓᏂᎪᏘᎭ.
+ᎣᏍᏓᏊᏍ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-The men see them.
+Is it just good?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏅᏯᏍᎪ ᏕᎯ̣ᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do you see the rocks?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᏅᏯ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The man sees the rock.
 \end_layout
 
 \end_deeper
@@ -84741,32 +84729,32 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎫᎴ ᎠᎪᏘᎭ.
+ᎦᎯᎪᏘᎭᏍ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-He/she sees the acorn.
+Do you see them?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-Ꭿ̣ᎪᏘᎭ.
+ᏕᎯ̣ᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-You see it.
+You see them.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏂᎨᏯᏧ ᏪᏌ ᏓᏂᎪᏘᎭ?
+ᎠᏂᎨᏯ ᏙᏯ ᎠᏂᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-The women see the cats, right?
+The women see the beaver.
 \end_layout
 
 \end_deeper
@@ -84781,62 +84769,62 @@ It is Cherokee, right?
 
 \end_deeper
 \begin_layout Enumerate
-ᏩᏯ ᏥᎪᏘᎭᏊ.
+ᎫᎴ ᎠᏂᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-I am only seeing the wolf.
+They see the acorn.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎦᏥᎪᏘᎭᏍ?
+ᎠᏂᎨᏯ ᏅᏯᏊ ᏓᏂᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Do I see them?
+The women see only the rocks.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᏅᏯᏍᎪ ᎠᏂᎪᏘᎭ?
+ᎦᎯᎪᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Do they see the rock?
+You see them.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎦᎯᎪᏘᎭᏍᎪ?
+ᎠᎨᏯᏍᎪ ᎠᎪᏘᎭ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Do you see them?
+Does the woman see it?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏍᎦᏯᏊ ᎫᎴ ᏓᎪᏘᎭ.
+ᏄᎾᏍᎪ ᎠᎪᏘᎭ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Only the man sees the acorns.
+Does he or she see the potato?
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏍᎦᏯᏊᏍ ᏙᏯ ᎠᎪᏘᎭ?
+ᎯᎳ ᎢᏯᏂ ᎠᏫ? ᎦᎵᏉᎩᏧ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Is only the man seeing the beaver?
+How many deer? It is seven, right?
 \end_layout
 
 \end_deeper
