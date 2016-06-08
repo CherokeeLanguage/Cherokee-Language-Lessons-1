@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.34 $
+$Revision: 1.35 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 00:35:36 $ UTC
+$Date: 2016/06/08 00:35:49 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.34 $
+$Revision: 1.35 $
 \noun default
 .
 \end_layout
@@ -81667,8 +81667,8 @@ Examples:
 \begin_inset Quotes eld
 \end_inset
 
-Ok.
- Is it OK?
+Okay.
+ Is it Okay?
 \begin_inset Quotes erd
 \end_inset
 
@@ -82096,7 +82096,7 @@ Howa.
 \begin_inset Quotes eld
 \end_inset
 
-OK.
+Okay.
 \begin_inset Quotes erd
 \end_inset
 
@@ -82109,7 +82109,7 @@ Howaju?
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is Okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84158,7 +84158,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84193,7 +84193,7 @@ It is only good.
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84239,7 +84239,7 @@ It is me, isn't it?
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84320,7 +84320,7 @@ It is only me.
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84662,7 +84662,7 @@ It is only good.
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -85089,13 +85089,13 @@ Challenge and Response List:
 \end_layout
 
 \begin_layout Enumerate
-[Ayvgwu.: It is only me.], [Howaju?: It is OK, isn't it?], [Ayvgwu.: It is
+[Ayvgwu.: It is only me.], [Howaju?: It is okay, isn't it?], [Ayvgwu.: It is
  only me.]
 \end_layout
 
 \begin_layout Enumerate
-[Howaju?: It is OK, isn't it?], [Nihihv?: But for you?], [Howaju?: It is
- OK, isn't it?]
+[Howaju?: It is okay, isn't it?], [Nihihv?: But for you?], [Howaju?: It
+ is okay, isn't it?]
 \end_layout
 
 \begin_layout Enumerate
@@ -85586,7 +85586,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -85627,7 +85627,7 @@ It is only good.
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -85685,7 +85685,7 @@ Nihinahv?, Ayvna?, Ayvju?
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -85784,7 +85784,7 @@ Nihiju?, Uyoiju?, Ayvgwu.
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -86112,7 +86112,7 @@ It's just Cherokee.
 \begin_inset Quotes eld
 \end_inset
 
-It's OK, isn't it?
+It's okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -86464,7 +86464,7 @@ Uyoigwu., Ayvju?, Osdagwu.
 \begin_inset Quotes eld
 \end_inset
 
-It is OK, isn't it?
+It is okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -86726,7 +86726,7 @@ It's just good.
 \begin_inset Quotes eld
 \end_inset
 
-It's OK, isn't it?
+It's okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -89734,7 +89734,7 @@ Is it?
 \begin_inset Quotes eld
 \end_inset
 
-Is it OK?
+Is it okay?
 \begin_inset Quotes erd
 \end_inset
 
@@ -89799,7 +89799,7 @@ This is the short form of
 \begin_inset Quotes eld
 \end_inset
 
-Is it OK?
+Is it okay?
 \begin_inset Quotes erd
 \end_inset
 
@@ -143187,7 +143187,7 @@ Panel 2-6
 \end_layout
 
 \begin_layout Description
-Turtle: Ok! Good!
+Turtle: Okay! Good!
 \end_layout
 
 \begin_layout Subsection*
@@ -171390,7 +171390,7 @@ Rabbit: Oh! Maybe I can trick him.
 \end_layout
 
 \begin_layout Description
-Rabbit: OK!
+Rabbit: Okay!
 \end_layout
 
 \begin_layout Subsection*
@@ -171414,7 +171414,7 @@ Ground
 \begin_inset space ~
 \end_inset
 
-Hog: OK!
+Hog: Okay!
 \end_layout
 
 \begin_layout Subsection*
@@ -171769,8 +171769,8 @@ Owl: Oh? Here's my money.
 \end_layout
 
 \begin_layout Description
-Rabbit: OK.
- OK.
+Rabbit: Okay.
+ Okay.
  I'll do it!
 \end_layout
 
@@ -178900,7 +178900,7 @@ Rabbit grinned and said, “I don't have faith! I don't see it! You wearing
 
 \begin_deeper
 \begin_layout Enumerate
-Wolf said, “OK.
+Wolf said, “Okay.
  I will show me wearing a shoe.” Wolf put his foot into the trap.
  The trap caught his foot.
  And then Wolf felt pain but hid it.
@@ -179010,7 +179010,7 @@ Rabbit said, “You are pretty! Now let us find a third one!”
 
 \begin_deeper
 \begin_layout Enumerate
-Wolf said, “OK.”
+Wolf said, “Okay.”
 \end_layout
 
 \end_deeper
@@ -179153,7 +179153,7 @@ Just one more.
 \begin_inset Quotes eld
 \end_inset
 
-OK.
+Okay.
 \begin_inset Quotes erd
 \end_inset
 
