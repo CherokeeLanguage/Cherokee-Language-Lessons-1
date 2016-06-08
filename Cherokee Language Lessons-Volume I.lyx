@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.42 $
+$Revision: 1.43 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 03:09:38 $ UTC
+$Date: 2016/06/08 03:18:53 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.42 $
+$Revision: 1.43 $
 \noun default
 .
 \end_layout
@@ -82268,7 +82268,7 @@ end{multicols}
 \begin_layout Standard
 
 \lang english
-Take special notice of the following phrase:
+The following special phrase is used in your ᏂᏔᏛᎦ exercise:
 \end_layout
 
 \begin_layout Description
@@ -82293,7 +82293,7 @@ It isn't _____.
 \end_layout
 
 \begin_layout Standard
-Example usage:
+Examples:
 \end_layout
 
 \begin_layout Itemize
@@ -82371,6 +82371,47 @@ The wolf isn't bad.
 \end_inset
 
 No, the wolf isn't bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎠᏂ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolf is here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ꮭ ᏩᏯ ᎠᏂ ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolf isn't here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎥᏝ, Ꮭ ᏩᏯ ᎠᏂ ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, the wolf isn't here.
 \begin_inset Quotes erd
 \end_inset
 
