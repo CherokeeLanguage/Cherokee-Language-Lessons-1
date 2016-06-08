@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.41 $
+$Revision: 1.42 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 03:01:23 $ UTC
+$Date: 2016/06/08 03:09:38 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.41 $
+$Revision: 1.42 $
 \noun default
 .
 \end_layout
@@ -81299,184 +81299,6 @@ Eighth Lesson
 \end_layout
 
 \begin_layout Section
-ᏘᎪᎵᏯ (Read them)
-\end_layout
-
-\begin_layout Standard
-Review the following vocabulary.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᎭᏫ,
-\begin_inset space ~
-\end_inset
-
-ᎠᏫ [ạ²hạ²wi, ạ²hwi] 
-\begin_inset Quotes eld
-\end_inset
-
-A deer.
- Deer.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎪᏪᎵ [go²hwe²li] 
-\begin_inset Quotes eld
-\end_inset
-
-A sheet of paper.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏗᎪᏪᎵ [dị²go²hwe²li] 
-\begin_inset Quotes eld
-\end_inset
-
-Sheets of paper.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎫᎴ [gu²le] 
-\begin_inset Quotes eld
-\end_inset
-
-An acorn.
- Acorns.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏙᏯ [do²ya] (vt)  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-phantomsection{}
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "_11b9b"
-
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-A beaver.
- Beaver.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏚᏯ [tu²³ya] 
-\begin_inset Quotes eld
-\end_inset
-
-A bean.
- Beans.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏥᏍᏚ [ji²sdu] 
-\begin_inset Quotes eld
-\end_inset
-
-A rabbit.
- Rabbits.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏩᎭᏯ,
-\begin_inset space ~
-\end_inset
-
-ᏩᏯ [wạ²hạ²ya, wạ²hya] 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf.
- Wolves.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
 ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
 \end_layout
 
@@ -82265,6 +82087,297 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Section
+ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Standard
+Review the following vocabulary.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎭᏫ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏫ [ạ²hạ²wi, ạ²hwi] 
+\begin_inset Quotes eld
+\end_inset
+
+A deer.
+ Deer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎪᏪᎵ [go²hwe²li] 
+\begin_inset Quotes eld
+\end_inset
+
+A sheet of paper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎪᏪᎵ [dị²go²hwe²li] 
+\begin_inset Quotes eld
+\end_inset
+
+Sheets of paper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎫᎴ [gu²le] 
+\begin_inset Quotes eld
+\end_inset
+
+An acorn.
+ Acorns.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏙᏯ [do²ya] (vt)  
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+phantomsection{}
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "_11b9b"
+
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+A beaver.
+ Beaver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᏯ [tu²³ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A bean.
+ Beans.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᏍᏚ [ji²sdu] 
+\begin_inset Quotes eld
+\end_inset
+
+A rabbit.
+ Rabbits.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏩᎭᏯ,
+\begin_inset space ~
+\end_inset
+
+ᏩᏯ [wạ²hạ²ya, wạ²hya] 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf.
+ Wolves.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Take special notice of the following phrase:
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It isn't _____.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Example usage:
+\end_layout
+
+\begin_layout Itemize
+ᎣᏍᏓ ᏙᏯ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A good beaver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ꮭ ᎣᏍᏓ ᏙᏯ ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It isn't a good beaver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎥᏝ, Ꮭ ᎣᏍᏓ ᏙᏯ ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, it isn't a good beaver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎤᏲᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolf is bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Ꮭ ᏩᏯ ᎤᏲᎢ ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolf isn't bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎥᏝ, Ꮭ ᏩᏯ ᎤᏲᎢ ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+No, the wolf isn't bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Section
 ᏂᏔᏛᎦ (Do them)
 \end_layout
