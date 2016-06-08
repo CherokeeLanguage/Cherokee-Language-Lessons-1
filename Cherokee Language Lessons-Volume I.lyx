@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.39 $
+$Revision: 1.40 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 02:41:23 $ UTC
+$Date: 2016/06/08 02:47:32 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.39 $
+$Revision: 1.40 $
 \noun default
 .
 \end_layout
@@ -83995,14 +83995,6 @@ Is the man seeing only the paper?
 ᏪᏌ ᏥᎪᏘᎭ.
 \end_layout
 
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ ᏄᎾ? ᎦᎵᏉᎩᏧ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᏄᎾ ᏓᎪᏘᎭ.
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -84047,6 +84039,14 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎯᎳ ᎢᎦ ᏄᎾ? ᎦᎵᏉᎩᏧ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᏄᎾ ᏓᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
 ᎠᎨᏯ ᏓᎪᏘᎭ.
 \end_layout
 
@@ -84068,22 +84068,6 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᎠᏂᏍᎦᏯᏊ ᏚᏯ ᏓᏂᎪᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎫᎴᏍ ᏓᎪᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏍᎦᏯᏍᎪ ᏩᏯ ᎠᎪᏘᎭᏊ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᎠᎪᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏅᏯ ᎠᎪᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -84130,6 +84114,22 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎫᎴᏍ ᏓᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏍᎦᏯᏍᎪ ᏩᏯ ᎠᎪᏘᎭᏊ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏅᏯ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
 Ꭿ̣ᎪᏘᎭᏍ?
 \end_layout
 
@@ -84143,30 +84143,6 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᏕᏥ̣ᎪᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏚᏯᏍᎪ Ꭿ̣ᎪᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏲᎢᏊᏧ?
-\end_layout
-
-\begin_layout Enumerate
-ᏴᏭᏁᎦᎾᎲ?
-\end_layout
-
-\begin_layout Enumerate
-ᎣᏍᏓᏊᏍ?
-\end_layout
-
-\begin_layout Enumerate
-ᏅᏯᏍᎪ ᏕᎯ̣ᎪᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᏅᏯ ᎠᎪᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -84213,11 +84189,78 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᏚᏯᏍᎪ Ꭿ̣ᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏲᎢᏊᏧ?
+\end_layout
+
+\begin_layout Enumerate
+ᏴᏭᏁᎦᎾᎲ?
+\end_layout
+
+\begin_layout Enumerate
+ᎣᏍᏓᏊᏍ?
+\end_layout
+
+\begin_layout Enumerate
+ᏅᏯᏍᎪ ᏕᎯ̣ᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᏅᏯ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
 ᎦᎯᎪᏘᎭᏍ?
 \end_layout
 
 \begin_layout Enumerate
 ᏕᎯ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -84250,6 +84293,231 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᎯᎳ ᎢᏯᏂ ᎠᏫ? ᎦᎵᏉᎩᏧ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮵ̣ᎪᏘᎭᏍ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᏍᎦᏯᏊᏍ ᎠᏫ ᏓᏂᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᏥᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏲᏁᎦᎲ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᏍᎦᏯᏍᎪ ᎫᎴᏊ ᎠᏂᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ ᎫᎴ? ᏦᎢᏍᎪ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏫᏊ ᏥᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎪᏪᎵᏍ Ꮵ̣ᎪᏘᎭ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᎨᏯ ᏚᏯᏊ ᎠᏂᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏄᎾ ᏕᏥ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎴ Ꭿ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭿ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎯᎪᏘᎭᏍᎪ?
+\end_layout
+
+\begin_layout Enumerate
+ᏣᎳᎩᏍ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᏍᎦᏯᏧ ᎩᏟ ᎠᏂᎪᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᏲᏁᎦᎾ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏕᏥ̣ᎪᏘᎭᏍ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᏪᏌ ᎠᎪᏘᎭᏊ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎭᏫ ᎯᎪᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏴᏭᏁᎦᏊᏧ?
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏲᎢᎲ?
+\end_layout
+
+\begin_layout Enumerate
+ᎣᏍᏓᏧ?
+\end_layout
+
+\begin_layout Enumerate
+ᏲᏁᎦᏊᏍᎪ?
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯᏍᎪ ᏥᎪᏘᎭ?
 \end_layout
 
 \begin_layout Standard
@@ -84379,26 +84647,6 @@ I see the cat.
 \end_layout
 
 \end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ ᏄᎾ? ᎦᎵᏉᎩᏧ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-How many potatoes? It is seven, right?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᏄᎾ ᏓᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The man sees the potatoes.
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -84442,6 +84690,26 @@ raggedcolumns
 
 \end_layout
 
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ ᏄᎾ? ᎦᎵᏉᎩᏧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+How many potatoes? It is seven, right?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᏄᎾ ᏓᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The man sees the potatoes.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎠᎨᏯ ᏓᎪᏘᎭ.
 \end_layout
@@ -84502,46 +84770,6 @@ Only the men see the beans.
 \end_layout
 
 \end_deeper
-\begin_layout Enumerate
-ᎫᎴᏍ ᏓᎪᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Does he or she see the acorns?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏍᎦᏯᏍᎪ ᏩᏯ ᎠᎪᏘᎭᏊ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Is the man only seeing the wolf?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᎠᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-The man sees it.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᏅᏯ ᎠᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-He or she sees the rock.
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -84586,6 +84814,46 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎫᎴᏍ ᏓᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Does he or she see the acorns?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏍᎦᏯᏍᎪ ᏩᏯ ᎠᎪᏘᎭᏊ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Is the man only seeing the wolf?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The man sees it.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏅᏯ ᎠᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+He or she sees the rock.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
 Ꭿ̣ᎪᏘᎭᏍ?
 \end_layout
 
@@ -84625,6 +84893,49 @@ I see them.
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Enumerate
 ᏚᏯᏍᎪ Ꭿ̣ᎪᏘᎭ?
 \end_layout
@@ -84685,6 +84996,26 @@ The man sees the rock.
 \end_layout
 
 \end_deeper
+\begin_layout Enumerate
+ᎦᎯᎪᏘᎭᏍ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do you see them?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏕᎯ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You see them.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -84702,7 +85033,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Subsubsection*
-Set 4
+Set 5
 \end_layout
 
 \begin_layout Standard
@@ -84728,26 +85059,6 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Enumerate
-ᎦᎯᎪᏘᎭᏍ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Do you see them?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᏕᎯ̣ᎪᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-You see them.
-\end_layout
-
-\end_deeper
 \begin_layout Enumerate
 ᎠᏂᎨᏯ ᏙᏯ ᎠᏂᎪᏘᎭ.
 \end_layout
@@ -84825,6 +85136,375 @@ Does he or she see the potato?
 \begin_deeper
 \begin_layout Enumerate
 How many deer? It is seven, right?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮵ̣ᎪᏘᎭᏍ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do I see it?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᏍᎦᏯᏊᏍ ᎠᏫ ᏓᏂᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Are only the men seeing the deer?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I see him/her.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᏁᎦᎲ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+But for it being English?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᏍᎦᏯᏍᎪ ᎫᎴᏊ ᎠᏂᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Are the men seeing only the acorn?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ ᎫᎴ? ᏦᎢᏍᎪ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+How many acorns? Is it three?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫᏊ ᏥᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I see only the deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎪᏪᎵᏍ Ꮵ̣ᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do I see the paper?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᎨᏯ ᏚᏯᏊ ᎠᏂᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The women see only the bean.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏄᎾ ᏕᏥ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I see the potatoes.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎫᎴ Ꭿ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You see the acorn.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꭿ̣ᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You see it.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎪᏘᎭᏍᎪ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do you see him/her?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏣᎳᎩᏍ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Is it Cherokee?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᏍᎦᏯᏧ ᎩᏟ ᎠᏂᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The men see the dog, right?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᏁᎦᎾ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+What about it being English?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏕᏥ̣ᎪᏘᎭᏍ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do I see them?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏍᎦᏯ ᏪᏌ ᎠᎪᏘᎭᏊ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The man is only seeing the cat.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎭᏫ ᎯᎪᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You see the deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏴᏭᏁᎦᏊᏧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It is just English, right?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏲᎢᎲ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+But for it being bad?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎣᏍᏓᏧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It is good, right?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᏁᎦᏊᏍᎪ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Is it just English?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏯᏍᎪ ᏥᎪᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do I see a wolf?
 \end_layout
 
 \end_deeper
