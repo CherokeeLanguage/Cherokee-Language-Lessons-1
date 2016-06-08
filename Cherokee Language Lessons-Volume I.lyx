@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.32 $
+$Revision: 1.33 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/07 03:29:18 $ UTC
+$Date: 2016/06/08 00:14:08 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.32 $
+$Revision: 1.33 $
 \noun default
 .
 \end_layout
@@ -81494,7 +81494,139 @@ Clitics are special word endings that are used to add or change the meanings
 \end_layout
 
 \begin_layout Description
--ᏍᎪ [-sgo] 
+-Ꮂ [-hv] 
+\begin_inset Quotes eld
+\end_inset
+
+But?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When we add 
+\begin_inset Quotes eld
+\end_inset
+
+-hv
+\begin_inset Quotes erd
+\end_inset
+
+ to the end of the first word in a sentence, we indicate we are asking 
+\begin_inset Quotes eld
+\end_inset
+
+But for?
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏌᏊ.
+ ᏌᏊᎲ? 
+\begin_inset Quotes eld
+\end_inset
+
+One.
+ But for the one?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏂᎯ.
+ ᏂᎯᎲ? 
+\begin_inset Quotes eld
+\end_inset
+
+You.
+ But for you?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-Ꮎ [-na] 
+\begin_inset Quotes eld
+\end_inset
+
+What of? What about?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When we add 
+\begin_inset Quotes eld
+\end_inset
+
+-na
+\begin_inset Quotes erd
+\end_inset
+
+ to the end of the first word in a sentence, we indicate we are asking 
+\begin_inset Quotes eld
+\end_inset
+
+What about? What of?
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Itemize
+ᏌᏊ.
+ ᏌᏊᎾ? 
+\begin_inset Quotes eld
+\end_inset
+
+One.
+ What of the one?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎠᏴ.
+ ᎠᏴᎾ? 
+\begin_inset Quotes eld
+\end_inset
+
+Me.
+ What about me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+-ᏍᎪ,
+\begin_inset space ~
+\end_inset
+
+-Ꮝ [-sgo, -s] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -81519,99 +81651,6 @@ When we add
 \end_inset
 
 Is it?
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Examples:
-\end_layout
-
-\begin_layout Itemize
-ᎰᏩ.
- ᎰᏩᏍᎪ? 
-\begin_inset Quotes eld
-\end_inset
-
-Okay.
- Is it Okay?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᏌᏊ.
- ᏌᏊᏍᎪ? 
-\begin_inset Quotes eld
-\end_inset
-
-One.
- Is it one?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏴ.
- ᎠᏴᏍᎪ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Me.
- Is it me?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎥᏝ.
- ᎥᏝᏍᎪ? 
-\begin_inset Quotes eld
-\end_inset
-
-No.
- Is it no?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
--Ꮝ [-s] 
-\begin_inset Quotes eld
-\end_inset
-
-Yes or No?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-This is the short form of 
-\begin_inset Quotes eld
-\end_inset
-
--ᏍᎪ
-\begin_inset Quotes erd
-\end_inset
-
- and is used more often in everyday speech than the full form of 
-\begin_inset Quotes eld
-\end_inset
-
--ᏍᎪ
 \begin_inset Quotes erd
 \end_inset
 
@@ -81651,6 +81690,21 @@ One.
 \end_layout
 
 \begin_layout Itemize
+ᎠᏴ.
+ ᎠᏴᏍᎪ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Me.
+ Is it me?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
 ᏂᎯ.
  ᏂᎯᏍ.
  
@@ -81667,7 +81721,7 @@ You.
 
 \begin_layout Itemize
 ᎥᏝ.
- ᎥᏝᏍ? 
+ ᎥᏝᏍᎪ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -81679,64 +81733,24 @@ No.
 
 \end_layout
 
-\begin_layout Description
--Ꮷ [-ju] 
-\begin_inset Quotes eld
-\end_inset
-
-It is, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
-When we add 
+The short form 
 \begin_inset Quotes eld
 \end_inset
 
--Ꮷ
+-Ꮝ
 \begin_inset Quotes erd
 \end_inset
 
- to the end of the first word in a sentence we are asking 
+ is used more often in everyday speech than the full form 
 \begin_inset Quotes eld
 \end_inset
 
-It is, isn't it?
+-ᏍᎪ
 \begin_inset Quotes erd
 \end_inset
 
 .
-\end_layout
-
-\begin_layout Itemize
-ᏌᏊ.
- ᏌᏊᏧ? 
-\begin_inset Quotes eld
-\end_inset
-
-One.
- It is one, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎰᏩ.
- ᎰᏩᏧ? 
-\begin_inset Quotes eld
-\end_inset
-
-Okay.
- It's okay, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \begin_layout Description
@@ -81815,11 +81829,11 @@ Good.
 \end_layout
 
 \begin_layout Description
--Ꮎ [-na] 
+-Ꮷ [-ju] 
 \begin_inset Quotes eld
 \end_inset
 
-What of? What about?
+It is, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -81831,97 +81845,29 @@ When we add
 \begin_inset Quotes eld
 \end_inset
 
--na
+-Ꮷ
 \begin_inset Quotes erd
 \end_inset
 
- to the end of the first word in a sentence, we indicate we are asking 
+ to the end of the first word in a sentence we are asking 
 \begin_inset Quotes eld
 \end_inset
 
-What about? What of?
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Examples:
-\end_layout
-
-\begin_layout Itemize
-ᏌᏊ.
- ᏌᏊᎾ? 
-\begin_inset Quotes eld
-\end_inset
-
-One.
- What of the one?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏴ.
- ᎠᏴᎾ? 
-\begin_inset Quotes eld
-\end_inset
-
-Me.
- What about me?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
--Ꮂ [-hv] 
-\begin_inset Quotes eld
-\end_inset
-
-But?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-When we add 
-\begin_inset Quotes eld
-\end_inset
-
--hv
-\begin_inset Quotes erd
-\end_inset
-
- to the end of the first word in a sentence, we indicate we are asking 
-\begin_inset Quotes eld
-\end_inset
-
-But for?
+It is, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
 .
 \end_layout
 
-\begin_layout Standard
-Examples:
-\end_layout
-
 \begin_layout Itemize
 ᏌᏊ.
- ᏌᏊᎲ? 
+ ᏌᏊᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
 One.
- But for the one?
+ It is one, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -81929,13 +81875,13 @@ One.
 \end_layout
 
 \begin_layout Itemize
-ᏂᎯ.
- ᏂᎯᎲ? 
+ᎰᏩ.
+ ᎰᏩᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
-You.
- But for you?
+Okay.
+ It's okay, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
