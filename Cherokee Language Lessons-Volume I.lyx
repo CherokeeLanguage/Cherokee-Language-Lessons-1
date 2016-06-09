@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.55 $
+$Revision: 1.56 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/09 02:15:11 $ UTC
+$Date: 2016/06/09 02:16:25 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.55 $
+$Revision: 1.56 $
 \noun default
 .
 \end_layout
@@ -85741,6 +85741,66 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+ᎠᏂᎠᏫ [a¹ni²ɂạ²hwi] 
+\begin_inset Quotes eld
+\end_inset
+
+The deer people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᎩᏟ [a¹ni²gi²hli] 
+\begin_inset Quotes eld
+\end_inset
+
+The dog people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᏥᏍᏚ [a¹ni²ji²sdu] 
+\begin_inset Quotes eld
+\end_inset
+
+The rabbit people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᏩᎭᏯ [a¹ni²wạ²hạ²ya] 
+\begin_inset Quotes eld
+\end_inset
+
+The wolf people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᏪᏌ [a¹ni²we²³sa] 
+\begin_inset Quotes eld
+\end_inset
+
+The cat people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏙᎯ [to¹hi⁴] 
 \begin_inset Quotes eld
 \end_inset
@@ -86134,7 +86194,7 @@ Three slips of paper with
 \begin_inset Quotes eld
 \end_inset
 
-Ꭰ
+ᎠᏂᏩᏯ
 \begin_inset Quotes erd
 \end_inset
 
@@ -86146,7 +86206,55 @@ Three slips of paper with
 \begin_inset Quotes eld
 \end_inset
 
-Ꭱ
+ᎠᏂᏥᏔᎦ
+\begin_inset Quotes erd
+\end_inset
+
+ on them.
+\end_layout
+
+\begin_layout Itemize
+Three slips of paper with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏂᎩᏟ
+\begin_inset Quotes erd
+\end_inset
+
+ on them.
+\end_layout
+
+\begin_layout Itemize
+Three slips of paper with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏂᏪᏌ
+\begin_inset Quotes erd
+\end_inset
+
+ on them.
+\end_layout
+
+\begin_layout Itemize
+Three slips of paper with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏂᏥᏍᏚ
+\begin_inset Quotes erd
+\end_inset
+
+ on them.
+\end_layout
+
+\begin_layout Itemize
+Three slips of paper with 
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏂᎠᏫ
 \begin_inset Quotes erd
 \end_inset
 
@@ -86367,6 +86475,42 @@ There is only one
 \end_inset
 
 .
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ holds an 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ paper and the one 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ holds an 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ paper.
 \end_layout
 
 \begin_deeper
@@ -86557,6 +86701,42 @@ There two
 \end_inset
 
 .
+\begin_inset Newline newline
+\end_inset
+
+Each 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ holds an 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ paper and the one 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ holds an 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ paper.
 \end_layout
 
 \begin_deeper
@@ -86747,6 +86927,42 @@ There are two
 \end_inset
 
  group.
+\begin_inset Newline newline
+\end_inset
+
+Each 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ holds an 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ paper and each 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ holds an 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ paper.
 \end_layout
 
 \begin_deeper
