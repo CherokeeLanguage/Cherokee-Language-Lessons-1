@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.56 $
+$Revision: 1.57 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/09 02:16:25 $ UTC
+$Date: 2016/06/09 02:36:11 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.56 $
+$Revision: 1.57 $
 \noun default
 .
 \end_layout
@@ -86190,7 +86190,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-Three slips of paper with 
+Three sheets of paper with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86199,22 +86199,11 @@ Three slips of paper with
 \end_inset
 
  on them.
+ It's better of pictures of wolves are on them.
 \end_layout
 
 \begin_layout Itemize
-Three slips of paper with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎠᏂᏥᏔᎦ
-\begin_inset Quotes erd
-\end_inset
-
- on them.
-\end_layout
-
-\begin_layout Itemize
-Three slips of paper with 
+Three sheets of paper with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86223,10 +86212,11 @@ Three slips of paper with
 \end_inset
 
  on them.
+ It's better of pictures of dogs are on them.
 \end_layout
 
 \begin_layout Itemize
-Three slips of paper with 
+Three sheets of paper with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86235,10 +86225,11 @@ Three slips of paper with
 \end_inset
 
  on them.
+ It's better of pictures of cats are on them.
 \end_layout
 
 \begin_layout Itemize
-Three slips of paper with 
+Three sheets of paper with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86247,10 +86238,11 @@ Three slips of paper with
 \end_inset
 
  on them.
+ It's better of pictures of rabbits are on them.
 \end_layout
 
 \begin_layout Itemize
-Three slips of paper with 
+Three sheets of paper with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86259,6 +86251,7 @@ Three slips of paper with
 \end_inset
 
  on them.
+ It's better of pictures of deer are on them.
 \end_layout
 
 \begin_layout Standard
@@ -86275,18 +86268,6 @@ end{multicols}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-During the exercises you must pretend that the people and animals are alive.
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-Substitute pictures or drawings as needed.
 \end_layout
 
 \begin_layout Standard
@@ -86394,15 +86375,7 @@ Keep rotating until everyone has been in both positions of
 \begin_layout Standard
 ☞ 
 \emph on
-Any imaginary study partners should not rotate into the 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- position.
+Any imaginary study partners should be included in the rotations.
 \end_layout
 
 \begin_layout Standard
@@ -86435,6 +86408,7 @@ Each challenge-response should be done as in the following examples:
 
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᏌᏊ→.
+ (ᎠᏂᎩᏟ↺, ᎠᏂᏥᏍᏚ→)
 \begin_inset Newline newline
 \end_inset
 
@@ -86470,7 +86444,7 @@ There is only one
 \begin_inset Quotes eld
 \end_inset
 
-Ꭱ
+ᎠᏂᏥᏍᏚ
 \begin_inset Quotes erd
 \end_inset
 
@@ -86490,7 +86464,7 @@ There is only one
 \begin_inset Quotes eld
 \end_inset
 
-Ꭰ
+ᎠᏂᎩᏟ
 \begin_inset Quotes erd
 \end_inset
 
@@ -86506,7 +86480,7 @@ There is only one
 \begin_inset Quotes eld
 \end_inset
 
-Ꭱ
+ᎠᏂᏥᏍᏚ
 \begin_inset Quotes erd
 \end_inset
 
@@ -86515,7 +86489,7 @@ There is only one
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
 \begin_inset Newline newline
 \end_inset
 
@@ -86535,11 +86509,19 @@ There is only one
 \begin_inset Quotes erd
 \end_inset
 
-: Hello, things are well, right?
+: Hello 
+\begin_inset Quotes eld
+\end_inset
+
+the rabbit people
+\begin_inset Quotes erd
+\end_inset
+
+, things are well, right?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᎩᏟ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \begin_inset Newline newline
 \end_inset
@@ -86552,7 +86534,15 @@ There is only one
 \begin_inset Quotes erd
 \end_inset
 
- responds: Things are just fine.
+ responds: Hello 
+\begin_inset Quotes eld
+\end_inset
+
+the dog people
+\begin_inset Quotes erd
+\end_inset
+
+, things are just fine.
  But what about you?
 \end_layout
 
@@ -86641,6 +86631,7 @@ There is only one
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᏌᏊ→.
+ (ᎠᏂᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
 \begin_inset Newline newline
 \end_inset
 
@@ -86716,7 +86707,7 @@ Each
 \begin_inset Quotes eld
 \end_inset
 
-Ꭰ
+ᎠᏂᏩᏯ
 \begin_inset Quotes erd
 \end_inset
 
@@ -86732,7 +86723,7 @@ Each
 \begin_inset Quotes eld
 \end_inset
 
-Ꭱ
+ᎠᏂᏥᏍᏚ
 \begin_inset Quotes erd
 \end_inset
 
@@ -86741,7 +86732,7 @@ Each
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
 \begin_inset Newline newline
 \end_inset
 
@@ -86761,11 +86752,19 @@ Each
 \begin_inset Quotes erd
 \end_inset
 
-: Hello, things are well, right?
+: Hello 
+\begin_inset Quotes eld
+\end_inset
+
+the rabbit people
+\begin_inset Quotes erd
+\end_inset
+
+, things are well, right?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \begin_inset Newline newline
 \end_inset
@@ -86778,7 +86777,15 @@ Each
 \begin_inset Quotes erd
 \end_inset
 
- responds: Things are just fine.
+ responds: Hello 
+\begin_inset Quotes eld
+\end_inset
+
+the wolf people
+\begin_inset Quotes erd
+\end_inset
+
+, things are just fine.
  But what about you two?
 \end_layout
 
@@ -86866,7 +86873,8 @@ Each
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᎠᏂᏦᎢ→.
+[Ꭰ] ᎠᏂᏦᎢ↺ ᎠᎴ ᏌᏊ→.
+ (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
 \begin_inset Newline newline
 \end_inset
 
@@ -86967,7 +86975,7 @@ Each
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏪᏌ, ᏙᎯᏧ?
 \begin_inset Newline newline
 \end_inset
 
@@ -86987,11 +86995,19 @@ Each
 \begin_inset Quotes erd
 \end_inset
 
-: Hello, things are well, right?
+: Hello 
+\begin_inset Quotes eld
+\end_inset
+
+the cat people
+\begin_inset Quotes erd
+\end_inset
+
+, things are well, right?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᎭᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \begin_inset Newline newline
 \end_inset
@@ -87004,7 +87020,15 @@ Each
 \begin_inset Quotes erd
 \end_inset
 
- responds: Things are just fine.
+ responds: Hello 
+\begin_inset Quotes eld
+\end_inset
+
+the wolf people
+\begin_inset Quotes erd
+\end_inset
+
+, things are just fine.
  But what about you two?
 \end_layout
 
