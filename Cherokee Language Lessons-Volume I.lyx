@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.47 $
+$Revision: 1.48 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 13:22:20 $ UTC
+$Date: 2016/06/09 00:50:08 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.47 $
+$Revision: 1.48 $
 \noun default
 .
 \end_layout
@@ -85798,7 +85798,7 @@ Things are just well.
 \begin_inset Quotes eld
 \end_inset
 
-I will see you again.
+I will see you one again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85810,7 +85810,7 @@ I will see you again.
 \begin_inset Quotes eld
 \end_inset
 
-You will see me again.
+You one will see me again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85834,7 +85834,7 @@ I will see you two again.
 \begin_inset Quotes eld
 \end_inset
 
-He and I, we will see you again.
+We two will see you one again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85846,7 +85846,7 @@ He and I, we will see you again.
 \begin_inset Quotes eld
 \end_inset
 
-He and I, we will see you two again.
+We two will see you two again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85858,7 +85858,7 @@ He and I, we will see you two again.
 \begin_inset Quotes eld
 \end_inset
 
-You will see us, him and me, again.
+You one will see us two again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85870,19 +85870,7 @@ You will see us, him and me, again.
 \begin_inset Quotes eld
 \end_inset
 
-You two will see me again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-You two will see us, him and me, again.
+You two will see me or us two again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85906,7 +85894,7 @@ I will see you all again.
 \begin_inset Quotes eld
 \end_inset
 
-He and I, we will see you all again.
+We two will see you all again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85918,31 +85906,7 @@ He and I, we will see you all again.
 \begin_inset Quotes eld
 \end_inset
 
-They and I, we will see you again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-They and I, we will see you two again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-They and I, we will see you all again.
+We all will see you one or you two or you all again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85954,7 +85918,7 @@ They and I, we will see you all again.
 \begin_inset Quotes eld
 \end_inset
 
-You will see us, them and me, again.
+You one will see us all again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85966,7 +85930,7 @@ You will see us, them and me, again.
 \begin_inset Quotes eld
 \end_inset
 
-You two will see us, them and me, again.
+You two will see us all again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85978,31 +85942,7 @@ You two will see us, them and me, again.
 \begin_inset Quotes eld
 \end_inset
 
-You all will see me again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-You all will see us, him and me, again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-You all will see us, them and me, again.
+You all will see me or us two or us all again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -86026,7 +85966,7 @@ Later let us two, you and I, see each other again.
 \begin_inset Quotes eld
 \end_inset
 
-Later let us see each other again.
+Later let us all see each other again.
 \begin_inset Quotes erd
 \end_inset
 
