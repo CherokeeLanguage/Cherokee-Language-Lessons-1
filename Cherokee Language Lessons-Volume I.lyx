@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.46 $
+$Revision: 1.47 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/08 13:18:03 $ UTC
+$Date: 2016/06/08 13:22:20 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.46 $
+$Revision: 1.47 $
 \noun default
 .
 \end_layout
@@ -85745,7 +85745,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-Peace.
+Peaceful.
  Well in health.
 \begin_inset Quotes erd
 \end_inset
@@ -85806,30 +85806,6 @@ I will see you again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᏛᎪᎯ [dv²sdv²gv²go²hi] 
-\begin_inset Quotes eld
-\end_inset
-
-I will see you two again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏛᎢᏨᎪᎯ [dv²ɂi¹jv²gv²go²hi] 
-\begin_inset Quotes eld
-\end_inset
-
-I will see you all again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᏛᏍᎩᎪᎯ [dv²sgi²go²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -85842,11 +85818,131 @@ You will see me again.
 \end_layout
 
 \begin_layout Description
+ᏛᏍᏛᎪᎯ [dv²sdv²go²hi] 
+\begin_inset Quotes eld
+\end_inset
+
+I will see you two again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He and I, we will see you again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He and I, we will see you two again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏛᏍᎩᏂᎪᎯ [dv²sgị²ni²go²hi] 
 \begin_inset Quotes eld
 \end_inset
 
+You will see us, him and me, again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
 You two will see me again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+You two will see us, him and me, again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏛᎢᏨᎪᎯ [dv²ɂi¹jv²go²hi] 
+\begin_inset Quotes eld
+\end_inset
+
+I will see you all again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+He and I, we will see you all again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+They and I, we will see you again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+They and I, we will see you two again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+They and I, we will see you all again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -85858,7 +85954,55 @@ You two will see me again.
 \begin_inset Quotes eld
 \end_inset
 
+You will see us, them and me, again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+You two will see us, them and me, again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
 You all will see me again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+You all will see us, him and me, again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+You all will see us, them and me, again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -178160,11 +178304,11 @@ begin{landscape}
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 ᏴᏫ
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 English Subject Ordered
 \end_layout
 
@@ -178191,7 +178335,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 He \SpecialChar \ldots{}
@@ -179338,7 +179482,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 He and I, we \SpecialChar \ldots{}
@@ -180206,7 +180350,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 I \SpecialChar \ldots{}
@@ -180960,7 +181104,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 They \SpecialChar \ldots{}
@@ -182221,7 +182365,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 They and I, we \SpecialChar \ldots{}
@@ -183089,7 +183233,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 You all \SpecialChar \ldots{}
@@ -183721,7 +183865,7 @@ yourselves
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 You all and I, we \SpecialChar \ldots{}
@@ -184424,7 +184568,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 You one \SpecialChar \ldots{}
@@ -185178,7 +185322,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 You one and I, we \SpecialChar \ldots{}
@@ -185881,7 +186025,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 You two \SpecialChar \ldots{}
@@ -186536,7 +186680,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 English Object Ordered
 \end_layout
 
@@ -186563,7 +186707,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -187380,7 +187524,7 @@ each other
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -188185,7 +188329,7 @@ him
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -188436,7 +188580,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -189595,7 +189739,7 @@ it
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -190007,7 +190151,7 @@ me
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -190258,7 +190402,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -190851,7 +190995,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -191656,7 +191800,7 @@ them-animate
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -192815,7 +192959,7 @@ them-inanimate
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -193066,7 +193210,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -193478,7 +193622,7 @@ us, him and me
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -193890,7 +194034,7 @@ us, them and me
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -194137,7 +194281,7 @@ us, you all and me
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -194384,7 +194528,7 @@ us, you one and me
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -194796,7 +194940,7 @@ you all
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -195208,7 +195352,7 @@ you one
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -195620,7 +195764,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -195871,7 +196015,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -196141,7 +196285,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Passive Voice
 \end_layout
 
@@ -196168,7 +196312,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 \SpecialChar \ldots{}
@@ -196858,7 +197002,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Syllabary Ordered
 \end_layout
 
@@ -196885,7 +197029,7 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 Ꭰ
 \end_layout
 
@@ -197520,7 +197664,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭱ
@@ -198078,7 +198222,7 @@ You all being
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭲ
@@ -199263,7 +199407,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭳ
@@ -200118,7 +200262,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭴ
@@ -200533,7 +200677,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭵ
@@ -200659,7 +200803,7 @@ I being
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭶ
@@ -200899,7 +201043,7 @@ them-animate
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭸ
@@ -201520,7 +201664,7 @@ They being
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭹ
@@ -201762,7 +201906,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭺ
@@ -202055,7 +202199,7 @@ them-animate
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭼ
@@ -202238,7 +202382,7 @@ me
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭽ
@@ -202368,7 +202512,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꭿ
@@ -202553,7 +202697,7 @@ him
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꮝ
@@ -203176,7 +203320,7 @@ you two
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꮣ
@@ -203591,7 +203735,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꮥ
@@ -204511,7 +204655,7 @@ them-inanimate
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꮩ
@@ -205040,7 +205184,7 @@ a
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꮪ
@@ -205398,7 +205542,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꮳ
@@ -205640,7 +205784,7 @@ b
 
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Subsection
 
 \lang english
 Ꮵ
@@ -205859,7 +206003,7 @@ end{landscape}
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 Also Published By The Author
 \end_layout
 
