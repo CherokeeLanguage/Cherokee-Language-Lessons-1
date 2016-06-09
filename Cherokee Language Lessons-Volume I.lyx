@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.49 $
+$Revision: 1.50 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/09 00:55:56 $ UTC
+$Date: 2016/06/09 00:56:33 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.49 $
+$Revision: 1.50 $
 \noun default
 .
 \end_layout
@@ -85762,7 +85762,11 @@ It is well, isn't it?
 \begin_inset Quotes erd
 \end_inset
 
- or 
+
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -85782,7 +85786,11 @@ It is just well.
 \begin_inset Quotes erd
 \end_inset
 
- or 
+
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -85954,7 +85962,7 @@ You all will see me or us two or us all again.
 \begin_inset Quotes eld
 \end_inset
 
-Later let us two, you one and I, see each other again.
+Later let us two see each other again.
 \begin_inset Quotes erd
 \end_inset
 
