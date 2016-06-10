@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.64 $
+$Revision: 1.65 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/10 00:22:05 $ UTC
+$Date: 2016/06/10 01:27:16 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.64 $
+$Revision: 1.65 $
 \noun default
 .
 \end_layout
@@ -89074,6 +89074,145 @@ Tenth Lesson
 ᏘᎪᎵᏯ (Read them)
 \end_layout
 
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏓᎩᏏ [dạ²ksi] 
+\begin_inset Quotes eld
+\end_inset
+
+Terrapin.
+ Turtle.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏌᎶᎵ [sạ²lo²³li] 
+\begin_inset Quotes eld
+\end_inset
+
+A squirrel.
+ Squirrels.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏌᏛᏗ [sạ²dv³di] 
+\begin_inset Quotes eld
+\end_inset
+
+A trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᏌᏛᏗ [di²sạ²dv³di] 
+\begin_inset Quotes eld
+\end_inset
+
+Traps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏎᎷ [se²³lu] 
+\begin_inset Quotes eld
+\end_inset
+
+Corn.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏏᏆ [sih²gwa] 
+\begin_inset Quotes eld
+\end_inset
+
+A pig.
+ Pigs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏡᎬᎢ [hlgv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+A tree.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏕᏡᎬᎢ [dehl²³gv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Trees.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 ᏗᏎᏍᏗ (Numbers)
 \end_layout
@@ -89847,6 +89986,14 @@ Where are the count nouns?
 
 \begin_layout Itemize
 How many are the nouns?
+\end_layout
+
+\begin_layout Itemize
+How many are near you?
+\end_layout
+
+\begin_layout Itemize
+How many are near me?
 \end_layout
 
 \begin_layout Itemize
