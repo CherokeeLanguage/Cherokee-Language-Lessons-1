@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.65 $
+$Revision: 1.66 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/10 01:27:16 $ UTC
+$Date: 2016/06/10 20:52:24 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.65 $
+$Revision: 1.66 $
 \noun default
 .
 \end_layout
@@ -82172,27 +82172,7 @@ An acorn.
 \end_layout
 
 \begin_layout Description
-ᏙᏯ [do²ya] (vt)  
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-phantomsection{}
-\end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "_11b9b"
-
-\end_inset
-
-
+ᏙᏯ [do²ya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89095,12 +89075,63 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏓᎩᏏ [dạ²ksi] 
+ᎠᎨᏳᏣ [ạ²ge²hyu⁴ja] 
 \begin_inset Quotes eld
 \end_inset
 
-Terrapin.
- Turtle.
+A girl.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎨᏳᏣ [ạ²ni²ge²hyu⁴ja] 
+\begin_inset Quotes eld
+\end_inset
+
+Girls.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏧᏣ [ạ²chu⁴ja] 
+\begin_inset Quotes eld
+\end_inset
+
+A boy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏧᏣ [ạ²ni²chu⁴ja] 
+\begin_inset Quotes eld
+\end_inset
+
+Boys.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Ꭷ [ka] 
+\begin_inset Quotes eld
+\end_inset
+
+Hi.
 \begin_inset Quotes erd
 \end_inset
 
@@ -89147,24 +89178,12 @@ Traps.
 
 \end_deeper
 \begin_layout Description
-ᏎᎷ [se²³lu] 
+ᏐᏈᎵ [so²³gwị³li] 
 \begin_inset Quotes eld
 \end_inset
 
-Corn.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏏᏆ [sih²gwa] 
-\begin_inset Quotes eld
-\end_inset
-
-A pig.
- Pigs.
+A horse.
+ Horses.
 \begin_inset Quotes erd
 \end_inset
 
@@ -89185,7 +89204,7 @@ A tree.
 
 \begin_deeper
 \begin_layout Description
-ᏕᏡᎬᎢ [dehl²³gv⁴ɂi] 
+ᏕᏡᎬᎢ [de²³hlgv⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89197,6 +89216,19 @@ Trees.
 \end_layout
 
 \end_deeper
+\begin_layout Description
+ᏲᎾ [yo²³na] 
+\begin_inset Quotes eld
+\end_inset
+
+A bear.
+ Bears.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -89238,7 +89270,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏃᏘ [not²] 
+ᏃᏘ [not², nọ²ti] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89255,7 +89287,8 @@ Naught.
 \begin_inset Quotes eld
 \end_inset
 
-Nothing.
+None.
+ Nothing.
  Zero.
 \begin_inset Quotes erd
 \end_inset
@@ -89555,13 +89588,7 @@ naught
 \end_inset
 
 .
- It is not a very commonly used word.
-\end_layout
-
-\begin_layout Standard
-☞
-\emph on
- ᎧᏂᎩᏓ is the most common word used when referring to zero.
+ It was used in 19th century math texts.
 \end_layout
 
 \begin_layout Standard
@@ -89985,15 +90012,15 @@ Where are the count nouns?
 \end_layout
 
 \begin_layout Itemize
-How many are the nouns?
+How many are the nouns? count, ᏃᏘ
 \end_layout
 
 \begin_layout Itemize
-How many are near you?
+How many noun are near you? count, ᏃᏘ
 \end_layout
 
 \begin_layout Itemize
-How many are near me?
+How many noun are near me? count, ᏃᏘ
 \end_layout
 
 \begin_layout Itemize
@@ -90026,6 +90053,218 @@ Yes, it is just count nouns in group of mixed nouns, right?
 
 \begin_layout Standard
 You will need the following props:
+\end_layout
+
+\begin_layout Description
+ᎠᎨᏯ [ạ²ge²³hya] 
+\begin_inset Quotes eld
+\end_inset
+
+A woman.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᎨᏯ [ạ²ni²ge²³hya] 
+\begin_inset Quotes eld
+\end_inset
+
+Women.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏍᎦᏯ [ạ²sgạ²ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A man.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᏍᎦᏯ [ạ²ni²sgạ²ya] 
+\begin_inset Quotes eld
+\end_inset
+
+Men.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎩᏟ [gi²hli] 
+\begin_inset Quotes eld
+\end_inset
+
+A dog.
+ Dogs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏄᎾ [nu²³na] 
+\begin_inset Quotes eld
+\end_inset
+
+A potato.
+ Potatoes.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏅᏯ [nv¹ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A rock.
+ Rocks.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏪᏌ [we²³sa] 
+\begin_inset Quotes eld
+\end_inset
+
+A cat.
+ Cats.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎭᏫ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏫ [ạ²hạ²wi, ạ²hwi] 
+\begin_inset Quotes eld
+\end_inset
+
+A deer.
+ Deer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎪᏪᎵ [go²hwe²li] 
+\begin_inset Quotes eld
+\end_inset
+
+A sheet of paper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎪᏪᎵ [dị²go²hwe²li] 
+\begin_inset Quotes eld
+\end_inset
+
+Sheets of paper.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎫᎴ [gu²le] 
+\begin_inset Quotes eld
+\end_inset
+
+An acorn.
+ Acorns.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏙᏯ [do²ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A beaver.
+ Beaver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᏯ [tu²³ya] 
+\begin_inset Quotes eld
+\end_inset
+
+A bean.
+ Beans.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᏍᏚ [ji²sdu] 
+\begin_inset Quotes eld
+\end_inset
+
+A rabbit.
+ Rabbits.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏩᎭᏯ,
+\begin_inset space ~
+\end_inset
+
+ᏩᏯ [wạ²hạ²ya, wạ²hya] 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf.
+ Wolves.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
