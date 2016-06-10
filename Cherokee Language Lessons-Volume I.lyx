@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.62 $
+$Revision: 1.63 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/09 03:10:06 $ UTC
+$Date: 2016/06/09 03:15:36 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.62 $
+$Revision: 1.63 $
 \noun default
 .
 \end_layout
@@ -89075,2629 +89075,7 @@ Tenth Lesson
 \end_layout
 
 \begin_layout Subsection
-Counting
-\end_layout
-
-\begin_layout Standard
-These exercises cover the counting numbers 
-\begin_inset Quotes eld
-\end_inset
-
-chanela (ᏣᏁᎳ)
-\begin_inset Quotes erd
-\end_inset
-
- through 
-\begin_inset Quotes eld
-\end_inset
-
-nigadu (ᏂᎦᏚ)
-\begin_inset Quotes erd
-\end_inset
-
-.
- 
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᏁᎳ,
-\begin_inset space ~
-\end_inset
-
-ᏧᏁᎳ [chạ²ne²³la, chụ²ne²³la] 
-\begin_inset Quotes eld
-\end_inset
-
-Eight.
- 
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏐᏁᎳ [sọ³hne²³la] 
-\begin_inset Quotes eld
-\end_inset
-
-Nine.
- 
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏍᎪᎯ [sgo²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Ten.
- 
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏌᏚ [sa²ɂdu] 
-\begin_inset Quotes eld
-\end_inset
-
-Eleven.
- 
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏔᎵᏚ [tạ²ɂldu] 
-\begin_inset Quotes eld
-\end_inset
-
-Twelve.
- 
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏦᎦᏚ [jọ²ɂga²ɂdu] 
-\begin_inset Quotes eld
-\end_inset
-
-Thirteen.
- 
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏂᎦᏚ [nị²ga²ɂdu] 
-\begin_inset Quotes eld
-\end_inset
-
-Fourteen.
- 
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Write out the Cherokee words for each of the following quantities:
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="7">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="7">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_554_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_53_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_54_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_551_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_552_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_553_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size larger
-\begin_inset Graphics
-	filename artwork/tally_55_black.png
-	lyxscale 28
-	height 0.8em
-	groupId dice
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="7" columns="7">
-<features rotate="0" tabularvalignment="middle">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚂
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚄
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅⚀
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚁
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚃
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\size largest
-⚅⚅
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Write out tally marks for each of the following quantities.
- 
-\emph on
-Remember to count aloud in Cherokee as you write each mark.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Sgohi, Taldu, Sgohi, Sadu
-\end_layout
-
-\begin_layout Enumerate
-Taldu, Jogadu, Nigadu, Jogadu
-\end_layout
-
-\begin_layout Enumerate
-Sgohi, Jogadu, Nigadu, Chanela
-\end_layout
-
-\begin_layout Enumerate
-Chanela, Jogadu, Sohnela, Chanela
-\end_layout
-
-\begin_layout Enumerate
-Sgohi, Sohnela, Chanela, Taldu
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Write out all the numbers in the following ranges.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Sohnela, Sadu
-\end_layout
-
-\begin_layout Enumerate
-Sohnela, Taldu
-\end_layout
-
-\begin_layout Enumerate
-Chanela, Taldu
-\end_layout
-
-\begin_layout Enumerate
-Sadu, Jogadu
-\end_layout
-
-\begin_layout Enumerate
-Chanela, Sgohi
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Ordering
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-Reminder
-\emph default
-: 
-\end_layout
-
-\begin_layout Itemize
-The ordering numbers are created by dropping the ending vowel then adding
- 
-\begin_inset Quotes eld
-\end_inset
-
--inei
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-If the ordering number ends in 
-\begin_inset Quotes eld
-\end_inset
-
--u
-\begin_inset Quotes erd
-\end_inset
-
-, you don't drop the ending vowel and instead add 
-\begin_inset Quotes eld
-\end_inset
-
--sinei
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-Don't forget that 
-\begin_inset Quotes eld
-\end_inset
-
-sagwu
-\begin_inset Quotes erd
-\end_inset
-
- is special.
-\end_layout
-
-\begin_layout Standard
-For each of the following, 
-\emph on
-handwrite
-\emph default
- the counting number followed by its ordering form:
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Joi
-\end_layout
-
-\begin_layout Enumerate
-Nvhgi
-\end_layout
-
-\begin_layout Enumerate
-Sadu
-\end_layout
-
-\begin_layout Enumerate
-Tali
-\end_layout
-
-\begin_layout Enumerate
-Hisgi
-\end_layout
-
-\begin_layout Enumerate
-Sagwu
-\end_layout
-
-\begin_layout Enumerate
-Sgohi
-\end_layout
-
-\begin_layout Enumerate
-Taldu
-\end_layout
-
-\begin_layout Enumerate
-Jogadu
-\end_layout
-
-\begin_layout Enumerate
-Nigadu
-\end_layout
-
-\begin_layout Enumerate
-Sohnela
-\end_layout
-
-\begin_layout Enumerate
-Sudali
-\end_layout
-
-\begin_layout Enumerate
-Chanela
-\end_layout
-
-\begin_layout Enumerate
-Gahlgwogi
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Numbers Practice
-\end_layout
-
-\begin_layout Subsection
-New Numbers
+ᏗᏎᏍᏗ (Numbers)
 \end_layout
 
 \begin_layout Standard
@@ -91730,18 +89108,7 @@ Naught.
 \begin_inset Quotes erd
 \end_inset
 
- ☞
-\emph on
- This word for the number zero is an import of the English word 
-\begin_inset Quotes eld
-\end_inset
 
-naught
-\begin_inset Quotes erd
-\end_inset
-
-.
- It is not a very commonly used word.
 \end_layout
 
 \begin_layout Description
@@ -91754,9 +89121,95 @@ Nothing.
 \begin_inset Quotes erd
 \end_inset
 
- ☞
-\emph on
- This is the most common word used when referring to zero.
+ 
+\end_layout
+
+\begin_layout Description
+ᏣᏁᎳ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏁᎳ [chạ²ne²³la, chụ²ne²³la] 
+\begin_inset Quotes eld
+\end_inset
+
+Eight.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏐᏁᎳ [sọ³hne²³la] 
+\begin_inset Quotes eld
+\end_inset
+
+Nine.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏍᎪᎯ [sgo²³hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Ten.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏌᏚ [sa²ɂdu] 
+\begin_inset Quotes eld
+\end_inset
+
+Eleven.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏚ [tạ²ɂldu] 
+\begin_inset Quotes eld
+\end_inset
+
+Twelve.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏦᎦᏚ [jọ²ɂga²ɂdu] 
+\begin_inset Quotes eld
+\end_inset
+
+Thirteen.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏂᎦᏚ [nị²ga²ɂdu] 
+\begin_inset Quotes eld
+\end_inset
+
+Fourteen.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -91824,20 +89277,8 @@ Nineteen.
 \begin_inset Quotes eld
 \end_inset
 
-Two tens
-\begin_inset Quotes erd
-\end_inset
-
-.
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
 Twenty.
+ (Two tens.)
 \begin_inset Quotes erd
 \end_inset
 
@@ -91849,20 +89290,98 @@ Twenty.
 \begin_inset Quotes eld
 \end_inset
 
-Three tens
+Thirty.
+ (Three tens.)
 \begin_inset Quotes erd
 \end_inset
 
-.
- 
-\emph on
-Translation
-\emph default
-: 
+
+\end_layout
+
+\begin_layout Description
+ᏅᎩᏍᎪᎯ [nvk²sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
 
-Thirty.
+Forty.
+ (Four tens.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᎩᏍᎪᎯ [hik²sgo²³hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Fifty.
+ (Five tens.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏑᏓᎵᏍᎪᎯ [su²³dal³sgo²³hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Sixty.
+ (Six tens.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎵᏆᏍᎪᎯ [gahl²gwa²³sgo²³hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Seventy.
+ (Seven tens.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏁᎳᏍᎪᎯ [nel³sgo²³hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Eighty.
+ (Eight tens.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏐᏁᎳᏍᎪᎯ [sọ³hnel³sgo²³hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Ninety.
+ (Nine tens.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏍᎪᎯᏥᏆ [sgo²³hị³tsgwa] 
+\begin_inset Quotes eld
+\end_inset
+
+One hundred.
 \begin_inset Quotes erd
 \end_inset
 
@@ -91888,11 +89407,32 @@ end{multicols}
 \begin_layout Standard
 ☞
 \emph on
+ ᏃᏘ is an import of the English word 
+\begin_inset Quotes eld
+\end_inset
+
+naught
+\begin_inset Quotes erd
+\end_inset
+
+.
+ It is not a very commonly used word.
+\end_layout
+
+\begin_layout Standard
+☞
+\emph on
+ ᎧᏂᎩᏓ is the most common word used when referring to zero.
+\end_layout
+
+\begin_layout Standard
+☞
+\emph on
  
 \begin_inset Quotes eld
 \end_inset
 
-Talsgohi
+ᏔᎵᏍᎪᎯ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91900,7 +89440,7 @@ Talsgohi
 \begin_inset Quotes eld
 \end_inset
 
-Tali
+ᏔᎵ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91908,7 +89448,7 @@ Tali
 \begin_inset Quotes eld
 \end_inset
 
-Sgohi
+ᏍᎪᎯ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91916,7 +89456,7 @@ Sgohi
 \begin_inset Quotes eld
 \end_inset
 
-Josgohi
+ᏦᏍᎪᎯ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91924,7 +89464,7 @@ Josgohi
 \begin_inset Quotes eld
 \end_inset
 
-Joi
+ᏦᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91932,15 +89472,15 @@ Joi
 \begin_inset Quotes eld
 \end_inset
 
-Sgohi
+ᏍᎪᎯ
 \begin_inset Quotes erd
 \end_inset
 
 .
 \end_layout
 
-\begin_layout Subsection
-Combining Numbers
+\begin_layout Section
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
 \end_layout
 
 \begin_layout Standard
@@ -91948,7 +89488,7 @@ For the numbers twenty one, twenty two, etc., in Cherokee, you drop the
 \begin_inset Quotes eld
 \end_inset
 
--hi
+-Ꭿ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91956,7 +89496,7 @@ For the numbers twenty one, twenty two, etc., in Cherokee, you drop the
 \begin_inset Quotes eld
 \end_inset
 
-sagwu
+ᏌᏊ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91964,7 +89504,7 @@ sagwu
 \begin_inset Quotes eld
 \end_inset
 
-sohnela
+ᏐᏁᎳ
 \begin_inset Quotes erd
 \end_inset
 
@@ -91997,7 +89537,6 @@ Examples:
 
 \begin_layout Description
 ᏔᎵᏍᎪᎯ.
- Talsgohi.
  Twenty.
 \end_layout
 
@@ -92007,7 +89546,6 @@ Examples:
 \end_inset
 
 ᏌᏊ.
- Talsgo sagwu.
  Twenty one.
 \end_layout
 
@@ -92017,13 +89555,11 @@ Examples:
 \end_inset
 
 ᎯᏍᎩ.
- Talsgo hisgi.
  Twenty five.
 \end_layout
 
 \begin_layout Description
 ᏦᏍᎪᎯ.
- Josgohi.
  Thirty.
 \end_layout
 
@@ -92033,7 +89569,6 @@ Examples:
 \end_inset
 
 ᎯᏍᎩ.
- Josgo hisgi.
  Thirty five.
 \end_layout
 
@@ -92053,30 +89588,135 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Subsection
-Ordering
-\end_layout
-
 \begin_layout Standard
-
-\emph on
-Remember:
+For the numbers two hundred, three hundred, etc., in Cherokee, you take the
+ first number then simply add -Ꮵ͓Ꮖ (-tsgwa).
+ Examples:
 \end_layout
 
 \begin_layout Itemize
-The counting number 
+ᏔᎵ.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-sagwu
+Two.
 \begin_inset Quotes erd
 \end_inset
 
- becomes 
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏔᎵᏥ͓Ꮖ.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-igvyii
+Two hundred.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏦᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Three.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏦᎢᏥ͓Ꮖ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Three hundred.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+There is one exception, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏣᏁᎳ
+\begin_inset Quotes erd
+\end_inset
+
+ loses the leading 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮳ
+\begin_inset Quotes erd
+\end_inset
+
+ when added to 
+\begin_inset Quotes eld
+\end_inset
+
+-Ꮵ͓Ꮖ
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Itemize
+ᏣᏁᎳ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Eight.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏁᎳᏥ͓Ꮖ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Eight hundred.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Reminder:
+\end_layout
+
+\begin_layout Itemize
+The ordering numbers are created by dropping the ending vowel then adding
+ 
+\begin_inset Quotes eld
+\end_inset
+
+-ᎢᏁᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -92084,382 +89724,123 @@ igvyii
 \end_layout
 
 \begin_layout Itemize
-To change any counting number after 
+Ordering numbers higher than one that end with 
 \begin_inset Quotes eld
 \end_inset
 
-talsgohi
+ᏌᏊ
 \begin_inset Quotes erd
 \end_inset
 
- into an ordering number that ends in 
+ use 
 \begin_inset Quotes eld
 \end_inset
 
-sagwu
+ᏌᏊᎯᏁᎢ
 \begin_inset Quotes erd
 \end_inset
 
- add 
+ and not 
 \begin_inset Quotes eld
 \end_inset
 
--hineɂi
+ᎢᎬᏱᎢ
 \begin_inset Quotes erd
 \end_inset
 
 .
+ 
 \end_layout
 
 \begin_layout Itemize
-To change any counting number ending in 
+For the the ordering numbers 
 \begin_inset Quotes eld
 \end_inset
 
--u
+ᏌᏚᏏᏁᎢ (eleventh)
 \begin_inset Quotes erd
 \end_inset
 
- into an ordering number add 
+ through 
 \begin_inset Quotes eld
 \end_inset
 
--sineɂi
+ᏐᏁᎳᏚᏏᏁᎢ (nineteenth)
+\begin_inset Quotes erd
+\end_inset
+
+ you don't drop the ending vowel and instead add 
+\begin_inset Quotes eld
+\end_inset
+
+-ᏏᏁᎢ
 \begin_inset Quotes erd
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+Examples:
 \end_layout
 
 \begin_layout Itemize
-To change all other counting numbers into ordering numbers add 
-\begin_inset Quotes eld
-\end_inset
-
--ineɂi
-\begin_inset Quotes erd
-\end_inset
-
-.
+ᏌᏊ, ᎢᎬᏱᎢ.
 \end_layout
 
-\begin_layout Subsection
-Writing Practice
+\begin_deeper
+\begin_layout Itemize
+One, First.
 \end_layout
 
-\begin_layout Subsubsection
-Translate each of the following into Cherokee
+\end_deeper
+\begin_layout Itemize
+ᏌᏚ, ᏌᏚᏏᏁᎢ.
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Itemize
+Eleven, Eleventh.
+\end_layout
 
-\lang english
-\begin_inset ERT
+\end_deeper
+\begin_layout Itemize
+ᏔᎵᏍᎪᎯ, ᏔᎵᏍᎪᎯᏁᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Twenty, Twentieth.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏔᎵᏍᎪ ᏌᏊ, ᏔᎵᏍᎪ ᏌᏊᎯᏁᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Twenty one, Twenty first.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏔᎵᏍᎪ ᏔᎵ, ᏔᎵᏍᎪ ᏔᎵᏁᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Twenty two, Twenty second.
+\end_layout
+
+\end_deeper
+\begin_layout Chapter
+ᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Three
-\end_layout
-
-\begin_layout Enumerate
-Zero
-\end_layout
-
-\begin_layout Enumerate
-Four
-\end_layout
-
-\begin_layout Enumerate
-Eleventh
-\end_layout
-
-\begin_layout Enumerate
-Two
-\end_layout
-
-\begin_layout Enumerate
-Five
-\end_layout
-
-\begin_layout Enumerate
-One
-\end_layout
-
-\begin_layout Enumerate
-Tenth
-\end_layout
-
-\begin_layout Enumerate
-Twelve
-\end_layout
-
-\begin_layout Enumerate
-Sixteen
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into English
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Jogadu
-\end_layout
-
-\begin_layout Enumerate
-Neladu
-\end_layout
-
-\begin_layout Enumerate
-Nigadu
-\end_layout
-
-\begin_layout Enumerate
-Sudalinei
-\end_layout
-
-\begin_layout Enumerate
-Chanela
-\end_layout
-
-\begin_layout Enumerate
-Josgohi
-\end_layout
-
-\begin_layout Enumerate
-Sgigadu
-\end_layout
-
-\begin_layout Enumerate
-Sohnelinei
-\end_layout
-
-\begin_layout Enumerate
-Talsgohi
-\end_layout
-
-\begin_layout Enumerate
-Gahlgwadu
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into Cherokee
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Seven
-\end_layout
-
-\begin_layout Enumerate
-Thirty three
-\end_layout
-
-\begin_layout Enumerate
-Seventeen
-\end_layout
-
-\begin_layout Enumerate
-Thirty fourth
-\end_layout
-
-\begin_layout Enumerate
-Thirty two
-\end_layout
-
-\begin_layout Enumerate
-Twenty three
-\end_layout
-
-\begin_layout Enumerate
-Thirty five
-\end_layout
-
-\begin_layout Enumerate
-Thirty first
-\end_layout
-
-\begin_layout Enumerate
-Twenty four
-\end_layout
-
-\begin_layout Enumerate
-Twenty two
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into English
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Josgo sudali
-\end_layout
-
-\begin_layout Enumerate
-Talsgo hisgi
-\end_layout
-
-\begin_layout Enumerate
-Talsgo sagwu
-\end_layout
-
-\begin_layout Enumerate
-Josgo chanelinei
-\end_layout
-
-\begin_layout Enumerate
-Talsgo sudali
-\end_layout
-
-\begin_layout Enumerate
-Talsgo chanela
-\end_layout
-
-\begin_layout Enumerate
-Talsgo sohnela
-\end_layout
-
-\begin_layout Enumerate
-Josgo gahlgwoginei
-\end_layout
-
-\begin_layout Enumerate
-Josgo sohnela
-\end_layout
-
-\begin_layout Enumerate
-Talsgo gahlgwogi
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
+Tenth Lesson
 \end_layout
 
 \end_inset
@@ -96543,258 +93924,6 @@ Numbers Practice
 New Numbers
 \end_layout
 
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏅᎩᏍᎪᎯ [nvk²sgo²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Four tens.
- Forty.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎯᎩᏍᎪᎯ [hik²sgo²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Five tens.
- Fifty.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏑᏓᎵᏍᎪᎯ [su²³dal³sgo²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Six tens.
- Sixty.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᎵᏆᏍᎪᎯ [gahl²gwa²³sgo²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Seven tens.
- Seventy.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏁᎳᏍᎪᎯ [nel³sgo²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Eight tens.
- Eighty.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏐᏁᎳᏍᎪᎯ [sọ³hnel³sgo²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Nine tens.
- Ninety.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏍᎪᎯᏥᏆ [sgo²³hị³tsgwa] 
-\begin_inset Quotes eld
-\end_inset
-
-One hundred.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-For the numbers two hundred, three hundred, etc., in Cherokee, you take the
- first number then simply add 
-\begin_inset Quotes eld
-\end_inset
-
--tsgwa (-ᏥᏆ)
-\begin_inset Quotes erd
-\end_inset
-
-.
- Examples:
-\end_layout
-
-\begin_layout Itemize
-Tali.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Two.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Talitsgwa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Two hundred.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Joi.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Three.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Joitsgwa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Three hundred.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-There is one exception, 
-\begin_inset Quotes eld
-\end_inset
-
-chanela
-\begin_inset Quotes erd
-\end_inset
-
- loses the leading 
-\begin_inset Quotes eld
-\end_inset
-
-cha
-\begin_inset Quotes erd
-\end_inset
-
- when added to 
-\begin_inset Quotes eld
-\end_inset
-
--tsgwa
-\begin_inset Quotes erd
-\end_inset
-
-:
-\end_layout
-
-\begin_layout Itemize
-Chanela.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Eight.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Nelatsgwa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Eight hundred.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Subsection
 Writing Practice
 \end_layout
