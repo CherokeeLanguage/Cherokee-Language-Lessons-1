@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.63 $
+$Revision: 1.64 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/09 03:15:36 $ UTC
+$Date: 2016/06/10 00:22:05 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.63 $
+$Revision: 1.64 $
 \noun default
 .
 \end_layout
@@ -89535,12 +89535,12 @@ raggedcolumns
 Examples:
 \end_layout
 
-\begin_layout Description
+\begin_layout Itemize
 ᏔᎵᏍᎪᎯ.
  Twenty.
 \end_layout
 
-\begin_layout Description
+\begin_layout Itemize
 ᏔᎵᏍᎪ
 \begin_inset space ~
 \end_inset
@@ -89549,7 +89549,7 @@ Examples:
  Twenty one.
 \end_layout
 
-\begin_layout Description
+\begin_layout Itemize
 ᏔᎵᏍᎪ
 \begin_inset space ~
 \end_inset
@@ -89558,12 +89558,12 @@ Examples:
  Twenty five.
 \end_layout
 
-\begin_layout Description
+\begin_layout Itemize
 ᏦᏍᎪᎯ.
  Thirty.
 \end_layout
 
-\begin_layout Description
+\begin_layout Itemize
 ᏦᏍᎪ
 \begin_inset space ~
 \end_inset
@@ -89591,7 +89591,10 @@ end{multicols}
 \begin_layout Standard
 For the numbers two hundred, three hundred, etc., in Cherokee, you take the
  first number then simply add -Ꮵ͓Ꮖ (-tsgwa).
- Examples:
+\end_layout
+
+\begin_layout Standard
+Examples:
 \end_layout
 
 \begin_layout Itemize
@@ -89831,6 +89834,434 @@ Twenty one, Twenty first.
 \begin_deeper
 \begin_layout Itemize
 Twenty two, Twenty second.
+\end_layout
+
+\end_deeper
+\begin_layout Section
+ᏂᏔᏛᎦ (Do them)
+\end_layout
+
+\begin_layout Itemize
+Where are the count nouns?
+\end_layout
+
+\begin_layout Itemize
+How many are the nouns?
+\end_layout
+
+\begin_layout Itemize
+Are there count nouns?
+\end_layout
+
+\begin_layout Itemize
+Yes, there are count nouns, right?
+\end_layout
+
+\begin_layout Itemize
+Which one is the ordinal?
+\end_layout
+
+\begin_layout Itemize
+Is this the ordinal?
+\end_layout
+
+\begin_layout Itemize
+Yes, this the ordinal, right?
+\end_layout
+
+\begin_layout Itemize
+Is it just count nouns in group of mixed nouns?
+\end_layout
+
+\begin_layout Itemize
+Yes, it is just count nouns in group of mixed nouns, right?
+\end_layout
+
+\begin_layout Standard
+You will need the following props:
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+During the exercises you must pretend that these are living animals.
+\end_layout
+
+\begin_layout Standard
+Divide up into groups of six to eleven.
+ If you don't have enough people, use props for imaginary people and act
+ the imaginary people out.
+\end_layout
+
+\begin_layout Subsection
+Groups of two or more
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The remaining people are grouped together and are designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, rotate positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+, and one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Keep rotating until everyone has been in position 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+, starting over with the first set of challenges as needed.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Any imaginary study partners always stay as one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ and do not rotate.
+\end_layout
+
+\begin_layout Subsection
+Someone Alone
+\end_layout
+
+\begin_layout Standard
+On index cards, slips of paper, or something similar, write out the challenges
+ on each of the front sides along with the correct response on the reverse
+ side for the first set of challenges.
+ Do this for each challenge as listed.
+ There will be challenges and responses repeated.
+ Keep the cards in order.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 1
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Place the stack of index cards, challenge side up, response side down.
+\end_layout
+
+\begin_layout Standard
+For each 
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎳ ____?
+\begin_inset Quotes erd
+\end_inset
+
+ challenge count out loud the correct number of appropriate items then flip
+ the card over checking that you counted correct and that you selected between
+ animate vs inanimate correctly.
+\end_layout
+
+\begin_layout Standard
+For each 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏚ ᎤᏍᏗ ____?
+\begin_inset Quotes erd
+\end_inset
+
+ challenge line up seven items then indicate the position of each until
+ you reach the position indicated.
+ Flip the card over and verify you stopped at the correct position.
+\end_layout
+
+\begin_layout Subsubsection*
+For each remaining set:
+\end_layout
+
+\begin_layout Standard
+Adjust the index cards to match the new set, creating new ones as needed,
+ and removing those not in the set.
+ Follow the instructions previously given for 
+\begin_inset Quotes eld
+\end_inset
+
+Set 1
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+Sets
+\end_layout
+
+\begin_layout Standard
+Each challenge-response is structured in one of the following two ways:
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎳ _____?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects an appropriate number of items from the correct group and places
+ them before 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: 
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᎳ _____?
+\begin_inset Quotes erd
+\end_inset
+
+ while pointing at the items for counting.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ counts out loud the items one by one then repeats the final count to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout --Separator--
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ _____?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects seven items from either group and places them before 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ lined up in a row.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙ ᎤᏍᏗ _____?
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says out loud the position of each item from 
+\begin_inset Quotes eld
+\end_inset
+
+ᎢᎬᏱᎢ
+\begin_inset Quotes erd
+\end_inset
+
+ to ____.
+ Then 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ points to the correct item and says to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ _____.
 \end_layout
 
 \end_deeper
