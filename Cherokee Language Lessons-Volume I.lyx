@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.72 $
+$Revision: 1.73 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/11 06:07:53 $ UTC
+$Date: 2016/06/11 06:11:08 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.72 $
+$Revision: 1.73 $
 \noun default
 .
 \end_layout
@@ -92198,10 +92198,6 @@ Tenth Lesson
 
 \end_layout
 
-\begin_layout Section
-Relationship and Description
-\end_layout
-
 \begin_layout Standard
 Cherokee is a language of relationship.
  Most words and sentences describe the relationship between things on a
@@ -92313,11 +92309,7 @@ s based on usage and not meaning.
 \end_layout
 
 \begin_layout Section
-Vocabulary
-\end_layout
-
-\begin_layout Subsection
-Asking Questions
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
 \end_layout
 
 \begin_layout Standard
@@ -92326,7 +92318,7 @@ To ask a question in Cherokee, you can either use one of a number of special
 \begin_inset Quotes eld
 \end_inset
 
--ju
+-Ꮷ
 \begin_inset Quotes erd
 \end_inset
 
@@ -92334,7 +92326,7 @@ To ask a question in Cherokee, you can either use one of a number of special
 \begin_inset Quotes eld
 \end_inset
 
--na
+-Ꮎ
 \begin_inset Quotes erd
 \end_inset
 
@@ -92373,14 +92365,12 @@ Where?
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-See examples.
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Hadlv ayv?
+ᎭᏢ ᎠᏴ?
 \end_layout
 
 \begin_deeper
@@ -92390,7 +92380,7 @@ Where am I?
 
 \end_deeper
 \begin_layout Itemize
-Hadlv nihi?
+ᎭᏢ ᏂᎯ?
 \end_layout
 
 \begin_deeper
@@ -92413,9 +92403,8 @@ How many? How much? What quantity?
 \begin_inset Quotes erd
 \end_inset
 
- 
+
 \emph on
-Used when talking about inanimate things.
  
 \begin_inset Quotes eld
 \end_inset
@@ -92428,7 +92417,7 @@ How many inanimate things?
 \end_layout
 
 \begin_layout Itemize
-Hila iga nvya? Taligwu.
+ᎯᎳ ᎢᎦ ᏅᏯ? ᏔᎵᏊ
 \end_layout
 
 \begin_deeper
@@ -92450,9 +92439,8 @@ How many? How much? What quantity?
 \begin_inset Quotes erd
 \end_inset
 
- 
+
 \emph on
-Used when talking about animate things.
  
 \begin_inset Quotes eld
 \end_inset
@@ -92465,12 +92453,12 @@ How many animate things?
 \end_layout
 
 \begin_layout Itemize
-Hila iyani ayv? Taligwu.
+ᎯᎳ ᎢᏯᏂ ᏙᏯ? ᏌᏊᏊ.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-How many are we? Just two.
+How many beaver? Just one.
 \end_layout
 
 \end_deeper
@@ -92497,14 +92485,12 @@ Who?
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-See examples.
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Gago osda?
+ᎦᎪ ᎣᏍᏓ?
 \end_layout
 
 \begin_deeper
@@ -92514,7 +92500,7 @@ Who is good?
 
 \end_deeper
 \begin_layout Itemize
-Gago uyoi?
+ᎦᎪ ᎤᏲᎢ?
 \end_layout
 
 \begin_deeper
@@ -92529,7 +92515,7 @@ Who is bad?
 \begin_inset Quotes eld
 \end_inset
 
-Who?
+Who again?
 \begin_inset Quotes erd
 \end_inset
 
@@ -92544,33 +92530,6 @@ who
 \end_inset
 
  in a statement that was not heard correctly or not fully believed.
- Used to request a repeat of 
-\begin_inset Quotes eld
-\end_inset
-
-who
-\begin_inset Quotes erd
-\end_inset
-
-.
- You will sometimes see this referred to as an 
-\begin_inset Quotes eld
-\end_inset
-
-echo
-\begin_inset Quotes erd
-\end_inset
-
- question.
- You are asking someone to 
-\begin_inset Quotes eld
-\end_inset
-
-echo
-\begin_inset Quotes erd
-\end_inset
-
- something they already stated.
 \end_layout
 
 \begin_layout Description
@@ -92600,11 +92559,11 @@ Why?
 
  
 \emph on
-This question word is 
+This is 
 \begin_inset Quotes eld
 \end_inset
 
-gado
+ᎦᏙ
 \begin_inset Quotes erd
 \end_inset
 
@@ -92612,11 +92571,12 @@ gado
 \begin_inset Quotes eld
 \end_inset
 
--hv
+-Ꮂ
 \begin_inset Quotes erd
 \end_inset
 
- ending added, literally, 
+ ending added.
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92640,39 +92600,10 @@ Which one?
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Pay special attention to the extra high rising tone on 
-\begin_inset Quotes eld
-\end_inset
 
-usdi
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_deeper
-\begin_layout Description
-ᎦᏙ
-\begin_inset space ~
-\end_inset
-
-ᏧᏍᏗ [gạ²do² ju⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Which ones?
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Used when the person asking a question is expecting a response about two
- or more non-living or inanimate things.
-\end_layout
-
 \begin_layout Description
 ᎦᏙ
 \begin_inset space ~
@@ -92688,8 +92619,41 @@ Which ones?
 
  
 \emph on
-Used when the person asking a question is expecting a response about two
- or more alive or animate things.
+
+\begin_inset Quotes eld
+\end_inset
+
+Which animate things?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᏧᏍᏗ [gạ²do² ju⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Which ones?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Which inanimate things?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -92708,16 +92672,15 @@ What?
 
  
 \emph on
-Used when asking about an object or something else similar.
- Pay special attention to the leading normal tone on 
+
 \begin_inset Quotes eld
 \end_inset
 
-usdi
+What thing?
 \begin_inset Quotes erd
 \end_inset
 
-.
+
 \end_layout
 
 \begin_layout Standard
@@ -92736,7 +92699,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Subsection
+\begin_layout Section
 Proper Names
 \end_layout
 
