@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.76 $
+$Revision: 1.77 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/11 07:01:28 $ UTC
+$Date: 2016/06/11 14:10:01 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.76 $
+$Revision: 1.77 $
 \noun default
 .
 \end_layout
@@ -73081,6 +73081,7 @@ Ouch!
 \end_inset
 
 Good.
+ Well.
 \begin_inset Quotes erd
 \end_inset
 
@@ -92331,9 +92332,12 @@ To ask a question in Cherokee, you can either use one of a number of special
 \end_inset
 
 , or you can use a question word, normally as the first word of the question.
- 
+\end_layout
+
+\begin_layout Standard
+☞ 
 \emph on
-All of the following words are only used when asking a question.
+All of the following words should only used when asking a question.
 \end_layout
 
 \begin_layout Standard
@@ -92699,7 +92703,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎮᏙᎸᎢ [ị²he²³do³²lv²ɂi] 
+ᎥᎮᏙᎸᎢ [ṿ²he²³do³²lv²ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92711,7 +92715,7 @@ You come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᏍᏕᏙᎸᎢ [ị²sde²³do³²lv²ɂi] 
+ᎥᏍᏕᏙᎸᎢ [ṿ²sde²³do³²lv²ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92723,7 +92727,7 @@ You two come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᏤᏙᎸᎢ [ị²je²³do³²lv²ɂi] 
+ᎥᎢᏤᏙᎸᎢ [ṿ²ɂi¹je²³do³²lv²ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92734,6 +92738,59 @@ You all come around again.
 
 \end_layout
 
+\begin_layout Description
+ᎣᏍᏓ [o⁴sda] 
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ Well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏃᏍᏓ [a¹no⁴sda] 
+\begin_inset Quotes eld
+\end_inset
+
+Good (them).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏲᎢ [u²yo⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᏲᎢ [u²nị²yo⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Bad (them).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Description
 ᎩᎵᏏ [gị²li²si] 
 \begin_inset Quotes eld
@@ -92889,6 +92946,30 @@ Native Americans.
 \end_layout
 
 \end_deeper
+\begin_layout Description
+ᎡᏂᏙᏂ [en²to²ni] 
+\begin_inset Quotes eld
+\end_inset
+
+Anthony.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏆᏆᎠ [gwa²gwạ²ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+Barbara.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -92914,14 +92995,19 @@ end{multicols}
 \begin_layout Standard
 ☞ 
 \emph on
-The Ꭰ- prefix on the words ᎠᎩᎵᏏ, ᎠᏣᎳᎩ, ᎠᏲᏁᎦ, and ᎠᏴᏫ indicates one him or
- her.
+ᎩᎵᏏ refers to the English language or people from England.
 \end_layout
 
 \begin_layout Standard
 ☞ 
 \emph on
-The ᎠᏂ- prefix on the words ᎠᏂᏣᎳᎩ, ᎠᏂᏴᏫ, and ᎠᏂᏲᏁᎦ indicates them.
+The Ꭰ- prefix on the words ᎠᎩᎵᏏ, ᎠᏣᎳᎩ, ᎠᏲᏁᎦ, and ᎠᏴᏫ indicates him or her.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The ᎠᏂ- prefix on the words ᎠᏂᎩᎵᏏ, ᎠᏂᏣᎳᎩ, ᎠᏂᏲᏁᎦ, and ᎠᏂᏴᏫ indicates them.
 \end_layout
 
 \begin_layout Standard
@@ -92964,62 +93050,6 @@ true and pure
  use has been expanded to refer any indigenous person of the Americas.
 \end_layout
 
-\begin_layout Description
-ᎦᏙ
-\begin_inset space ~
-\end_inset
-
-ᏕᏣᏙᎠ? [gạ²do¹ de²³jạ³do³ɂa] 
-\begin_inset Quotes eld
-\end_inset
-
-What are you called?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᏙ
-\begin_inset space ~
-\end_inset
-
-ᏚᏙᎠ? [gạ²do¹ du¹do³ɂa] 
-\begin_inset Quotes eld
-\end_inset
-
-What is he or she called?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎡᏂᏙᏂ [en²to²ni] 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏆᏆᎠ [gwa²gwạ²ɂa] 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 ☞
 \emph on
@@ -93043,292 +93073,7 @@ r
 
  sounds found in English.
  For more information on how English names are written and spoken in Cherokee
- see Section 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sec:Names"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Example usage:
-\end_layout
-
-\begin_layout Description
-Entoni
-\begin_inset space ~
-\end_inset
-
-dagwadoa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony is what I am called.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-My name is Anthony.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Gwagwaa
-\begin_inset space ~
-\end_inset
-
-dagwadoa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara is what I am called.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-My name is Barbara.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Entoni
-\begin_inset space ~
-\end_inset
-
-dejadoa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony is what you are called.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-Your name is Anthony.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Gwagwaa
-\begin_inset space ~
-\end_inset
-
-dejadoa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara is what you are called.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-Your name is Barbara.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Entoni
-\begin_inset space ~
-\end_inset
-
-dudoa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony is what he is called.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-His name is Anthony.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Gwagwaa
-\begin_inset space ~
-\end_inset
-
-dudoa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara is what she is called.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-Her name is Barbara.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Dejadoas
-\begin_inset space ~
-\end_inset
-
-Entoni? 
-\begin_inset Quotes eld
-\end_inset
-
-Is Anthony what you are called?
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-Is your name Anthony?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Dejadoas
-\begin_inset space ~
-\end_inset
-
-Gwagwaa? 
-\begin_inset Quotes eld
-\end_inset
-
-Is Barbara what you are called?
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-Is your name Barbara?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Conversational Phrases
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-For the words 
-\begin_inset Quotes eld
-\end_inset
-
-ihedolvi
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-isdelovi
-\begin_inset Quotes erd
-\end_inset
-
-, and 
-\begin_inset Quotes eld
-\end_inset
-
-ijedolvi
-\begin_inset Quotes erd
-\end_inset
-
-, the final 
-\begin_inset Quotes eld
-\end_inset
-
-lv
-\begin_inset Quotes erd
-\end_inset
-
- is always pronounced with a normal tone.
- If you mistakenly use a high rising tone, you will change the meaning from
- a desired future event to something that already happened.
+ see the section about name transliteration in the Appendix.
 \end_layout
 
 \begin_layout Chapter
