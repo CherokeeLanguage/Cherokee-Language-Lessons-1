@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.74 $
+$Revision: 1.75 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/11 06:26:46 $ UTC
+$Date: 2016/06/11 06:56:48 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.74 $
+$Revision: 1.75 $
 \noun default
 .
 \end_layout
@@ -90334,7 +90334,7 @@ Each challenge-response should be done as in the following examples:
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᏑᏓᎵᏚᏏᏁᎢ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᏓᎳᏚᏏᏁᎢ?
 \begin_inset Newline newline
 \end_inset
 
@@ -90358,7 +90358,7 @@ Each challenge-response should be done as in the following examples:
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏑᏓᎵᏚᏏᏁᎢ.
+[Ꭱ] ☐☐☐☐☐ ☒☐☐☐☐.
 \begin_inset Newline newline
 \end_inset
 
@@ -90370,7 +90370,7 @@ Each challenge-response should be done as in the following examples:
 \begin_inset Quotes erd
 \end_inset
 
- responds: The sixteenth one.
+ points to the sixth one.
 \end_layout
 
 \end_deeper
