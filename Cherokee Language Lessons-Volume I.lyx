@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.66 $
+$Revision: 1.67 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/10 20:52:24 $ UTC
+$Date: 2016/06/10 23:41:46 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.66 $
+$Revision: 1.67 $
 \noun default
 .
 \end_layout
@@ -75979,6 +75979,7 @@ A woman.
 
 \end_layout
 
+\begin_deeper
 \begin_layout Description
 ᎠᏂᎨᏯ [ạ²ni²ge²³hya] 
 \begin_inset Quotes eld
@@ -75991,6 +75992,7 @@ Women.
 
 \end_layout
 
+\end_deeper
 \begin_layout Description
 ᎠᏍᎦᏯ [ạ²sgạ²ya] 
 \begin_inset Quotes eld
@@ -76003,6 +76005,7 @@ A man.
 
 \end_layout
 
+\begin_deeper
 \begin_layout Description
 ᎠᏂᏍᎦᏯ [ạ²ni²sgạ²ya] 
 \begin_inset Quotes eld
@@ -76015,6 +76018,7 @@ Men.
 
 \end_layout
 
+\end_deeper
 \begin_layout Description
 ᎦᏙ
 \begin_inset space ~
@@ -89127,6 +89131,40 @@ Boys.
 
 \end_deeper
 \begin_layout Description
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᎠᏛᏁᎭ [gạ²do² a¹dv³nẹ²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+What is he/she doing?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᎠᎾᏛᏁᎭ [gạ²do² a¹na²dv³nẹ²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+What are they doing?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
 Ꭷ [ka] 
 \begin_inset Quotes eld
 \end_inset
@@ -90012,6 +90050,18 @@ Where are the count nouns?
 \end_layout
 
 \begin_layout Itemize
+He/she/they are seeing: 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
 How many are the nouns? count, ᏃᏘ
 \end_layout
 
@@ -90067,6 +90117,7 @@ A woman.
 
 \end_layout
 
+\begin_deeper
 \begin_layout Description
 ᎠᏂᎨᏯ [ạ²ni²ge²³hya] 
 \begin_inset Quotes eld
@@ -90079,6 +90130,7 @@ Women.
 
 \end_layout
 
+\end_deeper
 \begin_layout Description
 ᎠᏍᎦᏯ [ạ²sgạ²ya] 
 \begin_inset Quotes eld
@@ -90091,6 +90143,7 @@ A man.
 
 \end_layout
 
+\begin_deeper
 \begin_layout Description
 ᎠᏂᏍᎦᏯ [ạ²ni²sgạ²ya] 
 \begin_inset Quotes eld
@@ -90103,6 +90156,7 @@ Men.
 
 \end_layout
 
+\end_deeper
 \begin_layout Description
 ᎩᏟ [gi²hli] 
 \begin_inset Quotes eld
@@ -90261,6 +90315,149 @@ A rabbit.
 
 A wolf.
  Wolves.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎨᏳᏣ [ạ²ge²hyu⁴ja] 
+\begin_inset Quotes eld
+\end_inset
+
+A girl.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎨᏳᏣ [ạ²ni²ge²hyu⁴ja] 
+\begin_inset Quotes eld
+\end_inset
+
+Girls.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏧᏣ [ạ²chu⁴ja] 
+\begin_inset Quotes eld
+\end_inset
+
+A boy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏧᏣ [ạ²ni²chu⁴ja] 
+\begin_inset Quotes eld
+\end_inset
+
+Boys.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏌᎶᎵ [sạ²lo²³li] 
+\begin_inset Quotes eld
+\end_inset
+
+A squirrel.
+ Squirrels.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏌᏛᏗ [sạ²dv³di] 
+\begin_inset Quotes eld
+\end_inset
+
+A trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᏌᏛᏗ [di²sạ²dv³di] 
+\begin_inset Quotes eld
+\end_inset
+
+Traps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏐᏈᎵ [so²³gwị³li] 
+\begin_inset Quotes eld
+\end_inset
+
+A horse.
+ Horses.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏡᎬᎢ [hlgv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+A tree.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏕᏡᎬᎢ [de²³hlgv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Trees.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏲᎾ [yo²³na] 
+\begin_inset Quotes eld
+\end_inset
+
+A bear.
+ Bears.
 \begin_inset Quotes erd
 \end_inset
 
