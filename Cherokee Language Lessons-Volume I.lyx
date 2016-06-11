@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.78 $
+$Revision: 1.79 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/11 15:24:33 $ UTC
+$Date: 2016/06/11 15:27:42 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.78 $
+$Revision: 1.79 $
 \noun default
 .
 \end_layout
@@ -92664,12 +92664,64 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+ᏙᎩᎾᏙᎠ [do¹gi²nạ²do³a] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+ is what we two are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏙᎦᏙᎠ [do¹gạ²do³a] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+ is what we all are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏕᏣᏙᎠ? [de²³jạ³do³ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
 \SpecialChar \ldots{}
  is what you are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏕᏍᏓᏙᎠ? [de²³sdạ³do³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+ is what you two are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏕᏣᏙᎠ? [de¹jạ³do³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar \ldots{}
+ is what you all are called.
 \begin_inset Quotes erd
 \end_inset
 
@@ -92946,30 +92998,6 @@ Native Americans.
 \end_layout
 
 \end_deeper
-\begin_layout Description
-ᎡᏂᏙᏂ [en²to²ni] 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏆᏆᎠ [gwa²gwạ²ɂa] 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -93051,15 +93079,328 @@ true and pure
 \end_layout
 
 \begin_layout Standard
-☞
-\emph on
- You will notice the Cherokee for Barbara is quite different than the English
- for Barbara.
- This is because Cherokee does not contain the 
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎵᏌᏇᏘ [a²li³sa²gwe²ti] “Elizabeth”
+\end_layout
+
+\begin_layout Description
+ᎡᏂᏙᏂ [en³to²ni] 
 \begin_inset Quotes eld
 \end_inset
 
-b
+Anthony.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎵᏂᏓ [li³nị²da] “Linda”
+\end_layout
+
+\begin_layout Description
+ᎹᎦᎵ [ma²ga³li] “Michael”
+\end_layout
+
+\begin_layout Description
+ᎹᎦᏰᏘ [ma³gạ²ye²tị] “Margaret”
+\end_layout
+
+\begin_layout Description
+ᎺᎵ [me³li] “Mary”
+\end_layout
+
+\begin_layout Description
+ᏆᏆᎠ [gwa²gwạ²ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+Barbara.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏑᏌᏃ [su³sạ²no] “Susan”
+\end_layout
+
+\begin_layout Description
+ᏙᎹᏏ [to³mạ²si] “Thomas”
+\end_layout
+
+\begin_layout Description
+ᏕᏫᏗ [de³wị²di] “David”
+\end_layout
+
+\begin_layout Description
+ᏣᎵ [cha³li] “Charles”
+\end_layout
+
+\begin_layout Description
+ᏣᏂ [ja³ni] “John”
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞
+\emph on
+ You will notice the Cherokee for several names is quite different than
+ their English forms.
+ This is because Cherokee does not use the same sounds as found in English.
+ For more information on how English names are written and spoken in Cherokee
+ see the section about name transliteration in the Appendix.
+\end_layout
+
+\begin_layout Section
+ᏂᏔᏛᎦ (Do them)
+\end_layout
+
+\begin_layout Standard
+You will need the following props:
+\end_layout
+
+\begin_layout Itemize
+Index cards with the following name pairs written on them.
+ The first name goes on the front and the second names goes on the back.
+ You will need two copies of each.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎠᎵᏌᏇᏘ/ᎡᏂᏙᏂ, ᎵᏂᏓ/ᎹᎦᎵ, ᎹᎦᏰᏘ/ᏙᎹᏏ, ᎺᎵ/ᏕᏫᏗ, ᏆᏆᎠ/ᏣᎵ, ᏑᏌᏃ/ᏣᏂ
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Two index cards with a drawing of a person with an English flag.
+ Write ᎠᎩᎵᏏ on the reverse sides.
+ ☞ 
+\emph on
+Simply using two crossed lines in the flag would work well.
+\end_layout
+
+\begin_layout Itemize
+Two index cards with a drawing of a person with a Cherokee flag.
+ Write ᎠᏣᎳᎩ on the reverse sides.
+ ☞ 
+\emph on
+Simply using a seven pointed star in the flag would work well.
+\end_layout
+
+\begin_layout Itemize
+Two index cards with a drawing of a person with a blank (white) flag.
+ Write ᎠᏲᏁᎦ on the reverse sides.
+\end_layout
+
+\begin_layout Itemize
+Two index cards with a drawing of a person with a turtle flag.
+ Write ᎠᏴᏫᏯᎢ on the reverse sides.
+ ☞ 
+\emph on
+North America is referred to as 
+\begin_inset Quotes eld
+\end_inset
+
+Turtle Island
+\begin_inset Quotes erd
+\end_inset
+
+ in many Native American traditions, so a person combined with a turtle
+ flag would represent a person of 
+\begin_inset Quotes eld
+\end_inset
+
+Turtle Island
+\begin_inset Quotes erd
+\end_inset
+
+, or a Native American.
+\end_layout
+
+\begin_layout Itemize
+Two index cards with a drawing of a person without any flag.
+ Write ᎠᏴᏫ on the reverse sides.
+\end_layout
+
+\begin_layout Standard
+Example index card fronts:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/adaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/ajalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/agilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/ayonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Divide up into groups of four to seven.
+ If you don't have enough people, use props for imaginary people and act
+ the imaginary people out.
+\end_layout
+
+\begin_layout Subsection
+Groups of two or more
+\end_layout
+
+\begin_layout Standard
+If needed, use pillows or other props to add enough imaginary study partners
+ to create a group of six.
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Additional people will be assigned to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ as needed for each challenge.
+ People should be assigned to the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ group from the right.
+ People should be assigned to the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ group from the left.
+ The remaining people are grouped together and are designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set rotate positions right so that there is a new 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Keep rotating until everyone has been in both positions of 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
@@ -93067,13 +93408,268 @@ b
 \begin_inset Quotes eld
 \end_inset
 
-r
+Ꭱ
 \begin_inset Quotes erd
 \end_inset
 
- sounds found in English.
- For more information on how English names are written and spoken in Cherokee
- see the section about name transliteration in the Appendix.
+, starting over with the first set of challenges as needed.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Any imaginary study partners should be included in the rotations.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be read from the book.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be done without reading the book.
+ 
+\end_layout
+
+\begin_layout Standard
+Each challenge-response should be done as in the following examples:
+\end_layout
+
+\begin_layout Subsection
+Someone Alone
+\end_layout
+
+\begin_layout Standard
+Using pillows or other props, add enough imaginary study partners to create
+ a group of four.
+\end_layout
+
+\begin_layout Standard
+On index cards write out the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ challenges on each of the front sides along with the correct 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses on the reverse side for the each set of challenges.
+ Do this for each challenge as listed.
+ There may be challenges and responses repeated.
+ Keep the cards in order and in separate sets.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be read from the cards.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be done without reading the cards.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 1
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Place the stack of index cards, challenge side up, response side down.
+\end_layout
+
+\begin_layout Standard
+Have the second imaginary study partner to your right be 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Generally follow the instructions as given for groups of two or more.
+ You will need to act out both the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ parts.
+\end_layout
+
+\begin_layout Standard
+Flip the card over and check your responses against the responses on the
+ response side of the index card.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 2
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Have the first imaginary study partner to your right be 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 3
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+You are the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 4
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Have the first imaginary study partner to your left be 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Set 5
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+Have the second imaginary study partner to your left be 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+Sets
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Repeat these until everyone can do the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses smoothly without having to reference the material.
 \end_layout
 
 \begin_layout Chapter
