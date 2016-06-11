@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.75 $
+$Revision: 1.76 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/11 06:56:48 $ UTC
+$Date: 2016/06/11 07:01:28 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.75 $
+$Revision: 1.76 $
 \noun default
 .
 \end_layout
@@ -92185,12 +92185,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏌᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Tenth Lesson
+Eleventh Lesson
 \end_layout
 
 \end_inset
@@ -92333,7 +92333,7 @@ To ask a question in Cherokee, you can either use one of a number of special
 , or you can use a question word, normally as the first word of the question.
  
 \emph on
-All of the following question words are only used when asking a question.
+All of the following words are only used when asking a question.
 \end_layout
 
 \begin_layout Standard
@@ -92368,28 +92368,6 @@ Where?
 
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-ᎭᏢ ᎠᏴ?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Where am I?
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎭᏢ ᏂᎯ?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Where are you?
-\end_layout
-
-\end_deeper
-\end_deeper
 \begin_layout Description
 ᎯᎳ
 \begin_inset space ~
@@ -92399,7 +92377,7 @@ Where are you?
 \begin_inset Quotes eld
 \end_inset
 
-How many? How much? What quantity?
+How many?
 \begin_inset Quotes erd
 \end_inset
 
@@ -92416,16 +92394,6 @@ How many inanimate things?
 
 \end_layout
 
-\begin_layout Itemize
-ᎯᎳ ᎢᎦ ᏅᏯ? ᏔᎵᏊ
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-How many rocks are there? Just two.
-\end_layout
-
-\end_deeper
 \begin_layout Description
 ᎯᎳ
 \begin_inset space ~
@@ -92435,7 +92403,7 @@ How many rocks are there? Just two.
 \begin_inset Quotes eld
 \end_inset
 
-How many? How much? What quantity?
+How many?
 \begin_inset Quotes erd
 \end_inset
 
@@ -92452,16 +92420,6 @@ How many animate things?
 
 \end_layout
 
-\begin_layout Itemize
-ᎯᎳ ᎢᏯᏂ ᏙᏯ? ᏌᏊᏊ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-How many beaver? Just one.
-\end_layout
-
-\end_deeper
 \begin_layout Description
 ᎯᎳᏴᎢ [hị²la³²yv⁴ɂi] 
 \begin_inset Quotes eld
@@ -92471,9 +92429,7 @@ When?
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Works the same as in English when asking a question about time.
+
 \end_layout
 
 \begin_layout Description
@@ -92488,28 +92444,6 @@ Who?
 
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-ᎦᎪ ᎣᏍᏓ?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Who is good?
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎦᎪ ᎤᏲᎢ?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Who is bad?
-\end_layout
-
-\end_deeper
-\end_deeper
 \begin_layout Description
 ᎦᎩ [ga³²gi³] 
 \begin_inset Quotes eld
@@ -92519,17 +92453,7 @@ Who again?
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Normally used when asking about the 
-\begin_inset Quotes eld
-\end_inset
 
-who
-\begin_inset Quotes erd
-\end_inset
-
- in a statement that was not heard correctly or not fully believed.
 \end_layout
 
 \begin_layout Description
@@ -92541,46 +92465,32 @@ What?
 \begin_inset Quotes erd
 \end_inset
 
- 
+ ☞ 
 \emph on
-The person asking the question is expecting an answer about somebody or
- something doing something.
+For when the question is about some doing or happening.
  
 \end_layout
 
 \begin_layout Description
-ᎦᏙᎲ [gạ²do¹hv⁴] 
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᏗ [gạ²do² u²sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Why?
+What?
 \begin_inset Quotes erd
 \end_inset
 
  
 \emph on
-This is 
+
 \begin_inset Quotes eld
 \end_inset
 
-ᎦᏙ
-\begin_inset Quotes erd
-\end_inset
-
- with the 
-\begin_inset Quotes eld
-\end_inset
-
--Ꮂ
-\begin_inset Quotes erd
-\end_inset
-
- ending added.
- 
-\begin_inset Quotes eld
-\end_inset
-
-But for what?
+What thing?
 \begin_inset Quotes erd
 \end_inset
 
@@ -92658,25 +92568,38 @@ Which inanimate things?
 
 \end_deeper
 \begin_layout Description
-ᎦᏙ
-\begin_inset space ~
-\end_inset
-
-ᎤᏍᏗ [gạ²do² u²sdi] 
+ᎦᏙᎲ [gạ²do¹hv⁴] 
 \begin_inset Quotes eld
 \end_inset
 
-What?
+Why?
 \begin_inset Quotes erd
 \end_inset
 
- 
+ ☞ 
 \emph on
-
+This is 
 \begin_inset Quotes eld
 \end_inset
 
-What thing?
+ᎦᏙ
+\begin_inset Quotes erd
+\end_inset
+
+ with the 
+\begin_inset Quotes eld
+\end_inset
+
+-Ꮂ
+\begin_inset Quotes erd
+\end_inset
+
+ ending added.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+But for what?
 \begin_inset Quotes erd
 \end_inset
 
@@ -92700,12 +92623,27 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-Proper Names
+ᏘᎪᎵᏯ (Read them)
 \end_layout
 
 \begin_layout Standard
-In English, we give things fixed names, including people.
- In Cherokee one asks what a thing or person is called.
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -92715,19 +92653,6 @@ In English, we give things fixed names, including people.
 
 \SpecialChar \ldots{}
  is what I am called.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-My name is \SpecialChar \ldots{}
-
 \begin_inset Quotes erd
 \end_inset
 
@@ -92744,24 +92669,11 @@ My name is \SpecialChar \ldots{}
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-Your name is \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
 
 \end_layout
 
 \begin_layout Description
-ᏚᏙᎠ [du¹doɂa] 
+ᏚᏙᎠ [du¹do³ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92770,20 +92682,286 @@ Your name is \SpecialChar \ldots{}
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Translation:
-\emph default
- 
+
+\end_layout
+
+\begin_layout Description
+ᏚᎾᏙᎠ [du¹nạ²do³ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
-His or her name is \SpecialChar \ldots{}
-
+\SpecialChar \ldots{}
+ is what they are called.
 \begin_inset Quotes erd
 \end_inset
 
 
+\end_layout
+
+\begin_layout Description
+ᎢᎮᏙᎸᎢ [ị²he²³do³²lv²ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+You come around again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏍᏕᏙᎸᎢ [ị²sde²³do³²lv²ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+You two come around again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏤᏙᎸᎢ [ị²je²³do³²lv²ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+You all come around again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎩᎵᏏ [gị²li²si] 
+\begin_inset Quotes eld
+\end_inset
+
+English.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏴᏫ [yv²wi] 
+\begin_inset Quotes eld
+\end_inset
+
+A person.
+ People.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎩᎵᏏ [ạ²gị²li²si] 
+\begin_inset Quotes eld
+\end_inset
+
+An English person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎩᎵᏏ [ạ²ni²gị²li²si] 
+\begin_inset Quotes eld
+\end_inset
+
+English people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏣᎳᎩ [ạ²jạ²lạ²gi] 
+\begin_inset Quotes eld
+\end_inset
+
+A Cherokee Person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏣᎳᎩ [ạ²ni²jạ²lạ²gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Cherokee People.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏲᏁᎦ [ạ²yo³ne²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+An English Person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏲᏁᎦ [ạ²ni²yo³ne²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+English People.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏴᏫ [ạ²yv²wi] 
+\begin_inset Quotes eld
+\end_inset
+
+A person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏴᏫ [ạ²ni²yv²wi] 
+\begin_inset Quotes eld
+\end_inset
+
+People.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏴᏫᏯᎢ [ạ²yv²wi²ya⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+A Native American.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏴᏫᏯᎢ [ạ²ni²yv²wi²ya⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Native Americans.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞
+\emph on
+ Note the similarity of ᎠᏴᏫ to ᎠᏴ.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The Ꭰ- prefix on the words ᎠᎩᎵᏏ, ᎠᏣᎳᎩ, ᎠᏲᏁᎦ, and ᎠᏴᏫ indicates one him or
+ her.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The ᎠᏂ- prefix on the words ᎠᏂᏣᎳᎩ, ᎠᏂᏴᏫ, and ᎠᏂᏲᏁᎦ indicates them.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The word ᎠᏲᏁᎦ literally means 
+\begin_inset Quotes eld
+\end_inset
+
+a white person
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The English speakers the Cherokee originally met were white.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The word ᎠᏴᏫᏯᎢ literally means 
+\begin_inset Quotes eld
+\end_inset
+
+a true person
+\begin_inset Quotes erd
+\end_inset
+
+, it is a combination of the word ᎠᏴᏫ and the suffix -ᏯᎢ.
+ The suffix -ᏯᎢ adds the meaning of 
+\begin_inset Quotes eld
+\end_inset
+
+true and pure
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The word was originally used to only refer to the Cherokee people but its
+ use has been expanded to refer any indigenous person of the Americas.
 \end_layout
 
 \begin_layout Description
@@ -92799,18 +92977,6 @@ What are you called?
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-What is your name?
-\begin_inset Quotes erd
-\end_inset
-
 
 \end_layout
 
@@ -92819,23 +92985,11 @@ What is your name?
 \begin_inset space ~
 \end_inset
 
-ᏚᏙᎠ? [gạ²do¹ du¹doɂa] 
+ᏚᏙᎠ? [gạ²do¹ du¹do³ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
 What is he or she called?
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Translation
-\emph default
-: 
-\begin_inset Quotes eld
-\end_inset
-
-What is his or her name?
 \begin_inset Quotes erd
 \end_inset
 
@@ -92863,7 +93017,11 @@ Barbara.
 \begin_inset Quotes erd
 \end_inset
 
- ☞
+
+\end_layout
+
+\begin_layout Standard
+☞
 \emph on
  You will notice the Cherokee for Barbara is quite different than the English
  for Barbara.
@@ -93133,58 +93291,6 @@ Is your name Barbara?
 Conversational Phrases
 \end_layout
 
-\begin_layout Description
-ᎢᎮᏙᎸᎢ [ị²he²³do³²lv²ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-You come around again.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Used like the English 
-\begin_inset Quotes eld
-\end_inset
-
-Come back now.
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Description
-ᎢᏍᏕᏙᎸᎢ [ị²sde²³do³²lv²ɂi] You two come around again.
- 
-\emph on
-Used like the English 
-\begin_inset Quotes eld
-\end_inset
-
-You two come back now.
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Description
-ᎢᏤᏙᎸᎢ [ị²je²³do³²lv²ɂi] You all come around again.
- 
-\emph on
-Used like the English 
-\begin_inset Quotes eld
-\end_inset
-
-Y'all come back now.
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
 \begin_layout Standard
 ☞ 
 \emph on
@@ -93225,1038 +93331,15 @@ lv
  a desired future event to something that already happened.
 \end_layout
 
-\begin_layout Subsection
-People
-\end_layout
-
-\begin_layout Description
-ᎠᏴᏫ,
-\begin_inset space ~
-\end_inset
-
-ᏴᏫ [ạ²yv²wi, yv²wi] 
-\begin_inset Quotes eld
-\end_inset
-
-A person.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- Note the similarity to 
-\begin_inset Quotes eld
-\end_inset
-
-ayv
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏴᏫ [ạ²ni²yv²wi] 
-\begin_inset Quotes eld
-\end_inset
-
-People.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- The insertion of 
-\begin_inset Quotes eld
-\end_inset
-
--ni-
-\begin_inset Quotes erd
-\end_inset
-
- after the 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
- makes it mean more than one.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏣᎳᎩ [ạ²jạ²lạ²gi] 
-\begin_inset Quotes eld
-\end_inset
-
-A Cherokee Person.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- The addition of 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
- means something or someone alive.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏣᎳᎩ [ạ²ni²jạ²lạ²gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Cherokee People.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- The insertion of 
-\begin_inset Quotes eld
-\end_inset
-
--ni-
-\begin_inset Quotes erd
-\end_inset
-
- after the 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
- makes it mean more than one.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏴᏫᏯᎢ [ạ²yv²wi²ya⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-A true person.
- A Native American.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- The suffix 
-\begin_inset Quotes eld
-\end_inset
-
--yai
-\begin_inset Quotes erd
-\end_inset
-
- on this word means 
-\begin_inset Quotes eld
-\end_inset
-
-pure
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-true
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏴᏫᏯᎢ [ạ²ni²yv²wi²ya⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-The true people.
- Native Americans.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- The insertion of 
-\begin_inset Quotes eld
-\end_inset
-
--ni-
-\begin_inset Quotes erd
-\end_inset
-
- after the 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
- makes it mean more than one.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏲᏁᎦ [ạ²yo³ne²ga] 
-\begin_inset Quotes eld
-\end_inset
-
-A White Person.
- An English Person.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- The addition of 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
- means something or someone alive.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏲᏁᎦ [ạ²ni²yo³ne²ga] 
-\begin_inset Quotes eld
-\end_inset
-
-White People.
- English People.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- The insertion of 
-\begin_inset Quotes eld
-\end_inset
-
--ni-
-\begin_inset Quotes erd
-\end_inset
-
- after the 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
- makes it mean more than one.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Exercises
-\end_layout
-
-\begin_layout Subsection
-Written
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into English.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
+\begin_layout Chapter
+ᏔᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Ayvwis?, Ajalagina?, Ayvwigwus?
-\end_layout
-
-\begin_layout Enumerate
-Ajalagihv?, Aniyvwiju?, Ajalagigwu.
-\end_layout
-
-\begin_layout Enumerate
-Ayvwihv?, Aniyvwigwu., Ayonegagwus?
-\end_layout
-
-\begin_layout Enumerate
-Ajalagis?, Aniyvwina?, Ayonegahv?
-\end_layout
-
-\begin_layout Enumerate
-Ayonegas?, Ayvwigwu., Aniyvwi.
-\end_layout
-
-\begin_layout Enumerate
-Ajalagiju?, Ayonegana?, Dvgvgohis?
-\end_layout
-
-\begin_layout Enumerate
-Ayvwiyaigwus?, Aniyvwihv?, Dvgvgohi.
-\end_layout
-
-\begin_layout Enumerate
-Ayvwiyaihv?, Ayonegaju?, Anijalagis?
-\end_layout
-
-\begin_layout Enumerate
-Ayvwiyaigwu., Ayvwiju?, Ajalagi.
-\end_layout
-
-\begin_layout Enumerate
-Anijalagihv?, Dvsgigohis?, Anijalagiju?
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into Cherokee.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-What about the Native American?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Are they just English people?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Are they only Cherokee?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-What about the white people?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is only a white person.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-You will see me later.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-It is only white people.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-What about the Native Americans?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Is your name Anthony?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Cherokee people.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is white people, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Are they Native Americans?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Are you only called Anthony?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A Native American.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-My name is Anthony.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-It is Native Americans, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-But for me being called Barbara?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Are they white people?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-What about my name being Anthony?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I am just called Barbara.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-But for the Native Americans?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Just the ninth Cherokee person.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Is it only a Cherokee person?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-What about the Cherokee people?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Is your name Barbara?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Only the seventh Cherokee person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Is it the eleventh white person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is the twelfth Cherokee person, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Is it only the eighth white person?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Oral Lesson
-\end_layout
-
-\begin_layout Standard
-Remember, the 
-\begin_inset Quotes eld
-\end_inset
-
-v
-\begin_inset Quotes erd
-\end_inset
-
- makes a sound like the (u) in r
-\bar under
-u
-\bar default
-ng and is always sounded through the nose.
- Also, don't forget to keep the tip of your tongue against the backside
- of your lower front teeth each time you speak any Cherokee word.
-\end_layout
-
-\begin_layout Enumerate
-Have your partner call the Cherokee challenge phrase from each of the bracketed
- sets in the following 
-\begin_inset Quotes eld
-\end_inset
-
-challenge and response
-\begin_inset Quotes erd
-\end_inset
-
- list.
- Repeat the Cherokee challenge and then try to give the correct English
- translation.
- (Only your partner should see the list.) (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-When you give a correct answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-vv
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-osda
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-If you give an incorrect answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-hla
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- and then give the correct answer.
- You should then repeat the correct answer that is given to you.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Switch roles with your partner and repeat the previous exercise.
- (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_layout Enumerate
-Have your partner call the English challenge phrase from each of the bracketed
- sets in the following 
-\begin_inset Quotes eld
-\end_inset
-
-challenge and response
-\begin_inset Quotes erd
-\end_inset
-
- list.
- Try and give the correct Cherokee translation.
- (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-When you give a correct answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-vv
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-osda
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-If you give an incorrect answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-hla
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- and then give the correct answer.
- You should then repeat the correct answer that is given to you.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Switch roles with your partner and repeat the previous exercise.
- (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_layout Paragraph
-Challenge and Response List
-\end_layout
-
-\begin_layout Enumerate
-[Ayvwina?: What about the person?], [Ajalagigwuju?: It is only a Cherokee
- person, isn't it?]
-\end_layout
-
-\begin_layout Enumerate
-[Ayvwigwu:.
- It is just a person.], [Ayonegagwus?: Is it only an English person?]
-\end_layout
-
-\begin_layout Enumerate
-[Aniyvwis?: Is it people?], [Ajalagihv?: But for the Cherokee person?]
-\end_layout
-
-\begin_layout Enumerate
-[Anijalagigwu.: Just the Cherokee people.], [Ayvwiyaihv?: But for the Native
- American person?]
-\end_layout
-
-\begin_layout Enumerate
-[Ayvwigwus?: Is it only a person?], [Aniyvwi.: People.]
-\end_layout
-
-\begin_layout Enumerate
-[Aniyonegas?: Is it English people?], [Ajalagina?: What about the Cherokee
- person?]
-\end_layout
-
-\begin_layout Enumerate
-[Ayvwiyaigwu.: Just a Native American.], [Ijedolvi.: You all come around again.]
-\end_layout
-
-\begin_layout Enumerate
-[Ayvwis?: Is it a person?], [Anijalagihv?: But for the Cherokee people?]
-\end_layout
-
-\begin_layout Enumerate
-[Ayonega.: An English person.], [Ihedolvi.: You come around again.]
-\end_layout
-
-\begin_layout Enumerate
-[Dvgvgohi.: I will see you.], [Aniyvwiyaigwus?: Is it only Native Americans?]
-\end_layout
-
-\begin_layout Enumerate
-[Entoni dejadoaju?: You are called Anthony, are you not?], [Dvsgigohi: You
- will see me.]
-\end_layout
-
-\begin_layout Enumerate
-[Entoni dejadoahv?: But for me being called Anthony?], [Ayvwiju?: It is
- a person, isn't it?]
-\end_layout
-
-\begin_layout Enumerate
-[Ayvwiyai.: A Native American.], [Entoni dejadoagwu: Your name is only Anthony.]
-\end_layout
-
-\begin_layout Enumerate
-[Gwagwaana dagwadoa?: What about my name being Barbara?], [Aniyvwiyai.: Native
- Americans.]
-\end_layout
-
-\begin_layout Enumerate
-[Gwagwaaju dagwadoa?: My name is Barbara, isn't it?], [Entonigwus dejadoa?:
- Is not your only name Anthony?]
-\end_layout
-
-\begin_layout Subsection
-Questions
-\begin_inset CommandInset label
-LatexCommand label
-name "sub:Questions344"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Write down each of the following statements and its accompanying question
- as they appear.
- Go back and read the statements and their questions, then provide a written
- answer to each question.
- Write your answer in Cherokee.
- Simple one or two word answers are fine.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hadlv joi?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Hia sagwu osda.
- Na sagwu uyoi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado usdi uyoi?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hadlv nvhgi?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hila iyani ahani?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hila iyani uhna?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado junsdi uhna?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Hia joi ahani.
- Na hisgi uhna.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hadlv hia joi?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Jalagi osda.
- Yonega uyoi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado usdi osda?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Hia joi ahani.
- Na hisgi uhna.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hila iga uhna?
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
+Twelfth Lesson
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -94276,109 +93359,6 @@ Translate into English
 
 \emph on
 Remember to write out the Cherokee when translating into English.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᎨᏳᏣ [ạ²ge²hyu⁴ja] 
-\begin_inset Quotes eld
-\end_inset
-
-A girl.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꭷ [ka] 
-\begin_inset Quotes eld
-\end_inset
-
-Hi.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏐᏈᎵ [so²³gwị³li] 
-\begin_inset Quotes eld
-\end_inset
-
-A horse.
- Horses.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏕᏫᏗ [de²wi²di] 
-\begin_inset Quotes eld
-\end_inset
-
-David.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏥᏍᏚ [ji²sdu] A rabbit.
- Rabbits.
-\end_layout
-
-\begin_layout Description
-ᏲᎾ [yo²³na] 
-\begin_inset Quotes eld
-\end_inset
-
-A bear.
- Bears.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
