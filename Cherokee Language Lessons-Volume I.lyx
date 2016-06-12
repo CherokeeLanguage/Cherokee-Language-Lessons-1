@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.93 $
+$Revision: 1.94 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/12 23:00:50 $ UTC
+$Date: 2016/06/12 23:07:49 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.93 $
+$Revision: 1.94 $
 \noun default
 .
 \end_layout
@@ -1249,9 +1249,9 @@ underdot
 \begin_layout Standard
 ☞ 
 \emph on
-Any vowels that are not followed by a tone mark and vowels that appear at
- the end of words in the pronunciation guide are always short and will not
- be displayed with an underdot.
+Any vowels that are not followed by a number and vowels that appear at the
+ end of words in the pronunciation guide are always short and will not be
+ displayed with an underdot.
 \end_layout
 
 \begin_layout Standard
