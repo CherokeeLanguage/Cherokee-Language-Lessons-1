@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.91 $
+$Revision: 1.92 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/12 22:32:26 $ UTC
+$Date: 2016/06/12 22:36:22 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.91 $
+$Revision: 1.92 $
 \noun default
 .
 \end_layout
@@ -74982,8 +74982,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -74999,23 +74997,12 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚁
+ᎯᎳ ᎢᎦ? ⚀
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ.
- (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚂
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ᏌᏊ.
  (Inanimate).
 \end_layout
 
@@ -75028,61 +75015,6 @@ raggedcolumns
 \begin_layout Enumerate
 ᏌᏊ, ᏔᎵ.
  (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚂
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ.
- (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚁
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚂
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚁
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚂
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ.
- (Animate).
 \end_layout
 
 \end_deeper
@@ -75098,13 +75030,68 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚃
+ᎯᎳ ᎢᎦ? ⚁
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚂
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚃
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
- (Animate).
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚂
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚃
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚄
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ (Inanimate).
 \end_layout
 
 \end_deeper
@@ -75137,8 +75124,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -75154,79 +75139,13 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚁
+ᎯᎳ ᎢᎦ? ⚅
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ.
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
  (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚂
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ.
- (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚃
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚁
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚂
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚄
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
- (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚀
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ.
- (Animate).
 \end_layout
 
 \end_deeper
@@ -75253,13 +75172,68 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚃
+ᎯᎳ ᎢᎦ? ⚅⚀
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚁
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ.
  (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚂
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ (Inanimate).
 \end_layout
 
 \end_deeper
@@ -75292,8 +75266,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -75309,34 +75281,35 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚅
+ᎯᎳ ᎢᎦ? ⚃
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
+ (Inanimate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ.
  (Animate).
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᏍᏗ ᎦᎵᏉᎩᏁᎢ?
+ᎯᎳ ᎢᏯᏂ? ⚁
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-☐☐☐☐☐☐☒
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚅⚀
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
- (Inanimate).
+ᏌᏊ, ᎠᏂᏔᎵ.
+ (Animate).
 \end_layout
 
 \end_deeper
@@ -75352,17 +75325,6 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚅⚀
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
 ᎯᎳ ᎢᎦ? ⚅
 \end_layout
 
@@ -75374,44 +75336,45 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᏍᏗ ᏦᎢᏁᎢ?
+ᎯᎳ ᎢᏯᏂ? ⚁
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-☐☐☒☐☐☐☐
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚅⚀
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ᏌᏊ, ᎠᏂᏔᎵ.
  (Animate).
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚁
+ᎯᎳ ᎢᏯᏂ? ⚂
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ.
- (Inanimate).
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ.
+ (Animate).
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚂
+ᎯᎳ ᎢᏯᏂ? ⚃
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ.
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᎦ? ⚅⚀
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
  (Inanimate).
 \end_layout
 
@@ -75445,8 +75408,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -75462,23 +75423,34 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚁
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ.
- (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
 ᎯᎳ ᎢᏯᏂ? ⚂
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚃
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎳ ᎢᏯᏂ? ⚄
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
  (Animate).
 \end_layout
 
@@ -75495,24 +75467,13 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚃
+ᎯᎳ ᎢᏯᏂ? ⚄
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
- (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚄
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
- (Inanimate).
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ (Animate).
 \end_layout
 
 \end_deeper
@@ -75522,18 +75483,8 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
  (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎦᏙ ᎤᏍᏗ ᏅᎩᏁᎢ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-☐☐☐☒☐☐☐
 \end_layout
 
 \end_deeper
@@ -75543,30 +75494,30 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
  (Animate).
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚁
+ᎯᎳ ᎢᏯᏂ? ⚁
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ.
- (Inanimate).
+ᏌᏊ, ᎠᏂᏔᎵ.
+ (Animate).
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚂
+ᎯᎳ ᎢᏯᏂ? ⚅
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ.
- (Inanimate).
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ (Animate).
 \end_layout
 
 \end_deeper
@@ -75599,8 +75550,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -75616,13 +75565,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚁
+ᎯᎳ ᎢᏯᏂ? ⚅⚀
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᎠᏂᏔᎵ.
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
  (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎯᏍᎩᏁᎢ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+☐☐☐☐☒☐☐
 \end_layout
 
 \end_deeper
@@ -75638,46 +75597,13 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚀
+ᎯᎳ ᎢᏯᏂ? ⚃
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ.
- (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚃
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ.
- (Inanimate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚄
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ.
  (Animate).
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚅
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
- (Inanimate).
 \end_layout
 
 \end_deeper
@@ -75692,34 +75618,45 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᏯᏂ? ⚅⚀
+ᎯᎳ ᎢᏯᏂ? ⚄
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ, ᏔᎵ, ᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ.
  (Animate).
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎯᎳ ᎢᎦ? ⚀
+ᎯᎳ ᎢᏯᏂ? ⚅
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᏊ.
- (Inanimate).
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ.
+ (Animate).
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᏍᏗ ᏔᎵᏁᎢ?
+ᎯᎳ ᎢᏯᏂ? ⚅⚀
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-☐☒☐☐☐☐☐
+ᏌᏊ, ᎠᏂᏔᎵ, ᎠᏂᏦᎢ, ᏅᎩ, ᎯᏍᎩ, ᏑᏓᎵ, ᎦᎵᏉᎩ.
+ (Animate).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏦᎢᏁᎢ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+☐☐☒☐☐☐☐
 \end_layout
 
 \end_deeper
