@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.82 $
+$Revision: 1.83 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/12 00:50:29 $ UTC
+$Date: 2016/06/12 01:11:42 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.82 $
+$Revision: 1.83 $
 \noun default
 .
 \end_layout
@@ -93509,7 +93509,7 @@ Each challenge-response should be done as in the following examples:
 \begin_inset Quotes erd
 \end_inset
 
- puts a deer card in from of 
+ puts a deer card in front of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93575,7 +93575,7 @@ Each challenge-response should be done as in the following examples:
 \begin_inset Quotes erd
 \end_inset
 
- puts a white flag person card in from of 
+ puts a white flag person card in front of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93638,7 +93638,7 @@ Each challenge-response should be done as in the following examples:
 \end_inset
 
  places four counters, a smiling card, and an English flag person card in
- from of 
+ front of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93942,7 +93942,7 @@ There are two
 \begin_inset Quotes erd
 \end_inset
 
- card, gives the person to their immeidate left a 
+ card, gives the person to their right a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94024,7 +94024,7 @@ Each person selects a name to be called and shows that name.
 \begin_inset Quotes erd
 \end_inset
 
- responds: (Pointing at self) Mike and (pointing at other 
+ responds: (Pointing at self) Mike and (pointing at the other 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94274,6 +94274,15 @@ Repeat these until everyone can do the
 \end_inset
 
  responses smoothly without having to reference the material.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Remember to only speak the names selected by each person as shown on the
+ index cards.
+ You should not be speaking both names in each name pair as listed in the
+ challenges and responses.
 \end_layout
 
 \begin_layout Subsubsection*
