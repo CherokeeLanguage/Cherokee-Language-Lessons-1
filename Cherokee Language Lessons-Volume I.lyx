@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.84 $
+$Revision: 1.85 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/12 01:18:00 $ UTC
+$Date: 2016/06/12 01:22:41 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.84 $
+$Revision: 1.85 $
 \noun default
 .
 \end_layout
@@ -93992,7 +93992,11 @@ Each person selects a name to be called and shows that name.
 
 \begin_layout Enumerate
 [Ꭱ] ᏏᏲ ᏙᎯᏊ.
- _____ ᏓᏆᏙᎠ.
+ 
+\bar under
+ᏑᏌᏃ
+\bar default
+ ᏓᏆᏙᎠ.
  ᎦᏙ ᏕᏍᏓᏙᎠ?
 \begin_inset Newline newline
 \end_inset
@@ -94011,7 +94015,15 @@ Each person selects a name to be called and shows that name.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ] _____ ᎠᎴ _____ ᏙᎩᎾᏙᎠ.
+[Ꭰ] 
+\bar under
+ᎹᎦᎵ
+\bar default
+ ᎠᎴ 
+\bar under
+ᎺᎵ
+\bar default
+ ᏙᎩᎾᏙᎠ.
  ᏙᏓᏓᎪᎲ²Ꭲ.
 \begin_inset Newline newline
 \end_inset
