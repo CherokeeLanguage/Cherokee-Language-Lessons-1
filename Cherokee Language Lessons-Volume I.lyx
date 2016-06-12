@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.87 $
+$Revision: 1.88 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/12 01:28:40 $ UTC
+$Date: 2016/06/12 21:15:33 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.87 $
+$Revision: 1.88 $
 \noun default
 .
 \end_layout
@@ -95414,78 +95414,36 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Standard
-☞ 
-\emph on
-In English, we can refer to 
-\begin_inset Quotes eld
-\end_inset
-
-some rabbit
-\begin_inset Quotes erd
-\end_inset
-
- when talking about a single bottle, in Cherokee one would say 
-\begin_inset Quotes eld
-\end_inset
-
-something rabbit
-\begin_inset Quotes erd
-\end_inset
-
- to indicate the same meaning.
-\end_layout
-
 \begin_layout Section
 
 \lang english
-ᎤᏬᎵᏗ ᎪᏪᎵ
-\end_layout
-
-\begin_layout Subsection
-Translate into English
+ᎤᏬᎵᏗ ᎪᏪᎵ (Funny Paper)
 \end_layout
 
 \begin_layout Standard
-
+Read the following comic aloud.
+ ☞ 
 \emph on
-Remember to write out the Cherokee when translating into English.
+If you have a partner, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and ᏲᎾ
+ ᎠᏍᎦᏯ parts and the other the ᏥᏍᏚ ᎠᎨᏳᏣ and ᏲᎾ ᎠᎨᏯ parts then switch roles
+ and read it aloud a second time.
 \end_layout
 
 \begin_layout Standard
-\noindent
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch01-04/page.in.book/001.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/002.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/003.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
+	filename comics/dewidi-jisdu/pages.jpg/001.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
 
 \end_inset
 
@@ -95493,107 +95451,13 @@ Remember to write out the Cherokee when translating into English.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 1
-\end_layout
-
-\begin_layout Description
-Agehyuja: O! Gado dejadoa?
-\end_layout
-
-\begin_layout Description
-Dewidi: Osiyo! Dewidi Jisdu dagwadoa!
-\end_layout
-
-\begin_layout Subsection*
-Panel 2
-\end_layout
-
-\begin_layout Description
-Dewidi: Nihi ahani!
-\end_layout
-
-\begin_layout Subsection*
-Panel 3
-\end_layout
-
-\begin_layout Description
-Agehyuja: Hadlv na joi yona?
-\end_layout
-
-\begin_layout Description
-Dewidi: Yonana joi?
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
 \align center
 \begin_inset Graphics
-	filename comics/ch01-04/page.in.book/004.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/005.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/006.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
+	filename comics/dewidi-jisdu/pages.jpg/002.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
 
 \end_inset
 
@@ -95601,104 +95465,13 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 4
-\end_layout
-
-\begin_layout Description
-Dewidi: Uhnas joi yona? Uyoi!
-\end_layout
-
-\begin_layout Description
-Agehyuja: Vv! Na yona uhna! Osda!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5
-\end_layout
-
-\begin_layout Description
-Dewidi: Ssss \SpecialChar \ldots{}
- Na yona joi ahani!
-\end_layout
-
-\begin_layout Subsection*
-Panel 6
-\end_layout
-
-\begin_layout Description
-Dewidi: Ayo!
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
 \align center
 \begin_inset Graphics
-	filename comics/ch01-04/page.in.book/007.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/008.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/009.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
+	filename comics/dewidi-jisdu/pages.jpg/003.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
 
 \end_inset
 
@@ -95706,111 +95479,13 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 7
-\end_layout
-
-\begin_layout Description
-Dewidi: Ayo! Ayo! Ayo!
-\end_layout
-
-\begin_layout Subsection*
-Panel 8
-\end_layout
-
-\begin_layout Description
-Dewidi: Howa! Ahani hia 
-\begin_inset Quotes eld
-\end_inset
-
-spinach
-\begin_inset Quotes erd
-\end_inset
-
-!
-\end_layout
-
-\begin_layout Description
-Agehyuja: Uuuu!
-\end_layout
-
-\begin_layout Subsection*
-Panel 9
-\end_layout
-
-\begin_layout Description
-Agehyuja: Ni! Ahani sogwili!
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
 \align center
 \begin_inset Graphics
-	filename comics/ch01-04/page.in.book/010.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/011.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/012.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
+	filename comics/dewidi-jisdu/pages.jpg/004.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
 
 \end_inset
 
@@ -95818,113 +95493,13 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 10
-\end_layout
-
-\begin_layout Description
-Dewidi: Uhna sagwu sogwili.
- Ahani sagwu sogwili.
- Hiana sogwili?
-\end_layout
-
-\begin_layout Subsection*
-Panel 11
-\end_layout
-
-\begin_layout Description
-Dewidi: Howa!
-\end_layout
-
-\begin_layout Description
-Dewidi: Gado?
-\end_layout
-
-\begin_layout Description
-Dewidi: Uyoi!
-\end_layout
-
-\begin_layout Description
-Dewidi: Aaa!
-\end_layout
-
-\begin_layout Subsection*
-Panel 12
-\end_layout
-
-\begin_layout Description
-Agehyuja: Ayos?
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
 \align center
 \begin_inset Graphics
-	filename comics/ch01-04/page.in.book/013.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/014.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
-
-\end_inset
-
-
-\begin_inset space \quad{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename comics/ch01-04/page.in.book/015.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
+	filename comics/dewidi-jisdu/pages.jpg/005.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
 
 \end_inset
 
@@ -95932,82 +95507,13 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 13
-\end_layout
-
-\begin_layout Description
-Dewidi: Aaaa!
-\end_layout
-
-\begin_layout Subsection*
-Panel 14
-\end_layout
-
-\begin_layout Description
-Yona: Gago? Gado dudoa?
-\end_layout
-
-\begin_layout Description
-Dewidi: Ayo! A! Aaa!
-\end_layout
-
-\begin_layout Subsection*
-Panel 15
-\end_layout
-
-\begin_layout Description
-Agehyuja: Hia Dewidi Jisdu.
-\end_layout
-
-\begin_layout Description
-Dewidi: Ka, Osiyo\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\noindent
 \align center
 \begin_inset Graphics
-	filename comics/ch01-04/page.in.book/016.jpg
-	lyxscale 30
-	width 30col%
-	groupId comic-half
+	filename comics/dewidi-jisdu/pages.jpg/006.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
 
 \end_inset
 
@@ -96015,43 +95521,13 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 16
-\end_layout
-
-\begin_layout Description
-Yona: Dejadoaju Dewidi Jisdu? A! Nihi na uyoi jisdu!
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
+\align center
+\begin_inset Graphics
+	filename comics/dewidi-jisdu/pages.jpg/007.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
 
 \end_inset
 
@@ -96066,1224 +95542,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-Chapter Answers
-\end_layout
-
-\begin_layout Subsection
-Writing Practice
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into Cherokee
+ᏙᏪᎸᎦ (Write them)
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Joi.
-\end_layout
-
-\begin_layout Enumerate
-Kanigida.
- Not.
-\end_layout
-
-\begin_layout Enumerate
-Nvhgi.
-\end_layout
-
-\begin_layout Enumerate
-Sadusinei.
-\end_layout
-
-\begin_layout Enumerate
-Tali.
-\end_layout
-
-\begin_layout Enumerate
-Hisgi.
-\end_layout
-
-\begin_layout Enumerate
-Sagwu.
-\end_layout
-
-\begin_layout Enumerate
-Sgohinei.
-\end_layout
-
-\begin_layout Enumerate
-Taldu.
-\end_layout
-
-\begin_layout Enumerate
-Daladu.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into English
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Thirteen.
-\end_layout
-
-\begin_layout Enumerate
-Eighteen.
-\end_layout
-
-\begin_layout Enumerate
-Fourteen.
-\end_layout
-
-\begin_layout Enumerate
-Sixth.
-\end_layout
-
-\begin_layout Enumerate
-Eight.
-\end_layout
-
-\begin_layout Enumerate
-Thirty.
-\end_layout
-
-\begin_layout Enumerate
-Fifteen.
-\end_layout
-
-\begin_layout Enumerate
-Ninth.
-\end_layout
-
-\begin_layout Enumerate
-Twenty.
-\end_layout
-
-\begin_layout Enumerate
-Seventeen.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into Cherokee
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Gwalgwogi.
-\end_layout
-
-\begin_layout Enumerate
-Josgo joi.
-\end_layout
-
-\begin_layout Enumerate
-Gahlgwadu.
-\end_layout
-
-\begin_layout Enumerate
-Josgo nvhginei.
-\end_layout
-
-\begin_layout Enumerate
-Josgo tali.
-\end_layout
-
-\begin_layout Enumerate
-Talsgo joi.
-\end_layout
-
-\begin_layout Enumerate
-Josgo hisgi.
-\end_layout
-
-\begin_layout Enumerate
-Josgo sagwuhinei.
-\end_layout
-
-\begin_layout Enumerate
-Talsgo nvhgi.
-\end_layout
-
-\begin_layout Enumerate
-Talsgo tali.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into English
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Thirty six.
-\end_layout
-
-\begin_layout Enumerate
-Twenty five.
-\end_layout
-
-\begin_layout Enumerate
-Twenty one.
-\end_layout
-
-\begin_layout Enumerate
-Thirty eighth.
-\end_layout
-
-\begin_layout Enumerate
-Twenty six.
-\end_layout
-
-\begin_layout Enumerate
-Twenty eight.
-\end_layout
-
-\begin_layout Enumerate
-Twenty nine.
-\end_layout
-
-\begin_layout Enumerate
-Thirty seventh.
-\end_layout
-
-\begin_layout Enumerate
-Thirty nine.
-\end_layout
-
-\begin_layout Enumerate
-Twenty seven.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Written
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into English.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Is it a person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-What about a Cherokee person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Is it just a person?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-But for the Cherokee person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-They are people, aren't they?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is just a Cherokee person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-But for a person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-They are just people.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is just an English person, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Is it a Cherokee person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-What about people?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-But for an English person?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Is it an English person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is just a person.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-People.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-It is a Cherokee person, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-What about an English person?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Will I see you later?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Is it just a Native American?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-But for people?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I will see you later.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-But for a Native American?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is an English person, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Are they Cherokee people?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Just a Native American.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is a person, isn't it?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A Cherokee person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-But for Cherokee people?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Will you see me later?
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-They are Cherokee people, are they?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into Cherokee.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Ayvwiyaina?, Aniyonegagwus?, Anijalagigwus?
-\end_layout
-
-\begin_layout Enumerate
-Aniyonegana?, Ayonegagwu., Dvsgigohi.
-\end_layout
-
-\begin_layout Enumerate
-Aniyonegagwu., Aniyvwiyaina?, Entonis dejadoa?
-\end_layout
-
-\begin_layout Enumerate
-Anijalagi., Aniyonegaju?, Aniyvwiyais?
-\end_layout
-
-\begin_layout Enumerate
-Entonigwus dejadoa?, Ayvwiyai., Entoni dagwadoa.
-\end_layout
-
-\begin_layout Enumerate
-Aniyvwiyaiju?, Gwagwaahv dagwadoa?, Aniyonegas?
-\end_layout
-
-\begin_layout Enumerate
-Entonina dagwadoa?, Gwagwa dagwadoagwu., Ayvwi.
-\end_layout
-
-\begin_layout Enumerate
-Aniyvwiyaihv?, Sohnelineigwu ajalagi.
- Ajalagigwus?
-\end_layout
-
-\begin_layout Enumerate
-Anijalagina?, Gwagwaas dejadoa?, Gahlgwogineigwu ajalagi.
-\end_layout
-
-\begin_layout Enumerate
-Sadusineis ayonega?, Taldusineigwuju ajalagi?, Chanelineigwus ayonega?
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Questions
-\begin_inset CommandInset label
-LatexCommand label
-name "sub:Questions344-1"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Write down each of the following statements and its accompanying question
- as they appear.
- Go back and read the statements and their questions, then provide a written
- answer to each question.
- Write your answer in Cherokee.
- Simple one or two word answers are fine.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hadlv joi? 
-\emph on
-Uhna.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Hia sagwu osda.
- Na sagwu uyoi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado usdi uyoi? 
-\emph on
-Na sagwu.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hadlv nvhgi? 
-\emph on
-Ahani.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hila iyani ahani? 
-\emph on
-Nvhgi.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hila iyani uhna? 
-\emph on
-Joi.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Na joi uhna.
- Hia nvhgi ahani.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado junsdi uhna? 
-\emph on
-Na joi.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Hia joi ahani.
- Na hisgi uhna.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hadlv hia joi? 
-\emph on
-Ahani.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Jalagi osda.
- Yonega uyoi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado usdi osda? 
-\emph on
-Jalagi.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Hia joi ahani.
- Na hisgi uhna.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Hila iga uhna? 
-\emph on
-Hisgi.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Translate into English
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 1
-\end_layout
-
-\begin_layout Description
-Agehyuja: O! Gado dejadoa?
-\end_layout
-
-\begin_layout Description
-Girl: Oh! What's your name?
-\end_layout
-
-\begin_layout Description
-Dewidi: Osiyo! Dewidi Jisdu dagwadoa!
-\end_layout
-
-\begin_layout Description
-David: Hello! My name is David Rabbit!
-\end_layout
-
-\begin_layout Subsection*
-Panel 2
-\end_layout
-
-\begin_layout Description
-Dewidi: Nihi ahani!
-\end_layout
-
-\begin_layout Description
-David: You here!
-\end_layout
-
-\begin_layout Subsection*
-Panel 3
-\end_layout
-
-\begin_layout Description
-Agehyuja: Hadlv na joi yona?
-\end_layout
-
-\begin_layout Description
-Girl: Where are those three bears?
-\end_layout
-
-\begin_layout Description
-Dewidi: Yonana joi?
-\end_layout
-
-\begin_layout Description
-David: What about three bears?
-\end_layout
-
-\begin_layout Subsection*
-Panel 4
-\end_layout
-
-\begin_layout Description
-Dewidi: Uhnas joi yona? Uyoi!
-\end_layout
-
-\begin_layout Description
-David: Are three bears there? Bad!
-\end_layout
-
-\begin_layout Description
-Agehyuja: Vv! Na yona uhna! Osda!
-\end_layout
-
-\begin_layout Description
-Girl: Yes! Those bears are there! Good!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5
-\end_layout
-
-\begin_layout Description
-Dewidi: Ssss \SpecialChar \ldots{}
- Na yona joi ahani!
-\end_layout
-
-\begin_layout Description
-David: Shhhhhh\SpecialChar \ldots{}
- Those three bears are here!
-\end_layout
-
-\begin_layout Subsection*
-Panel 6
-\end_layout
-
-\begin_layout Description
-Dewidi: Ayo!
-\end_layout
-
-\begin_layout Description
-David: Ow!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7
-\end_layout
-
-\begin_layout Description
-Dewidi: Ayo! Ayo! Ayo!
-\end_layout
-
-\begin_layout Description
-David: Owie! Owie! Owie!
-\end_layout
-
-\begin_layout Subsection*
-Panel 8
-\end_layout
-
-\begin_layout Description
-Dewidi: Howa! Ahani hia 
-\begin_inset Quotes eld
-\end_inset
-
-spinach
-\begin_inset Quotes erd
-\end_inset
-
-!
-\end_layout
-
-\begin_layout Description
-David: Alright! Here is this spinach!
-\end_layout
-
-\begin_layout Description
-Agehyuja: Uuuu!
-\end_layout
-
-\begin_layout Description
-Girl: Ooooooooo!
-\end_layout
-
-\begin_layout Subsection*
-Panel 9
-\end_layout
-
-\begin_layout Description
-Agehyuja: Ni! Ahani sogwili!
-\end_layout
-
-\begin_layout Description
-Girl: Look! Here is a horse!
-\end_layout
-
-\begin_layout Subsection*
-Panel 10
-\end_layout
-
-\begin_layout Description
-Dewidi: Uhna sagwu sogwili.
- Ahani sagwu sogwili.
- Hiana sogwili?
-\end_layout
-
-\begin_layout Description
-David: One horse there.
- One horse here.
- What about this horse?
-\end_layout
-
-\begin_layout Subsection*
-Panel 11
-\end_layout
-
-\begin_layout Description
-Dewidi: Howa!
-\end_layout
-
-\begin_layout Description
-David: Alright!
-\end_layout
-
-\begin_layout Description
-Dewidi: Gado?
-\end_layout
-
-\begin_layout Description
-David: What?
-\end_layout
-
-\begin_layout Description
-Dewidi: Uyoi!
-\end_layout
-
-\begin_layout Description
-David: Bad!
-\end_layout
-
-\begin_layout Description
-Dewidi: Aaa!
-\end_layout
-
-\begin_layout Description
-David: Ahh!
-\end_layout
-
-\begin_layout Subsection*
-Panel 12
-\end_layout
-
-\begin_layout Description
-Agehyuja: Ayos?
-\end_layout
-
-\begin_layout Description
-Girl: Owies?
-\end_layout
-
-\begin_layout Subsection*
-Panel 13
-\end_layout
-
-\begin_layout Description
-Dewidi: Aaaa!
-\end_layout
-
-\begin_layout Description
-David: Ahhh!
-\end_layout
-
-\begin_layout Subsection*
-Panel 14
-\end_layout
-
-\begin_layout Description
-Yona: Gago? Gado dudoa?
-\end_layout
-
-\begin_layout Description
-Bear: Who? What's his name?
-\end_layout
-
-\begin_layout Description
-Dewidi: Ayo! A! Aaa!
-\end_layout
-
-\begin_layout Description
-David: Owie! Ah! Ahhhhh!
-\end_layout
-
-\begin_layout Subsection*
-Panel 15
-\end_layout
-
-\begin_layout Description
-Agehyuja: Hia Dewidi Jisdu.
-\end_layout
-
-\begin_layout Description
-Girl: This is David Rabbit.
-\end_layout
-
-\begin_layout Description
-Dewidi: Ka, Osiyo\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Description
-David: Hi, hello\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 16
-\end_layout
-
-\begin_layout Description
-Yona: Dejadoaju Dewidi Jisdu? A! Nihi na uyoi jisdu!
-\end_layout
-
-\begin_layout Description
-Bear: You are David Rabbit? Ah! You are that bad rabbit!
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
+Write out each of the following Cherokee sentences from the comic followed
+ by an English translation.
 \end_layout
 
 \begin_layout Chapter
@@ -112048,7 +110312,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -112063,7 +110326,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -112078,7 +110340,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -112093,7 +110354,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -112108,7 +110368,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -112123,7 +110382,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -112138,7 +110396,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126248,7 +124505,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126263,7 +124519,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126278,7 +124533,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126293,7 +124547,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126308,7 +124561,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126323,7 +124575,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126338,7 +124589,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -126353,7 +124603,6 @@ end{multicols}
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -140179,7 +138428,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -140194,7 +138442,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -140209,7 +138456,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -140224,7 +138470,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -140239,7 +138484,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -140254,7 +138498,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -157252,7 +155495,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -157268,7 +155510,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -157284,7 +155525,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -157300,7 +155540,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -157316,7 +155555,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -157332,7 +155570,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -168997,7 +167234,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -169013,7 +167249,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -169029,7 +167264,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -169045,7 +167279,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -169061,7 +167294,6 @@ When you have completed this exercise compare your answers to the answers
 	lyxscale 25
 	width 95col%
 	height 86pheight%
-	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
