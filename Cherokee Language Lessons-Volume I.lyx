@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.98 $
+$Revision: 1.99 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/13 05:56:42 $ UTC
+$Date: 2016/06/13 06:08:38 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.98 $
+$Revision: 1.99 $
 \noun default
 .
 \end_layout
@@ -97316,6 +97316,14 @@ end{multicols}
 \begin_layout Standard
 ☞ 
 \emph on
+When indicating quantities it is general practice in many communities to
+ add “ᎢᏯᏂ” after the number for living things and “ᎢᎦ” after the number
+ for non-living things when dealing with any quantity greater than one.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
 If unclear, assume objects go on tables and people sit on chairs.
 \end_layout
 
@@ -97900,14 +97908,6 @@ end{multicols}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-When indicating quantities it is general practice in many communities to
- add “ᎢᏯᏂ” after the number for living things and “ᎢᎦ” after the number
- for non-living things when dealing with any quantity greater than one.
 \end_layout
 
 \begin_layout Section
