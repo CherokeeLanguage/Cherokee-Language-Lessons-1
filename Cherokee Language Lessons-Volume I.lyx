@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.95 $
+$Revision: 1.96 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/12 23:09:31 $ UTC
+$Date: 2016/06/12 23:09:51 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.95 $
+$Revision: 1.96 $
 \noun default
 .
 \end_layout
@@ -96337,12 +96337,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᎯᏍᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏦᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Fifth Lesson
+Thirteenth Lesson
 \end_layout
 
 \end_inset
@@ -96351,19 +96351,7 @@ Fifth Lesson
 \end_layout
 
 \begin_layout Section
-Numbers Practice
-\end_layout
-
-\begin_layout Subsection
-New Numbers
-\end_layout
-
-\begin_layout Subsection
-Writing Practice
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into Cherokee
+ᏘᎪᎵᏯ (Read them)
 \end_layout
 
 \begin_layout Standard
@@ -96386,26 +96374,405 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Enumerate
-It is just sixteen.
+\begin_layout Description
+ᎢᏤᎢ [ị¹je⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Green of fruit or vegetable.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Fruits or vegetables only.
 \end_layout
 
-\begin_layout Enumerate
-It is only seven, isn't it?
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏤᎢ [ạ²ni²je⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Green-them.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Is it sixty?
+\end_deeper
+\begin_layout Description
+ᎢᏤᎢ [ị¹je⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+New.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Inanimate only.
 \end_layout
 
-\begin_layout Enumerate
-It is five hundred, isn't it?
+\begin_deeper
+\begin_layout Description
+ᏗᏤᎢ [di²je⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+New-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-It is only five hundred.
+\end_deeper
+\begin_layout Description
+ᎢᏤᎢᏳᏍᏗ [ị²je³ɂị²yu⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Green colored.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+New fruit colored like.
 \end_layout
 
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏤᎢ [ạ²ni²je⁴ɂị²yu⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Green-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᏤᎢ [di²je⁴ɂị²yu⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Green-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏁᎦ [u²ne⁴ga] 
+\begin_inset Quotes eld
+\end_inset
+
+White.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᏁᎦ [u²ni²ne⁴ga] 
+\begin_inset Quotes eld
+\end_inset
+
+White-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏧᏁᎦ [ju²ne⁴ga] 
+\begin_inset Quotes eld
+\end_inset
+
+White-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏬᏗᎨᎢ [ụ²wo²³dị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Brown.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏧᏃᏗᎨᎢ [ju²no²³dị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Brown-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏧᏬᏗᎨᎢ [jụ²wo²³dị²ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Brown-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎩᎦᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᎩᎨᎢ [gi²³gạ³ge⁴ɂi, gi²³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Red.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎩᎦᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏂᎩᎨᎢ [ạ²ni²gi²³gạ³ge⁴ɂi, ạ²ni²gi²³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Red-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᎩᎦᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᏗᎩᎨᎢ [dị²gi²³gạ³ge⁴ɂi, dị²gi²³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Red-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎬᎿᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᎬᏂᎨᎢ [gv²³hnạ³ge⁴ɂi, gv²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Black.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎬᎿᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏂᎬᏂᎨᎢ [ạ²ni²gv²³hnạ³ge⁴ɂi, ạ²ni²gv²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Black-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᎬᎿᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᏗᎬᏂᎨᎢ [dị²gv²³hnạ³ge⁴ɂi, dị²gv²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Black-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎬᎿᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸ [gv²³hnạ³ge⁴ u¹sgo²³lv⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey.
+ (Black-faded).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎬᎿᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏂᏍᎪᎸ [ạ²ni²gv²³hnạ³ge⁴ u¹nị²sgo²³lv⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᎬᎿᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏂᏍᎪᎸ [dị²gv²³hnạ³ge⁴ u¹nị²sgo²³lv⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏌᎪᏂᎨᎢ [sạ²ko²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Blue.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏌᎪᏂᎨᎢ [ạ²ni²sạ²ko²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Blue-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᏌᎪᏂᎨᎢ [dị²sạ²ko²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Blue-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏓᎶᏂᎨᎢ [dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Yellow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏓᎶᏂᎨᎢ [ạ²ni²dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Yellow-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᏓᎶᏂᎨᎢ [dị²dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Yellow-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -96422,189 +96789,8 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Subsubsection
-Translate each of the following statements into English
-\end_layout
-
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Sgohitsgwas talsgohi? 
-\end_layout
-
-\begin_layout Enumerate
-Uhnas sohnelagwu? 
-\end_layout
-
-\begin_layout Enumerate
-Uhnas jogadugwu? 
-\end_layout
-
-\begin_layout Enumerate
-Ahanis nvksgohi? 
-\end_layout
-
-\begin_layout Enumerate
-Uhna sgohitsgwagwu.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into Cherokee
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Only nine hundred are here.
-\end_layout
-
-\begin_layout Enumerate
-Are there seventy of those? 
-\end_layout
-
-\begin_layout Enumerate
-There are eighty here, aren't there? 
-\end_layout
-
-\begin_layout Enumerate
-Is it only six Native Americans? 
-\end_layout
-
-\begin_layout Enumerate
-Is it only seven hundred of these? 
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following statements into English
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Gahlgwasgohigwu aniyvwiyai.
- 
-\end_layout
-
-\begin_layout Enumerate
-Sudalitsgwaju aniyvwi? 
-\end_layout
-
-\begin_layout Enumerate
-Joitsgwas hiksgo nvhgi? 
-\end_layout
-
-\begin_layout Enumerate
-Sudalitsgwagwus aniyvwi? 
-\end_layout
-
-\begin_layout Enumerate
-Talitsgwa sudalsgo sohnelagwu.
- 
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
+card game, call out color, pick correct crayon
 \end_layout
 
 \begin_layout Section
@@ -97590,183 +97776,6 @@ iga
  as appropriate when supplying a Cherokee answer for any of your exercises.
 \end_layout
 
-\begin_layout Subsection
-A special note about 
-\begin_inset Quotes eld
-\end_inset
-
-tali
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-joi
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-When using the numbers 
-\begin_inset Quotes eld
-\end_inset
-
-tali
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-joi
-\begin_inset Quotes erd
-\end_inset
-
-, it is common practice to prefix them with 
-\begin_inset Quotes eld
-\end_inset
-
-ani-
-\begin_inset Quotes erd
-\end_inset
-
- when referring to animate things.
- ☞
-\emph on
- When using the special forms 
-\begin_inset Quotes eld
-\end_inset
-
-anitali
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-anijoi
-\begin_inset Quotes erd
-\end_inset
-
- it is normal to not add 
-\begin_inset Quotes eld
-\end_inset
-
-iyani
-\begin_inset Quotes erd
-\end_inset
-
- as the special forms already indicate you are talking about something animate.
-\end_layout
-
-\begin_layout Standard
-The following examples compare the usage of 
-\begin_inset Quotes eld
-\end_inset
-
-tali
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-joi
-\begin_inset Quotes erd
-\end_inset
-
- for both animate and inanimate objects:
-\end_layout
-
-\begin_layout Itemize
-Inanimate
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Tali iga nvya.
-\begin_inset Quotes erd
-\end_inset
-
- Two rocks.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Joi iga nvya.
-\begin_inset Quotes erd
-\end_inset
-
- Three rocks.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Animate
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Anitali anijalagi.
-\begin_inset Quotes erd
-\end_inset
-
- Two Cherokee people.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Anijoi aniyonega.
-\begin_inset Quotes erd
-\end_inset
-
- Three English people.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-When talking about animate items, they will often be used by themselves:
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Anitali.
-\begin_inset Quotes erd
-\end_inset
-
- Two animate ones.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Anijoi.
-\begin_inset Quotes erd
-\end_inset
-
- Three animate ones.
-\end_layout
-
 \begin_layout Section
 Vocabulary
 \end_layout
@@ -97796,289 +97805,9 @@ raggedcolumns
 \end_layout
 
 \begin_layout Subsubsection*
-Colors
-\end_layout
-
-\begin_layout Description
-ᎩᎦᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᎩᎨᎢ [gi²³gạ³ge⁴ɂi, gi²³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Red.
- Blood colored.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏌᎪᏂᎨᎢ [sạ²ko²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Blue.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏓᎶᏂᎨᎢ [dạ²lo²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Yellow.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᏤᎢ [ị¹je⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Green (for fruit or vegetable).
- New (for inanimate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᏤᎢᏳᏍᏗ [ị²je³ɂị²yu⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Green colored.
- (New plant like.)
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏬᏗᎨᎢ [ụ²wo²³dị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Brown.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏧᏃᏗᎨᎢ [ju²no²³dị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-They-Brown.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Plural.
- Animate.
-\end_layout
-
-\begin_layout Description
-ᏧᏬᏗᎨᎢ [jụ²wo²³dị²ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-They-Brown.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Plural.
- Inanimate.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎬᎿᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᎬᏂᎨᎢ [gv²³hnạ³ge⁴ɂi, gv²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Black.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏁᎦ [u²ne⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-White.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᏂᏁᎦ [u²ni²ne⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-White.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Animate.
-\end_layout
-
-\begin_layout Description
-ᏧᏁᎦ [ju²ne⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-White.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Inanimate.
-\end_layout
-
-\end_deeper
-\begin_layout Subsubsection*
-Animate Things
-\end_layout
-
-\begin_layout Description
-ᎠᏫ,
-\begin_inset space ~
-\end_inset
-
-ᎠᎭᏫ [ạ²hwi, ạ²hạ²wi] 
-\begin_inset Quotes eld
-\end_inset
-
-A deer.
- Deer.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏩᏯ,
-\begin_inset space ~
-\end_inset
-
-ᏩᎭᏯ [wạ²hya, wạ²hạ²ya] 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf.
- Wolves.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏙᏯ [do²ya] 
-\begin_inset Quotes eld
-\end_inset
-
-A beaver.
- Beavers.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏌᎶᎵ [sạ²lo²³li] 
-\begin_inset Quotes eld
-\end_inset
-
-A squirrel.
- Squirrels.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏥᏍᏚ [ji²sdu] 
-\begin_inset Quotes eld
-\end_inset
-
-A rabbit.
- Rabbits.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection*
 Inanimate Things
 \end_layout
 
-\begin_layout Description
-ᏅᏯ [nv¹ya] 
-\begin_inset Quotes eld
-\end_inset
-
-A rock.
- Rocks.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏅᏲᎯ [nv¹yo⁴hi] 
-\begin_inset Quotes eld
-\end_inset
-
-A rocky place.
- In rocks.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Description
 ᎦᏍᎩᎶ [ga²sgị²lo] 
 \begin_inset Quotes eld
@@ -98126,32 +97855,6 @@ On a chair or on a table.
  ☞ 
 \emph on
 If unclear, assume objects go on tables and people sit on chairs.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᏌᏛᏗ [sạ²dv³di] 
-\begin_inset Quotes eld
-\end_inset
-
-A trap.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏗᏌᏛᏗ [di²sạ²dv³di] 
-\begin_inset Quotes eld
-\end_inset
-
-Traps.
-\begin_inset Quotes erd
-\end_inset
-
-
 \end_layout
 
 \end_deeper
