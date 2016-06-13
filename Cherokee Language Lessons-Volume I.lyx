@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.97 $
+$Revision: 1.98 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/13 04:42:41 $ UTC
+$Date: 2016/06/13 05:56:42 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.97 $
+$Revision: 1.98 $
 \noun default
 .
 \end_layout
@@ -97562,6 +97562,57 @@ Red-them-inanimate.
 
 \end_deeper
 \begin_layout Description
+ᎩᎦᎨ
+\begin_inset space ~
+\end_inset
+
+ᏓᎶᏂᎨᎢ [gi²³gạ³ge⁴ dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange.
+ (Red-Yellow.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᎩᎦᎨ
+\begin_inset space ~
+\end_inset
+
+ᎠᏂᏓᎶᏂᎨᎢ [ạ²ni²gi²³gạ³ge⁴ ạ²ni²dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᎩᎦᎨ
+\begin_inset space ~
+\end_inset
+
+ᏗᏓᎶᏂᎨᎢ [dị²gi²³gạ³ge⁴ dị²dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
 ᎩᎦᎨᏍᏗ,
 \begin_inset space ~
 \end_inset
@@ -97667,7 +97718,7 @@ Black-them-inanimate.
 \end_inset
 
 Grey.
- (Black-faded).
+ (Black-faded.)
 \begin_inset Quotes erd
 \end_inset
 
@@ -97739,6 +97790,57 @@ Blue-them-animate.
 \end_inset
 
 Blue-them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᏌᎪᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸ [sạ²ko²³nị³ge⁴ɂi u¹sgo²³lv⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey.
+ (Blue-faded.)
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏂᏌᎪᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏂᏍᎪᎸ [ạ²ni²sạ²ko²³nị³ge⁴ɂi u¹nị²sgo²³lv⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey-them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᏌᎪᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏂᏍᎪᎸ [dị²sạ²ko²³nị³ge⁴ɂi u¹nị²sgo²³lv⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey-them-inanimate.
 \begin_inset Quotes erd
 \end_inset
 
