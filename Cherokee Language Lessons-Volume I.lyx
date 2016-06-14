@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.105 $
+$Revision: 1.106 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/14 01:24:11 $ UTC
+$Date: 2016/06/14 01:31:17 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.105 $
+$Revision: 1.106 $
 \noun default
 .
 \end_layout
@@ -77475,54 +77475,6 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He sees him or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏂᎪᏩᏘᎭ [a¹nị²gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-They see him or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏓᎪᏩᏘᎭ [da¹gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He sees them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏓᏂᎪᏩᏘᎭ [da¹nị²gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-They see them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᏥᎪᏩᏘᎭ [ji²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -77595,23 +77547,6 @@ You see them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᎠᎴ,
-\begin_inset space ~
-\end_inset
-
-ᏃᎴ [ạ²le, nọ²le] 
-\begin_inset Quotes eld
-\end_inset
-
-And.
- Or.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᎠᎭᏂ,
 \begin_inset space ~
 \end_inset
@@ -77621,6 +77556,18 @@ And.
 \end_inset
 
 Here.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᎾ [i⁴na] 
+\begin_inset Quotes eld
+\end_inset
+
+Far.
 \begin_inset Quotes erd
 \end_inset
 
@@ -77640,141 +77587,12 @@ There.
 \end_layout
 
 \begin_layout Description
-ᎠᎨᏯ [ạ²ge²³hya] 
+ᎾᎥ [nạ²ɂv] 
 \begin_inset Quotes eld
 \end_inset
 
-A woman.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᎨᏯ [ạ²ni²ge²³hya] 
-\begin_inset Quotes eld
-\end_inset
-
-Women.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏍᎦᏯ [ạ²sgạ²ya] 
-\begin_inset Quotes eld
-\end_inset
-
-A man.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏍᎦᏯ [ạ²ni²sgạ²ya] 
-\begin_inset Quotes eld
-\end_inset
-
-Men.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏙ
-\begin_inset space ~
-\end_inset
-
-ᏧᏍᏗ [gạ²do² ju⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Which ones?
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Used when the person asking a question is expecting a response about two
- or more non-living or inanimate things.
-\end_layout
-
-\begin_layout Description
-ᎦᏙ
-\begin_inset space ~
-\end_inset
-
-ᎤᎾᏍᏗ [gạ²do² un⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Which ones?
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Used when the person asking a question is expecting a response about two
- or more alive or animate things.
-\end_layout
-
-\begin_layout Description
-ᎩᏟ [gi²hli] 
-\begin_inset Quotes eld
-\end_inset
-
-A dog.
- Dogs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏄᎾ [nu²³na] 
-\begin_inset Quotes eld
-\end_inset
-
-A potato.
- Potatoes.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏅᏯ [nv¹ya] 
-\begin_inset Quotes eld
-\end_inset
-
-A rock.
- Rocks.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏪᏌ [we²³sa] 
-\begin_inset Quotes eld
-\end_inset
-
-A cat.
- Cats.
+Near.
+ Ꮯlose.
 \begin_inset Quotes erd
 \end_inset
 
@@ -77842,7 +77660,7 @@ Divide up into groups of three to five.
 \end_layout
 
 \begin_layout Subsection
-Groups of Three to Five
+Groups of Two to Five
 \end_layout
 
 \begin_layout Standard
@@ -77864,7 +77682,7 @@ For each group the first person is designated
 \end_inset
 
 .
- The remaining people are grouped together and are designated 
+ Any remaining people are grouped together and are designated 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77931,7 +77749,7 @@ Keep rotating until everyone has been in position
 \begin_inset Quotes eld
 \end_inset
 
-Ꭰ
+Ꭱ
 \begin_inset Quotes erd
 \end_inset
 
@@ -77939,24 +77757,16 @@ Keep rotating until everyone has been in position
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-Any imaginary study partners always stay as one of the 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭲ
-\begin_inset Quotes erd
-\end_inset
-
- and do not rotate.
-\end_layout
-
-\begin_layout Standard
-Each challenge-response should be done as follows:
+Each challenge-response should be done as in the following examples:
 \end_layout
 
 \begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᏌᏊ ᏄᎾ.
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset Quotes eld
 \end_inset
 
@@ -77964,8 +77774,24 @@ Each challenge-response should be done as follows:
 \begin_inset Quotes erd
 \end_inset
 
- selects an appropriate number of items from the correct groups and places
- them before 
+ puts one woman near 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ puts one potato far from 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77977,175 +77803,11 @@ Each challenge-response should be done as follows:
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
-The 
-\begin_inset Quotes eld
-\end_inset
-
-here
-\begin_inset Quotes erd
-\end_inset
-
- items should be within easy reach of 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-The 
-\begin_inset Quotes eld
-\end_inset
-
-there
-\begin_inset Quotes erd
-\end_inset
-
- items should be just outside of easy reach of 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
 \begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- asks 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-: 
-\begin_inset Quotes eld
-\end_inset
-
-What do you see?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- says:
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-What do I see?
-\end_layout
-
-\begin_layout Enumerate
-Here I see _____.
-\end_layout
-
-\begin_layout Enumerate
-There I see _____.
-\end_layout
-
-\begin_layout Enumerate
-____ sees _____.
- ☞ 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- says it so that the near is seeing the far.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Standard
-Example with English translation:
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᎩᏟ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- puts one man in reach of 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\emph default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- puts one dog out of reach of 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\emph default
-
-\begin_inset Newline newline
-\end_inset
-
-
-\emph on
 
 \begin_inset Quotes eld
 \end_inset
@@ -78162,19 +77824,14 @@ Example with English translation:
 \begin_inset Quotes erd
 \end_inset
 
-
-\emph default
- -- What do you see?
+: Which ones do you see?
 \end_layout
 
-\begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \begin_inset Newline newline
 \end_inset
 
-
-\emph on
 
 \begin_inset Quotes eld
 \end_inset
@@ -78183,33 +77840,387 @@ Example with English translation:
 \begin_inset Quotes erd
 \end_inset
 
- responds
-\emph default
- -- What do I see?
+ responds: Which ones do I see?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \begin_inset Newline newline
 \end_inset
 
-Here I see a man.
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Here I see a woman.
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \begin_inset Newline newline
 \end_inset
 
-There I see a dog.
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: There I see a potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᏅᏯ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ puts three men near 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ puts one rock far from 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Which ones do you see?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎩᏟ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \begin_inset Newline newline
 \end_inset
 
-A man sees a dog.
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: Which ones do I see?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Here I see men.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: There I see a potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ puts one woman near 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ puts two men far from 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Which ones do you see?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: Which ones do I see?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Here I see a woman.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: There I see men.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᎠᎨᏯ ᏃᎴ ᏌᏊ ᏅᏯ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ puts one man near 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ puts one woman and one rock far from 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ in a group.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Which ones do you see?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: Which ones do I see?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Here I see a man.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: There I see a woman and I see a rock.
 \end_layout
 
 \end_deeper
@@ -78218,20 +78229,49 @@ Someone Alone
 \end_layout
 
 \begin_layout Standard
-On index cards, slips of paper, or something similar, write out the challenges
- and the Cherokee for 
+On index cards, slips of paper, or something similar, write out the 
 \begin_inset Quotes eld
 \end_inset
 
-What do you see?
+Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
- on each of the front sides along with the correct responses on the reverse
- side for the first set of challenges.
+ challenges on each of the front sides along with the correct 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses on the reverse side for the each set of challenges.
  Do this for each challenge as listed.
  There may be challenges and responses repeated.
- Keep the cards in order.
+ Keep the cards in order and in separate sets.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ challenges should be read from the cards.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be done without reading the cards.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -78251,12 +78291,8 @@ Place the stack of index cards, challenge side up, response side down.
 \end_layout
 
 \begin_layout Standard
-For each challenge place the appropriate items in easy reach and just outside
- of easy reach.
-\end_layout
-
-\begin_layout Standard
-Have an imaginary study partner 
+Generally follow the instructions as given for groups of two or more.
+ You will need to act out both the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -78264,16 +78300,7 @@ Have an imaginary study partner
 \begin_inset Quotes erd
 \end_inset
 
- ask aloud the Cherokee for 
-\begin_inset Quotes eld
-\end_inset
-
-What do you see?
-\begin_inset Quotes erd
-\end_inset
-
-.
- You are always the 
+ and 
 \begin_inset Quotes eld
 \end_inset
 
@@ -78281,36 +78308,12 @@ What do you see?
 \begin_inset Quotes erd
 \end_inset
 
- person.
- 
+ parts.
 \end_layout
 
 \begin_layout Standard
-Respond in Cherokee with: 
-\end_layout
-
-\begin_layout Enumerate
-What do I see?
-\end_layout
-
-\begin_layout Enumerate
-Here I see _____.
-\end_layout
-
-\begin_layout Enumerate
-There I see _____.
-\end_layout
-
-\begin_layout Enumerate
-____ sees _____.
- ☞ 
-\emph on
-Say it so that the near is seeing the far.
-\end_layout
-
-\begin_layout Standard
-Flip the card over and check your response against the response on the response
- side of the index card.
+Flip the card over and check your responses against the responses on the
+ response side of the index card.
 \end_layout
 
 \begin_layout Subsubsection*
@@ -78318,9 +78321,7 @@ For each remaining set:
 \end_layout
 
 \begin_layout Standard
-Adjust the index cards to match the new set, creating new ones as needed,
- and removing those not in the set.
- Follow the instructions previously given for 
+Follow the instructions previously given for 
 \begin_inset Quotes eld
 \end_inset
 
@@ -78362,8 +78363,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -78379,242 +78378,186 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᎩᏟ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎩᏟ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᎩᏟ.
- ᎤᎿ ᏌᏊ ᎠᎨᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᏪᏌ.
+ ᎢᎾ ᏌᏊ ᎠᎨᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎠᎨᏯ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᏪᏌ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᏪᏌ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᎠᏍᎦᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᏍᎦᏯ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᎨᏯ.
- ᎤᎿ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᏪᏌ.
+ ᎢᎾ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎨᏯ ᎠᏂᏍᎦᏯ ᏓᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᎩᏟ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎩᏟ.
+ ᎢᎾ ᏌᏊ ᎠᏍᎦᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᎩᏟ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎩᏟ.
- ᎤᎿ ᎠᏂᏔᎵ ᏪᏌ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎩᏟ.
+ ᎢᎾ ᏌᏊ ᏪᏌ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᏪᏌ ᏓᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
- ᎤᎿ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
+ ᎢᎾ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯ ᎠᏂᎨᏯ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎩᏟ.
- ᎤᎿ ᎠᏂᏦᎢ ᎩᏟ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎩᏟ ᎩᏟ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᏪᏌ.
- ᎤᎿ ᎠᏂᏔᎵ ᏪᏌ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏪᏌ ᏪᏌ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78647,8 +78590,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -78664,242 +78605,186 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᎨᏯ.
- ᎤᎿ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎩᏟ.
+ ᎢᎾ ᏌᏊ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎨᏯ ᏄᎾ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
- ᎤᎿ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᏂᎨᏯ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᎠᏍᎦᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᏅᏯ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᏪᏌ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᏪᏌ.
+ ᎢᎾ ᏔᎵ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᏪᏌ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎩᏟ.
- ᎤᎿ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎩᏟ.
+ ᎢᎾ ᎠᏂᏔᎵ ᏪᏌ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᏅᏯ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᎠᏂᎨᏯ.
- ᎤᎿ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎠᏂᎨᏯ.
+ ᎢᎾ ᏦᎢ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯ ᏄᎾ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎩᏟ.
- ᎤᎿ ᏌᏊ ᎠᎨᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎠᎨᏯ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎩᏟ.
+ ᎢᎾ ᏔᎵ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᏄᎾ ᎠᏂᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᎠᏂᎨᏯ.
- ᎤᎿ ᏦᎢ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᏅᏯ ᎦᏥ̣ᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏂᎨᏯ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᎨᏯ.
- ᎤᎿ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎨᏯ ᎠᏂᏍᎦᏯ ᏓᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78932,8 +78817,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -78949,242 +78832,186 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᎠᎨᏯ ᏃᎴ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᏄᎾ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎩᏟ.
- ᎤᎿ ᏔᎵ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᏪᏌ.
+ ᎢᎾ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏅᏯ ᎦᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
- ᎤᎿ ᎠᏂᏔᎵ ᎩᏟ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᏌᏊ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯ ᎩᏟ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᎩᏟ.
- ᎤᎿ ᏔᎵ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᏪᏌ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏄᎾ ᎦᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᏄᎾ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᎠᏍᎦᏯ ᎠᎴ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
+ ᎢᎾ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎠᎴ ᏅᏯ ᏓᎪᏩᏘᎭ ᎠᏍᎦᏯ.
+[Ꭱ] ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᏪᏌ ᎠᎴ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᏄᎾ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᎨᏯ.
- ᎤᎿ ᏌᏊ ᎩᏟ ᎠᎴ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎩᏟ.
+ ᎢᎾ ᏌᏊ ᏪᏌ ᏃᎴ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎠᎴ ᏅᏯ ᏓᎪᏩᏘᎭ ᎠᎨᏯ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᎩᏟ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎠᎴ ᏄᎾ ᏓᏂᎪᏩᏘᎭ ᎠᏂᏍᎦᏯ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᎠᏍᎦᏯ ᎠᎴ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᎠᎴ ᏅᏯ ᏓᎪᏩᏘᎭ ᎠᏍᎦᏯ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᏪᏌ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏪᏌ ᎠᎴ ᏄᎾ ᏓᏂᎪᏩᏘᎭ ᏪᏌ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79217,8 +79044,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -79234,242 +79059,186 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎩᏟ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᏅᏯ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
- ᎤᎿ ᏌᏊ ᎠᎨᏯ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᏪᏌ.
+ ᎢᎾ ᏌᏊ ᎠᎨᏯ ᎠᎴ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎨᏯ ᎠᎴ ᏄᎾ ᏓᏂᎪᏩᏘᎭ ᎠᏂᎨᏯ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎩᏟ.
- ᎤᎿ ᎠᏂᏔᎵ ᎩᏟ ᎠᎴ ᏦᎢ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎠᏂᎨᏯ.
+ ᎢᎾ ᏌᏊ ᎩᏟ ᏃᎴ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎠᎴ ᏅᏯ ᏓᎪᏩᏘᎭ ᎩᏟ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᏪᏌ.
- ᎤᎿ ᏦᎢ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᏪᏌ.
+ ᎢᎾ ᏦᎢ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏅᏯ ᎦᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᏪᏌ.
- ᎤᎿ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ ᎠᎴ ᏔᎵ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᏪᏌ.
+ ᎢᎾ ᏌᏊ ᎠᏍᎦᏯ ᎠᎴ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᎴ ᏄᎾ ᏓᎪᏩᏘᎭ ᏪᏌ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᎠᎨᏯ ᎠᎴ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᎠᏂᏦᎢ ᎩᏟ ᎠᎴ ᏔᎵ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎨᏯ ᎠᎴ ᏄᎾ ᏓᎪᏩᏘᎭ ᎠᏍᎦᏯ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎩᏟ.
- ᎤᎿ ᏌᏊ ᎠᏍᎦᏯ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᎠᏂᏔᎵ ᏪᏌ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎠᎴ ᏅᏯ ᏓᏂᎪᏩᏘᎭ ᎩᏟ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎩᏟ.
- ᎤᎿ ᎠᏂᏦᎢ ᎠᏂᎨᏯ ᎠᎴ ᏦᎢ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᏍᎦᏯ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎠᏂᎨᏯ ᏃᎴ ᏦᎢ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯ ᎠᎴ ᏄᎾ ᏓᎪᏩᏘᎭ ᎩᏟ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᎨᏯ.
- ᎤᎿ ᏌᏊ ᏪᏌ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎨᏯ ᏪᏌ ᎠᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᎩᏟ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏪᏌ ᎩᏟ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79502,8 +79271,6 @@ status collapsed
 
 \backslash
 begin{multicols}{2}
-\backslash
-raggedcolumns
 \end_layout
 
 \begin_layout Plain Layout
@@ -79519,242 +79286,413 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᏪᏌ.
- ᎤᎿ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᏪᏌ.
+ ᎢᎾ ᏌᏊ ᎠᏍᎦᏯ ᎠᎴ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᎠᏂᏍᎦᏯ ᏓᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎩᏟ.
- ᎤᎿ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᎠᎨᏯ ᏃᎴ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎠᏂᎨᏯ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᏪᏌ.
- ᎤᎿ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎩᏟ.
+ ᎢᎾ ᎠᏂᏦᎢ ᏪᏌ ᏃᎴ ᏔᎵ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᏅᏯ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᏍᎦᏯ.
- ᎤᎿ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎩᏟ.
+ ᎢᎾ ᏌᏊ ᏅᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᏄᎾ ᎠᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏦᎢ ᏪᏌ.
- ᎤᎿ ᏔᎵ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᏌᏊ ᏪᏌ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏅᏯ ᎦᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏪᏌ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎠᎨᏯ.
- ᎤᎿ ᏌᏊ ᎠᎨᏯ ᎠᎴ ᏌᏊ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎩᏟ.
+ ᎢᎾ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎨᏯ ᎠᎴ ᏅᏯ ᏓᎪᏩᏘᎭ ᎠᎨᏯ.
+[Ꭱ] ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
- ᎤᎿ ᏌᏊ ᎠᏍᎦᏯ ᏌᏊ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
+ ᎢᎾ ᏌᏊ ᏪᏌ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎠᎴ ᏄᎾ ᏓᏂᎪᏩᏘᎭ ᎠᏂᎨᏯ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎩᏟ.
- ᎤᎿ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ ᎠᎴ ᏔᎵ ᏄᎾ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᏪᏌ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎠᏂᎨᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᏍᎦᏯ ᎠᎴ ᏄᎾ ᏓᎪᏩᏘᎭ ᎩᏟ.
+[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎠᏂᏍᎦᏯ.
+ ᎢᎾ ᏦᎢ ᏅᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᎩᏟ.
- ᎤᎿ ᏌᏊ ᏪᏌ.
- ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᎠᏂᏔᎵ ᎩᏟ.
+ ᎢᎾ ᎠᏂᏔᎵ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᎩᏟ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᏪᏌ ᎠᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᎭᏂ ᏌᏊ ᏪᏌ.
- ᎤᎿ ᎠᏂᏔᎵ ᎠᏂᎨᏯ ᎠᎴ ᏦᎢ ᏅᏯ.
- ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᎠᎨᏯ ᎠᎴ ᏌᏊ ᏄᎾ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏂᎨᏯ ᎠᎴ ᏅᏯ ᏓᎪᏩᏘᎭ ᏪᏌ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᎠᏂᏦᎢ ᎠᏂᎨᏯ.
+ ᎢᎾ ᏌᏊ ᎩᏟ ᏃᎴ ᏌᏊ ᏄᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᎨᏯ.
+ ᎢᎾ ᎠᏂᏔᎵ ᏪᏌ ᎠᎴ ᏦᎢ ᏅᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᏪᏌ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᏌᏊ ᎠᏍᎦᏯ.
+ ᎢᎾ ᏌᏊ ᏅᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᏌᏊ ᏪᏌ.
+ ᎢᎾ ᏌᏊ ᎠᏍᎦᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎾᎥ ᏌᏊ ᏪᏌ.
+ ᎢᎾ ᎠᏂᏦᎢ ᎩᏟ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ->Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᎯᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏙ ᎤᎾᏍᏗ ᎦᏥᎪᏩᏘᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᎭᏂ ᏪᏌ ᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -80678,18 +80616,6 @@ I.
 \end_layout
 
 \begin_layout Description
-ᎢᎾ [i⁴na] 
-\begin_inset Quotes eld
-\end_inset
-
-Far.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᎥᏍᎩᎾ [v¹sgị²na] 
 \begin_inset Quotes eld
 \end_inset
@@ -80751,19 +80677,6 @@ He.
 \end_inset
 
 That, Those
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎾᎥ [nạ²ɂv] 
-\begin_inset Quotes eld
-\end_inset
-
-Near.
- Ꮯlose.
 \begin_inset Quotes erd
 \end_inset
 
