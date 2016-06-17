@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.123 $
+$Revision: 1.124 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/16 02:19:25 $ UTC
+$Date: 2016/06/16 02:31:43 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.123 $
+$Revision: 1.124 $
 \noun default
 .
 \end_layout
@@ -98496,18 +98496,6 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᏓᎭᎵᎨᎢ [dạ²ha²lị²ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Purple.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᎬᎿᎨᎢ,
 \begin_inset space ~
 \end_inset
@@ -98536,12 +98524,39 @@ Blue.
 \end_layout
 
 \begin_layout Description
+ᏓᎭᎵᎨᎢ [dạ²ha²lị²ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Purple.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏓᎶᏂᎨᎢ [dạ²lo²³nị³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
 Yellow.
- Orange.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏓᎶᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [dạ²lo²³nị³ge u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange.
 \begin_inset Quotes erd
 \end_inset
 
@@ -98653,18 +98668,6 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎭᎵᎨᎢ [ạ²dạ²ha²lị²ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Purple.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᎠᎬᎿᎨᎢ,
 \begin_inset space ~
 \end_inset
@@ -98693,12 +98696,39 @@ Blue.
 \end_layout
 
 \begin_layout Description
+ᎠᏓᎭᎵᎨᎢ [ạ²dạ²ha²lị²ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Purple.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎠᏓᎶᏂᎨᎢ [ạ²dạ²lo²³nị³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
 Yellow.
- Orange.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏓᎶᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [ạ²dạ²lo²³nị³ge u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange.
 \begin_inset Quotes erd
 \end_inset
 
@@ -98858,7 +98888,22 @@ Blue.
 \end_inset
 
 Yellow.
- Orange.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏂᏓᎶᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏂᏍᎪᎸᎢ [ạ²ni²dạ²lo²³nị³ge u¹nị²sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange.
 \begin_inset Quotes erd
 \end_inset
 
@@ -99099,18 +99144,6 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᏗᏓᎭᎵᎨᎢ [dị²dạ²ha²lị²ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Purple.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
 ᏗᎬᎿᎨᎢ [dị²gv²³hnạ³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -99135,12 +99168,39 @@ Blue.
 \end_layout
 
 \begin_layout Description
+ᏗᏓᎭᎵᎨᎢ [dị²dạ²ha²lị²ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Purple.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏗᏓᎶᏂᎨᎢ [dị²dạ²lo²³nị³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
 Yellow.
- Orange.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᏓᎶᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏂᏍᎪᎸᎢ [dị²dạ²lo²³nị³ge u¹nị²sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange.
 \begin_inset Quotes erd
 \end_inset
 
