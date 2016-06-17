@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.124 $
+$Revision: 1.125 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/16 02:31:43 $ UTC
+$Date: 2016/06/17 23:38:22 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.124 $
+$Revision: 1.125 $
 \noun default
 .
 \end_layout
@@ -98468,6 +98468,18 @@ White.
 \end_layout
 
 \begin_layout Description
+ᎤᏍᎪᎸᎢ [u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Faded.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎤᏬᏗᎨᎢ [ụ²wo²³dị³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -98541,22 +98553,6 @@ Purple.
 \end_inset
 
 Yellow.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏓᎶᏂᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏍᎪᎸᎢ [dạ²lo²³nị³ge u¹sgo²³lv⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Orange.
 \begin_inset Quotes erd
 \end_inset
 
@@ -98719,16 +98715,109 @@ Yellow.
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Some colors are described with word combinations.
+ ᎤᏍᎪᎸᎢ is used in many of these combinations:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
-ᎠᏓᎶᏂᎨ
+ᎩᎦᎨ
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [ạ²dạ²lo²³nị³ge u¹sgo²³lv⁴ɂi] 
+ᎤᏍᎪᎸᎢ [gi²³gạ³ge u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Pink.
+ (Red-faded).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎬᎿᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [gv²³hnạ³ge u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey.
+ (Black-faded).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏌᎪᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [sạ²ko²³nị³ge⁴ɂi u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey.
+ (Blue-faded).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏓᎶᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [dạ²lo²³nị³ge u¹sgo²³lv⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
 Orange.
+ (Yellow-faded).
 \begin_inset Quotes erd
 \end_inset
 
