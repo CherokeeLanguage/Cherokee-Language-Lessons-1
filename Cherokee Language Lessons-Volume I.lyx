@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.139 $
+$Revision: 1.140 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 15:30:17 $ UTC
+$Date: 2016/06/18 15:33:09 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.139 $
+$Revision: 1.140 $
 \noun default
 .
 \end_layout
@@ -99490,8 +99490,8 @@ The
 \end_layout
 
 \begin_layout Standard
-For first group of sets each challenge-response should be done as in the
- following examples:
+For the first group of sets each challenge-response should be done as in
+ the following examples:
 \end_layout
 
 \begin_layout Enumerate
@@ -99563,10 +99563,10 @@ If incorrect
 \begin_inset Quotes erd
 \end_inset
 
- should say: ᎥᏝ! ᎯᎠ _____.
+ should say: ᎥᏝ! Ꮎ _____.
  ☞ 
 \emph on
-(Use selected card color's name.)
+(Use the selected color's name.)
 \end_layout
 
 \begin_layout Enumerate
@@ -99638,10 +99638,19 @@ If incorrect
 \begin_inset Quotes erd
 \end_inset
 
- should say: ᎥᏝ! ᎯᎠ _____.
+ should say: ᎥᏝ! Ꮎ _____.
  ☞ 
 \emph on
-(Use selected card color's name.)
+(Use the selected color's name.)
+\end_layout
+
+\begin_layout Standard
+For the first group of sets each challenge-response should be done as in
+ the following examples:
+\end_layout
+
+\begin_layout Enumerate
+xxx
 \end_layout
 
 \begin_layout Subsection
