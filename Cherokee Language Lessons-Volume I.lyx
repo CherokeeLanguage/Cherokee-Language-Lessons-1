@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.142 $
+$Revision: 1.143 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 20:13:13 $ UTC
+$Date: 2016/06/18 20:15:59 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.142 $
+$Revision: 1.143 $
 \noun default
 .
 \end_layout
@@ -98907,7 +98907,7 @@ Brown / ᎤᏬᏗᎨᎢ.
 Red / ᎩᎦᎨᎢ.
  (ᎩᎨᎢ.) ☞ 
 \emph on
-If anyone is red-green color blind, add a drawing for blood.
+If anyone is red-green color blind, add a drawing of blood.
 \end_layout
 
 \begin_layout Itemize
@@ -99506,7 +99506,7 @@ For the first group of sets each challenge-response should be done as in
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
 \begin_inset Newline newline
 \end_inset
 
@@ -99518,7 +99518,7 @@ For the first group of sets each challenge-response should be done as in
 \begin_inset Quotes erd
 \end_inset
 
- says to 
+ asks 
 \begin_inset Quotes eld
 \end_inset
 
@@ -99526,7 +99526,7 @@ For the first group of sets each challenge-response should be done as in
 \begin_inset Quotes erd
 \end_inset
 
-: ᎤᏁᎦ
+: ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ? (Which is white?)
 \begin_inset Newline newline
 \end_inset
 
@@ -99551,6 +99551,11 @@ For the first group of sets each challenge-response should be done as in
 \end_inset
 
  says: ᎯᎠ ᎤᏁᎦ.
+ (This is white.) ☞ (
+\emph on
+Only use the spoken name.
+\emph default
+)
 \begin_inset Newline newline
 \end_inset
 
@@ -99574,14 +99579,16 @@ If incorrect
 \begin_inset Quotes erd
 \end_inset
 
- should say: ᎥᏝ! Ꮎ _____.
- ☞ 
+ should say: ᎥᏝ.
+ Ꮎ _____.
+ (No.
+ That is _____.) ☞ 
 \emph on
-(Use the selected color's name.)
+(Use the wrong color.)
 \end_layout
 
 \begin_layout Enumerate
-ᎩᎦᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ?
 \begin_inset Newline newline
 \end_inset
 
@@ -99593,7 +99600,7 @@ If incorrect
 \begin_inset Quotes erd
 \end_inset
 
- says to 
+ asks 
 \begin_inset Quotes eld
 \end_inset
 
@@ -99601,7 +99608,7 @@ If incorrect
 \begin_inset Quotes erd
 \end_inset
 
-: ᎩᎦᎨᎢ
+: ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ? (Which is red?)
 \begin_inset Newline newline
 \end_inset
 
@@ -99626,6 +99633,11 @@ If incorrect
 \end_inset
 
  says: ᎯᎠ ᎩᎦᎨᎢ.
+ (This is red.) ☞ (
+\emph on
+Only use the spoken name.
+\emph default
+)
 \begin_inset Newline newline
 \end_inset
 
@@ -99649,10 +99661,12 @@ If incorrect
 \begin_inset Quotes erd
 \end_inset
 
- should say: ᎥᏝ! Ꮎ _____.
- ☞ 
+ should say: ᎥᏝ.
+ Ꮎ _____.
+ (No.
+ That is _____.) ☞ 
 \emph on
-(Use the selected color's name.)
+(Use the wrong color.)
 \end_layout
 
 \begin_layout Standard
@@ -99818,23 +99832,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎬᎿᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎩᎦᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎩᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏬᏗᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎬᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨᎢ?
 \end_layout
 
 \begin_layout Standard
@@ -99881,23 +99895,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎩᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏬᏗᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏌᎪᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎭᎵᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
 \end_layout
 
 \begin_layout Standard
@@ -99944,23 +99958,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏌᎪᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎭᎵᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎭᎵᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏤᎢᏳᏍᏗ.
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨᎢ?
 \end_layout
 
 \begin_layout Standard
@@ -100007,23 +100021,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏤᎢᏳᏍᏗ.
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎩᎦᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎭᎵᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏬᏗᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ?
 \end_layout
 
 \begin_layout Standard
@@ -100070,23 +100084,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏌᎪᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎭᎵᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ?
 \end_layout
 
 \begin_layout Standard
@@ -100133,23 +100147,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏤᎢᏳᏍᏗ.
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎬᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎩᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎭᎵᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨᎢ?
 \end_layout
 
 \begin_layout Standard
@@ -100196,23 +100210,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏬᏗᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
 \end_layout
 
 \begin_layout Enumerate
-ᏌᎪᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎭᎵᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎬᎿᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎩᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏤᎢᏳᏍᏗ.
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
 \end_layout
 
 \begin_layout Standard
@@ -100259,23 +100273,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎩᎦᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎭᎵᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏬᏗᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
 \end_layout
 
 \begin_layout Standard
@@ -100322,23 +100336,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏌᎪᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎭᎵᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨᎢ.
+ᎦᏙ ᎤᏍᏗ ᎩᎨᎢ?
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏤᎢᏳᏍᏗ.
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+ᎦᏙ ᎤᏍᏗ ᏓᎭᎵᎨᎢ?
 \end_layout
 
 \begin_layout Standard
