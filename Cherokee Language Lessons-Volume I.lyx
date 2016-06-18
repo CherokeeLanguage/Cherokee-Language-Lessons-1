@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.133 $
+$Revision: 1.134 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 03:40:36 $ UTC
+$Date: 2016/06/18 03:42:19 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.133 $
+$Revision: 1.134 $
 \noun default
 .
 \end_layout
@@ -98586,7 +98586,7 @@ end{multicols}
 \begin_inset Quotes eld
 \end_inset
 
-like a new fruit
+like a new fruit or vegetable
 \begin_inset Quotes erd
 \end_inset
 
@@ -98815,7 +98815,7 @@ boxes of 8
 \end_layout
 
 \begin_layout Standard
-You will need to make nine copies of each of the following index cards.
+You will need to make five copies of each of the following index cards.
 \end_layout
 
 \begin_layout Standard
@@ -98874,7 +98874,7 @@ The picture goes on the front of each index card and gets colored in.
  On the reverse of the card you will need to add the matching Cherokee.
  ☞ 
 \emph on
-It is important that the 
+It is important that all of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98910,10 +98910,6 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-Green / ᎢᏤᎢᏳᏍᏗ ᏅᏯ.
-\end_layout
-
-\begin_layout Itemize
 No color / ᎤᏁᎦ ᏅᏯ.
 \end_layout
 
@@ -98922,19 +98918,7 @@ Brown / ᎤᏬᏗᎨ ᏅᏯ.
 \end_layout
 
 \begin_layout Itemize
-Red / ᎩᎦᎨ ᏅᏯ.
-\end_layout
-
-\begin_layout Itemize
 Black / ᎬᎿᎨ ᏅᏯ.
-\end_layout
-
-\begin_layout Itemize
-Blue / ᏌᎪᏂᎨ ᏅᏯ.
-\end_layout
-
-\begin_layout Itemize
-Purple / ᏓᎭᎵᎨ ᏅᏯ.
 \end_layout
 
 \begin_layout Itemize
@@ -98994,19 +98978,7 @@ No color / ᎤᏁᎦ ᎩᏟ.
 \end_layout
 
 \begin_layout Itemize
-Brown / ᎤᏬᏗᎨ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
 Red / ᎠᎩᎦᎨ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
-Black / ᎠᎬᎿᎨ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
-Blue / ᎠᏌᎪᏂᎨ ᎩᏟ.
 \end_layout
 
 \begin_layout Itemize
@@ -99015,10 +98987,6 @@ Purple / ᎠᏓᎭᎵᎨ ᎩᏟ.
 
 \begin_layout Itemize
 Yellow / ᎠᏓᎶᏂᎨ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
-Orange / ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ ᎩᏟ.
 \end_layout
 
 \begin_layout Standard
@@ -99066,19 +99034,7 @@ Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-No color / ᎤᏁᎦ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
 Brown / ᎤᏬᏗᎨ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
-Red / ᎠᎩᎦᎨ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
-Black / ᎠᎬᎿᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
@@ -99087,10 +99043,6 @@ Blue / ᎠᏌᎪᏂᎨ ᏪᏌ.
 
 \begin_layout Itemize
 Purple / ᎠᏓᎭᎵᎨ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
-Yellow / ᎠᏓᎶᏂᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
@@ -99138,19 +99090,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-Green / ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
 No color / ᎤᏁᎦ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
-Brown / ᎤᏬᏗᎨ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
-Red / ᎩᎦᎨ ᎩᏟ.
 \end_layout
 
 \begin_layout Itemize
@@ -99159,10 +99099,6 @@ Black / ᎬᎿᎨ ᎩᏟ.
 
 \begin_layout Itemize
 Blue / ᏌᎪᏂᎨ ᎩᏟ.
-\end_layout
-
-\begin_layout Itemize
-Purple / ᏓᎭᎵᎨ ᎩᏟ.
 \end_layout
 
 \begin_layout Itemize
@@ -99218,14 +99154,6 @@ Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-No color / ᎤᏁᎦ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
-Brown / ᎤᏬᏗᎨ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
 Red / ᎩᎦᎨ ᏪᏌ.
 \end_layout
 
@@ -99234,19 +99162,11 @@ Black / ᎬᎿᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Blue / ᏌᎪᏂᎨ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
 Purple / ᏓᎭᎵᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
 Yellow / ᏓᎶᏂᎨ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
-Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
