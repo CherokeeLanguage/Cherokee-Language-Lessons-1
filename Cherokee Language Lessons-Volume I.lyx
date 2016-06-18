@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.126 $
+$Revision: 1.127 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/17 23:49:19 $ UTC
+$Date: 2016/06/17 23:51:16 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.126 $
+$Revision: 1.127 $
 \noun default
 .
 \end_layout
@@ -98472,7 +98472,8 @@ White.
 \begin_inset Quotes eld
 \end_inset
 
-Faded.
+Dim.
+ Faded.
 \begin_inset Quotes erd
 \end_inset
 
@@ -98573,53 +98574,6 @@ end{multicols}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-Some communities use ᎠᏓᎶᏂᎨᎢ for 
-\begin_inset Quotes eld
-\end_inset
-
-orange
-\begin_inset Quotes erd
-\end_inset
-
-.
- Historically 
-\begin_inset Quotes eld
-\end_inset
-
-orange
-\begin_inset Quotes erd
-\end_inset
-
- was considered a shade of 
-\begin_inset Quotes eld
-\end_inset
-
-yellow
-\begin_inset Quotes erd
-\end_inset
-
- and was simply called 
-\begin_inset Quotes eld
-\end_inset
-
-yellow
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-yellow, faded
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
@@ -98840,6 +98794,20 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+☞ 
+\emph on
+Some communities use ᎠᏓᎶᏂᎨᎢ for 
+\begin_inset Quotes eld
+\end_inset
+
+orange
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Section
 ᏂᏔᏛᎦ (Do them)
 \end_layout
@@ -98977,22 +98945,6 @@ Blue.
 \end_inset
 
 Yellow.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏂᏓᎶᏂᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏂᏍᎪᎸᎢ [ạ²ni²dạ²lo²³nị³ge u¹nị²sgo²³lv⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Orange.
 \begin_inset Quotes erd
 \end_inset
 
@@ -99298,22 +99250,6 @@ Purple.
 \end_inset
 
 Yellow.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᏓᎶᏂᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏂᏍᎪᎸᎢ [dị²dạ²lo²³nị³ge u¹nị²sgo²³lv⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Orange.
 \begin_inset Quotes erd
 \end_inset
 
