@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.143 $
+$Revision: 1.144 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 20:15:59 $ UTC
+$Date: 2016/06/18 20:32:44 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.143 $
+$Revision: 1.144 $
 \noun default
 .
 \end_layout
@@ -99009,6 +99009,13 @@ The picture goes on the front of each index card and gets colored in.
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+If anyone is red-green color blind, add a drawing of a leaf to each card
+ with green on it.
+\end_layout
+
+\begin_layout Standard
 ᏅᏯ cards:
 \end_layout
 
@@ -99289,16 +99296,16 @@ Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
+Brown / ᎤᏬᏗᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
 Red / ᎩᎦᎨ ᏪᏌ.
  (ᎩᎨ ᏪᏌ.)
 \end_layout
 
 \begin_layout Itemize
 Black / ᎬᎿᎨ ᏪᏌ.
-\end_layout
-
-\begin_layout Itemize
-Purple / ᏓᎭᎵᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
@@ -99582,9 +99589,7 @@ If incorrect
  should say: ᎥᏝ.
  Ꮎ _____.
  (No.
- That is _____.) ☞ 
-\emph on
-(Use the wrong color.)
+ That is _____.)
 \end_layout
 
 \begin_layout Enumerate
@@ -99664,9 +99669,7 @@ If incorrect
  should say: ᎥᏝ.
  Ꮎ _____.
  (No.
- That is _____.) ☞ 
-\emph on
-(Use the wrong color.)
+ That is _____.)
 \end_layout
 
 \begin_layout Standard
@@ -99675,9 +99678,238 @@ For the second group of sets each challenge-response should be done as in
 \end_layout
 
 \begin_layout Enumerate
-xxx
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᏅᏯ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ? (Which is the white rock?)
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏁᎦ ᏅᏯ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ selects the card they think is the ᎤᏁᎦ ᏅᏯ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: ᎯᎠ ᎤᏁᎦ ᏅᏯ.
+ (This is the white rock.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ flips the card over to see if they are correct or incorrect.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᎩᎦᎨᎢ ᎩᏟ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: ᎦᏙ ᎤᏍᏗ ᎠᎩᎦᎨᎢ ᎩᏟ? (Which is the red dog?)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᎩᎦᎨᎢ ᎩᏟ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ selects the card they think is the ᎠᎩᎦᎨᎢ ᎩᏟ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: ᎯᎠ ᎠᎩᎦᎨᎢ ᎩᏟ.
+ (This is the red dog.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ flips the card over to see if they are correct or incorrect.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᎩᏟ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᎩᏟ? (Which is the white dog?)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏁᎦ ᎩᏟ (alive) ᎠᎴ ᎯᎠ ᎤᏁᎦ ᎩᏟ (dead).
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ sees two cards that match.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ selects each card they think is an ᎤᏁᎦ ᎩᏟ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: ᎯᎠ ᎤᏁᎦ ᎩᏟ ᎠᎴ ᎯᎠ ᎤᏁᎦ ᎩᏟ.
+ (This is a white dog and this is a white dog.)
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ flips the cards over to see if they are correct or incorrect.
+\begin_inset Newline newline
+\end_inset
+
+If 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ does not select all the correct cards, 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ shows them the other correct card.
+\end_layout
+
+\end_deeper
 \begin_layout Subsection
 Someone Alone
 \end_layout
@@ -100389,15 +100621,862 @@ Repeat these until everyone can do the
  responses smoothly without having to reference the material.
 \end_layout
 
-\begin_layout Standard
-Group 2 - Crayons and Critters - 
-\emph on
-until everyone can do the responses smoothly
+\begin_layout Subsubsection*
+Set 1
 \end_layout
 
 \begin_layout Standard
-hear color+rock/critter called out then pick correct crayon/rock/alive critter/d
-ead critter.
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏁᎦ ᎩᏟ (alive) ᎠᎴ ᎯᎠ ᎤᏁᎦ ᎩᏟ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏁᎦ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᎩᎦᎨᎢ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᎩᎦᎨᎢ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᎿᎨᎢ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᎿᎨᎢ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᎢ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᏂᎨᎢ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏁᎦ ᎩᏟ (alive) ᎠᎴ ᎯᎠ ᎤᏁᎦ ᎩᏟ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᎿᎨᎢ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᎿᎨᎢ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏁᎦ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᎢ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᏂᎨᎢ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᎩᎨᎢ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᎩᎨᎢ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᎢ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᏂᎨᎢ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᎿᎨᎢ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᎿᎨᎢ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎩᎦᎨᎢ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᎿᎨᎢ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᎿᎨᎢ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎩᎨᎢ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎩᎨᎢ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏬᏗᎨ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏬᏗᎨ ᏪᏌ (alive) ᎠᎴ ᎯᎠ ᎤᏬᏗᎨ ᏪᏌ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎬᏂᎨᎢ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎬᏂᎨᎢ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏬᏗᎨ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏬᏗᎨ ᏪᏌ (alive) ᎠᎴ ᎯᎠ ᎤᏬᏗᎨ ᏪᏌ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏌᎪᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎩᎦᎨᎢ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏌᎪᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏬᏗᎨ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏬᏗᎨ ᏪᏌ (alive) ᎠᎴ ᎯᎠ ᎤᏬᏗᎨ ᏪᏌ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏌᎪᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏌᎪᏂᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏌᎪᏂᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏌᎪᏂᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏌᎪᏂᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎭᎵᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎭᎵᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎭᎵᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎭᎵᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏌᎪᏂᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏌᎪᏂᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎭᎵᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎭᎵᎨ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎢᏤᎢᏳᏍᏗ ᏪᏌ (alive) ᎠᎴ ᎯᎠ ᎢᏤᎢᏳᏍᏗ ᏪᏌ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨᎢ ᎤᏍᎪᎸ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨᎢ ᎤᏍᎪᎸ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎢᏤᎢᏳᏍᏗ ᏪᏌ (alive) ᎠᎴ ᎯᎠ ᎢᏤᎢᏳᏍᏗ ᏪᏌ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎶᏂᎨᎢ ᎤᏍᎪᎸ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨᎢ ᎤᏍᎪᎸ ᎩᏟ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎶᏂᎨᎢ ᎤᏍᎪᎸ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎠᏓᎶᏂᎨᎢ ᎤᏍᎪᎸ ᏪᏌ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎤᏁᎦ ᎩᏟ (alive) ᎠᎴ ᎯᎠ ᎤᏁᎦ ᎩᏟ (dead).
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
