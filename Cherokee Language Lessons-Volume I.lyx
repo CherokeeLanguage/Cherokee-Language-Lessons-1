@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.132 $
+$Revision: 1.133 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 03:33:55 $ UTC
+$Date: 2016/06/18 03:40:36 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.132 $
+$Revision: 1.133 $
 \noun default
 .
 \end_layout
@@ -99592,6 +99592,18 @@ Repeat these until everyone can do the
 \end_inset
 
  responses smoothly without having to reference the material.
+\end_layout
+
+\begin_layout Standard
+Group 1 - Crayons Only - 
+\emph on
+until everyone can do the responses smoothly
+\end_layout
+
+\begin_layout Standard
+Group 2 - Crayons and Critters - 
+\emph on
+until everyone can do the responses smoothly
 \end_layout
 
 \begin_layout Standard
