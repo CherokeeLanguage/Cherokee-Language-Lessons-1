@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.141 $
+$Revision: 1.142 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 15:44:28 $ UTC
+$Date: 2016/06/18 20:13:13 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.141 $
+$Revision: 1.142 $
 \noun default
 .
 \end_layout
@@ -98887,6 +98887,9 @@ raggedcolumns
 
 \begin_layout Itemize
 Green / ᎢᏤᎢᏳᏍᏗ.
+ ☞ 
+\emph on
+If anyone is red-green color blind, add a drawing of a leaf.
 \end_layout
 
 \begin_layout Itemize
@@ -98902,7 +98905,9 @@ Brown / ᎤᏬᏗᎨᎢ.
 
 \begin_layout Itemize
 Red / ᎩᎦᎨᎢ.
- (ᎩᎨᎢ.)
+ (ᎩᎨᎢ.) ☞ 
+\emph on
+If anyone is red-green color blind, add a drawing for blood.
 \end_layout
 
 \begin_layout Itemize
