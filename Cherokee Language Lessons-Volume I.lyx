@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.136 $
+$Revision: 1.137 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 13:35:32 $ UTC
+$Date: 2016/06/18 13:40:02 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.136 $
+$Revision: 1.137 $
 \noun default
 .
 \end_layout
@@ -98798,12 +98798,18 @@ You will need the following:
 \end_layout
 
 \begin_layout Itemize
-White index cards.
+
+\emph on
+White
+\emph default
+ index cards.
 \end_layout
 
 \begin_layout Itemize
-A box of crayons for each group.
- The 
+A box of crayons for coloring the index cards.
+ ☞ 
+\emph on
+The 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98811,11 +98817,132 @@ boxes of 8
 \begin_inset Quotes erd
 \end_inset
 
- commonly found in stores should have all the colors needed.
+ as sold in most stores should have all the colors needed.
 \end_layout
 
 \begin_layout Standard
-You will need to make five copies of each of the following index cards.
+The exercise has been split up into two grouped sets.
+\end_layout
+
+\begin_layout Standard
+For the first group you will need to create nine index cards.
+\end_layout
+
+\begin_layout Standard
+On each card's front draw a black square then color it in with the specificed
+ color.
+ On the reverse side write the color's name.
+\end_layout
+
+\begin_layout Standard
+Example:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/for-colors/square-black.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/square-black-name.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The colors you will be using are:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Itemize
+White / ᎤᏁᎦ.
+ ☞ 
+\emph on
+Don't color in the square.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᎤᏬᏗᎨᎢ.
+\end_layout
+
+\begin_layout Itemize
+Red / ᎩᎦᎨᎢ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᎬᎿᎨᎢ.
+\end_layout
+
+\begin_layout Itemize
+Blue / ᏌᎪᏂᎨᎢ.
+\end_layout
+
+\begin_layout Itemize
+Purple / ᏓᎭᎵᎨᎢ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᏓᎶᏂᎨᎢ.
+\end_layout
+
+\begin_layout Itemize
+Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For the second set you will need to create five copies of each the following
+ index cards:
 \end_layout
 
 \begin_layout Standard
@@ -98872,17 +98999,6 @@ You will need to make five copies of each of the following index cards.
 The picture goes on the front of each index card and gets colored in.
  Each card needs to be colored as specified.
  On the reverse of the card you will need to add the matching Cherokee.
- ☞ 
-\emph on
-It is important that all of the 
-\begin_inset Quotes eld
-\end_inset
-
-no color
-\begin_inset Quotes erd
-\end_inset
-
- index cards are white.
 \end_layout
 
 \begin_layout Standard
@@ -98910,7 +99026,10 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-No color / ᎤᏁᎦ ᏅᏯ.
+White / ᎤᏁᎦ ᏅᏯ.
+ ☞ 
+\emph on
+Don't color in the ᏅᏯ.
 \end_layout
 
 \begin_layout Itemize
@@ -98974,7 +99093,10 @@ Green / ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
 \end_layout
 
 \begin_layout Itemize
-No color / ᎤᏁᎦ ᎩᏟ.
+White / ᎤᏁᎦ ᎩᏟ.
+ ☞ 
+\emph on
+Don't color in the ᎩᏟ.
 \end_layout
 
 \begin_layout Itemize
@@ -99090,7 +99212,10 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-No color / ᎤᏁᎦ ᎩᏟ.
+White / ᎤᏁᎦ ᎩᏟ.
+ ☞ 
+\emph on
+Don't color in the ᎩᏟ.
 \end_layout
 
 \begin_layout Itemize
@@ -99240,13 +99365,11 @@ Recommended areas on each card to color:
 \end_layout
 
 \begin_layout Standard
-Divide up into groups of four to seven.
- If you don't have enough people, use props for imaginary people and act
- the imaginary people out.
+Divide up into groups of two to seven.
 \end_layout
 
 \begin_layout Subsection
-Groups of two or more
+Groups
 \end_layout
 
 \begin_layout Standard
@@ -99268,7 +99391,7 @@ For each group the first person is designated
 \end_inset
 
 .
- The remaining people are grouped together and are designated 
+ Any remaining people are grouped together and are designated 
 \begin_inset Quotes eld
 \end_inset
 
@@ -99340,20 +99463,6 @@ Keep rotating until everyone has been in position
 \end_inset
 
 , starting over with the first set of challenges as needed.
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-Any imaginary study partners always stay as one of the 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭲ
-\begin_inset Quotes erd
-\end_inset
-
- and do not rotate.
 \end_layout
 
 \begin_layout Standard
@@ -99497,7 +99606,7 @@ Set 1
 \end_layout
 
 \begin_layout Subsection*
-Sets
+First Group
 \end_layout
 
 \begin_layout Standard
@@ -99514,10 +99623,589 @@ Repeat these until everyone can do the
  responses smoothly without having to reference the material.
 \end_layout
 
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
 \begin_layout Standard
-Group 1 - Crayons Only - 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎬᎿᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎬᎿᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏌᎪᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎭᎵᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏌᎪᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎭᎵᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎬᎿᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏌᎪᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎭᎵᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎬᎿᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏌᎪᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎭᎵᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎬᎿᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 9
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏌᎪᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎭᎵᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Second Group
+\end_layout
+
+\begin_layout Standard
+☞ 
 \emph on
-until everyone can do the responses smoothly
+Repeat these until everyone can do the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses smoothly without having to reference the material.
 \end_layout
 
 \begin_layout Standard
