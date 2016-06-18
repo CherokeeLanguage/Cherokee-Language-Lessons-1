@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.140 $
+$Revision: 1.141 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 15:33:09 $ UTC
+$Date: 2016/06/18 15:44:28 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.140 $
+$Revision: 1.141 $
 \noun default
 .
 \end_layout
@@ -98902,10 +98902,12 @@ Brown / ᎤᏬᏗᎨᎢ.
 
 \begin_layout Itemize
 Red / ᎩᎦᎨᎢ.
+ (ᎩᎨᎢ.)
 \end_layout
 
 \begin_layout Itemize
 Black / ᎬᎿᎨᎢ.
+ (ᎬᏂᎨᎢ.)
 \end_layout
 
 \begin_layout Itemize
@@ -99038,6 +99040,7 @@ Brown / ᎤᏬᏗᎨ ᏅᏯ.
 
 \begin_layout Itemize
 Black / ᎬᎿᎨ ᏅᏯ.
+ (ᎬᏂᎨ ᏅᏯ.)
 \end_layout
 
 \begin_layout Itemize
@@ -99101,6 +99104,7 @@ Don't color in the ᎩᏟ.
 
 \begin_layout Itemize
 Red / ᎠᎩᎦᎨ ᎩᏟ.
+ (ᎠᎩᎨ ᎩᏟ.)
 \end_layout
 
 \begin_layout Itemize
@@ -99220,6 +99224,7 @@ Don't color in the ᎩᏟ.
 
 \begin_layout Itemize
 Black / ᎬᎿᎨ ᎩᏟ.
+ (ᎬᏂᎨ ᎩᏟ.)
 \end_layout
 
 \begin_layout Itemize
@@ -99280,6 +99285,7 @@ Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
 
 \begin_layout Itemize
 Red / ᎩᎦᎨ ᏪᏌ.
+ (ᎩᎨ ᏪᏌ.)
 \end_layout
 
 \begin_layout Itemize
@@ -99645,7 +99651,7 @@ If incorrect
 \end_layout
 
 \begin_layout Standard
-For the first group of sets each challenge-response should be done as in
+For the second group of sets each challenge-response should be done as in
  the following examples:
 \end_layout
 
@@ -99807,7 +99813,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎬᎿᎨᎢ.
 \end_layout
 
 \begin_layout Enumerate
@@ -99815,7 +99821,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨᎢ.
+ᎤᏁᎦ.
 \end_layout
 
 \begin_layout Enumerate
@@ -99823,7 +99829,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎬᏂᎨᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -99870,11 +99876,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎩᎦᎨᎢ.
+ᎩᎨᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨᎢ.
+ᎤᏁᎦ.
 \end_layout
 
 \begin_layout Enumerate
@@ -100000,7 +100006,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎬᎿᎨᎢ.
 \end_layout
 
 \begin_layout Enumerate
@@ -100008,7 +100014,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨᎢ.
+ᎤᏁᎦ.
 \end_layout
 
 \begin_layout Enumerate
@@ -100130,15 +100136,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎬᏂᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎨᎢ.
+\end_layout
+
+\begin_layout Enumerate
 ᎤᏁᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᎩᎦᎨᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᎬᎿᎨᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -100252,7 +100258,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏁᎦ.
+ᎬᎿᎨᎢ.
 \end_layout
 
 \begin_layout Enumerate
@@ -100260,7 +100266,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨᎢ.
+ᎤᏁᎦ.
 \end_layout
 
 \begin_layout Enumerate
