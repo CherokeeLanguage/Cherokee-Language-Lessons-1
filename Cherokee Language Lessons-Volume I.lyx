@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.127 $
+$Revision: 1.128 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/17 23:51:16 $ UTC
+$Date: 2016/06/18 01:07:54 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.127 $
+$Revision: 1.128 $
 \noun default
 .
 \end_layout
@@ -98687,7 +98687,7 @@ end{multicols}
 
 \begin_layout Standard
 Some colors are described with word combinations.
- ᎤᏍᎪᎸᎢ is used in many of these combinations:
+ ᎤᏍᎪᎸᎢ is used in some of these combinations:
 \end_layout
 
 \begin_layout Standard
@@ -98771,7 +98771,7 @@ Grey.
 \end_inset
 
 Orange.
- (Yellow-faded).
+ (Yellow-dim).
 \begin_inset Quotes erd
 \end_inset
 
@@ -98817,7 +98817,510 @@ hear color called out/read then pick correct crayon/marker/colored square/...
 \end_layout
 
 \begin_layout Standard
-You will need the following props:
+A box of crayons.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+boxes of 8
+\begin_inset Quotes erd
+\end_inset
+
+ commonly found in stores should have all the colors needed.
+\end_layout
+
+\begin_layout Standard
+You will need index cards for the following combinations of items and colors.
+\end_layout
+
+\begin_layout Standard
+On each index card you will need to draw pictures similar to the following
+ on the front side and color with the indicated color.
+ On the reverse of the card you will need to add the matching Cherokee.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/for-colors/nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/gihli-dead.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/wesa-dead.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+ᏅᏯ cards:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᎢᏤᎢᏳᏍᏗ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+No color / ᎤᏁᎦ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᎤᏬᏗᎨ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+Red / ᎩᎦᎨ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᎬᎿᎨ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+Blue / ᏌᎪᏂᎨ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+Purple / ᏓᎭᎵᎨ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᏓᎶᏂᎨ ᏅᏯ.
+\end_layout
+
+\begin_layout Itemize
+Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ ᏅᏯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alive ᎩᏟ cards:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+No color / ᎤᏁᎦ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᎤᏬᏗᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Red / ᎠᎩᎦᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᎠᎬᎿᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Blue / ᎠᏌᎪᏂᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Purple / ᎠᏓᎭᎵᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᎠᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Orange / ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ ᎩᏟ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Alive ᏪᏌ cards:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+No color / ᎤᏁᎦ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᎤᏬᏗᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Red / ᎠᎩᎦᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᎠᎬᎿᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Blue / ᎠᏌᎪᏂᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Purple / ᎠᏓᎭᎵᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᎠᏓᎶᏂᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Orange / ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dead ᎩᏟ cards:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+No color / ᎤᏁᎦ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᎤᏬᏗᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Red / ᎩᎦᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᎬᎿᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Blue / ᏌᎪᏂᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Purple / ᏓᎭᎵᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+
+\begin_layout Itemize
+Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ ᎩᏟ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dead ᏪᏌ cards:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+No color / ᎤᏁᎦ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᎤᏬᏗᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Red / ᎩᎦᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᎬᎿᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Blue / ᏌᎪᏂᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Purple / ᏓᎭᎵᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᏓᎶᏂᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Example index cards showing minimum needed coloring:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/for-colors/nvya-black.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/gihli-black.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/wesa-black.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/gihli-dead-black.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/wesa-dead-black.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
