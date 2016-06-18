@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.129 $
+$Revision: 1.130 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 03:21:07 $ UTC
+$Date: 2016/06/18 03:28:36 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.129 $
+$Revision: 1.130 $
 \noun default
 .
 \end_layout
@@ -98436,9 +98436,7 @@ Green of fruit or vegetable.
 \begin_inset Quotes erd
 \end_inset
 
- ☞ 
-\emph on
-Fruits or vegetables only.
+
 \end_layout
 
 \begin_layout Description
@@ -98450,9 +98448,7 @@ Green colored.
 \begin_inset Quotes erd
 \end_inset
 
- ☞ 
-\emph on
-New fruit like.
+
 \end_layout
 
 \begin_layout Description
@@ -98577,6 +98573,27 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+ᎢᏤᎢ is only used when referring to fruits and vegetables that are still
+ green.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+ᎢᏤᎢᏳᏍᏗ - Think 
+\begin_inset Quotes eld
+\end_inset
+
+like a new fruit
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
 When talking about single animate things, the prefix Ꭰ̣- is added if the
  word doesn't start with any of the vowels Ꭰ, Ꭱ, Ꭲ, Ꭳ, Ꭴ, or Ꭵ:
 \end_layout
@@ -98690,26 +98707,6 @@ Some colors are described with word combinations.
  ᎤᏍᎪᎸᎢ is used in some of these combinations:
 \end_layout
 
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Description
 ᎩᎦᎨ
 \begin_inset space ~
@@ -98773,22 +98770,6 @@ Grey.
 Orange.
  (Yellow-dim).
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
 \end_inset
 
 
