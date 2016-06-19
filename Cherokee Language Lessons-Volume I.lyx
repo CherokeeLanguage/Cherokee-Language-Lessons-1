@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.150 $
+$Revision: 1.151 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 01:23:29 $ UTC
+$Date: 2016/06/19 01:33:31 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.150 $
+$Revision: 1.151 $
 \noun default
 .
 \end_layout
@@ -101942,7 +101942,7 @@ boxes of 8
 \end_layout
 
 \begin_layout Standard
-You will need to create twelve copies of each the following index cards:
+You will need to create six copies of each the following index cards:
 \end_layout
 
 \begin_layout Standard
@@ -101965,6 +101965,24 @@ You will need to create twelve copies of each the following index cards:
 
 \end_inset
 
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/wesa-anitali.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/wesa-tali-dead.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
 
 \end_layout
 
@@ -101972,7 +101990,6 @@ You will need to create twelve copies of each the following index cards:
 The picture goes on the front of each index card and gets colored in.
  Each card needs to be colored as specified.
  On the reverse of the card you will need to add the matching Cherokee.
- You should make two copies for each color.
 \end_layout
 
 \begin_layout Standard
@@ -101983,7 +102000,7 @@ If anyone is red-green color blind, add a drawing of a leaf to each card
 \end_layout
 
 \begin_layout Standard
-Alive ᏪᏌ cards:
+Alive ᏌᏊ ᏪᏌ cards:
 \end_layout
 
 \begin_layout Standard
@@ -102047,7 +102064,71 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-Dead ᏪᏌ cards:
+Alive ᎠᏂᏔᎵ ᏪᏌ cards:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᎠᏂᏤᎢᏳᏍᏗ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+White / ᎤᏂᏁᎦ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᎤᏃᏗᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᎠᏂᎬᎿᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᎠᏂᏓᎶᏂᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Orange / ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Dead ᏌᏊ ᏪᏌ cards:
 \end_layout
 
 \begin_layout Standard
@@ -102111,26 +102192,63 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-Recommended areas on each card to color:
+Dead ᏔᎵ ᏪᏌ cards:
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename artwork/for-colors/wesa-black.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
 
 \end_inset
 
- 
-\begin_inset Graphics
-	filename artwork/for-colors/wesa-dead-black.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
+
+\end_layout
+
+\begin_layout Itemize
+Green / ᏗᏤᎢᏳᏍᏗ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+White / ᏧᏁᎦ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Brown / ᏧᏬᏗᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Black / ᏗᎬᎿᎨ ᏪᏌ.
+\end_layout
+
+\begin_layout Itemize
+Yellow / ᏗᏓᎶᏂᎨ ᏪᏌ .
+\end_layout
+
+\begin_layout Itemize
+Orange / ᏗᏓᎶᏂᎨ ᏧᏍᎪᎸ ᏪᏌ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
 
 \end_inset
 
