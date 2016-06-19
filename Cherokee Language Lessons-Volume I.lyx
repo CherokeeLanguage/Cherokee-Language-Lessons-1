@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.146 $
+$Revision: 1.147 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/18 23:04:50 $ UTC
+$Date: 2016/06/19 00:39:01 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.146 $
+$Revision: 1.147 $
 \noun default
 .
 \end_layout
@@ -99994,7 +99994,7 @@ The
 \end_inset
 
  responses should be done without reading anything.
- The book should then be checked to see if the responses are correct.
+ The book should then be checked to see if the all correct cards were selected.
 \end_layout
 
 \begin_layout Subsection*
