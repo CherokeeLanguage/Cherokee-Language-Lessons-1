@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.160 $
+$Revision: 1.161 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 14:17:52 $ UTC
+$Date: 2016/06/19 14:25:23 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.160 $
+$Revision: 1.161 $
 \noun default
 .
 \end_layout
@@ -103642,16 +103642,33 @@ buffalo
 \begin_layout Standard
 However, most Cherokee words used to describe things do change form to indicate
  plurality and animacy.
- This requirement includes words which indicate color, size, shape, texture,
- and so on.
+ Such words include those which indicate color, size, shape, texture, and
+ so on.
 \end_layout
 
 \begin_layout Standard
-There are three special prefixes used:
+There are four special prefixes used:
 \end_layout
 
 \begin_layout Description
-ᎠᏂ- [ạni-] 
+Ꭰ̣- [ạ-] 
+\begin_inset Quotes eld
+\end_inset
+
+it-animate
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When talking about single animate things, the prefix Ꭰ̣- is added if the
+ word doesn't start with any of the vowels Ꭰ, Ꭱ, Ꭲ, Ꭳ, Ꭴ, or Ꭵ.
+\end_layout
+
+\begin_layout Description
+ᎠᏂ- [ạ²ni-] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -103683,7 +103700,7 @@ i
 \begin_inset space ~
 \end_inset
 
-ᏧᏂ- [uni-, juni-] 
+ᏧᏂ- [u²ni-, ju²ni-] 
 \begin_inset Quotes eld
 \end_inset
 
