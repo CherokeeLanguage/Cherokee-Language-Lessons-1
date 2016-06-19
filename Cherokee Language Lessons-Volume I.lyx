@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.156 $
+$Revision: 1.157 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 13:23:44 $ UTC
+$Date: 2016/06/19 13:26:16 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.156 $
+$Revision: 1.157 $
 \noun default
 .
 \end_layout
@@ -101776,7 +101776,7 @@ When talking about multiple inanimate things, the prefix
 \end_inset
 
 .
- If 
+ When 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101816,7 +101816,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes erd
 \end_inset
 
- is dropped then 
+ is dropped before 
 \begin_inset Quotes eld
 \end_inset
 
