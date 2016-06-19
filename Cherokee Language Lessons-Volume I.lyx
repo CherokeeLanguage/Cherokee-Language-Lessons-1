@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.149 $
+$Revision: 1.150 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 00:57:57 $ UTC
+$Date: 2016/06/19 01:23:29 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.149 $
+$Revision: 1.150 $
 \noun default
 .
 \end_layout
@@ -101919,7 +101919,7 @@ You will need the following:
 \end_layout
 
 \begin_layout Itemize
-40
+30
 \emph on
  white
 \emph default
@@ -101942,7 +101942,7 @@ boxes of 8
 \end_layout
 
 \begin_layout Standard
-You will need to create nine copies of each the following index cards:
+You will need to create twelve copies of each the following index cards:
 \end_layout
 
 \begin_layout Standard
@@ -101972,6 +101972,7 @@ You will need to create nine copies of each the following index cards:
 The picture goes on the front of each index card and gets colored in.
  Each card needs to be colored as specified.
  On the reverse of the card you will need to add the matching Cherokee.
+ You should make two copies for each color.
 \end_layout
 
 \begin_layout Standard
@@ -102006,41 +102007,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-Green / ᎢᏤᎢᏳᏍᏗ.
+Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-White / ᎤᏁᎦ.
+White / ᎤᏁᎦ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Brown / ᎤᏬᏗᎨᎢ.
+Brown / ᎤᏬᏗᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Red / ᎩᎦᎨᎢ.
- (ᎩᎨᎢ.)
+Black / ᎠᎬᎿᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Black / ᎬᎿᎨᎢ.
- (ᎬᏂᎨᎢ.)
+Yellow / ᎠᏓᎶᏂᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Blue / ᏌᎪᏂᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Purple / ᏓᎭᎵᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Yellow / ᏓᎶᏂᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+Orange / ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
@@ -102084,41 +102071,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-Green / ᎢᏤᎢᏳᏍᏗ.
+Green / ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-White / ᎤᏁᎦ.
+White / ᎤᏁᎦ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Brown / ᎤᏬᏗᎨᎢ.
+Brown / ᎤᏬᏗᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Red / ᎩᎦᎨᎢ.
- (ᎩᎨᎢ.)
+Black / ᎬᎿᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Itemize
-Black / ᎬᎿᎨᎢ.
- (ᎬᏂᎨᎢ.)
+Yellow / ᏓᎶᏂᎨ ᏪᏌ .
 \end_layout
 
 \begin_layout Itemize
-Blue / ᏌᎪᏂᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Purple / ᏓᎭᎵᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Yellow / ᏓᎶᏂᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
@@ -102144,15 +102117,6 @@ Recommended areas on each card to color:
 \begin_layout Standard
 \noindent
 \align center
-\begin_inset Graphics
-	filename artwork/for-colors/nvya-black.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
- 
 \begin_inset Graphics
 	filename artwork/for-colors/wesa-black.png
 	lyxscale 15
@@ -102299,173 +102263,7 @@ The
 \end_layout
 
 \begin_layout Standard
-For the first group of sets each challenge-response should be done as in
- the following examples:
-\end_layout
-
-\begin_layout Enumerate
-ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- asks 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-: ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ? (Which is white?)
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- selects the card they think is ᎤᏁᎦ.
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- says: ᎯᎠ ᎤᏁᎦ.
- (This is white.) ☞ (
-\emph on
-Only use the spoken name.
-\emph default
-)
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- flips the card over to see if they are correct or incorrect.
-\begin_inset Newline newline
-\end_inset
-
-If incorrect 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- should say: ᎥᏝ.
- Ꮎ _____.
- (No.
- That is _____.)
-\end_layout
-
-\begin_layout Enumerate
-ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ?
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- asks 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
-: ᎦᏙ ᎤᏍᏗ ᎩᎦᎨᎢ? (Which is red?)
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- selects the card they think is ᎩᎦᎨᎢ.
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- says: ᎯᎠ ᎩᎦᎨᎢ.
- (This is red.) ☞ (
-\emph on
-Only use the spoken name.
-\emph default
-)
-\begin_inset Newline newline
-\end_inset
-
-
-\begin_inset Quotes eld
-\end_inset
-
-Ꭱ
-\begin_inset Quotes erd
-\end_inset
-
- flips the card over to see if they are correct or incorrect.
-\begin_inset Newline newline
-\end_inset
-
-If incorrect 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
- should say: ᎥᏝ.
- Ꮎ _____.
- (No.
- That is _____.)
-\end_layout
-
-\begin_layout Standard
-For the second group of sets each challenge-response should be done as in
- the following examples:
+Each challenge-response should be done as in the following examples:
 \end_layout
 
 \begin_layout Enumerate
