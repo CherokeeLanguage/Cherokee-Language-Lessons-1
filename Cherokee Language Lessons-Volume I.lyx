@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.159 $
+$Revision: 1.160 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 14:16:27 $ UTC
+$Date: 2016/06/19 14:17:52 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.159 $
+$Revision: 1.160 $
 \noun default
 .
 \end_layout
@@ -103867,6 +103867,10 @@ When talking about multiple inanimate things, the prefix
  is added.
 \end_layout
 
+\begin_layout Subsection
+Examples:
+\end_layout
+
 \begin_layout Standard
 Review the following forms for 
 \begin_inset Quotes eld
@@ -104268,7 +104272,7 @@ Good English people.
 
 \end_deeper
 \begin_layout Itemize
-ᎤᏲᎢ ᎠᏣᎳᎩ.
+ᎤᏲ ᎠᏣᎳᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104282,7 +104286,7 @@ A bad Cherokee person.
 
 \begin_deeper
 \begin_layout Itemize
-ᎤᏂᏲᎢ ᎠᏂᏣᎳᎩ.
+ᎤᏂᏲ ᎠᏂᏣᎳᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104296,7 +104300,7 @@ Bad Cherokee people.
 
 \end_deeper
 \begin_layout Itemize
-ᎤᏲᎢ ᎠᎩᎵᏏ.
+ᎤᏲ ᎠᎩᎵᏏ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104310,7 +104314,7 @@ A bad English person.
 
 \begin_deeper
 \begin_layout Itemize
-ᎤᏂᏲᎢ ᎠᏂᎩᎵᏏ.
+ᎤᏂᏲ ᎠᏂᎩᎵᏏ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104324,7 +104328,7 @@ Bad English people.
 
 \end_deeper
 \begin_layout Itemize
-ᎤᏬᏗᎨᎢ ᎠᏣᎳᎩ.
+ᎤᏬᏗᎨ ᎠᏣᎳᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104338,7 +104342,7 @@ A brown Cherokee person.
 
 \begin_deeper
 \begin_layout Itemize
-ᏧᏃᏗᎨᎢ ᎠᏂᏣᎳᎩ.
+ᏧᏃᏗᎨ ᎠᏂᏣᎳᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104352,12 +104356,12 @@ Brown Cherokee people.
 
 \end_deeper
 \begin_layout Itemize
-ᎤᏬᏗᎨᎢ ᎠᎩᎵᏏ.
+ᎤᏬᏗᎨ ᏄᎾ.
  
 \begin_inset Quotes eld
 \end_inset
 
-A brown English person.
+A brown potato.
 \begin_inset Quotes erd
 \end_inset
 
@@ -104366,12 +104370,12 @@ A brown English person.
 
 \begin_deeper
 \begin_layout Itemize
-ᏧᏃᏗᎨᎢ ᎠᏂᎩᎵᏏ.
+ᏧᏬᏗᎨ ᏄᎾ.
  
 \begin_inset Quotes eld
 \end_inset
 
-Brown English people.
+Brown potatoes.
 \begin_inset Quotes erd
 \end_inset
 
@@ -104485,7 +104489,7 @@ end{multicols}
 \begin_layout Standard
 ☞ 
 \emph on
-When indicating quantities it is general practice in many communities to
+When indicating quantities it is general practice in some communities to
  add “ᎢᏯᏂ” after the number for living things and “ᎢᎦ” after the number
  for non-living things when dealing with any quantity greater than one.
 \end_layout
@@ -104494,661 +104498,6 @@ When indicating quantities it is general practice in many communities to
 ☞ 
 \emph on
 If unclear, assume objects go on tables and people sit on chairs.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᏤᎢ [ị¹je⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Green of fruit or vegetable.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-Fruits or vegetables only.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏤᎢ [ạ²ni²je⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Green-them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎢᏤᎢ [ị¹je⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-New.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-Inanimate only.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏗᏤᎢ [di²je⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-New-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎢᏤᎢᏳᏍᏗ [ị²je³ɂị²yu⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Green colored.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-New fruit colored like.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏤᎢ [ạ²ni²je⁴ɂị²yu⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Green-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᏤᎢ [di²je⁴ɂị²yu⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Green-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏁᎦ [u²ne⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-White.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᏂᏁᎦ [u²ni²ne⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-White-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏧᏁᎦ [ju²ne⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-White-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏬᏗᎨᎢ [ụ²wo²³dị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Brown.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏧᏃᏗᎨᎢ [ju²no²³dị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Brown-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏧᏬᏗᎨᎢ [jụ²wo²³dị²ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Brown-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎩᎦᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᎩᎨᎢ [gi²³gạ³ge⁴ɂi, gi²³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Red.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᎩᎦᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᎠᏂᎩᎨᎢ [ạ²ni²gi²³gạ³ge⁴ɂi, ạ²ni²gi²³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Red-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᎩᎦᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᏗᎩᎨᎢ [dị²gi²³gạ³ge⁴ɂi, dị²gi²³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Red-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎩᎦᎨ
-\begin_inset space ~
-\end_inset
-
-ᏓᎶᏂᎨᎢ [gi²³gạ³ge⁴ dạ²lo²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Orange.
- (Red-Yellow.)
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᎩᎦᎨ
-\begin_inset space ~
-\end_inset
-
-ᎠᏂᏓᎶᏂᎨᎢ [ạ²ni²gi²³gạ³ge⁴ ạ²ni²dạ²lo²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Orange-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᎩᎦᎨ
-\begin_inset space ~
-\end_inset
-
-ᏗᏓᎶᏂᎨᎢ [dị²gi²³gạ³ge⁴ dị²dạ²lo²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Orange-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎩᎦᎨᏍᏗ,
-\begin_inset space ~
-\end_inset
-
-ᎩᎨᏍᏗ [gi²³gạ³ge⁴sdi, gi²³ge⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Purple.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᎩᎦᎨᏍᏗ,
-\begin_inset space ~
-\end_inset
-
-ᎠᏂᎩᎨᏍᏗ [ạ²ni²gi²³gạ³ge⁴sdi, ạ²ni²gi²³ge⁴sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Purple-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᎩᎦᎨᏍᏗ,
-\begin_inset space ~
-\end_inset
-
-ᏗᎩᎨᏍᏗ [dị²gi²³gạ³ge⁴sdi, dị²gi²³ge⁴sdi] Purple-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎬᎿᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᎬᏂᎨᎢ [gv²³hnạ³ge⁴ɂi, gv²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Black.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᎬᎿᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᎠᏂᎬᏂᎨᎢ [ạ²ni²gv²³hnạ³ge⁴ɂi, ạ²ni²gv²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Black-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᎬᎿᎨᎢ,
-\begin_inset space ~
-\end_inset
-
-ᏗᎬᏂᎨᎢ [dị²gv²³hnạ³ge⁴ɂi, dị²gv²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Black-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎬᎿᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏍᎪᎸ [gv²³hnạ³ge⁴ u¹sgo²³lv⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Grey.
- (Black-faded.)
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᎬᎿᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏂᏍᎪᎸ [ạ²ni²gv²³hnạ³ge⁴ u¹nị²sgo²³lv⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Grey-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᎬᎿᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏂᏍᎪᎸ [dị²gv²³hnạ³ge⁴ u¹nị²sgo²³lv⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Grey-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᏌᎪᏂᎨᎢ [sạ²ko²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Blue.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏌᎪᏂᎨᎢ [ạ²ni²sạ²ko²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Blue-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᏌᎪᏂᎨᎢ [dị²sạ²ko²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Blue-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᏌᎪᏂᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏍᎪᎸ [sạ²ko²³nị³ge⁴ɂi u¹sgo²³lv⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Grey.
- (Blue-faded.)
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏌᎪᏂᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏂᏍᎪᎸ [ạ²ni²sạ²ko²³nị³ge⁴ɂi u¹nị²sgo²³lv⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Grey-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᏌᎪᏂᎨ
-\begin_inset space ~
-\end_inset
-
-ᎤᏂᏍᎪᎸ [dị²sạ²ko²³nị³ge⁴ɂi u¹nị²sgo²³lv⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Grey-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᏓᎶᏂᎨᎢ [dạ²lo²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Yellow.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏓᎶᏂᎨᎢ [ạ²ni²dạ²lo²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Yellow-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᏓᎶᏂᎨᎢ [dị²dạ²lo²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Yellow-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-Some communities use ᎠᏓᎶᏂᎨᎢ for 
-\begin_inset Quotes eld
-\end_inset
-
-orange
-\begin_inset Quotes erd
-\end_inset
-
-, referring to the fruit, when dealing with both animate and inanimate items.
- Historically 
-\begin_inset Quotes eld
-\end_inset
-
-orange
-\begin_inset Quotes erd
-\end_inset
-
- was considered a shade of 
-\begin_inset Quotes eld
-\end_inset
-
-yellow
-\begin_inset Quotes erd
-\end_inset
-
- and was simply called 
-\begin_inset Quotes eld
-\end_inset
-
-yellow
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-red-yellow
-\begin_inset Quotes erd
-\end_inset
-
- as needs dictated.
- This material will be using 
-\begin_inset Quotes eld
-\end_inset
-
-yellow
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-red-yellow
-\begin_inset Quotes erd
-\end_inset
-
- to refer to 
-\begin_inset Quotes eld
-\end_inset
-
-orange
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Section
