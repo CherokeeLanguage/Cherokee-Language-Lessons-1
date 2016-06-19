@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.164 $
+$Revision: 1.165 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 15:35:31 $ UTC
+$Date: 2016/06/19 15:37:39 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.164 $
+$Revision: 1.165 $
 \noun default
 .
 \end_layout
@@ -101668,7 +101668,8 @@ White.
 \begin_inset Quotes eld
 \end_inset
 
-Faded.
+Dim.
+ Faded.
 \begin_inset Quotes erd
 \end_inset
 
@@ -101900,7 +101901,8 @@ White.
 \begin_inset Quotes eld
 \end_inset
 
-Faded.
+Dim.
+ Faded.
 \begin_inset Quotes erd
 \end_inset
 
@@ -102023,11 +102025,11 @@ boxes of 8
 \begin_inset Quotes erd
 \end_inset
 
- as sold in most stores should have all the colors needed.
+ as sold in many stores should have all the colors needed.
 \end_layout
 
 \begin_layout Standard
-You will need to create six copies of each the following index cards:
+You will need to create six copies each of the following index cards:
 \end_layout
 
 \begin_layout Standard
@@ -104518,9 +104520,8 @@ end{multicols}
 \begin_layout Standard
 ☞ 
 \emph on
-When indicating quantities it is general practice in some communities to
- add “ᎢᏯᏂ” after the number for living things and “ᎢᎦ” after the number
- for non-living things.
+When indicating quantities some communities to add “ᎢᏯᏂ” after the number
+ for living things and “ᎢᎦ” after the number for non-living things.
 \end_layout
 
 \begin_layout Standard
