@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.178 $
+$Revision: 1.179 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 19:46:55 $ UTC
+$Date: 2016/06/19 19:51:03 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.178 $
+$Revision: 1.179 $
 \noun default
 .
 \end_layout
@@ -104590,7 +104590,7 @@ Seventeenth Lesson
 \end_layout
 
 \begin_layout Section
-ᏘᎪᎵᏯ (Read them)
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
 \end_layout
 
 \begin_layout Standard
@@ -106743,6 +106743,10 @@ If Anthony will be here, I will be here.
 \end_layout
 
 \begin_layout Section
+ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Section
 ᏂᏔᏛᎦ (Do them)
 \end_layout
 
@@ -107125,19 +107129,38 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+ᎤᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she wants it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
 ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
 He/she sees it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎠᎪᏩᏘᎭ-[a¹gowh²tị³ha]-He"
-
 \end_inset
 
 
@@ -107162,7 +107185,8 @@ I see him/her.
 \begin_inset Quotes eld
 \end_inset
 
-Colored
+Color.
+ Colored.
 \begin_inset Quotes erd
 \end_inset
 
@@ -107175,7 +107199,8 @@ Colored
 \begin_inset Quotes eld
 \end_inset
 
-Colored
+Color.
+ Colored.
 \begin_inset Quotes erd
 \end_inset
 
@@ -107190,7 +107215,8 @@ Plural.
 \begin_inset Quotes eld
 \end_inset
 
-Colored
+Color.
+ Colored.
 \begin_inset Quotes erd
 \end_inset
 
@@ -107704,13 +107730,6 @@ He/she sees it.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎠᎪᏩᏘᎭ-[a¹gowh²tị³ha]-He-2"
-
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -107734,13 +107753,6 @@ I see him/her.
 
 He/she wants it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎤᏚᎵᎭ-[u¹du²lị³ha]-He-2"
-
 \end_inset
 
 
