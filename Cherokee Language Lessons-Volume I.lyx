@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.173 $
+$Revision: 1.174 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 17:22:28 $ UTC
+$Date: 2016/06/19 17:30:17 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.173 $
+$Revision: 1.174 $
 \noun default
 .
 \end_layout
@@ -115874,7 +115874,7 @@ end{multicols}
 \begin_layout Chapter
 ᏐᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Nineteenth Lesson
@@ -115886,13 +115886,7 @@ Nineteenth Lesson
 \end_layout
 
 \begin_layout Section
-
-\lang english
-ᎤᏬᎵᏗ ᎪᏪᎵ
-\end_layout
-
-\begin_layout Subsection
-Translate into English
+ᏘᎪᎵᏯ (Read them)
 \end_layout
 
 \begin_layout Standard
@@ -115981,6 +115975,21 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+
+\lang english
+ᎤᏬᎵᏗ ᎪᏪᎵ (Funny Paper)
+\end_layout
+
+\begin_layout Standard
+Read the following comic aloud.
+ ☞ 
+\emph on
+If you have partners, have one person read aloud all the xxx and yyy parts
+ and another the zzz and ggg parts.
+ Each person should read aloud each role at least once.
 \end_layout
 
 \begin_layout Standard
@@ -116093,6 +116102,20 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+ᏙᏪᎸᎦ (Write them)
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee sentences from the comic followed
+ by an English translation.
+ Compare your answers to the answers in the ᎩᎵᏏ section.
+ ☞ 
+\emph on
+Refer back to the comic as needed to be sure your translation fits the scene
+ the dialogue is taken from.
 \end_layout
 
 \begin_layout Standard
