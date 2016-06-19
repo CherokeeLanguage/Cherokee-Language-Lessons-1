@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.175 $
+$Revision: 1.176 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 17:33:10 $ UTC
+$Date: 2016/06/19 17:35:06 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.175 $
+$Revision: 1.176 $
 \noun default
 .
 \end_layout
@@ -104593,10 +104593,6 @@ Seventeenth Lesson
 ᏘᎪᎵᏯ (Read them)
 \end_layout
 
-\begin_layout Subsection
-Special Words
-\end_layout
-
 \begin_layout Standard
 Cherokee uses a special set of words for the English 
 \begin_inset Quotes eld
@@ -104647,61 +104643,6 @@ Is.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎢᎩ-[i⁴gi]-Is."
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-Even though English speakers are able to use 
-\begin_inset Quotes eld
-\end_inset
-
-is
-\begin_inset Quotes erd
-\end_inset
-
- instead of 
-\begin_inset Quotes eld
-\end_inset
-
-becomes
-\begin_inset Quotes erd
-\end_inset
-
- in many sentences to mean the same thing, in Cherokee this is considered
- very bad grammar.
- When speaking or writing Cherokee and you can substitute 
-\begin_inset Quotes eld
-\end_inset
-
-becomes
-\begin_inset Quotes erd
-\end_inset
-
- in place of 
-\begin_inset Quotes eld
-\end_inset
-
-is
-\begin_inset Quotes erd
-\end_inset
-
- you should use the Cherokee word for 
-\begin_inset Quotes eld
-\end_inset
-
-becomes
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
@@ -104738,7 +104679,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda igi.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎢᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104760,7 +104701,7 @@ This person just now was good.
 
 \begin_deeper
 \begin_layout Itemize
-Hia ayvwi osda.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104774,7 +104715,7 @@ This person is good.
 
 \end_deeper
 \begin_layout Itemize
-Na ayvwi uyoi igi.
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎢᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104796,7 +104737,7 @@ That person just now was bad.
 
 \begin_deeper
 \begin_layout Itemize
-Na ayvwi uyoi.
+Ꮎ ᎠᏴᏫ ᎤᏲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104810,7 +104751,7 @@ That person is bad.
 
 \end_deeper
 \begin_layout Itemize
-Ahani anijalagi igi.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎢᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104832,7 +104773,7 @@ Cherokee people were just here.
 
 \begin_deeper
 \begin_layout Itemize
-Ahani anijalagi.
+ᎠᏂ ᎠᏂᏣᎳᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104846,7 +104787,7 @@ Cherokee people are here.
 
 \end_deeper
 \begin_layout Itemize
-Osda igi.
+ᎣᏍᏓ ᎢᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104868,8 +104809,7 @@ It just now was good.
 
 \begin_deeper
 \begin_layout Itemize
-Osda.
- 
+ᎣᏍᏓ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -104888,11 +104828,11 @@ It is good.
 \begin_inset Quotes eld
 \end_inset
 
-igi
+ᎢᎩ
 \begin_inset Quotes erd
 \end_inset
 
- is rarely spoken or written in everyday conversation.
+ is rarely spoken or written.
 \end_layout
 
 \begin_layout Description
@@ -104900,7 +104840,11 @@ igi
 \begin_inset space ~
 \end_inset
 
-ᏱᎩ [hla yi⁴gi] 
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎩ [hla _____ yi⁴gi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -104912,13 +104856,6 @@ Isn't.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏝᏱᎩ-[tla-yi⁴gi]"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -104926,7 +104863,7 @@ When you add the Cherokee word
 \begin_inset Quotes eld
 \end_inset
 
-hla
+Ꮭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -104934,7 +104871,7 @@ hla
 \begin_inset Quotes eld
 \end_inset
 
-yi-
+Ᏹ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -104942,7 +104879,7 @@ yi-
 \begin_inset Quotes eld
 \end_inset
 
-igi
+ᎢᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -104954,7 +104891,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hia ayonega.
+ᎯᎠ ᎠᎩᎵᏏ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104968,7 +104905,7 @@ This is an English person.
 
 \begin_deeper
 \begin_layout Itemize
-Hia hla ayonega yigi.
+ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104982,7 +104919,7 @@ This is not an English person.
 
 \end_deeper
 \begin_layout Itemize
-Ahani nvhgi iga.
+ᎠᏂ ᏅᎩ ᎢᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -104996,7 +104933,7 @@ There are four here.
 
 \begin_deeper
 \begin_layout Itemize
-Hla ahani nvhgi iga yigi.
+Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105018,7 +104955,7 @@ Just now there weren't four here.
 
 \end_deeper
 \begin_layout Itemize
-Anijalagigwu.
+ᎠᏂᏣᎳᎩᏊ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105032,7 +104969,7 @@ It is only the Cherokee people.
 
 \begin_deeper
 \begin_layout Itemize
-Hlagwu anijalagi yigi.
+ᎥᏝᏊ ᎠᏂᏣᎳᎩ ᏱᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105047,15 +104984,15 @@ Notice how the
 \begin_inset Quotes eld
 \end_inset
 
--gwu
+-Ꮚ
 \begin_inset Quotes erd
 \end_inset
 
- clitic was placed on 
+ was add to 
 \begin_inset Quotes eld
 \end_inset
 
-hla
+ᎥᏝ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105072,8 +105009,8 @@ not only
 
 \end_deeper
 \begin_layout Itemize
-Hla osda yigi.
- Uyoi.
+Ꮭ ᎣᏍᏓ ᏱᎩ.
+ ᎤᏲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105088,8 +105025,8 @@ It is not good.
 
 \begin_deeper
 \begin_layout Itemize
-Hla uyoi yigi.
- Osda.
+Ꮭ ᎤᏲ ᏱᎩ.
+ ᎣᏍᏓ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105112,49 +105049,6 @@ Just now it wasn't bad.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-☞
-\emph on
- Note: The 
-\begin_inset Quotes eld
-\end_inset
-
-hla
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-yi-
-\begin_inset Quotes erd
-\end_inset
-
- combination can be used on more than just 
-\begin_inset Quotes eld
-\end_inset
-
-igi
-\begin_inset Quotes erd
-\end_inset
-
-:
-\end_layout
-
-\begin_layout Itemize
-Hla Gwagwaa yidagwadoa.
- 
-\begin_inset Quotes eld
-\end_inset
-
-My name is not Barbara.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Description
 ᏱᎩ [yi⁴gi] 
 \begin_inset Quotes eld
@@ -105166,13 +105060,6 @@ If it is.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏱᎩ-[yi⁴gi]-If"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -105180,7 +105067,7 @@ When you use only
 \begin_inset Quotes eld
 \end_inset
 
-yi-
+Ᏹ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -105188,7 +105075,7 @@ yi-
 \begin_inset Quotes eld
 \end_inset
 
-hla
+Ꮭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105233,7 +105120,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigi.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105254,7 +105141,7 @@ Maybe Anthony was just now bad.
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigi, Entoni hla osda yigi.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎩ, ᎡᏅᏙᏂ Ꮭ ᎣᏍᏓ ᏱᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105286,32 +105173,6 @@ just now
 \end_inset
 
  to within a few hours ago.
- When talking about events from more than a few hours ago, you should use
- one of the 
-\begin_inset Quotes eld
-\end_inset
-
-a while ago
-\begin_inset Quotes erd
-\end_inset
-
- forms of 
-\begin_inset Quotes eld
-\end_inset
-
-gehvi
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-gehei
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Subsection*
@@ -105377,7 +105238,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda iga.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎢᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105392,12 +105253,12 @@ An ongoing goodness.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi uyoi iga.
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎢᎦ.
  
 \begin_inset Quotes eld
 \end_inset
 
-So it is that that person is bad.
+So it is that person is bad.
 \begin_inset Quotes erd
 \end_inset
 
@@ -105407,7 +105268,7 @@ An ongoing badness.
 \end_layout
 
 \begin_layout Itemize
-Ahani anijalagi ahani iga.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎠᏂ ᎢᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105430,7 +105291,7 @@ here
 \end_layout
 
 \begin_layout Itemize
-Osda iga.
+ᎣᏍᏓ ᎢᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105449,7 +105310,11 @@ It is an ongoing good.
 \begin_inset space ~
 \end_inset
 
-ᏱᎦ [hla yi⁴ga] 
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎦ [hla _____ yi⁴ga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -105468,7 +105333,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hla ahani nvhgi iga yiga.
+Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105484,7 +105349,7 @@ Some other count other than four are here and this is not expected to change
 \end_layout
 
 \begin_layout Itemize
-Hlagwu anijalagi ahani yiga.
+ᎥᏝᏊ ᎠᏂᏣᎳᎩ ᎠᏂ ᏱᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105517,7 +105382,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yiga.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105530,7 +105395,7 @@ Maybe Anthony is being bad.
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yiga, Entoni hla osda yiga.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎦ, ᎡᏅᏙᏂ Ꮭ ᎣᏍᏓ ᏱᎦ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105560,13 +105425,6 @@ It is often being.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎨᏐᎢ-[ge¹so³ɂi]-It"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -105574,7 +105432,7 @@ The
 \begin_inset Quotes eld
 \end_inset
 
--oi
+-ᎣᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105617,7 +105475,7 @@ usually
 \begin_inset Quotes eld
 \end_inset
 
--oi
+-ᎣᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105636,7 +105494,7 @@ The
 \begin_inset Quotes eld
 \end_inset
 
--oi
+-ᎣᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105661,7 +105519,7 @@ always
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda gesoi.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105676,8 +105534,7 @@ This does not mean the person isn't bad sometimes.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi uyoi gesoi.
- 
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᏐᎢ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -105691,7 +105548,7 @@ This does not mean the person isn't good sometimes.
 \end_layout
 
 \begin_layout Itemize
-Ahani anijalagi gesoi.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105710,7 +105567,11 @@ This does not mean they are always here.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏐᎢ [hla yi²ge¹so³ɂi] 
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏐᎢ [hla _____ yi²ge¹so³ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -105722,17 +105583,10 @@ It often is not.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏝᏱᎨᏐᎢ-[tla-yi²ge¹so³ɂi]"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi hla osda yigesoi.
+ᎯᎠ ᎠᏴᏫ Ꮭ ᎣᏍᏓ ᏱᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105745,7 +105599,7 @@ This person is not often being good.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi hla uyoi yigesoi.
+Ꮎ ᎠᏴᏫ Ꮭ ᎤᏲ ᏱᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105758,7 +105612,7 @@ That person is not often being bad.
 \end_layout
 
 \begin_layout Itemize
-Aniyonega hla ahani yigesoi.
+ᎠᏂᎩᎵᏏ Ꮭ ᎠᏂ ᏱᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105783,17 +105637,10 @@ If it often is.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏱᎨᏐᎢ-[yi²ge¹so³ɂi]-If"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
-Ahani ajalagi yigesoi.
+ᎠᏂ ᎠᏣᎳᎩ ᏱᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105806,7 +105653,7 @@ Maybe a Cherokee person is often here.
 \end_layout
 
 \begin_layout Itemize
-Ahani ajalagi yigesoi, ahani ayonega gesoi.
+ᎠᏂ ᎠᏣᎳᎩ ᏱᎨᏐ, ᎠᏂ ᎠᎩᎵᏏ ᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105819,7 +105666,7 @@ If a Cherokee person is often here, an English person is often here.
 \end_layout
 
 \begin_layout Itemize
-Ahani ajalagi yigesoi, ahani hla ayonega yigesoi.
+ᎠᏂ ᎠᏣᎳᎩ ᏱᎨᏐ, ᎠᏂ Ꮭ ᎠᎩᎵᏏ ᎯᎨᏐᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105836,54 +105683,6 @@ Was being.
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-Even though English speakers are able to use 
-\begin_inset Quotes eld
-\end_inset
-
-was
-\begin_inset Quotes erd
-\end_inset
-
- instead of 
-\begin_inset Quotes eld
-\end_inset
-
-became
-\begin_inset Quotes erd
-\end_inset
-
- in many sentences to mean the same thing, in Cherokee this is considered
- very bad grammar.
- If you are translating into Cherokee, and you can substitute 
-\begin_inset Quotes eld
-\end_inset
-
-became
-\begin_inset Quotes erd
-\end_inset
-
- in place of 
-\begin_inset Quotes eld
-\end_inset
-
-was
-\begin_inset Quotes erd
-\end_inset
-
-, you should use the Cherokee word for 
-\begin_inset Quotes eld
-\end_inset
-
-became
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
 The Cherokee word for 
 \begin_inset Quotes eld
 \end_inset
@@ -105896,7 +105695,7 @@ was being
 \begin_inset Quotes eld
 \end_inset
 
-gesvi
+ᎨᏒᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105904,7 +105703,7 @@ gesvi
 \begin_inset Quotes eld
 \end_inset
 
-gesei
+ᎨᏎᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105916,7 +105715,7 @@ The ending
 \begin_inset Quotes eld
 \end_inset
 
--v²³ɂi
+-ᎥᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105930,7 +105729,7 @@ The ending
 \begin_inset Quotes eld
 \end_inset
 
--e²³ɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105954,13 +105753,6 @@ Was being.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎨᏒᎢ-[ge¹sv²³ɂi]-Was."
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -105968,7 +105760,7 @@ The
 \begin_inset Quotes eld
 \end_inset
 
--vɂi
+-ᎥᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -105985,7 +105777,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda gesvi.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -105998,7 +105790,7 @@ This person was being good.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi uyoi gesvi.
+Ꮎ ᎠᏴᏫ ᎤᏲᎢ ᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106011,7 +105803,7 @@ That person was being bad.
 \end_layout
 
 \begin_layout Itemize
-Ahani anijalagi gesvi.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106020,7 +105812,7 @@ Cherokee people were here.
 \begin_inset Quotes erd
 \end_inset
 
- - 
+ - ☞ 
 \emph on
 It is not always possible to translate the full meaning of 
 \begin_inset Quotes eld
@@ -106044,13 +105836,6 @@ Was being.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎨᏎᎢ-[ge¹se³ɂi]-Was."
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -106058,7 +105843,7 @@ The
 \begin_inset Quotes eld
 \end_inset
 
--eɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106076,7 +105861,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda gesei.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106089,7 +105874,7 @@ I was told this person was being good.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi uyoi gesei.
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106102,7 +105887,7 @@ That person was reportedly being bad.
 \end_layout
 
 \begin_layout Itemize
-Ahani anijalagi gesei.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106119,7 +105904,11 @@ Cherokee people were reported to have been here.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏒᎢ [hla yi²ge¹sv³ɂi] 
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏒᎢ [hla _____ yi²ge¹sv³ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106128,17 +105917,10 @@ Was not being.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏝᏱᎨᏒᎢ-[tla-yi²ge¹sv³ɂi]"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
-Hia ayonega gesvi.
+ᎯᎠ ᎠᎩᎵᏏ ᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106152,7 +105934,7 @@ This was an English person.
 
 \begin_deeper
 \begin_layout Itemize
-Hia hla ayonega yigesvi.
+ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106166,7 +105948,7 @@ This wasn't an English person.
 
 \end_deeper
 \begin_layout Itemize
-Ahani nvhgi iga gesvi.
+ᎠᏂ ᏅᎩ ᎢᎦ ᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106180,7 +105962,7 @@ There were four here.
 
 \begin_deeper
 \begin_layout Itemize
-Hla ahani nvhgi iga yigesvi.
+Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106198,7 +105980,7 @@ You can also replace the
 \begin_inset Quotes eld
 \end_inset
 
--vɂi
+-ᎥᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106206,7 +105988,7 @@ You can also replace the
 \begin_inset Quotes eld
 \end_inset
 
--eɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106214,7 +105996,7 @@ You can also replace the
 \end_layout
 
 \begin_layout Itemize
-Hia ayonega gesei.
+ᎯᎠ ᎠᎩᎵᏏ ᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106228,7 +106010,7 @@ This reportedly was an English person.
 
 \begin_deeper
 \begin_layout Itemize
-Hia hla ayonega yigesei.
+ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106242,7 +106024,7 @@ This reportedly wasn't an English person.
 
 \end_deeper
 \begin_layout Itemize
-Ahani nvhgi iga gesei.
+ᎠᏂ ᏅᎩ ᎢᎦ ᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106256,7 +106038,7 @@ There reportedly were four here.
 
 \begin_deeper
 \begin_layout Itemize
-Hla ahani nvhgi iga yigesei.
+Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106280,17 +106062,10 @@ If it was being.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏱᎨᏒᎢ-[yi²ge¹sv³ɂi]-If"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigesvi.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106303,7 +106078,7 @@ Maybe Anthony was being bad.
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigesvi, Gwagwaa hla osda yigesvi.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏒ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106320,7 +106095,7 @@ Switching the
 \begin_inset Quotes eld
 \end_inset
 
--vɂi
+-ᎥᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106328,7 +106103,7 @@ Switching the
 \begin_inset Quotes eld
 \end_inset
 
--eɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106336,7 +106111,7 @@ Switching the
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigesei.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106349,7 +106124,7 @@ It was reported that Anthony might have been being bad.
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigesei, Gwagwaa hla osda yigesei.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏎ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106379,7 +106154,7 @@ was
 \begin_inset Quotes eld
 \end_inset
 
-gehvi
+ᎨᎲᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106387,11 +106162,22 @@ gehvi
 \begin_inset Quotes eld
 \end_inset
 
-gehei
+ᎨᎮᎢ
 \begin_inset Quotes erd
 \end_inset
 
 .
+ ☞ 
+\emph on
+Many speakers simply use ᎨᏒᎢ and ᎨᏎᎢ for 
+\begin_inset Quotes eld
+\end_inset
+
+was/were
+\begin_inset Quotes erd
+\end_inset
+
+ and rarely use ᎨᎲᎢ and ᎨᎮᎢ.
 \end_layout
 
 \begin_layout Itemize
@@ -106399,7 +106185,7 @@ Like for the word
 \begin_inset Quotes eld
 \end_inset
 
-gesvi
+ᎨᏒᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106407,7 +106193,7 @@ gesvi
 \begin_inset Quotes eld
 \end_inset
 
--v²³ɂi
+-ᎥᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106415,7 +106201,7 @@ gesvi
 \begin_inset Quotes eld
 \end_inset
 
-gehvi
+ᎨᎲᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106427,7 +106213,7 @@ Like for the word
 \begin_inset Quotes eld
 \end_inset
 
-gesei
+ᎨᏎᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106435,7 +106221,7 @@ gesei
 \begin_inset Quotes eld
 \end_inset
 
--e²³ɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106443,7 +106229,7 @@ gesei
 \begin_inset Quotes eld
 \end_inset
 
-gehei
+ᎨᎮᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106472,7 +106258,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda gehvi.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᎲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106485,7 +106271,7 @@ This person was good a while ago.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi uyoi gehvi.
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᎲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106498,7 +106284,7 @@ That person was bad a while ago.
 \end_layout
 
 \begin_layout Itemize
-Ahani anijalagi gehvi.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᎲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106528,7 +106314,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda gehei.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106541,7 +106327,7 @@ I was told this person was good a while ago.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi uyoi gehei.
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106554,7 +106340,7 @@ That person was reportedly bad a while ago.
 \end_layout
 
 \begin_layout Itemize
-Ahani anijalagi gehei.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106571,7 +106357,11 @@ Cherokee people were reported to have been here a while ago.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᎲᎢ [hla yi²ge¹hv³ɂi] 
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᎲᎢ [hla _____ yi²ge¹hv³ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106583,7 +106373,7 @@ Was not (not recently).
 \end_layout
 
 \begin_layout Itemize
-Ahani nvhgi iga gehvi.
+ᎠᏂ ᏅᎩ ᎢᎦ ᎨᎲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106597,7 +106387,7 @@ A while ago there were four here.
 
 \begin_deeper
 \begin_layout Itemize
-Hla ahani nvhgi iga yigehvi.
+Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᎲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106615,7 +106405,7 @@ You can also replace the
 \begin_inset Quotes eld
 \end_inset
 
--vɂi
+-ᎥᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106623,7 +106413,7 @@ You can also replace the
 \begin_inset Quotes eld
 \end_inset
 
--eɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106631,7 +106421,7 @@ You can also replace the
 \end_layout
 
 \begin_layout Itemize
-Hia ayonega gehei.
+ᎯᎠ ᎠᎩᎵᏏ ᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106645,7 +106435,7 @@ Reportedly a while ago it was an English person.
 
 \begin_deeper
 \begin_layout Itemize
-Hia hla ayonega yigegei.
+ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᎨᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106659,7 +106449,7 @@ Reportedly a while ago it wasn't an English person.
 
 \end_deeper
 \begin_layout Itemize
-Ahani nvhgi iga gehei.
+ᎠᏂ ᏅᎩ ᎢᎦ ᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106673,7 +106463,7 @@ Reportedly a while ago there were four here.
 
 \begin_deeper
 \begin_layout Itemize
-Hla ahani nvhgi iga yigehei.
+Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106700,7 +106490,7 @@ If it was a while ago.
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigehvi.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106713,7 +106503,7 @@ Maybe Anthony was bad a while ago.
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigehvi, Gwagwaa hla osda yigesvi.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎲ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᏒᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106730,7 +106520,7 @@ Switching the
 \begin_inset Quotes eld
 \end_inset
 
--vɂi
+-ᎥᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106738,7 +106528,7 @@ Switching the
 \begin_inset Quotes eld
 \end_inset
 
--eɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -106746,7 +106536,7 @@ Switching the
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigehei.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106759,7 +106549,7 @@ It was reported that Anthony might have been bad a while ago.
 \end_layout
 
 \begin_layout Itemize
-Entoni uyoi yigehei, Gwagwaa hla osda yigehei.
+ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎮ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106776,54 +106566,6 @@ If Anthony reportedly was bad a while ago, Barbara reportedly wasn't good
 Will be.
 \end_layout
 
-\begin_layout Standard
-☞ 
-\emph on
-Even though English speakers are able to use 
-\begin_inset Quotes eld
-\end_inset
-
-will be
-\begin_inset Quotes erd
-\end_inset
-
- instead of 
-\begin_inset Quotes eld
-\end_inset
-
-will become
-\begin_inset Quotes erd
-\end_inset
-
- in many sentences to mean the same thing, in Cherokee this is considered
- very bad grammar.
- If you are translating into Cherokee, and you can substitute 
-\begin_inset Quotes eld
-\end_inset
-
-will become
-\begin_inset Quotes erd
-\end_inset
-
- in place of 
-\begin_inset Quotes eld
-\end_inset
-
-will be
-\begin_inset Quotes erd
-\end_inset
-
-, you should the Cherokee word for 
-\begin_inset Quotes eld
-\end_inset
-
-will become
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
 \begin_layout Description
 ᎨᏎᏍᏗ [ge¹se³sdi] 
 \begin_inset Quotes eld
@@ -106834,17 +106576,10 @@ Will be.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᎨᏎᏍᏗ-[ge¹se³sdi]-Will"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
-Hia ayvwi osda gesesdi.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᏎᏍᏗ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106857,8 +106592,7 @@ This person will be good.
 \end_layout
 
 \begin_layout Itemize
-Na ayvwi uyoi gesesdi.
- 
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᏎᏍᏗ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106870,8 +106604,7 @@ That person will be bad.
 \end_layout
 
 \begin_layout Itemize
-Ahani anijalagi gesesdi.
- 
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᏎᏍᏗ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106883,7 +106616,7 @@ Cherokee people will be here.
 \end_layout
 
 \begin_layout Itemize
-Osda gesesdi.
+ᎣᏍᏓ ᎨᏎᏍᏗ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106900,7 +106633,11 @@ It will be good.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏎᏍᏗ [hla yi²ge¹se³sdi] 
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏎᏍᏗ [hla _____ yi²ge¹se³sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106909,17 +106646,10 @@ Will not be.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏝᏱᎨᏎᏍᏗ-[tla-yi²ge¹se³sdi]"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
-Hia hla ayonega yigesesdi.
+ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᏎᏍᏗ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106932,7 +106662,7 @@ This will not be an English person.
 \end_layout
 
 \begin_layout Itemize
-Ahani hla nvhgi iga yigesesdi.
+ᎠᏂ Ꮭ ᏅᎩ ᎢᎦ ᏱᎨᏎᏍᏗ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106945,7 +106675,7 @@ There will not be four here.
 \end_layout
 
 \begin_layout Itemize
-Hlagwu anijalagi yigesesdi.
+ᎥᏝᏊ ᎠᏂᏣᎳᎩ ᏱᎨᏎᏍᏗ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106958,8 +106688,8 @@ It will not only be the Cherokee people.
 \end_layout
 
 \begin_layout Itemize
-Hla uyoi yigesesdi.
- Osda gesesdi.
+Ꮭ ᎤᏲ ᏱᎨᏎᏍᏗ.
+ ᎣᏍᏓ ᎨᏎᏍᏗ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -106984,17 +106714,10 @@ If it will be.
 \end_inset
 
 
-\begin_inset CommandInset label
-LatexCommand label
-name "ᏱᎨᏎᏍᏗ-[yi²ge¹se³sdi]-If"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Itemize
-Entoni yigesesdi ahani.
+ᎡᏅᏙᏂ ᏱᎨᏎᏍᏗ ᎠᏂ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -107007,7 +106730,7 @@ Maybe Anthony will be here.
 \end_layout
 
 \begin_layout Itemize
-Entoni yigesesdi ahani, ayv gesesdi ahani.
+ᎡᏅᏙᏂ ᏱᎨᏎᏍᏗ ᎠᏂ, ᎠᏴ ᎨᏎᏍᏗ ᎠᏂ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -107019,1468 +106742,18 @@ If Anthony will be here, I will be here.
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
+\begin_layout Section
+ᏂᏔᏛᎦ (Do them)
 \end_layout
 
 \begin_layout Section
-Exercises
+ᏙᏪᎸᎦ (Write them)
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-Starting from this point, when a Cherokee word in a sentence can be printed
- using just the Syllabary you have learned so far, it will be done so.
-\end_layout
-
-\begin_layout Subsection
-Written
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into English.
-\end_layout
-
-\begin_layout Standard
-Where sentences have more than once possible translation list them all.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Hla jisdu ᎠᎩᎦᎨ yigi.
-\end_layout
-
-\begin_layout Enumerate
-Vhlas jisdu yigi?
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi ᎠᎩᎦᎨ yigi.
-\end_layout
-
-\begin_layout Enumerate
-Gasgilos yigi?
-\end_layout
-
-\begin_layout Enumerate
-Hla sadvdi yigesei.
-\end_layout
-
-\begin_layout Enumerate
-Gasgilos gehei?
-\end_layout
-
-\begin_layout Enumerate
-Hla Ꮎ nvya ᎤᏁᎦ yigehvi.
-\end_layout
-
-\begin_layout Enumerate
-Hla sadvdi yigi.
-\end_layout
-
-\begin_layout Enumerate
-Nvyohi ayonega gesesdi.
-\end_layout
-
-\begin_layout Enumerate
-Hlaju gasgilo ᎠᎭᏂ yigehei.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into Cherokee.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-It isn't a red rabbit.
-\end_layout
-
-\begin_layout Enumerate
-Reportedly it was a brown deer a while ago.
-\end_layout
-
-\begin_layout Enumerate
-I was told it wasn't a red rabbit.
-\end_layout
-
-\begin_layout Enumerate
-It was not a good deer.
-\end_layout
-
-\begin_layout Enumerate
-Was it a chair?
-\end_layout
-
-\begin_layout Enumerate
-Reportedly she wasn't a bad person.
-\end_layout
-
-\begin_layout Enumerate
-It isn't a red deer.
-\end_layout
-
-\begin_layout Enumerate
-I was told that a while ago it wasn't a red rabbit.
-\end_layout
-
-\begin_layout Enumerate
-Was it a bad wolf?
-\end_layout
-
-\begin_layout Enumerate
-Usually it's a red beaver.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into English.
-\end_layout
-
-\begin_layout Standard
-Where sentences have more than once possible translation list them all.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Wahya ᎠᎬᎿᎨᎢ yiga.
-\end_layout
-
-\begin_layout Enumerate
-Hla doya adalonigei yigesoi.
-\end_layout
-
-\begin_layout Enumerate
-Hlaju gasgilo ᎠᎭᏂ yigesei.
-\end_layout
-
-\begin_layout Enumerate
-Gasgilosgo yiga?
-\end_layout
-
-\begin_layout Enumerate
-Wahya ᎠᎬᎿᎨᎢ gesvi.
-\end_layout
-
-\begin_layout Enumerate
-Nvyohi Entoni gesoi.
-\end_layout
-
-\begin_layout Enumerate
-Hla sadvdi yigesvi.
-\end_layout
-
-\begin_layout Enumerate
-Hla ᎠᎭᏂ doya yigesoi.
-\end_layout
-
-\begin_layout Enumerate
-Ahwi uwodigei gesei.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into Cherokee.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-It isn't a good deer.
-\end_layout
-
-\begin_layout Enumerate
-It will be a good beaver.
-\end_layout
-
-\begin_layout Enumerate
-That isn't a white rock.
-\end_layout
-
-\begin_layout Enumerate
-It wasn't a red deer.
-\end_layout
-
-\begin_layout Enumerate
-Reportedly, it was not a good deer.
-\end_layout
-
-\begin_layout Enumerate
-Maybe it was a black wolf just now.
-\end_layout
-
-\begin_layout Enumerate
-Reportedly it was a black wolf.
-\end_layout
-
-\begin_layout Enumerate
-Just now it wasn't a good deer.
-\end_layout
-
-\begin_layout Enumerate
-Reportedly he wasn't a bad person a while ago.
-\end_layout
-
-\begin_layout Enumerate
-That is often a rabbit.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Oral Lesson
-\end_layout
-
-\begin_layout Standard
-Remember, the 
-\begin_inset Quotes eld
-\end_inset
-
-v
-\begin_inset Quotes erd
-\end_inset
-
- makes a sound like the (u) in r
-\bar under
-u
-\bar default
-ng and is always sounded through the nose.
- Also, don't forget to keep the tip of your tongue against the backside
- of your lower front teeth each time you speak any Cherokee word.
-\end_layout
-
-\begin_layout Enumerate
-Have your partner call out the Cherokee challenge from the following 
-\begin_inset Quotes eld
-\end_inset
-
-challenge and response
-\begin_inset Quotes erd
-\end_inset
-
- list.
- Repeat the Cherokee challenge and then try to give the correct English
+Write out each of the following Cherokee sentences followed by an English
  translation.
- (Only your partner should see the list.) (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-When you give a correct answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-vv
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-osda
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-If you give an incorrect answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-hla
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- and then give the correct answer.
- You should then repeat the correct answer that is given to you.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Switch roles with your partner and repeat the previous exercise.
- (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_layout Enumerate
-Have your partner call out the English challenge from the following 
-\begin_inset Quotes eld
-\end_inset
-
-challenge and response
-\begin_inset Quotes erd
-\end_inset
-
- list.
- Try and give the correct Cherokee translation.
- (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-When you give a correct answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-vv
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-osda
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Enumerate
-If you give an incorrect answer, your partner should respond with 
-\begin_inset Quotes eld
-\end_inset
-
-hla
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- and then give the correct answer.
- You should then repeat the correct answer that is given to you.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Switch roles with your partner and repeat the previous exercise.
- (Estimated time: 20 minutes.)
-\end_layout
-
-\begin_layout Paragraph
-Challenge and Response List
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Ꮎ jisdu nvyohi uhna.
-\begin_inset Newline newline
-\end_inset
-
-That rabbit is in a rocky place there.
-\end_layout
-
-\begin_layout Enumerate
-Doyaju uwodigei gesei?
-\begin_inset Newline newline
-\end_inset
-
-It was a brown beaver, wasn't it?
-\end_layout
-
-\begin_layout Enumerate
-Hla nvya yigesvi.
-\begin_inset Newline newline
-\end_inset
-
-It wasn't a rock.
-\end_layout
-
-\begin_layout Enumerate
-Saloli ᎤᏁᎦ gehvi.
-\begin_inset Newline newline
-\end_inset
-
-It was a white squirrel a while ago.
-\end_layout
-
-\begin_layout Enumerate
-Ꮎ hla ayvwi yiga.
- Ꮎ wahya.
-\begin_inset Newline newline
-\end_inset
-
-That is not a person.
- That is a wolf.
-\end_layout
-
-\begin_layout Enumerate
-Ajalagi osda gehei.
-\begin_inset Newline newline
-\end_inset
-
-It was a good Cherokee person a while ago, so I was told.
- 
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎭᏂ Entoni gesoi.
-\begin_inset Newline newline
-\end_inset
-
-Usually Anthony is here.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ Entoni gesoi.
-\begin_inset Newline newline
-\end_inset
-
-Anthony is often there.
-\end_layout
-
-\begin_layout Enumerate
-Hla doya ᎠᎬᎿᎨᎢ yigehei.
-\begin_inset Newline newline
-\end_inset
-
-Reportedly it wasn't a black beaver a while ago.
-\end_layout
-
-\begin_layout Enumerate
-Wahyas uwodigei gehei?
-\begin_inset Newline newline
-\end_inset
-
-Was it a brown wolf a while ago?
-\end_layout
-
-\begin_layout Enumerate
-Hla sadvdi yigesvi.
-\begin_inset Newline newline
-\end_inset
-
-It wasn't a trap.
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi yiga.
-\begin_inset Newline newline
-\end_inset
-
-It isn't a deer.
- 
-\end_layout
-
-\begin_layout Enumerate
-Wahya uyoi gesei.
-\begin_inset Newline newline
-\end_inset
-
-It was a bad wolf, so I was told.
-\end_layout
-
-\begin_layout Enumerate
-Hla saloli ᎠᎩᎦᎨ yigehvi.
-\begin_inset Newline newline
-\end_inset
-
-It wasn't a red squirrel a while ago.
-\end_layout
-
-\begin_layout Enumerate
-Hlaju saloli osda yigesoi?
-\begin_inset Newline newline
-\end_inset
-
-It isn't often a good squirrel, is it?
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Questions
-\end_layout
-
-\begin_layout Standard
-Write down each of the following statements and its accompanying questions
- as they appear.
- Go back and read the statements and their questions and then provide a
- written answer to each question.
- Write your answer in Cherokee.
- Simple one or two word answers are fine.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ sagwu ᎠᎬᎿᎨᎢ wahya gesei.
- Ꮎ wahya uyoi.
- ᎠᎭᏂ anijoi saloli.
- ᎯᎠ saloli anisakonigei.
- Ꮎ wahya hla ᎠᎭᏂ yigi.
- Ꮎ wahya ᎠᎭᏂ gesesdi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Anitaliju saloli?
-\end_layout
-
-\begin_layout Enumerate
-Uwodigeisgo wahya?
-\end_layout
-
-\begin_layout Enumerate
-Anijoiju saloli?
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ ᎠᎭᏂ gesesdi?
-\end_layout
-
-\begin_layout Enumerate
-Wahyas ᎤᎿ gesei?
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ ᎠᎭᏂ ᎢᎩ?
-\end_layout
-
-\begin_layout Enumerate
-Hadlv wahya gesei?
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ ᎠᎬᎿᎨᎢ?
-\end_layout
-
-\begin_layout Enumerate
-Hadlv saloli?
-\end_layout
-
-\begin_layout Enumerate
-Osdasgo wahya?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎤᎿ anitali unosda jisdu ᎢᎩ.
- Ꮎ jisdu junodigei.
- ᎠᎭᏂ anitali anidalonigei wahya.
- ᎠᎭᏂ sagwu saloli.
- ᎯᎠ wahya hla ᎤᎿ yigi.
- ᎯᎠ wahya ᎤᎿ gesesdi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Unosdaju jisdu?
-\end_layout
-
-\begin_layout Enumerate
-Anijois jisdu?
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani jisdu?
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani wahya?
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ junodigei?
-\end_layout
-
-\begin_layout Enumerate
-Hadlv wahya gesesdi?
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani saloli ᎠᎭᏂ?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎤᎿ nvyohi Gwagwaa.
- Sagwu ayvwi Gwagwaa.
- Sagwugwu ayvwi uyoi.
- Tali ᎢᎦ disadvdi ᎤᎿ.
- ᎠᎭᏂ Entoni.
- Entoni gasgilvi.
- Sagwu ayvwi Entoni.
- Sagwugwu ayvwi uyoi.
- Entoni ᎤᎿ nvyohi gesesdi.
- ᎤᎿ anitali gesesdi.
- Anitali aniyvwi unosda.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gadohv Entoni ᎤᎿ gesesdi?
-\end_layout
-
-\begin_layout Enumerate
-Gado usdi ᎠᎭᏂ? Gasgilo? Nvya? 
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani ᎤᎿ gesesdi?
-\end_layout
-
-\begin_layout Enumerate
-Gado usdi ᎤᎿ?
-\end_layout
-
-\begin_layout Enumerate
-Gado jusdi tali ᎢᎦ ᎤᎿ?
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Sudali iyani ᎤᏂᏁᎦ wahya ᎠᎭᏂ.
- ᎠᎭᏂ nvyohi.
- ᎤᎿ nvyohi.
- Joi ᎢᎦ nvya ᎤᎿ.
- Nvhgi ᎢᎦ nvya ᎠᎭᏂ.
- Anijoi junodigei saloli ᎤᎿ.
- Sagwu gasgilo ᎠᎭᏂ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado jusdi ᎤᎿ?
-\end_layout
-
-\begin_layout Enumerate
-Gado usdi ᎠᎭᏂ?
-\end_layout
-
-\begin_layout Enumerate
-Gado unsdi ᎠᎭᏂ?
-\end_layout
-
-\begin_layout Enumerate
-Sudaliju iyani ᎠᏂᎬᎿᎨᎢ wahya?
-\end_layout
-
-\begin_layout Enumerate
-Ahanisgo nvyohi?
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-Chapter Answers
-\end_layout
-
-\begin_layout Subsection
-Written
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into English.
-\end_layout
-
-\begin_layout Standard
-Where sentences have more than once possible translation list them all.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-It isn't a red rabbit.
- It wasn't a red rabbit just now.
-\end_layout
-
-\begin_layout Enumerate
-It wasn't a rabbit just now? It isn't a rabbit?
-\end_layout
-
-\begin_layout Enumerate
-Just now it wasn't a red deer.
- It isn't a red deer.
-\end_layout
-
-\begin_layout Enumerate
-Is it a chair? Was it a chair just now?
-\end_layout
-
-\begin_layout Enumerate
-Reportedly it wasn't a trap.
-\end_layout
-
-\begin_layout Enumerate
-Was it a chair a while ago? Was it a table a while ago?
-\end_layout
-
-\begin_layout Enumerate
-That wasn't a white rock a while ago.
-\end_layout
-
-\begin_layout Enumerate
-It isn't a trap.
- Just now it wasn't a trap.
-\end_layout
-
-\begin_layout Enumerate
-The English person will be at a rocky place.
-\end_layout
-
-\begin_layout Enumerate
-There wasn't a chair here a while ago, was there? There wasn't a table here
- a while ago, was there?
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into Cherokee.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Hla jisdu ᎠᎩᎦᎨ yiga.
-\end_layout
-
-\begin_layout Enumerate
-Ahwi uwodigei gehei.
-\end_layout
-
-\begin_layout Enumerate
-Hla jisdu ᎠᎩᎦᎨ yigesei.
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi osda yigesvi.
-\end_layout
-
-\begin_layout Enumerate
-Gasgilos gesei?
-\end_layout
-
-\begin_layout Enumerate
-Hla ayvwi uyoi yigesei.
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi ᎠᎩᎦᎨ yiga.
-\end_layout
-
-\begin_layout Enumerate
-Hla jisdu ᎠᎩᎦᎨ yigehei.
-\end_layout
-
-\begin_layout Enumerate
-Wahyas uyoi gesei?
-\end_layout
-
-\begin_layout Enumerate
-Doya ᎠᎩᎦᎨ gesoi.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into English.
-\end_layout
-
-\begin_layout Standard
-Where sentences have more than once possible translation list them all.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Maybe it is a black wolf.
-\end_layout
-
-\begin_layout Enumerate
-Usually it isn't a yellow beaver.
-\end_layout
-
-\begin_layout Enumerate
-There wasn't a chair here, was there? There wasn't a table here, was there?
-\end_layout
-
-\begin_layout Enumerate
-Maybe it is a chair or table? Maybe it just now was a chair or table?
-\end_layout
-
-\begin_layout Enumerate
-It was a black wolf.
-\end_layout
-
-\begin_layout Enumerate
-Anthony is often in a rocky place.
-\end_layout
-
-\begin_layout Enumerate
-It wasn't a trap.
-\end_layout
-
-\begin_layout Enumerate
-A beaver is not often here.
-\end_layout
-
-\begin_layout Enumerate
-Reportedly it was a brown deer.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Translate each of the following into Cherokee.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi osda yiga.
-\end_layout
-
-\begin_layout Enumerate
-Doya osda gesesdi.
-\end_layout
-
-\begin_layout Enumerate
-Ꮎ nvya vhla ᎤᏁᎦ yiga.
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi ᎠᎩᎦᎨ yigesvi.
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi osda yigesei.
-\end_layout
-
-\begin_layout Enumerate
-Wahya ᎠᎬᎿᎨᎢ yigi.
-\end_layout
-
-\begin_layout Enumerate
-Wahya ᎠᎬᎿᎨᎢ gesei.
-\end_layout
-
-\begin_layout Enumerate
-Hla ahwi osda yigi.
-\end_layout
-
-\begin_layout Enumerate
-Hla ayvwi uyoi yigehei.
-\end_layout
-
-\begin_layout Enumerate
-Ꮎ jisdu gesoi.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-Questions
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎿ sagwu ᎠᎬᎿᎨᎢ wahya gesei.
- Ꮎ wahya uyoi.
- ᎠᎭᏂ anijoi saloli.
- ᎯᎠ saloli anisakonigei.
- Ꮎ wahya hla ᎠᎭᏂ yigi.
- Ꮎ wahya ᎠᎭᏂ gesesdi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Anitaliju saloli? 
-\emph on
-Hla.
-\end_layout
-
-\begin_layout Enumerate
-Uwodigeisgo wahya? 
-\emph on
-Hla.
-\end_layout
-
-\begin_layout Enumerate
-Anijoiju saloli? 
-\emph on
-ᎥᎥ.
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ ᎠᎭᏂ gesesdi? 
-\emph on
-Ꮎ wahya.
-\end_layout
-
-\begin_layout Enumerate
-Wahyas ᎤᎿ gesei? 
-\emph on
-ᎥᎥ.
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ ᎠᎭᏂ ᎢᎩ? Anijoi saloli.
-\end_layout
-
-\begin_layout Enumerate
-Hadlv wahya gesei? 
-\emph on
-ᎤᎿ.
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ ᎠᎬᎿᎨᎢ? 
-\emph on
-Ꮎ sagwu wahya.
-\end_layout
-
-\begin_layout Enumerate
-Hadlv saloli? 
-\emph on
-ᎠᎭᏂ.
-\end_layout
-
-\begin_layout Enumerate
-Osdasgo wahya? 
-\emph on
-Hla.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎤᎿ anitali unosda jisdu ᎢᎩ.
- Ꮎ jisdu junodigei.
- ᎠᎭᏂ anitali anidalonigei wahya.
- ᎠᎭᏂ sagwu saloli.
- ᎯᎠ wahya hla ᎤᎿ yigi.
- ᎯᎠ wahya ᎤᎿ gesesdi.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Unosdaju jisdu? 
-\emph on
-ᎥᎥ.
-\end_layout
-
-\begin_layout Enumerate
-Anijois jisdu? 
-\emph on
-Hla.
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani jisdu? 
-\emph on
-Anitali.
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani wahya? 
-\emph on
-Anitali.
-\end_layout
-
-\begin_layout Enumerate
-ᎦᎪ junodigei? 
-\emph on
-Jisdu.
-\end_layout
-
-\begin_layout Enumerate
-Hadlv wahya gesesdi? 
-\emph on
-ᎤᎿ.
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani saloli ᎠᎭᏂ? 
-\emph on
-Sagwu.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎤᎿ nvyohi Gwagwaa.
- Sagwu ayvwi Gwagwaa.
- Sagwugwu ayvwi uyoi.
- Tali ᎢᎦ disadvdi ᎤᎿ.
- ᎠᎭᏂ Entoni.
- Entoni gasgilvi.
- Sagwu ayvwi Entoni.
- Sagwugwu ayvwi uyoi.
- Entoni ᎤᎿ nvyohi gesesdi.
- ᎤᎿ anitali gesesdi.
- Anitali aniyvwi unosda.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado usdi ᎠᎭᏂ? Gasgilo? Nvya? 
-\emph on
-Gasgilo.
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎳ iyani ᎤᎿ gesesdi? 
-\emph on
-Anitali.
-\end_layout
-
-\begin_layout Enumerate
-Gado usdi ᎤᎿ? 
-\emph on
-Nvya.
- Disadvdi.
-\end_layout
-
-\begin_layout Enumerate
-Gado jusdi tali ᎢᎦ ᎤᎿ? 
-\emph on
-Disadvdi.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Sudali iyani ᎤᏂᏁᎦ wahya ᎠᎭᏂ.
- ᎠᎭᏂ nvyohi.
- ᎤᎿ nvyohi.
- Joi ᎢᎦ nvya ᎤᎿ.
- Nvhgi ᎢᎦ nvya ᎠᎭᏂ.
- Anijoi junodigei saloli ᎤᎿ.
- Sagwu gasgilo ᎠᎭᏂ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Gado jusdi ᎤᎿ? 
-\emph on
-Joi ᎢᎦ nvya.
-\end_layout
-
-\begin_layout Enumerate
-Gado usdi ᎠᎭᏂ? 
-\emph on
-Sagwu gasgilo.
-\end_layout
-
-\begin_layout Enumerate
-Gado unsdi ᎠᎭᏂ? 
-\emph on
-Sudali wahya.
-\end_layout
-
-\begin_layout Enumerate
-Sudaliju iyani ᎠᏂᎬᎿᎨᎢ wahya? 
-\emph on
-Hla.
- Wahya ᎤᏂᏁᎦ.
-\end_layout
-
-\begin_layout Enumerate
-Ahanisgo nvyohi? 
-\emph on
-ᎥᎥ.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
+ Compare your answers to the answers in the ᎩᎵᏏ section.
 \end_layout
 
 \begin_layout Chapter
