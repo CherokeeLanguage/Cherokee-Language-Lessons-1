@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.157 $
+$Revision: 1.158 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 13:26:16 $ UTC
+$Date: 2016/06/19 13:27:12 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.157 $
+$Revision: 1.158 $
 \noun default
 .
 \end_layout
@@ -101616,7 +101616,7 @@ For
 
  words, when talking about multiple animate things, either the prefix ᎤᏂ-
  or ᏧᏂ- is added after removing the Ꭴ- or ᎤᏩ͓-.
- Which to use will be specified as part of your vocabulary.
+ Which to use for which word will be specified as part of your vocabulary.
 \end_layout
 
 \begin_layout Standard
@@ -103617,8 +103617,9 @@ Fifteenth Lesson
 \end_layout
 
 \begin_layout Standard
-Many Cherokee words for animals, plants, places and things do not change
- form when used in a plural sense.
+As demonstrated by your exercices in the previous chapters, many Cherokee
+ words for animals, plants, places and things do not change form when used
+ in a plural sense.
  They work like the English words 
 \begin_inset Quotes eld
 \end_inset
@@ -103646,7 +103647,76 @@ However, most Cherokee words used to describe something do change form to
 \end_layout
 
 \begin_layout Standard
-You will use one of the following four special prefixes.
+There are three special prefixes used:
+\end_layout
+
+\begin_layout Description
+ᎠᏂ- [ạni-] 
+\begin_inset Quotes eld
+\end_inset
+
+they-animate
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When talking about multiple animate things, the prefix ᎠᏂ- is added if the
+ word doesn't start with Ꭴ.
+ ☞
+\emph on
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+i
+\begin_inset Quotes erd
+\end_inset
+
+ sound is normally dropped if the word starts with a vowel.
+\end_layout
+
+\begin_layout Description
+ᎤᏂ-,
+\begin_inset space ~
+\end_inset
+
+ᏧᏂ- [uni-, juni-] 
+\begin_inset Quotes eld
+\end_inset
+
+they-animate
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭴ-
+\begin_inset Quotes erd
+\end_inset
+
+ words, when talking about multiple animate things, either the prefix ᎤᏂ-
+ or ᏧᏂ- is added after removing the Ꭴ- or ᎤᏩ͓-.
+ Which to use for which word will be specified as part of your vocabulary.
+ ☞
+\emph on
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+i
+\begin_inset Quotes erd
+\end_inset
+
+ sound is normally dropped if the word starts with a vowel.
 \end_layout
 
 \begin_layout Description
@@ -103654,14 +103724,15 @@ You will use one of the following four special prefixes.
 \begin_inset Quotes eld
 \end_inset
 
-they-not-animate
+they-inanimate
 \begin_inset Quotes erd
 \end_inset
 
- Used when the things being described are not animate or are dead.
- ☞
-\emph on
- Note that 
+
+\end_layout
+
+\begin_layout Standard
+When talking about multiple inanimate things, the prefix 
 \begin_inset Quotes eld
 \end_inset
 
@@ -103669,7 +103740,18 @@ they-not-animate
 \begin_inset Quotes erd
 \end_inset
 
- when combined with a word starting with 
+ is added.
+ ☞
+\emph on
+ When 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ is used with a word starting with 
 \begin_inset Quotes eld
 \end_inset
 
@@ -103701,94 +103783,52 @@ they-not-animate
 \begin_inset Quotes erd
 \end_inset
 
- becomes 
+ the two sounds combine together and become one of 
 \begin_inset Quotes eld
 \end_inset
 
-Ꮵ͓- (j-)
+Ꮴ-
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮶ-
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮷ-
+\begin_inset Quotes erd
+\end_inset
+
+, or 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮸ-
 \begin_inset Quotes erd
 \end_inset
 
 .
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎣᏍᏓ.
- 
+ When 
 \begin_inset Quotes eld
 \end_inset
 
-Good.
- It's Good.
+Ꮧ̣-
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Itemize
-ᏦᏍᏓ.
- 
+ is used on a word that starts with 
 \begin_inset Quotes eld
 \end_inset
 
-They-inanimate-good.
- They are good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏂ- [ạni-] 
-\begin_inset Quotes eld
-\end_inset
-
-they-animate
-\begin_inset Quotes erd
-\end_inset
-
- Used when the things being described are animate or alive.
- Used on words that don't start with 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭴ-
-\begin_inset Quotes erd
-\end_inset
-
-.
- ☞
-\emph on
- The 
-\begin_inset Quotes eld
-\end_inset
-
-i
-\begin_inset Quotes erd
-\end_inset
-
- sound is normally dropped if the word starts with a vowel.
-\end_layout
-
-\begin_layout Description
-ᎤᏂ- [uni-] 
-\begin_inset Quotes eld
-\end_inset
-
-they-animate
-\begin_inset Quotes erd
-\end_inset
-
- Used when the things being described are animate or alive.
- Used on words that start with 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭴ-
+Ꭰ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -103796,15 +103836,15 @@ they-animate
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᏩ͓- (uw-)
+Ꭲ-
 \begin_inset Quotes erd
 \end_inset
 
- by dropping the 
+, the 
 \begin_inset Quotes eld
 \end_inset
 
-Ꭴ-
+Ꭰ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -103812,60 +103852,19 @@ they-animate
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᏩ͓- (uw-)
+Ꭲ-
 \begin_inset Quotes erd
 \end_inset
 
- and then adding 
+ is dropped before 
 \begin_inset Quotes eld
 \end_inset
 
-ᎤᏂ-
+Ꮧ̣-
 \begin_inset Quotes erd
 \end_inset
 
-.
- ☞
-\emph on
- The 
-\begin_inset Quotes eld
-\end_inset
-
-i
-\begin_inset Quotes erd
-\end_inset
-
- sound is normally dropped if the word starts with a vowel.
-\end_layout
-
-\begin_layout Description
-ᏧᏂ- [juni-] 
-\begin_inset Quotes eld
-\end_inset
-
-they-animate
-\begin_inset Quotes erd
-\end_inset
-
- This is a combinaton of Ꮧ- and ᎤᏂ-.
- Some words use this 
-\begin_inset Quotes eld
-\end_inset
-
-doubled
-\begin_inset Quotes erd
-\end_inset
-
- plural marker instead of the regular plural marker 
-\begin_inset Quotes eld
-\end_inset
-
-ᎤᏂ-
-\begin_inset Quotes erd
-\end_inset
-
-.
- Such words are indicated as such in your vocabulary.
+ is added.
 \end_layout
 
 \begin_layout Standard
@@ -103912,7 +103911,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- A single Cherokee thing.
+ Somthing Cherokee - inanimate.
 \end_layout
 
 \begin_deeper
@@ -103924,8 +103923,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Cherokee.
- Only for an animate or a living thing.
+ Something Cherokee - animate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -103953,8 +103951,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Multiple Cherokee things.
- Only for animate or living things.
+ Cherokee things - animate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -103982,8 +103979,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Multiple Cherokee things.
- Used for inanimate or dead things.
+ Cherokee things - inanimate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -104012,7 +104008,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- A single good thing.
+ Something good - either animate or inanimate.
 \end_layout
 
 \begin_deeper
@@ -104024,8 +104020,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Multiple good things.
- Only for animate or living things.
+ Good things - animate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -104053,8 +104048,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Multiple good things.
- Used for inanimate or dead things.
+ Good things - inanimate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -104083,7 +104077,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- A single bad thing.
+ Something bad - either animate or inanimate.
 \end_layout
 
 \begin_deeper
@@ -104095,8 +104089,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Multiple bad things.
- Only for animate or living things.
+ Bad things - animate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -104124,8 +104117,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Multiple bad things.
- Used for inanimate or dead things.
+ Bad things - inanimate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -104154,7 +104146,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- A single brown thing.
+ Something brown - either animate or inanimate.
 \end_layout
 
 \begin_deeper
@@ -104162,12 +104154,11 @@ Review the following forms for
 \begin_inset Quotes eld
 \end_inset
 
-ᏧᏃᏗᎡᎢ.
+ᏧᏃᏗᎨᎢ.
 \begin_inset Quotes erd
 \end_inset
 
- Multiple brown things.
- Only for animate or living things.
+ Brown things - animate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -104195,8 +104186,7 @@ Review the following forms for
 \begin_inset Quotes erd
 \end_inset
 
- Multiple brown things.
- Used for inanimate or dead things.
+ Brown things - inanimate.
  (
 \begin_inset Quotes eld
 \end_inset
@@ -105213,8 +105203,9 @@ are
 \end_inset
 
 .
- Unlike other Cherokee verbs these are not used with bound pronouns.
- Take special note of the 
+ ☞ 
+\emph on
+Take special note of the 
 \begin_inset Quotes eld
 \end_inset
 
