@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.183 $
+$Revision: 1.184 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/20 03:38:11 $ UTC
+$Date: 2016/06/20 03:52:24 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.183 $
+$Revision: 1.184 $
 \noun default
 .
 \end_layout
@@ -104523,6 +104523,12 @@ raggedcolumns
 (ᏴᏫ) (ᎬᎿᎨᎢ) (ᎪᏪᎵ) ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+ᎠᏂᏴᏫ ᏗᎬᎿᎨ ᏗᎪᏪᎵ ᏓᏂᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 (ᎠᎨᏯ) (ᎤᏁᎦ) (ᏡᎬ) ᎠᎪᏩᏘᎭ.
 \end_layout
