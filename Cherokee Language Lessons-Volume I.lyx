@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.182 $
+$Revision: 1.183 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/20 03:31:13 $ UTC
+$Date: 2016/06/20 03:38:11 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.182 $
+$Revision: 1.183 $
 \noun default
 .
 \end_layout
@@ -104523,12 +104523,6 @@ raggedcolumns
 (ᏴᏫ) (ᎬᎿᎨᎢ) (ᎪᏪᎵ) ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
-\begin_deeper
-\begin_layout Enumerate
-ᎠᏂᏴᏫ ᏗᎬᎿᎨ ᏗᎪᏪᎵ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
 \begin_layout Enumerate
 (ᎠᎨᏯ) (ᎤᏁᎦ) (ᏡᎬ) ᎠᎪᏩᏘᎭ.
 \end_layout
@@ -104629,11 +104623,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-(ᎠᏍᎦᏯ) (ᎣᏓ) (ᏪᏌ) ᏓᏂᎪᏩᏘᎭ.
+(ᎠᏍᎦᏯ) (ᎣᏍᏓ) (ᏪᏌ) ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-(ᏣᎳᎩ) (ᎣᏓ) (ᏌᎶᎵ) ᏓᏂᎪᏩᏘᎭ.
+(ᏣᎳᎩ) (ᎣᏍᏓ) (ᏌᎶᎵ) ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -104945,7 +104939,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-(ᎠᎨᏳᏣ) (ᎣᏓ) (ᎠᎨᏳᏣ) ᏓᎪᏩᏘᎭ.
+(ᎠᎨᏳᏣ) (ᎣᏍᏓ) (ᎠᎨᏳᏣ) ᏓᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -105197,7 +105191,7 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-(ᎠᏍᎦᏯ) (ᎣᏓ) (ᏪᏌ) ᏓᏂᎪᏩᏘᎭ.
+(ᎠᏍᎦᏯ) (ᎣᏍᏓ) (ᏪᏌ) ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -105207,7 +105201,7 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-(ᏣᎳᎩ) (ᎣᏓ) (ᏌᎶᎵ) ᏓᏂᎪᏩᏘᎭ.
+(ᏣᎳᎩ) (ᎣᏍᏓ) (ᏌᎶᎵ) ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -105729,7 +105723,7 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-(ᎠᎨᏳᏣ) (ᎣᏓ) (ᎠᎨᏳᏣ) ᏓᎪᏩᏘᎭ.
+(ᎠᎨᏳᏣ) (ᎣᏍᏓ) (ᎠᎨᏳᏣ) ᏓᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
