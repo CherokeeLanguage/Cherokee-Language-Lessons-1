@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.180 $
+$Revision: 1.181 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/19 22:10:12 $ UTC
+$Date: 2016/06/20 03:29:40 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.180 $
+$Revision: 1.181 $
 \noun default
 .
 \end_layout
@@ -104581,6 +104581,7 @@ Write out each of the following Cherokee sentences with the correct word
 
 .
  Compare your answers to the answers in the next section.
+ The first one has been done as an example.
  ☞ 
 \emph on
 Many times a trailing 
@@ -104638,6 +104639,12 @@ raggedcolumns
 (ᏴᏫ) (ᎬᎿᎨᎢ) (ᎪᏪᎵ) ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+ᎠᏂᏴᏫ ᏗᎬᎿᎨ ᏗᎪᏪᎵ ᏓᏂᎪᏩᏘᎭ.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 (ᎠᎨᏯ) (ᎤᏁᎦ) (ᏡᎬ) ᎠᎪᏩᏘᎭ.
 \end_layout
