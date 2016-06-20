@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.181 $
+$Revision: 1.182 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/20 03:29:40 $ UTC
+$Date: 2016/06/20 03:31:13 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.181 $
+$Revision: 1.182 $
 \noun default
 .
 \end_layout
@@ -104450,122 +104450,6 @@ Brown potatoes.
 
 \end_deeper
 \begin_layout Section
-ᏘᎪᎵᏯ (Read them)
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᏯᏂ [ị²yạ³ni] 
-\begin_inset Quotes eld
-\end_inset
-
-Count of animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᎦ [i²³ga⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Count of inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᏍᎩᎶ [ga²sgị²lo] 
-\begin_inset Quotes eld
-\end_inset
-
-A table or a chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo] 
-\begin_inset Quotes eld
-\end_inset
-
-Tables.
- Chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏍᎩᎸᎢ [ga²sgị²lv⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-On a chair or on a table.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-When indicating quantities some speakers add “ᎢᏯᏂ” after the number for
- living things and “ᎢᎦ” after the number for non-living things.
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-If unclear, assume objects go on tables and people sit on chairs.
-\end_layout
-
-\begin_layout Section
 ᏙᏪᎸᎦ (Write them)
 \end_layout
 
@@ -108059,6 +107943,118 @@ If Anthony will be here, I will be here.
 
 \begin_layout Section
 ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏯᏂ [ị²yạ³ni] 
+\begin_inset Quotes eld
+\end_inset
+
+Count of animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᎦ [i²³ga⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Count of inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏍᎩᎶ [ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+A table or a chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+Tables.
+ Chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏍᎩᎸᎢ [ga²sgị²lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+On a chair or on a table.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+When indicating quantities some speakers add “ᎢᏯᏂ” after the number for
+ living things and “ᎢᎦ” after the number for non-living things.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+If unclear, assume objects go on tables and people sit on chairs.
 \end_layout
 
 \begin_layout Section
