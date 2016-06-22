@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.193 $
+$Revision: 1.194 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/22 02:39:24 $ UTC
+$Date: 2016/06/22 11:54:23 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.193 $
+$Revision: 1.194 $
 \noun default
 .
 \end_layout
@@ -107345,11 +107345,11 @@ You're a dog! You dog!
 
 \end_deeper
 \begin_layout Itemize
-ᏩᎭᏯ 
+ᎠᏂᏩᏯ 
 \begin_inset Quotes eld
 \end_inset
 
-A wolf.
+The wolf clan.
 \begin_inset Quotes erd
 \end_inset
 
@@ -107358,37 +107358,11 @@ A wolf.
 
 \begin_deeper
 \begin_layout Itemize
-ᏥᏩᎭᏯ 
+ᎠᏩᏯ 
 \begin_inset Quotes eld
 \end_inset
 
-I'm a wolf.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᏫ 
-\begin_inset Quotes eld
-\end_inset
-
-A deer.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎠᏂᎠᏫ 
-\begin_inset Quotes eld
-\end_inset
-
-The deer clan.
+A member of the wolf clan.
 \begin_inset Quotes erd
 \end_inset
 
@@ -107412,13 +107386,21 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Itemize
-They provide the same information that the English pronouns such as “I”,
- “he”, “she” do.
+\begin_layout Standard
+
+\emph on
+Bound Pronouns
+\emph default
+:
 \end_layout
 
 \begin_layout Itemize
-There are four main groups: 
+Provide the same information that the English pronouns such as “I”, “he”,
+ “she” do.
+\end_layout
+
+\begin_layout Itemize
+Are in four main groups: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107454,7 +107436,7 @@ Object Focus
 \end_layout
 
 \begin_layout Itemize
-They are always 
+Are always 
 \emph on
 bound
 \emph default
@@ -107466,26 +107448,26 @@ This means they are only used as parts of words.
 \end_layout
 
 \begin_layout Itemize
-They indicate a paired relationship between both who or what is doing something
+Indicate a paired relationship between both who or what is doing something
  (referred to as a sentence's subject) and to whom or what the something
  is being done (referred to as a sentence's object).
 \end_layout
 
 \begin_layout Itemize
-They specify to whom or what a descriptive word, such as a color, applies.
+Specify to whom or what a descriptive word, such as a color, applies.
 \end_layout
 
 \begin_layout Itemize
-Many words 
+Are required on many words.
+ Such words 
 \emph on
 must
 \emph default
  be prefixed with a bound pronoun.
- If you try and remove the bound pronoun, what is left will be without meaning.
 \end_layout
 
 \begin_layout Standard
-The following table shows the first of 
+The following shows the first of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107501,15 +107483,11 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- bound pronouns you will practice.
+ bound pronouns you will be using.
 \end_layout
 
 \begin_layout Standard
-The following table has three columns.
-\end_layout
-
-\begin_layout Standard
-The first column of the table refers to a 
+Each entry shows a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107517,17 +107495,7 @@ Pairing
 \begin_inset Quotes erd
 \end_inset
 
-.
- This is the paired relationship and animacy the prefixes stand for.
- For example, if I say 
-\begin_inset Quotes eld
-\end_inset
-
-I see it (something not animate).
-\begin_inset Quotes erd
-\end_inset
-
-, for a 
+, a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107535,32 +107503,36 @@ Set A
 \begin_inset Quotes erd
 \end_inset
 
- word I would use the 
+ prefix, and a 
 \begin_inset Quotes eld
 \end_inset
 
-Ꮵ̣-
+Set B
 \begin_inset Quotes erd
 \end_inset
 
  prefix.
- If I am saying 
+\end_layout
+
+\begin_layout Standard
+A 
 \begin_inset Quotes eld
 \end_inset
 
-I see her (something animate).
+Pairing
 \begin_inset Quotes erd
 \end_inset
 
-, for a 
+ is the paired relationship and animacy each prefix stand for.
+ For example, if I want to say 
 \begin_inset Quotes eld
 \end_inset
 
-Set A
+I see him
 \begin_inset Quotes erd
 \end_inset
 
- word I would use the 
+ I would use the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107569,10 +107541,26 @@ Set A
 \end_inset
 
  prefix.
+ If I want to say 
+\begin_inset Quotes eld
+\end_inset
+
+You see him
+\begin_inset Quotes erd
+\end_inset
+
+ I would use the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭿ-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix.
 \end_layout
 
 \begin_layout Standard
-The 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107580,7 +107568,7 @@ Set A
 \begin_inset Quotes erd
 \end_inset
 
- column contains those prefixes used on 
+ prefixes used on 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107589,7 +107577,7 @@ Set A
 \end_inset
 
  words.
- The 
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107597,7 +107585,7 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- column contains those prefixes used on 
+ prefixes are used on 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107623,11 +107611,20 @@ Set B
 \end_inset
 
  word is simple.
- If the word starts 
+ If the word uses 
 \begin_inset Quotes eld
 \end_inset
 
 Ꭴ-
+\begin_inset Quotes erd
+\end_inset
+
+ for 
+\begin_inset Quotes eld
+\end_inset
+
+he\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -107694,8 +107691,7 @@ Pairing
 \begin_inset Quotes erd
 \end_inset
 
- column in the following table, the bound pronoun is only used with animate
- objects.
+ entry, the bound pronoun is only used with animate objects.
  Where you see 
 \begin_inset Quotes eld
 \end_inset
@@ -107718,376 +107714,430 @@ Pairing
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="10" columns="3">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="0pt">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Pairing
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- Prefix
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- Prefix
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- it (in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꮵ̣-, Ꭶ͓ (jị-, g-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓ (ạgị-, ạgw-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- he (an.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꮵ-, ᏥᏯ͓- (ji-, jiy-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꮵ-, ᏥᏯ͓- (ji-, jiy-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-He (an.) \SpecialChar \ldots{}
- me.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓ (ạgị-, ạgw-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓ (ạgị-, ạgw-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- it (in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭿ̣- (hị-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꮳ̣- (jạ-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- he (an.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭿ-, ᎯᏯ͓ (hi-, hiy-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭿ-, ᎯᏯ͓ (hi-, hiy-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-He (an.) \SpecialChar \ldots{}
- you (one).
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꮳ̣- (jạ-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꮳ̣- (jạ-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-He \SpecialChar \ldots{}
- he or it (an.+in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭰ̣-, Ꭶ͓-, Ꭶ̣- (ạ-, g-, gạ-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭴ- Ꭴ̣Ꮹ͓- (u-, ụw-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-They \SpecialChar \ldots{}
- he (an.+in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Ꭰ̣Ꮒ- (ạni-)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ᎤᏂ- (uni-)
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell multicolumn="1" alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
+☞ 
 \emph on
-Abbreviations: (in.): inanimate, (an.): animate.
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
+Many of these you have already practiced.
 \end_layout
 
 \begin_layout Standard
-You will notice that the table indicates short vs long vowels.
- These cadence changes are important as they indicate whether the speaker
- is referring to an animate or inanimate object.
 
-\emph on
- 
-\emph default
-☞ 
-\emph on
-As a general rule of thumb, you will not find vowels lengths marked.
- You will need to use context to determine whether you should use a long
- 
-\begin_inset Quotes eld
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
 \end_inset
 
-i
-\begin_inset Quotes erd
+
+\end_layout
+
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ him
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ it
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮵ̣-, Ꭶ-͓ (jị-, g-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ-͓ (ạ²gị-, ạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ them (an.) 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²jiy-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ them (in.) 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᏥ-, ᏕᎦ-͓ (ga²ji-, g-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He \SpecialChar \ldots{}
+ me.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+\end_layout
+
+\begin_layout Itemize
+Set B: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}
+\end_layout
+
 \end_inset
 
- or a short 
-\begin_inset Quotes eld
+
+\end_layout
+
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ him
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ it
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꭿ̣- (hị-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮳ̣- (jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ them (an.) 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ them (in.) 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᎯ̣- (de²hị-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᏕᏣ̣- (de²jạ-) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He \SpecialChar \ldots{}
+ you.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮳ̣ (jạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮳ̣ (jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}
+\end_layout
+
 \end_inset
 
-ị
-\begin_inset Quotes erd
+
+\end_layout
+
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He ...
+ he or it (an.+in.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭰ̣-, Ꭶ̣- (ạ-, gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They ...
+ he or it (an.+in.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭰ̣Ꮒ- (ạ²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᎤᏂ- (u¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
 \end_inset
 
- to indicate proper animacy.
+
 \end_layout
 
 \begin_layout Standard
 
 \noun on
-Special Pronunciation Note: 
+☞ 
+\emph on
 \noun default
 When 
 \begin_inset Quotes eld
 \end_inset
 
-agi-
+ᎠᎩ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -108095,11 +108145,11 @@ agi-
 \begin_inset Quotes eld
 \end_inset
 
-ja-
+Ꮳ-
 \begin_inset Quotes erd
 \end_inset
 
- are immediately followed by one of the sounds of 
+ is immediately followed by one of the sounds of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108143,57 +108193,21 @@ ts-
 \end_layout
 
 \begin_layout Standard
-You should recognize 
+☞ 
+\emph on
+The bound pronouns 
 \begin_inset Quotes eld
 \end_inset
 
-a-
+ᎠᎩ-
 \begin_inset Quotes erd
 \end_inset
 
-, 
+ and 
 \begin_inset Quotes eld
 \end_inset
 
-ani-
-\begin_inset Quotes erd
-\end_inset
-
-, and 
-\begin_inset Quotes eld
-\end_inset
-
-uni-
-\begin_inset Quotes erd
-\end_inset
-
- from the previous discussion on how descriptions are modified to reflect
- animacy and quantity.
- These are the same prefixes.
-\end_layout
-
-\begin_layout Standard
-You will also note that the bound pronouns 
-\begin_inset Quotes eld
-\end_inset
-
-agi-
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-agw-
-\begin_inset Quotes erd
-\end_inset
-
-, and 
-\begin_inset Quotes eld
-\end_inset
-
-ja-
+Ꮳ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -108208,12 +108222,12 @@ When making a negative sentence with the
 \begin_inset Quotes eld
 \end_inset
 
-hla \SpecialChar \ldots{}
- yi-
+Ꮭ \SpecialChar \ldots{}
+ Ᏹ-
 \begin_inset Quotes erd
 \end_inset
 
- combination, there are two pronunciation rules you now need to know:
+ combination, there are two pronunciation rules you need to know:
 \end_layout
 
 \begin_layout Itemize
@@ -108221,7 +108235,7 @@ If
 \begin_inset Quotes eld
 \end_inset
 
-yi-
+Ᏹ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -108237,7 +108251,7 @@ h-
 \begin_inset Quotes eld
 \end_inset
 
-yi-
+Ᏹ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -108265,7 +108279,7 @@ If
 \begin_inset Quotes eld
 \end_inset
 
-yi-
+Ᏹ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -108281,7 +108295,7 @@ w
 \begin_inset Quotes eld
 \end_inset
 
-yi-
+Ᏹ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -108289,21 +108303,19 @@ yi-
 \begin_inset Quotes eld
 \end_inset
 
-yu-
+Ᏻ-
 \begin_inset Quotes erd
 \end_inset
 
 .
 \end_layout
 
-\begin_deeper
 \begin_layout Standard
-
+☞ 
 \emph on
-These pronunciation rules are demonstrated in your practice exercises.
+These pronunciation rules are part of your exercises.
 \end_layout
 
-\end_deeper
 \begin_layout Subsubsection
 Practice Exercise
 \end_layout
