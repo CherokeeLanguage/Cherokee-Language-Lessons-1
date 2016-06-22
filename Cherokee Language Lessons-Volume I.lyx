@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.197 $
+$Revision: 1.198 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/22 12:48:24 $ UTC
+$Date: 2016/06/22 12:51:32 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.197 $
+$Revision: 1.198 $
 \noun default
 .
 \end_layout
@@ -107761,11 +107761,11 @@ I \SpecialChar \ldots{}
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꮵ̣-, Ꭶ-͓ (jị-, g-) 
+Set A: Ꮵ̣-, Ꭶ͓- (jị-, g-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ-͓ (ạ²gị-, ạ²gw-)
+Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
 \end_layout
 
 \end_deeper
@@ -107791,7 +107791,7 @@ I \SpecialChar \ldots{}
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᏕᏥ-, ᏕᎦ-͓ (ga²ji-, g-) 
+Set A: ᏕᏥ-, ᏕᎦ͓- (ga²ji-, g-) 
 \end_layout
 
 \begin_layout Itemize
@@ -107867,7 +107867,7 @@ Set B:
 \noun off
 \color none
 \lang english
-He ...
+He \SpecialChar \ldots{}
  he or it (an.+in.)
 \end_layout
 
@@ -107904,6 +107904,60 @@ Set B:
 \color none
 \lang english
  Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He \SpecialChar \ldots{}
+ them (an.+in.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣-, ᏕᎦ̣- (dạ-, de²gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-)
 \end_layout
 
 \end_deeper
@@ -108053,7 +108107,7 @@ Set B:
 \noun off
 \color none
 \lang english
-They ...
+They \SpecialChar \ldots{}
  he or it (an.+in.)
 \end_layout
 
@@ -108090,6 +108144,60 @@ Set B:
 \color none
 \lang english
  ᎤᏂ- (u¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They \SpecialChar \ldots{}
+ them (an.+in.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣Ꮒ- (dạ²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᏚᏂ- (du¹ni-)
 \end_layout
 
 \end_deeper
@@ -108198,6 +108306,10 @@ The bound pronouns
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
 ⚠ 
 \emph on
 When making a negative sentence with the 
@@ -108292,7 +108404,7 @@ w
 .
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 ☞ 
 \emph on
 These pronunciation rules are part of your exercises.
@@ -108302,11 +108414,11 @@ These pronunciation rules are part of your exercises.
 Practice Exercise
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 This exercise set uses the following words:
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang english
 \begin_inset ERT
@@ -108526,7 +108638,7 @@ They want him/her/it.
 Something animate or inanimate.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang english
 \begin_inset ERT
@@ -108548,7 +108660,7 @@ end{multicols}
 Written
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 For each of the following, write down the Cherokee word, then after the
  Cherokee word write down the prefix found on the word followed by its 
 \begin_inset Quotes eld
@@ -108576,13 +108688,13 @@ For this practice to work, you must cover up your answers as you do them.
  When done, compare your answers to the answers in the next section.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Note: Short vowels are not marked in the following exercise.
  Indicate where the vowel length changes animacy.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -108763,7 +108875,7 @@ Uduliha.
 Anigowhtiha.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -108783,7 +108895,7 @@ end{multicols}
 Answers
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -109563,7 +109675,7 @@ They \SpecialChar \ldots{}
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -109590,7 +109702,7 @@ name "sub:Choosing-the-correct"
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 When learning a new word that uses bound pronouns, you need to know if it
  is a 
 \begin_inset Quotes eld
@@ -109691,7 +109803,7 @@ Set A
  word.
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Examples:
 \end_layout
 
@@ -109897,7 +110009,7 @@ Set B
 Using the bound pronouns
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 In the vocabulary accompanying these lessons, you are given the 
 \begin_inset Quotes eld
 \end_inset
@@ -109952,7 +110064,7 @@ I see him/her.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -110330,7 +110442,7 @@ I want it.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -110864,7 +110976,7 @@ he or she
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -111267,7 +111379,7 @@ I am possessive of it.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -111714,7 +111826,7 @@ It is blue
 .
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -111907,7 +112019,7 @@ They are blue.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -111949,7 +112061,7 @@ He, she or it is bad
 .
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -112156,7 +112268,7 @@ They're bad.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -112182,7 +112294,7 @@ uyoi
 ᏘᎪᎵᏯ (Read them)
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang english
 \begin_inset ERT
@@ -112275,7 +112387,7 @@ Plural.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -112291,7 +112403,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 \noindent
 \align center
 \begin_inset Tabular
@@ -112621,7 +112733,7 @@ Abbreviations: (in.): inanimate, (an.): animate.
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang english
 \begin_inset ERT
@@ -112740,7 +112852,7 @@ Plural.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -112749,6 +112861,11 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
