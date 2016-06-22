@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.200 $
+$Revision: 1.201 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/22 17:17:29 $ UTC
+$Date: 2016/06/22 23:20:55 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.200 $
+$Revision: 1.201 $
 \noun default
 .
 \end_layout
@@ -107139,7 +107139,7 @@ status open
 
 
 \backslash
-breakcolumn{}
+columnbreak{}
 \end_layout
 
 \end_inset
@@ -107402,11 +107402,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\emph on
-Bound Pronouns
-\emph default
-:
+Bound Pronouns:
 \end_layout
 
 \begin_layout Itemize
@@ -107498,7 +107494,7 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- bound pronouns you will be using.
+ bound pronouns you will be practicing.
 \end_layout
 
 \begin_layout Standard
