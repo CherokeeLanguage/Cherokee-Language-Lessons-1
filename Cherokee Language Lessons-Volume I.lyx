@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.192 $
+$Revision: 1.193 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/22 01:59:31 $ UTC
+$Date: 2016/06/22 02:39:24 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.192 $
+$Revision: 1.193 $
 \noun default
 .
 \end_layout
@@ -106348,13 +106348,13 @@ Seventeenth Lesson
 \end_layout
 
 \begin_layout Standard
-Each of the action words that you have learned are composed of two main
- parts.
+Each of the action words that you have learned so far are composed of two
+ main parts.
  A base word which indicates 
 \begin_inset Quotes eld
 \end_inset
 
-the action
+an action
 \begin_inset Quotes erd
 \end_inset
 
@@ -106367,15 +106367,8 @@ who and whom
 \end_inset
 
 .
- The following list shows this information for the various forms of 
-\begin_inset Quotes eld
-\end_inset
-
-sees
-\begin_inset Quotes erd
-\end_inset
-
- you have learned so far.
+ The following list shows this information for the forms of ᎠᎪᏩᏘᎭ you have
+ been using.
 \end_layout
 
 \begin_layout Standard
@@ -107425,7 +107418,7 @@ They provide the same information that the English pronouns such as “I”,
 \end_layout
 
 \begin_layout Itemize
-There are four main groups of bound pronouns: 
+There are four main groups: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107508,7 +107501,7 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- bound pronouns you will learn.
+ bound pronouns you will practice.
 \end_layout
 
 \begin_layout Standard
@@ -107546,7 +107539,7 @@ Set A
 \begin_inset Quotes eld
 \end_inset
 
-jị-
+Ꮵ̣-
 \begin_inset Quotes erd
 \end_inset
 
@@ -107571,7 +107564,7 @@ Set A
 \begin_inset Quotes eld
 \end_inset
 
-ji-
+Ꮵ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -107629,11 +107622,56 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- word is explained in Section 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sub:Choosing-the-correct"
+ word is simple.
+ If the word starts 
+\begin_inset Quotes eld
+\end_inset
 
+Ꭴ-
+\begin_inset Quotes erd
+\end_inset
+
+ it is a 
+\begin_inset Quotes eld
+\end_inset
+
+Set B
+\begin_inset Quotes erd
+\end_inset
+
+ word, otherwise it is a set 
+\begin_inset Quotes eld
+\end_inset
+
+Set A
+\begin_inset Quotes erd
+\end_inset
+
+ word.
+ Think of it like this.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Set B
+\begin_inset Quotes erd
+\end_inset
+
+ is the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭴ-
+\begin_inset Quotes erd
+\end_inset
+
+ group.
+ Everything else goes into 
+\begin_inset Quotes eld
+\end_inset
+
+Set A
+\begin_inset Quotes erd
 \end_inset
 
 .
@@ -107737,7 +107775,7 @@ Set B
 
 \begin_layout Plain Layout
 I \SpecialChar \ldots{}
- another (in.)
+ it (in.)
 \end_layout
 
 \end_inset
@@ -107746,7 +107784,7 @@ I \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-jị-, g-
+Ꮵ̣-, Ꭶ͓ (jị-, g-)
 \end_layout
 
 \end_inset
@@ -107755,7 +107793,7 @@ jị-, g-
 \begin_inset Text
 
 \begin_layout Plain Layout
-ạgị-, ạgw-
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓ (ạgị-, ạgw-)
 \end_layout
 
 \end_inset
@@ -107767,7 +107805,7 @@ jị-, g-
 
 \begin_layout Plain Layout
 I \SpecialChar \ldots{}
- another (an.)
+ he (an.)
 \end_layout
 
 \end_inset
@@ -107776,7 +107814,7 @@ I \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-ji-, jiy-
+Ꮵ-, ᏥᏯ͓- (ji-, jiy-)
 \end_layout
 
 \end_inset
@@ -107785,7 +107823,7 @@ ji-, jiy-
 \begin_inset Text
 
 \begin_layout Plain Layout
-ji-, jiy-
+Ꮵ-, ᏥᏯ͓- (ji-, jiy-)
 \end_layout
 
 \end_inset
@@ -107796,7 +107834,7 @@ ji-, jiy-
 \begin_inset Text
 
 \begin_layout Plain Layout
-Another (an.) \SpecialChar \ldots{}
+He (an.) \SpecialChar \ldots{}
  me.
 \end_layout
 
@@ -107806,7 +107844,7 @@ Another (an.) \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-ạgị-, ạgw-
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓ (ạgị-, ạgw-)
 \end_layout
 
 \end_inset
@@ -107815,7 +107853,7 @@ Another (an.) \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-ạgị-, ạgw-
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓ (ạgị-, ạgw-)
 \end_layout
 
 \end_inset
@@ -107827,7 +107865,7 @@ Another (an.) \SpecialChar \ldots{}
 
 \begin_layout Plain Layout
 You (one) \SpecialChar \ldots{}
- another (in.)
+ it (in.)
 \end_layout
 
 \end_inset
@@ -107836,7 +107874,7 @@ You (one) \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-hị-
+Ꭿ̣- (hị-)
 \end_layout
 
 \end_inset
@@ -107845,7 +107883,7 @@ hị-
 \begin_inset Text
 
 \begin_layout Plain Layout
-jạ-
+Ꮳ̣- (jạ-)
 \end_layout
 
 \end_inset
@@ -107857,7 +107895,7 @@ jạ-
 
 \begin_layout Plain Layout
 You (one) \SpecialChar \ldots{}
- another (an.)
+ he (an.)
 \end_layout
 
 \end_inset
@@ -107866,7 +107904,7 @@ You (one) \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-hi-, hiy-
+Ꭿ-, ᎯᏯ͓ (hi-, hiy-)
 \end_layout
 
 \end_inset
@@ -107875,7 +107913,7 @@ hi-, hiy-
 \begin_inset Text
 
 \begin_layout Plain Layout
-hi-, hiy-
+Ꭿ-, ᎯᏯ͓ (hi-, hiy-)
 \end_layout
 
 \end_inset
@@ -107886,7 +107924,7 @@ hi-, hiy-
 \begin_inset Text
 
 \begin_layout Plain Layout
-Another (an.) \SpecialChar \ldots{}
+He (an.) \SpecialChar \ldots{}
  you (one).
 \end_layout
 
@@ -107896,7 +107934,7 @@ Another (an.) \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-jạ-
+Ꮳ̣- (jạ-)
 \end_layout
 
 \end_inset
@@ -107905,7 +107943,7 @@ jạ-
 \begin_inset Text
 
 \begin_layout Plain Layout
-jạ-
+Ꮳ̣- (jạ-)
 \end_layout
 
 \end_inset
@@ -107916,8 +107954,8 @@ jạ-
 \begin_inset Text
 
 \begin_layout Plain Layout
-Another \SpecialChar \ldots{}
- another (an.+in.)
+He \SpecialChar \ldots{}
+ he or it (an.+in.)
 \end_layout
 
 \end_inset
@@ -107926,7 +107964,7 @@ Another \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-ạ-, g-, gạ-
+Ꭰ̣-, Ꭶ͓-, Ꭶ̣- (ạ-, g-, gạ-)
 \end_layout
 
 \end_inset
@@ -107935,7 +107973,7 @@ Another \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-u-, ụw-
+Ꭴ- Ꭴ̣Ꮹ͓- (u-, ụw-)
 \end_layout
 
 \end_inset
@@ -107947,7 +107985,7 @@ u-, ụw-
 
 \begin_layout Plain Layout
 They \SpecialChar \ldots{}
- another (an.+in.)
+ he (an.+in.)
 \end_layout
 
 \end_inset
@@ -107956,7 +107994,7 @@ They \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-ạni-
+Ꭰ̣Ꮒ- (ạni-)
 \end_layout
 
 \end_inset
@@ -107965,7 +108003,7 @@ They \SpecialChar \ldots{}
 \begin_inset Text
 
 \begin_layout Plain Layout
-uni-
+ᎤᏂ- (uni-)
 \end_layout
 
 \end_inset
