@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.191 $
+$Revision: 1.192 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/21 23:39:09 $ UTC
+$Date: 2016/06/22 01:59:31 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.191 $
+$Revision: 1.192 $
 \noun default
 .
 \end_layout
@@ -106348,7 +106348,8 @@ Seventeenth Lesson
 \end_layout
 
 \begin_layout Standard
-Each of the action words that you have learned is composed of two main parts.
+Each of the action words that you have learned are composed of two main
+ parts.
  A base word which indicates 
 \begin_inset Quotes eld
 \end_inset
@@ -106366,7 +106367,7 @@ who and whom
 \end_inset
 
 .
- The following list shows this information for the various words for 
+ The following list shows this information for the various forms of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107418,13 +107419,9 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Subsection
-Bound Pronouns
-\end_layout
-
-\begin_layout Standard
-Cherokee pronouns operate quite differently than the English pronouns such
- as “I”, “you”, “he”, “she”, “it”, “we”, and “they”.
+\begin_layout Itemize
+They provide the same information that the English pronouns such as “I”,
+ “he”, “she” do.
 \end_layout
 
 \begin_layout Itemize
@@ -107464,83 +107461,27 @@ Object Focus
 \end_layout
 
 \begin_layout Itemize
-These pronouns are always 
+They are always 
 \emph on
 bound
 \emph default
- to the beginning of a word.
- This is why they are called 
-\begin_inset Quotes eld
-\end_inset
-
-bound pronouns
-\begin_inset Quotes erd
-\end_inset
-
- and not just 
-\begin_inset Quotes eld
-\end_inset
-
-pronouns
-\begin_inset Quotes erd
-\end_inset
-
-.
+ to a word.
+ ☞ 
+\emph on
+This means they are only used as parts of words.
+ They are never used by themselves.
 \end_layout
 
 \begin_layout Itemize
-They are used to:
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Indicate a paired relationship between both who or what is doing something
+They indicate a paired relationship between both who or what is doing something
  (referred to as a sentence's subject) and to whom or what the something
  is being done (referred to as a sentence's object).
- This is represented in the following table by entries like 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- another
-\begin_inset Quotes erd
-\end_inset
-
-, where the first part, 
-\begin_inset Quotes eld
-\end_inset
-
-I
-\begin_inset Quotes erd
-\end_inset
-
- in this case, is the subject, and the part after the 
-\begin_inset Quotes eld
-\end_inset
-
-\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-another
-\begin_inset Quotes erd
-\end_inset
-
- in this case, is the object.
- How this works in practice will be demonstrated by examples later in this
- lesson.
 \end_layout
 
 \begin_layout Itemize
-Specify to whom or what a descriptive word, such as a color, applies.
+They specify to whom or what a descriptive word, such as a color, applies.
 \end_layout
 
-\end_deeper
 \begin_layout Itemize
 Many words 
 \emph on
@@ -107551,7 +107492,7 @@ must
 \end_layout
 
 \begin_layout Standard
-The following table shows the first 
+The following table shows the first of 
 \begin_inset Quotes eld
 \end_inset
 
