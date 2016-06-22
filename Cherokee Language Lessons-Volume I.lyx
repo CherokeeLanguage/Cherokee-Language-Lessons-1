@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.199 $
+$Revision: 1.200 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/22 13:24:56 $ UTC
+$Date: 2016/06/22 17:17:29 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.199 $
+$Revision: 1.200 $
 \noun default
 .
 \end_layout
@@ -86212,7 +86212,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -86954,7 +86954,7 @@ You see them.
 
 \end_deeper
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
+ᎠᏂᏍᎦᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -104934,7 +104934,7 @@ Fix the bad grammar
 Write out each of the following Cherokee sentences with the correct word
  forms substituted for the incorrect word forms.
  Compare your answers to the answers in the next section.
- The first three haves been done as examples.
+ The first three have been done as examples.
  ☞ 
 \emph on
 Many times a trailing 
@@ -107131,6 +107131,22 @@ You're Cherokee.
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+breakcolumn{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Itemize
 ᎩᎦᎨᎢ 
 \begin_inset Quotes eld
@@ -107201,7 +107217,6 @@ Black.
 \end_inset
 
 He's black.
- A black person.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108302,13 +108317,291 @@ The bound pronouns
 \end_inset
 
  have more than one possible meaning depending on context.
- How this works is shown by example shortly.
+\end_layout
+
+\begin_layout Section
+ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎩᎪᏩᏘᎭ [ạ²gị²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He sees me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᎪᏩᏘᎭ [jạ²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He sees you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᏯᏚᎵᎭ [ji²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏥᏯᏚᎵᎭ [ga²ji²yạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏓᏆᏚᎵᎭ [da¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants him or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᏚᎵᎭ [du¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᏯᏚᎵᎭ [hi²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᏚᎵᎭ [jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᏚᎵᎭ [jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎯᏯᏚᎵᎭ [ga²hi²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏕᏣᏚᎵᎭ [de²jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎾᏚᎵᎭ [u¹nạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want him or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᎾᏚᎵᎭ [du¹nạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
+\begin_layout Description
+ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color.
+ Colored.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color.
+ Colored.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Plural.
+ Animate.
+\end_layout
+
+\begin_layout Description
+ᏧᎵᏑᏫᏓ [jul²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color.
+ Colored.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Plural.
+ Inanimate.
+\end_layout
+
+\end_deeper
 \begin_layout Plain Layout
 ⚠ 
 \emph on
@@ -112288,119 +112581,6 @@ uyoi
 \end_inset
 
 .
-\end_layout
-
-\begin_layout Section
-ᏘᎪᎵᏯ (Read them)
-\end_layout
-
-\begin_layout Plain Layout
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏚᎵᎭ [u¹du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she wants it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
- Colored.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
- Colored.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Animate.
-\end_layout
-
-\begin_layout Description
-ᏧᎵᏑᏫᏓ [jul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
- Colored.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Inanimate.
-\end_layout
-
-\end_deeper
-\begin_layout Plain Layout
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Plain Layout
