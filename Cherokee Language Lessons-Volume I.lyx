@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.201 $
+$Revision: 1.202 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/22 23:20:55 $ UTC
+$Date: 2016/06/22 23:25:14 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.201 $
+$Revision: 1.202 $
 \noun default
 .
 \end_layout
@@ -107133,7 +107133,7 @@ You're Cherokee.
 \end_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -108364,11 +108364,11 @@ He sees you.
 \end_layout
 
 \begin_layout Description
-ᏥᏯᏚᎵᎭ [ji²ya²du²lị³ha] 
+ᎤᎭ [u²³ha]
 \begin_inset Quotes eld
 \end_inset
 
-I want him.
+He has it, something solid.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108376,11 +108376,11 @@ I want him.
 \end_layout
 
 \begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+ᎠᎩᎭ [a¹gị²ha] 
 \begin_inset Quotes eld
 \end_inset
 
-I want it.
+I have it, something solid.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108388,11 +108388,11 @@ I want it.
 \end_layout
 
 \begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+ᏣᎭ [jạ²ha] 
 \begin_inset Quotes eld
 \end_inset
 
-He wants me.
+You have it, something solid.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108400,11 +108400,11 @@ He wants me.
 \end_layout
 
 \begin_layout Description
-ᎦᏥᏯᏚᎵᎭ [ga²ji²yạ²du²lị³ha] 
+ᎤᏪᎧᎭ [u¹we²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-I want them-animate.
+He has it, something alive.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108412,11 +108412,11 @@ I want them-animate.
 \end_layout
 
 \begin_layout Description
-ᏓᏆᏚᎵᎭ [da¹gwạ²du²lị³ha] 
+ᎠᎩᎧᎭ [a¹gi²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-I want them-inanimate.
+He has it, something alive.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108424,107 +108424,11 @@ I want them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᎤᏚᎵᎭ [u¹du²lị³ha] 
+ᎤᏪᎧᎭ 
 \begin_inset Quotes eld
 \end_inset
 
-He wants him or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏚᏚᎵᎭ [du¹du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He wants them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎯᏯᏚᎵᎭ [hi²ya²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-You want him.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᏚᎵᎭ [jạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-You want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᏚᎵᎭ [jạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He wants you.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᎯᏯᏚᎵᎭ [ga²hi²ya²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-You want them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏕᏣᏚᎵᎭ [de²jạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-You want them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎾᏚᎵᎭ [u¹nạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-They want him or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏚᎾᏚᎵᎭ [du¹nạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-They want them.
+He has it, something alive.
 \begin_inset Quotes erd
 \end_inset
 
