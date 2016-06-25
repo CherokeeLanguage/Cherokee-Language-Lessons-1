@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.202 $
+$Revision: 1.203 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/22 23:25:14 $ UTC
+$Date: 2016/06/24 01:40:14 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.202 $
+$Revision: 1.203 $
 \noun default
 .
 \end_layout
@@ -107494,7 +107494,7 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- bound pronouns you will be practicing.
+ bound pronouns you will be practicing in the next set of exercises.
 \end_layout
 
 \begin_layout Standard
@@ -107579,7 +107579,7 @@ Set A
 \begin_inset Quotes erd
 \end_inset
 
- prefixes used on 
+ prefixes are used on 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107674,7 +107674,7 @@ Set B
 \end_inset
 
  group.
- Everything else goes into 
+ Everything else is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107728,6 +107728,15 @@ Pairing
 ☞ 
 \emph on
 Many of these you have already practiced.
+ The ones which are new have been marked with 
+\begin_inset Quotes eld
+\end_inset
+
+new
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -107776,7 +107785,9 @@ Set A: Ꮵ̣-, Ꭶ͓- (jị-, g-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-) ☞ 
+\emph on
+New.
 \end_layout
 
 \end_deeper
@@ -107806,7 +107817,9 @@ Set A: ᏕᏥ-, ᏕᎦ͓- (ga²ji-, g-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
+Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-) ☞ 
+\emph on
+New.
 \end_layout
 
 \end_deeper
@@ -107843,7 +107856,22 @@ Set A:
 \noun off
 \color none
 \lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-) 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+☞ 
+\emph on
+New.
 \end_layout
 
 \begin_layout Itemize
@@ -107860,7 +107888,22 @@ Set B:
 \noun off
 \color none
 \lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-)
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-) 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+☞ 
+\emph on
+New.
 \end_layout
 
 \end_deeper
@@ -108016,7 +108059,9 @@ Set A: Ꭿ̣- (hị-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮳ̣- (jạ-)
+Set B: Ꮳ̣- (jạ-) ☞ 
+\emph on
+New.
 \end_layout
 
 \end_deeper
@@ -108046,7 +108091,9 @@ Set A: ᏕᎯ̣- (de²hị-)
 \end_layout
 
 \begin_layout Itemize
-Set B: ᏕᏣ̣- (de²jạ-) 
+Set B: ᏕᏣ̣- (de²jạ-) ☞ 
+\emph on
+New.
 \end_layout
 
 \end_deeper
@@ -108083,7 +108130,22 @@ Set A:
 \noun off
 \color none
 \lang english
-Ꮳ̣ (jạ-)
+Ꮳ̣ (jạ-) 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+☞ 
+\emph on
+New.
 \end_layout
 
 \begin_layout Itemize
@@ -108100,7 +108162,22 @@ Set B:
 \noun off
 \color none
 \lang english
- Ꮳ̣ (jạ-)
+ Ꮳ̣ (jạ-) 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+☞ 
+\emph on
+New.
 \end_layout
 
 \end_deeper
@@ -108320,6 +108397,40 @@ The bound pronouns
 \end_layout
 
 \begin_layout Standard
+There are a number of verbs in Cherokee that are very specific as to their
+ use depending on the nature or attributes of what is being referred to.
+ These attributes can be grouped together into the five categories of 
+\emph on
+flexible
+\emph default
+, 
+\emph on
+liquid
+\emph default
+, 
+\emph on
+living
+\emph default
+, 
+\emph on
+long and rigid
+\emph default
+ 
+\emph on
+(rod shaped)
+\emph default
+, and 
+\emph on
+solid or neutral
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+The following vocabulary introduces two of these verbs: ᎤᎭ and ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -108352,11 +108463,43 @@ He sees me.
 \end_layout
 
 \begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏯᎩᎪᏩᏘᎭ [hla yạ²gị²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He doesn't see me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏣᎪᏩᏘᎭ [jạ²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
 He sees you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏣᎪᏩᏘᎭ [hla yị²jạ²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He doesn't see you.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108376,11 +108519,43 @@ He has it, something solid.
 \end_layout
 
 \begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏳᎭ [hla yu²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He doesn't have it, something solid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎠᎩᎭ [a¹gị²ha] 
 \begin_inset Quotes eld
 \end_inset
 
 I have it, something solid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏯᎩᎭ [hla ya¹gị²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I don't have it, something solid.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108400,11 +108575,43 @@ You have it, something solid.
 \end_layout
 
 \begin_layout Description
-ᎤᏪᎧᎭ [u¹we²kạ³ha] 
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏣᎭ [hla yị²jạ²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You don't have it, something solid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏩᎧᎭ [u¹wa²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
 He has it, something alive.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏳᏩᎧᎭ [hla yu¹wa²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He doesn't have it, something alive.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108416,7 +108623,7 @@ He has it, something alive.
 \begin_inset Quotes eld
 \end_inset
 
-He has it, something alive.
+I have it, something alive.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108424,11 +108631,43 @@ He has it, something alive.
 \end_layout
 
 \begin_layout Description
-ᎤᏪᎧᎭ 
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏯᎩᎧᎭ [hla ya¹gi²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-He has it, something alive.
+I don't have it, something alive.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᎧᎭ [jạ²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You have it, something alive.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏣᎧᎭ [hla yị²jạ²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You don't have it, something alive.
 \begin_inset Quotes erd
 \end_inset
 
