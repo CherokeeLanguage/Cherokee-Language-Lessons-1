@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.208 $
+$Revision: 1.209 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/25 03:45:46 $ UTC
+$Date: 2016/06/25 03:47:36 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.208 $
+$Revision: 1.209 $
 \noun default
 .
 \end_layout
@@ -108580,7 +108580,7 @@ He doesn't have it, something alive.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎧᎭ [a¹gi²kạ³ha] 
+ᏥᏯᎧᎭ [ji²ya²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108596,7 +108596,7 @@ I have it, something alive.
 \begin_inset space ~
 \end_inset
 
-ᏯᎩᎧᎭ [hla ya¹gi²kạ³ha] 
+ᏱᏥᏯᎧᎭ [hla yị²ji²ya²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108608,7 +108608,7 @@ I don't have it, something alive.
 \end_layout
 
 \begin_layout Description
-ᏣᎧᎭ [jạ²kạ³ha] 
+ᎯᏯᎧᎭ [hi²ya²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108624,7 +108624,7 @@ You have it, something alive.
 \begin_inset space ~
 \end_inset
 
-ᏱᏣᎧᎭ [hla yị²jạ²kạ³ha] 
+ᏱᏯᎧᎭ [hla hyi²yạ²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108668,14 +108668,17 @@ Crayons for coloring the index cards.
 \end_layout
 
 \begin_layout Standard
-You will need to create xxx copies each of the following index cards:
+You will need to create three copies each of the following index cards.
+ Color the first set of each brown.
+ Color the second set of each red.
+ Leave the third set of each white.
 \end_layout
 
 \begin_layout Standard
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/for-colors/gihli.png
+	filename artwork/objects-animate/gihli.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108684,7 +108687,48 @@ You will need to create xxx copies each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/wesa.png
+	filename artwork/objects-animate/jisdu.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/saloli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/yona.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/gule.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108700,61 +108744,56 @@ You will need to create xxx copies each of the following index cards:
 
 \end_inset
 
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/nuna.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/sadvdi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tuya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
 
 \end_layout
 
 \begin_layout Standard
-You will need to create yyy copies each of the following index cards:
+The red cards should be labeled on the reverse, in order: ᎠᎩᎦᎨ ᎩᏟ, ᎠᎩᎦᎨ
+ ᏥᏍᏚ, ᎠᎩᎦᎨ ᏌᎶᎵ, ᎠᎩᎦᎨ ᏪᏌ, ᎠᎩᎦᎨ ᏲᎾ, ᎠᎩᎦᎨ ᎫᎴ, ᎠᎩᎦᎨ ᏅᏯ, ᎠᎩᎦᎨ ᏄᎾ, ᎠᎩᎦᎨ ᏌᏛᏗ, and
+ ᎠᎩᎦᎨ ᏚᏯ.
 \end_layout
 
 \begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename artwork/adaksi-flag.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
+The white cards should be labeled on the reverse, in order: ᎤᏁᎦ ᎩᏟ, ᎤᏁᎦ
+ ᏥᏍᏚ, ᎤᏁᎦ ᏌᎶᎵ, ᎤᏁᎦ ᏪᏌ, ᎤᏁᎦ ᏲᎾ, ᎤᏁᎦ ᎫᎴ, ᎤᏁᎦ ᏅᏯ, ᎤᏁᎦ ᏄᎾ, ᎤᏁᎦ ᏌᏛᏗ, and ᎤᏁᎦ
+ ᏚᏯ.
+\end_layout
 
-\end_inset
+\begin_layout Standard
+The brown cards should be labeled on the reverse, in order: ᎤᏬᏗᎨ ᎩᏟ, ᎤᏬᏗᎨ
+ ᏥᏍᏚ, ᎤᏬᏗᎨ ᏌᎶᎵ, ᎤᏬᏗᎨ ᏪᏌ, ᎤᏬᏗᎨ ᏲᎾ, ᎤᏬᏗᎨ ᎫᎴ, ᎤᏬᏗᎨ ᏅᏯ, ᎤᏬᏗᎨ ᏄᎾ, ᎤᏬᏗᎨ ᏌᏛᏗ, and
+ ᎤᏬᏗᎨ ᏚᏯ.
+\end_layout
 
- 
-\begin_inset Graphics
-	filename artwork/ajalagi-flag.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename artwork/agilisi-flag.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename artwork/ayonega-flag.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename artwork/yvwi-no-flag.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
-
+\begin_layout Standard
+You will need to reuse each of the following people index cards:
 \end_layout
 
 \begin_layout Standard
@@ -108798,6 +108837,61 @@ You will need to create yyy copies each of the following index cards:
  
 \begin_inset Graphics
 	filename artwork/yvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to create one copy each of the following blind-folded people
+ index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/adaksi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ajalagi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/agilisi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ayonega-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag-blind.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
