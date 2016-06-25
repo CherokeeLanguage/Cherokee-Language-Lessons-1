@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.203 $
+$Revision: 1.204 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/24 01:40:14 $ UTC
+$Date: 2016/06/25 03:21:36 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.203 $
+$Revision: 1.204 $
 \noun default
 .
 \end_layout
@@ -107728,15 +107728,7 @@ Pairing
 ☞ 
 \emph on
 Many of these you have already practiced.
- The ones which are new have been marked with 
-\begin_inset Quotes eld
-\end_inset
-
-new
-\begin_inset Quotes erd
-\end_inset
-
-.
+ The ones which are new have been marked.
 \end_layout
 
 \begin_layout Standard
