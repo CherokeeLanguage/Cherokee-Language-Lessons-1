@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.207 $
+$Revision: 1.208 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/25 03:41:41 $ UTC
+$Date: 2016/06/25 03:45:46 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.207 $
+$Revision: 1.208 $
 \noun default
 .
 \end_layout
@@ -108664,18 +108664,7 @@ xx index cards.
 \end_layout
 
 \begin_layout Itemize
-A box of crayons for coloring the index cards.
- ☞ 
-\emph on
-The 
-\begin_inset Quotes eld
-\end_inset
-
-boxes of 8
-\begin_inset Quotes erd
-\end_inset
-
- as sold in many stores should have all the colors needed.
+Crayons for coloring the index cards.
 \end_layout
 
 \begin_layout Standard
@@ -108716,6 +108705,56 @@ You will need to create xxx copies each of the following index cards:
 
 \begin_layout Standard
 You will need to create yyy copies each of the following index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/adaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ajalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/agilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ayonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
