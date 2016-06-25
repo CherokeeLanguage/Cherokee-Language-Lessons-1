@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.206 $
+$Revision: 1.207 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/25 03:36:38 $ UTC
+$Date: 2016/06/25 03:41:41 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.206 $
+$Revision: 1.207 $
 \noun default
 .
 \end_layout
@@ -108645,6 +108645,123 @@ status collapsed
 \backslash
 end{multicols}
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏂᏔᏛᎦ (Do them)
+\end_layout
+
+\begin_layout Standard
+You will need the following:
+\end_layout
+
+\begin_layout Itemize
+xx index cards.
+\end_layout
+
+\begin_layout Itemize
+A box of crayons for coloring the index cards.
+ ☞ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+boxes of 8
+\begin_inset Quotes erd
+\end_inset
+
+ as sold in many stores should have all the colors needed.
+\end_layout
+
+\begin_layout Standard
+You will need to create xxx copies each of the following index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/for-colors/gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to create yyy copies each of the following index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/adaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ajalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/agilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ayonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
 
 \end_inset
 
