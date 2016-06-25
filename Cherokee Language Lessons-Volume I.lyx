@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.204 $
+$Revision: 1.205 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/25 03:21:36 $ UTC
+$Date: 2016/06/25 03:22:01 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.204 $
+$Revision: 1.205 $
 \noun default
 .
 \end_layout
@@ -106955,7 +106955,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-The prefixes which directly indicate the pairing of 
+These prefixes which directly indicate the pairing of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106971,12 +106971,8 @@ Bound Pronouns
 \end_layout
 
 \begin_layout Standard
-Bound pronouns also must be used on many description words like the colors,
- names for kinds of people, good, bad, and so forth.
- ☞ 
-\emph on
-You will learn which words use bound pronouns and which words don't use
- bound pronouns as your lessons progress.
+Bound pronouns are also used on most description words like colors, names
+ for kinds of people, good, bad, and so forth.
 \end_layout
 
 \begin_layout Standard
@@ -107478,7 +107474,7 @@ must
 \end_layout
 
 \begin_layout Standard
-The following shows the first of 
+The following shows the first of the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107605,7 +107601,7 @@ Set B
 \end_inset
 
  words.
- What determines a word is a 
+ What determines whether a word is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107613,7 +107609,7 @@ Set A
 \begin_inset Quotes erd
 \end_inset
 
- word or a 
+ or 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107621,7 +107617,7 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- word is simple.
+ is simple.
  If the word uses 
 \begin_inset Quotes eld
 \end_inset
@@ -107639,7 +107635,7 @@ he\SpecialChar \ldots{}
 \begin_inset Quotes erd
 \end_inset
 
- it is a 
+ it is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107647,34 +107643,7 @@ Set B
 \begin_inset Quotes erd
 \end_inset
 
- word, otherwise it is a set 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word.
- Think of it like this.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- is the 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭴ-
-\begin_inset Quotes erd
-\end_inset
-
- group.
- Everything else is 
+, otherwise it is 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108413,13 +108382,13 @@ long and rigid
 \emph default
 , and 
 \emph on
-solid or neutral
+solid or other
 \emph default
 .
 \end_layout
 
 \begin_layout Standard
-The following vocabulary introduces two of these verbs: ᎤᎭ and ᎤᏩᎧᎭ.
+The following vocabulary introduces two such verbs: ᎤᎭ and ᎤᏩᎧᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -108464,34 +108433,6 @@ He sees me.
 \end_inset
 
 He doesn't see me.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᎪᏩᏘᎭ [jạ²gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He sees you.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-ᏱᏣᎪᏩᏘᎭ [hla yị²jạ²gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He doesn't see you.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108576,6 +108517,50 @@ You have it, something solid.
 \end_inset
 
 You don't have it, something solid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᎪᏩᏘᎭ [jạ²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He sees you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏣᎪᏩᏘᎭ [hla yị²jạ²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He doesn't see you.
 \begin_inset Quotes erd
 \end_inset
 
