@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.205 $
+$Revision: 1.206 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/25 03:22:01 $ UTC
+$Date: 2016/06/25 03:36:38 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.205 $
+$Revision: 1.206 $
 \noun default
 .
 \end_layout
@@ -107774,7 +107774,7 @@ I \SpecialChar \ldots{}
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᏕᏥ-, ᏕᎦ͓- (ga²ji-, g-) 
+Set A: ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-) 
 \end_layout
 
 \begin_layout Itemize
@@ -108424,6 +108424,18 @@ He sees me.
 \end_layout
 
 \begin_layout Description
+ᏣᎪᏩᏘᎭ [jạ²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He sees you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -108517,34 +108529,6 @@ You have it, something solid.
 \end_inset
 
 You don't have it, something solid.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-columnbreak{}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᎪᏩᏘᎭ [jạ²gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He sees you.
 \begin_inset Quotes erd
 \end_inset
 
