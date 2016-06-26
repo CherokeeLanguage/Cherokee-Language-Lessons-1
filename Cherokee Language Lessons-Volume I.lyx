@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.216 $
+$Revision: 1.217 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/26 01:58:51 $ UTC
+$Date: 2016/06/26 02:25:49 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.216 $
+$Revision: 1.217 $
 \noun default
 .
 \end_layout
@@ -113201,9 +113201,19 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Note Note
+\begin_layout Chapter
+ᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\begin_inset Argument 1
 status collapsed
+
+\begin_layout Plain Layout
+Eighteenth Lesson
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Description
 ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
@@ -113252,7 +113262,259 @@ Plural.
 \end_layout
 
 \end_deeper
+\begin_layout Section
+ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
 \begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᎭ [du²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He has them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏓᎩᎭ [da¹gị²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I have them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏕᏣᎭ [de²jạ²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You have them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᏩᎧᎭ [du¹wa²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He has them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏥᏯᎧᎭ [hla ga²ji²ya²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎯᏯᎧᎭ [ga²hi²yạ²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏧᎭ [hla yị²ju²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He has them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏗᎩᎭ [hla yị²di²gị²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I have them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏗᏣᎭ [hla yị²dị²jạ²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You have them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏧᏩᎧᎭ [hla yị²ju¹wa²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He has them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎦᏥᏯᎧᎭ [hla yị²ga²ji²ya²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎦᎯᏯᎧᎭ [hla yị²ga²hi²yạ²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏂᏔᏛᎦ (Do them)
+\end_layout
+
+\begin_layout Standard
+You will need the following:
+\end_layout
+
+\begin_layout Standard
 ⚠ 
 \emph on
 When making a negative sentence with the 
@@ -113347,7 +113609,7 @@ w
 .
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 ☞ 
 \emph on
 These pronunciation rules are part of your exercises.
@@ -113357,11 +113619,11 @@ These pronunciation rules are part of your exercises.
 Practice Exercise
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 This exercise set uses the following words:
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -113581,7 +113843,7 @@ They want him/her/it.
 Something animate or inanimate.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -113603,7 +113865,7 @@ end{multicols}
 Written
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 For each of the following, write down the Cherokee word, then after the
  Cherokee word write down the prefix found on the word followed by its 
 \begin_inset Quotes eld
@@ -113631,13 +113893,13 @@ For this practice to work, you must cover up your answers as you do them.
  When done, compare your answers to the answers in the next section.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 Note: Short vowels are not marked in the following exercise.
  Indicate where the vowel length changes animacy.
  
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -113818,7 +114080,7 @@ Uduliha.
 Anigowhtiha.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -113838,7 +114100,7 @@ end{multicols}
 Answers
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -114618,7 +114880,7 @@ They \SpecialChar \ldots{}
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -114634,6 +114896,10 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Section
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
+\end_layout
+
 \begin_layout Subsubsection
 Choosing the correct bound pronoun.
 \begin_inset CommandInset label
@@ -114645,7 +114911,7 @@ name "sub:Choosing-the-correct"
 
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 When learning a new word that uses bound pronouns, you need to know if it
  is a 
 \begin_inset Quotes eld
@@ -114746,7 +115012,7 @@ Set A
  word.
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 Examples:
 \end_layout
 
@@ -114952,7 +115218,7 @@ Set B
 Using the bound pronouns
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 In the vocabulary accompanying these lessons, you are given the 
 \begin_inset Quotes eld
 \end_inset
@@ -115007,7 +115273,7 @@ I see him/her.
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -115385,7 +115651,7 @@ I want it.
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -115919,7 +116185,7 @@ he or she
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -116322,7 +116588,7 @@ I am possessive of it.
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 As 
 \begin_inset Quotes eld
 \end_inset
@@ -116769,7 +117035,7 @@ It is blue
 .
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -116962,7 +117228,7 @@ They are blue.
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -117004,7 +117270,7 @@ He, she or it is bad
 .
 \end_layout
 
-\begin_layout Plain Layout
+\begin_layout Standard
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -117211,7 +117477,7 @@ They're bad.
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 Because 
 \begin_inset Quotes eld
 \end_inset
@@ -117233,337 +117499,7 @@ uyoi
 .
 \end_layout
 
-\begin_layout Plain Layout
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="10" columns="3">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="0pt">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Pairing
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- Prefix
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- Prefix
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- another (in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-jị-, g-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ạgị-, ạgw-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- another (an.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ji-, jiy-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ji-, jiy-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Another (an.) \SpecialChar \ldots{}
- me.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ạgị-, ạgw-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ạgị-, ạgw-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- another (in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-hị-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-jạ-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- another (an.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-hi-, hiy-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-hi-, hiy-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Another (an.) \SpecialChar \ldots{}
- you (one).
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-jạ-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-jạ-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Another \SpecialChar \ldots{}
- another (an.+in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ạ-, g-, gạ-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-u-, ụw-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-They \SpecialChar \ldots{}
- another (an.+in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ạni-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-uni-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell multicolumn="1" alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\emph on
-Abbreviations: (in.): inanimate, (an.): animate.
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
+\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -117682,7 +117618,7 @@ Plural.
 \end_layout
 
 \end_deeper
-\begin_layout Plain Layout
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -117691,11 +117627,6 @@ status collapsed
 
 \backslash
 end{multicols}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
