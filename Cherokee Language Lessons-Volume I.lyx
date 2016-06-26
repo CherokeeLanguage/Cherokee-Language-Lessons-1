@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.217 $
+$Revision: 1.218 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/26 02:25:49 $ UTC
+$Date: 2016/06/26 12:35:43 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.217 $
+$Revision: 1.218 $
 \noun default
 .
 \end_layout
@@ -108421,6 +108421,18 @@ He has it, something solid.
 \end_layout
 
 \begin_layout Description
+ᎤᏂᎭ [u¹ni²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They have it, something solid.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎠᎩᎭ [a¹gị²ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -108450,6 +108462,18 @@ You have it, something solid.
 \end_inset
 
 He has it, something alive.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏂᎧᎭ [u¹ni²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He has them, something alive.
 \begin_inset Quotes erd
 \end_inset
 
@@ -109104,6 +109128,10 @@ _____ ᎯᏯᎧᎭ.
 _____ ᎤᏩᎧᎭ.
 \end_layout
 
+\begin_layout Itemize
+_____ ᎤᏂᎧᎭ.
+\end_layout
+
 \begin_layout Standard
 Add the following to the backs of each non-animal and non-flag card:
 \end_layout
@@ -109120,6 +109148,10 @@ _____ ᏣᎭ.
 
 \begin_layout Itemize
 _____ ᎤᎭ.
+\end_layout
+
+\begin_layout Itemize
+_____ ᎤᏂᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -113299,6 +113331,18 @@ He has them, some solid things.
 \end_layout
 
 \begin_layout Description
+ᏚᏂᎭ [du¹ni²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They have them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏓᎩᎭ [da¹gị²ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -113335,7 +113379,7 @@ He has them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᎦᏥᏯᎧᎭ [hla ga²ji²ya²kạ³ha] 
+ᎦᏥᏯᎧᎭ [ga²ji²ya²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -113375,6 +113419,15 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+In the following you will notice a special pronunciation shift when Ᏹ- is
+ added to certain words that start with Ꮥ-.
+ Each word with this shift has been shown with its parts to help visualize
+ this.
+\end_layout
+
+\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -113403,11 +113456,35 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-He has them, some solid things.
+He doesn't have them, some solid things.
 \begin_inset Quotes erd
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+(Ᏹ + Ꮥ + ᎤᎭ).
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏧᎭ [hla yị²ju¹ni²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They don't have them, some solid things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+(Ᏹ + Ꮥ + ᎤᏂ + ᎤᎭ).
 \end_layout
 
 \begin_layout Description
@@ -113419,11 +113496,15 @@ He has them, some solid things.
 \begin_inset Quotes eld
 \end_inset
 
-I have them, some solid things.
+I don't have them, some solid things.
 \begin_inset Quotes erd
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+(Ᏹ + Ꮥ + ᎠᎩ + ᎤᎭ).
 \end_layout
 
 \begin_layout Description
@@ -113435,11 +113516,15 @@ I have them, some solid things.
 \begin_inset Quotes eld
 \end_inset
 
-You have them, some solid things.
+You don't have them, some solid things.
 \begin_inset Quotes erd
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+(Ᏹ + Ꮥ + Ꮳ + ᎤᎭ).
 \end_layout
 
 \begin_layout Description
@@ -113451,11 +113536,15 @@ You have them, some solid things.
 \begin_inset Quotes eld
 \end_inset
 
-He has them, some alive things.
+He doesn't have them, some alive things.
 \begin_inset Quotes erd
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+(Ᏹ + Ꮥ + ᎤᏩᎧᎭ).
 \end_layout
 
 \begin_layout Description
@@ -113467,7 +113556,7 @@ He has them, some alive things.
 \begin_inset Quotes eld
 \end_inset
 
-I have them, some alive things.
+I don't have them, some alive things.
 \begin_inset Quotes erd
 \end_inset
 
@@ -113483,7 +113572,7 @@ I have them, some alive things.
 \begin_inset Quotes eld
 \end_inset
 
-You have them, some alive things.
+You don't have them, some alive things.
 \begin_inset Quotes erd
 \end_inset
 
