@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.212 $
+$Revision: 1.213 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/26 00:20:31 $ UTC
+$Date: 2016/06/26 00:28:47 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.212 $
+$Revision: 1.213 $
 \noun default
 .
 \end_layout
@@ -109123,9 +109123,9 @@ _____ ᎤᎭ.
 \end_layout
 
 \begin_layout Standard
-☞ 
+☞ ↺
 \emph on
-↺ is being used to indicate 
+ is being used to indicate 
 \begin_inset Quotes eld
 \end_inset
 
@@ -109133,7 +109133,11 @@ I
 \begin_inset Quotes erd
 \end_inset
 
-, and → is being used to indicate 
+, and 
+\emph default
+→
+\emph on
+ is being used to indicate 
 \begin_inset Quotes eld
 \end_inset
 
