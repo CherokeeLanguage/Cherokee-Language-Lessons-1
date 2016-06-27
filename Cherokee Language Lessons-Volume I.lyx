@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.224 $
+$Revision: 1.225 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/27 00:05:33 $ UTC
+$Date: 2016/06/27 23:06:08 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.224 $
+$Revision: 1.225 $
 \noun default
 .
 \end_layout
@@ -109357,7 +109357,8 @@ Label each card on the reverse as follows: ᎠᏂᏴᏫᏯᎢ, ᎠᏂᏣᎳᎩ, 
 \end_layout
 
 \begin_layout Standard
-You can either use index cards or use the list directly from the book.
+For the exercises you can either use index cards or use the list directly
+ from the book.
 \end_layout
 
 \begin_layout Standard
@@ -112638,6 +112639,12 @@ He doesn't see me.
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+☞ 
+\emph on
+Ᏹ- followed by Ꭰ- combine and become Ꮿ-.
 \end_layout
 
 \begin_layout Description
@@ -112682,6 +112689,12 @@ He doesn't have it, something solid.
 \end_inset
 
 
+\begin_inset Newline newline
+\end_inset
+
+☞ 
+\emph on
+Ᏹ- followed by Ꭴ- combine and become Ᏻ-.
 \end_layout
 
 \begin_layout Description
@@ -112799,7 +112812,7 @@ You don't have it, something alive.
 
 ☞ 
 \emph on
-When Ᏹ- (yị-) is following by Ꭿ- (hi-) they combine to become Ᏹ- (hyi-).
+Ᏹ- (yị-) followed by Ꭿ- (hi-) combine and become Ᏹ- (hyi-).
 \end_layout
 
 \begin_layout Standard
@@ -112993,6 +113006,65 @@ You will need to reuse the following people index cards:
 \end_layout
 
 \begin_layout Standard
+You will need to add the following people index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/flags/anidaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anijalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anigilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows: ᎠᏂᏴᏫᏯᎢ, ᎠᏂᏣᎳᎩ, ᎠᏂᎩᎵᏏ, ᎠᏂᏲᏁᎦ,
+ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_layout Standard
 You will need to create one copy each of the following blind-folded people
  index cards:
 \end_layout
@@ -113045,6 +113117,61 @@ You will need to create one copy each of the following blind-folded people
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/flags/anidaksi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anijalagi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anigilisi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyonega-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyvwi-no-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows: ᎠᏴᏫᏯᎢ, ᎠᏣᎳᎩ, ᎠᎩᎵᏏ, ᎠᏲᏁᎦ, ᎠᏴᏫ,
+ ᎠᏂᏴᏫᏯᎢ, ᎠᏂᏣᎳᎩ, ᎠᏂᎩᎵᏏ, ᎠᏂᏲᏁᎦ, ᎠᏂᏴᏫ.
 \end_layout
 
 \begin_layout Standard
