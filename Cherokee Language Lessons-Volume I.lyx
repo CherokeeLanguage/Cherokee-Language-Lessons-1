@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.223 $
+$Revision: 1.224 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/27 00:01:38 $ UTC
+$Date: 2016/06/27 00:05:33 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.223 $
+$Revision: 1.224 $
 \noun default
 .
 \end_layout
@@ -112447,6 +112447,21 @@ It is not a good wolf I see.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+ᎣᏍᏓ, Ꮭ ᏩᎭᏯ ᏱᏥᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Good, it is not a wolf I see.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Itemize
 Ꮭ ᎤᏬᏗᎨ ᏥᏍᏚ ᏱᏥᎪᏩᏘᎭ.
  ᎤᏁᎦ ᏥᎪᏩᏘᎭ.
@@ -112462,6 +112477,25 @@ It is not a brown rabbit I see.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᏥᎪᏩᏘᎭ.
+ Ꮭ ᎤᏬᏗᎨ ᏱᎩ.
+ ᎤᏁᎦ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The rabbit I am seeing.
+ It isn't brown.
+ It's white.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 ☞ 
 \emph on
