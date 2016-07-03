@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.230 $
+$Revision: 1.231 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/03 19:51:38 $ UTC
+$Date: 2016/07/03 20:09:06 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.230 $
+$Revision: 1.231 $
 \noun default
 .
 \end_layout
@@ -116502,6 +116502,98 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+ᎬᎩᎪᏩᏘᎭ [gv²gị²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They see me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎬᎩᎪᏩᏘᎭ [hla yị²gv²gị²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They don't see me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎨᏣᎪᏩᏘᎭ [ge²jạ²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They see you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏣᎪᏩᏘᎭ [hla yị²ge²jạ²gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They don't see you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏚᎭ [du²³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -116605,7 +116697,7 @@ end{multicols}
 ☞ 
 \emph on
 In the following you will notice a special pronunciation shift when Ᏹ- is
- added to certain words that start with Ꮥ-.
+ added to many words that start with Ꮥ-.
  The Ᏹ- and Ꮥ- combine together and become ᏱᏗ- (yị²dị²-) or ᏱᏣ͓- (yị²j-).
  Each word with this shift has been shown with its parts to help visualize
  this.
@@ -116656,7 +116748,7 @@ He doesn't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏧᎭ [hla yị²ju¹ni²³ha] 
+ᏱᏧᏂᎭ [hla yị²ju¹ni²³ha] 
 \begin_inset Quotes eld
 \end_inset
 
