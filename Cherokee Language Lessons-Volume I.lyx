@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.225 $
+$Revision: 1.226 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/06/27 23:06:08 $ UTC
+$Date: 2016/06/27 23:20:41 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.225 $
+$Revision: 1.226 $
 \noun default
 .
 \end_layout
@@ -109305,7 +109305,7 @@ You will need to add the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/aniadaksi-flag.png
+	filename artwork/flags/anidaksi-flag.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
