@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.229 $
+$Revision: 1.230 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/03 17:03:24 $ UTC
+$Date: 2016/07/03 19:51:38 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.229 $
+$Revision: 1.230 $
 \noun default
 .
 \end_layout
@@ -116606,6 +116606,7 @@ end{multicols}
 \emph on
 In the following you will notice a special pronunciation shift when Ᏹ- is
  added to certain words that start with Ꮥ-.
+ The Ᏹ- and Ꮥ- combine together and become ᏱᏗ- (yị²dị²-) or ᏱᏣ͓- (yị²j-).
  Each word with this shift has been shown with its parts to help visualize
  this.
 \end_layout
