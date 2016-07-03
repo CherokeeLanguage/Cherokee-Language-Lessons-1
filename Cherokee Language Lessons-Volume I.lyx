@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.227 $
+$Revision: 1.228 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/03 16:22:20 $ UTC
+$Date: 2016/07/03 16:53:06 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.227 $
+$Revision: 1.228 $
 \noun default
 .
 \end_layout
@@ -109406,22 +109406,12 @@ Say to yourself: ᏩᏯ ᏥᏯᎧᎭ.
  (I have the wolf.)
 \end_layout
 
-\begin_layout Enumerate
-Say to your study partner: Ꮭ ᏩᏯ ᏱᏯᎧᎭ.
- (You don't have the wolf.)
-\end_layout
-
 \end_deeper
 \begin_layout Enumerate
 Place the card with your imaginary study partner:
 \end_layout
 
 \begin_deeper
-\begin_layout Enumerate
-Say to yourself: Ꮭ ᏩᏯ ᏱᏥᏯᎧᎭ.
- (I don't have the wolf.)
-\end_layout
-
 \begin_layout Enumerate
 Say to your study partner: ᏩᏯ ᎯᏯᎧᎭ.
  (You have the wolf.)
@@ -109452,22 +109442,12 @@ Say to yourself:  ᎠᎩᎨ ᎠᎭᏫ ᏥᏯᎧᎭ.
  (I have the red deer.)
 \end_layout
 
-\begin_layout Enumerate
-Say to your study partner: Ꮭ ᎠᎩᎨ ᎠᎭᏫ ᏱᏯᎧᎭ.
- (You don't have the red deer.)
-\end_layout
-
 \end_deeper
 \begin_layout Enumerate
 Place the card with your imaginary study partner:
 \end_layout
 
 \begin_deeper
-\begin_layout Enumerate
-Say to yourself: Ꮭ ᎠᎩᎨ ᎠᎭᏫ ᏱᏥᏯᎧᎭ.
- (I don't have the red deer.)
-\end_layout
-
 \begin_layout Enumerate
 Say to your study partner: ᎠᎩᎨ ᎠᎭᏫ ᎯᏯᎧᎭ.
  (You have the deer.)
@@ -109481,22 +109461,12 @@ Check the answer and check that you used the correct cards.
 \end_deeper
 \begin_layout Enumerate
 ᏩᎭᏯ.
- ✓ ᎠᏴᏫ.
- ✗ ᎠᏲᏁᎦ.
+ ᎠᏴᏫ.
  ᎥᏍᎩᎾ.
 \begin_inset Newline newline
 \end_inset
 
-The ✓ card has it.
- The ✗ card doesn't.
-\begin_inset Newline newline
-\end_inset
-
 Select a wolf card and a generic person card and place them together.
-\begin_inset Newline newline
-\end_inset
-
-Select a white person card and set it by itself.
 \end_layout
 
 \begin_deeper
@@ -109517,44 +109487,18 @@ Say to your study partner: ᎥᏍᎩᎾ ᏩᎭᏯ ᎤᏩᎧᎭ.
 
 \end_deeper
 \begin_layout Enumerate
-Point to the white person card:
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Say to your study partner: Ꮭ ᎠᏲᏁᎦ ᏩᎭᏯ ᏳᏩᎧᎭ.
- (A person doesn't have the wolf.)
-\end_layout
-
-\begin_layout Enumerate
-Say to your study partner: Ꮭ ᎥᏍᎩᎾ ᏩᎭᏯ ᏳᏩᎧᎭ.
- (He/she doesn't have the wolf.)
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
 Check the answer and check that you used the correct cards.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 ᏌᏛᏗ.
- ✗ ᎠᏂᏴᏫ.
- ✓ ᎠᏂᏲᏁᎦ.
+ ᎠᏂᏲᏁᎦ.
  ᎥᏍᎩ.
 \begin_inset Newline newline
 \end_inset
 
-The ✓ card has it.
- The ✗ card doesn't.
-\begin_inset Newline newline
-\end_inset
-
 Select a trap card and the white people card and place them together.
-\begin_inset Newline newline
-\end_inset
-
-Select the generic people card and set it by itself.
 \end_layout
 
 \begin_deeper
@@ -109571,22 +109515,6 @@ Say to your study partner:  ᎠᏂᏲᏁᎦ ᏌᏛᏗ ᎤᏂᎭ.
 \begin_layout Enumerate
 Say to your study partner: ᎥᏍᎩ ᏌᏛᏗ ᎤᏂᎭ.
  (They have a trap.)
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-Point to the generic people card:
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-Say to your study partner: Ꮭ ᎠᏂᏴᏫ ᏌᏛᏗ ᏳᏂᎭ.
- (The people don't have a trap.)
-\end_layout
-
-\begin_layout Enumerate
-Say to your study partner: Ꮭ ᎥᏍᎩ ᏌᏛᏗ ᏳᏂᎭ.
- (They don't have a trap.)
 \end_layout
 
 \end_deeper
