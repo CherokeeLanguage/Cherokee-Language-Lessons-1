@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.231 $
+$Revision: 1.232 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/03 20:09:06 $ UTC
+$Date: 2016/07/03 20:25:07 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.231 $
+$Revision: 1.232 $
 \noun default
 .
 \end_layout
@@ -103072,7 +103072,7 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᏧᏃᏗᎨ.
+[Ꭱ] ᎯᎠ ᏧᏃᏗᎨ ᏪᏌ.
 \end_layout
 
 \end_deeper
@@ -103132,7 +103132,7 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᏧᏬᏗᎨ.
+[Ꭱ] ᎯᎠ ᏧᏬᏗᎨ ᏪᏌ.
 \end_layout
 
 \end_deeper
@@ -103458,7 +103458,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᏧᏃᏗᎨ.
+[Ꭱ] ᎯᎠ ᏧᏃᏗᎨ ᏪᏌ.
 \end_layout
 
 \end_deeper
@@ -107301,8 +107301,8 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-They are also sometimes used to indicate someone is a type of something
- or is a member of something like a clan.
+Bound Pronouns are also sometimes used to indicate someone is a type of
+ something or is a member of something like a clan.
 \end_layout
 
 \begin_layout Standard
@@ -116430,6 +116430,30 @@ Eighteenth Lesson
 
 \end_layout
 
+\begin_layout Section
+ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
 ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
 \begin_inset Quotes eld
@@ -116477,8 +116501,20 @@ Plural.
 \end_layout
 
 \end_deeper
-\begin_layout Section
-ᏘᎪᎵᏯ (Read them)
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -116694,16 +116730,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-In the following you will notice a special pronunciation shift when Ᏹ- is
- added to many words that start with Ꮥ-.
- The Ᏹ- and Ꮥ- combine together and become ᏱᏗ- (yị²dị²-) or ᏱᏣ͓- (yị²j-).
- Each word with this shift has been shown with its parts to help visualize
- this.
-\end_layout
-
-\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -116728,7 +116754,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᏱᏧᎭ [hla yị²ju²³ha] 
+ᏱᏚᎭ [hla yị²du²³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -116748,7 +116774,7 @@ He doesn't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏧᏂᎭ [hla yị²ju¹ni²³ha] 
+ᏱᏚᏂᎭ [hla yị²du¹ni²³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -116768,7 +116794,7 @@ They don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏗᎩᎭ [hla yị²di²gị²ha] 
+ᏱᏓᎩᎭ [hla yị²da²gị²ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -116788,7 +116814,7 @@ I don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏗᏣᎭ [hla yị²dị²jạ²ha] 
+ᏱᏕᏣᎭ [hla yị²de²jạ²ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -116808,7 +116834,7 @@ You don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏧᏩᎧᎭ [hla yị²ju¹wa²kạ³ha] 
+ᏱᏚᏩᎧᎭ [hla yị²du¹wa²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -116876,108 +116902,495 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-You will need the following:
+You will need to reuse the following cards from the previous chapter.
 \end_layout
 
 \begin_layout Standard
-⚠ 
-\emph on
-When making a negative sentence with the 
-\begin_inset Quotes eld
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
 \end_inset
 
-Ꮭ \SpecialChar \ldots{}
- Ᏹ-
-\begin_inset Quotes erd
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/jisdu.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
 \end_inset
 
- combination, there are two pronunciation rules you need to know:
-\end_layout
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/saloli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
 
-\begin_layout Itemize
-If 
-\begin_inset Quotes eld
 \end_inset
 
-Ᏹ-
-\begin_inset Quotes erd
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
 \end_inset
 
- is followed by a syllable starting with an 
-\begin_inset Quotes eld
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/yona.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
 \end_inset
 
-h-
-\begin_inset Quotes erd
-\end_inset
 
- sound, the 
-\begin_inset Quotes eld
-\end_inset
-
-Ᏹ-
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-h-
-\begin_inset Quotes erd
-\end_inset
-
- sounds combine to form the new combination 
-\begin_inset Quotes eld
-\end_inset
-
-hy-
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-If 
-\begin_inset Quotes eld
-\end_inset
-
-Ᏹ-
-\begin_inset Quotes erd
-\end_inset
-
- is followed by a syllable starting with a 
-\begin_inset Quotes eld
-\end_inset
-
-w
-\begin_inset Quotes erd
-\end_inset
-
- sound, the 
-\begin_inset Quotes eld
-\end_inset
-
-Ᏹ-
-\begin_inset Quotes erd
-\end_inset
-
- becomes 
-\begin_inset Quotes eld
-\end_inset
-
-Ᏻ-
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-These pronunciation rules are part of your exercises.
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/gule.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/nuna.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/sadvdi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tuya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to add three each of the following cards.
+ Color the first set of each brown.
+ Color the second set of each red.
+ Leave the third set of each white.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/soquili.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/wahya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-soquili.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-wahya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows: ᎤᏬᏗᎨ ᏐᏈᎵ, ᎤᏬᏗᎨ ᏩᎭᏯ, ᏧᏃᏗᎨ ᏐᏈᎵ,
+ ᏧᏃᏗᎨ ᏩᎭᏯ, ᎠᎩᎦᎨ ᏐᏈᎵ, ᎠᎩᎦᎨ ᏩᎭᏯ, ᎠᏂᎩᎦᎨ ᏐᏈᎵ, ᎠᏂᎩᎦᎨ ᏩᎭᏯ, ᎤᏁᎦ ᏐᏈᎵ, ᎤᏁᎦ ᏩᎭᏯ, ᎤᏂᏁᎦ
+ ᏐᏈᎵ, ᎤᏂᏁᎦ ᏩᎭᏯ.
+\end_layout
+
+\begin_layout Standard
+You will need to add three each of the following cards.
+ Color the first set of each brown.
+ Color the second set of each red.
+ Leave the third set of each white.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-jisdu.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-saloli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-yona.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows: ᏧᏃᏗᎨ ᎩᏟ, ᏧᏃᏗᎨ ᏥᏍᏚ, ᏧᏃᏗᎨ ᏌᎶᎵ,
+ ᏧᏃᏗᎨ ᏪᏌ, ᏧᏃᏗᎨ ᏲᎾ, ᎠᏂᎩᎦᎨ ᎩᏟ, ᎠᏂᎩᎦᎨ ᏥᏍᏚ, ᎠᏂᎩᎦᎨ ᏌᎶᎵ, ᎠᏂᎩᎦᎨ ᏪᏌ, ᎠᏂᎩᎦᎨ ᏲᎾ, ᎤᏂᏁᎦ
+ ᎩᏟ, ᎤᏂᏁᎦ ᏥᏍᏚ, ᎤᏂᏁᎦ ᏌᎶᎵ, ᎤᏂᏁᎦ ᏪᏌ, ᎤᏂᏁᎦ ᏲᎾ.
+\end_layout
+
+\begin_layout Standard
+You will need to add three each of the following cards.
+ Color the first set of each brown.
+ Color the second set of each red.
+ Leave the third set of each white.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-gule.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-nuna.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-sadvdi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-tuya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows: ᏧᏬᏗᎨ ᎫᎴ, ᏧᏬᏗᎨ ᏅᏯ, ᏧᏬᏗᎨ ᏄᎾ, ᏧᏬᏗᎨ
+ ᏗᏌᏛᏗ, ᏧᏬᏚᎨ ᏚᏯ, ᏗᎩᎦᎨ ᎫᎴ, ᏗᎩᎦᎨ ᏅᏯ, ᏗᎩᎦᎨ ᏄᎾ, ᏗᎩᎦᎨ ᏗᏌᏛᏗ, ᏗᎩᎦᎨ ᏚᏯ, ᏧᏁᎦ ᎫᎴ, ᏧᏁᎦ
+ ᏅᏯ, ᏧᏁᎦ ᏄᎾ, ᏧᏁᎦ ᏗᏌᏛᏗ, ᏧᏁᎦ ᏚᏯ.
+\end_layout
+
+\begin_layout Standard
+You will need to reuse the following people index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/adaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ajalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/agilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ayonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/flags/anidaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anijalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anigilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to reuse the following blind-folded people index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/adaksi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ajalagi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/agilisi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ayonega-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/flags/anidaksi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anijalagi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anigilisi-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyonega-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyvwi-no-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -118242,2744 +118655,6 @@ They \SpecialChar \ldots{}
 \end_inset
 
 
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
-\end_layout
-
-\begin_layout Subsubsection
-Choosing the correct bound pronoun.
-\begin_inset CommandInset label
-LatexCommand label
-name "sub:Choosing-the-correct"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-When learning a new word that uses bound pronouns, you need to know if it
- is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word or a 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- word.
- You simply do this by looking at the supplied vocabulary for the 
-\begin_inset Quotes eld
-\end_inset
-
-he \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
- form.
- If the word starts with the 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- prefix 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- then it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- word.
- If it does not start with the 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- prefix, then it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word.
- 
-\emph on
-In other words, when you learn a word and it starts with any any of the
- 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- prefixes, it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- word, otherwise assume it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word.
-\end_layout
-
-\begin_layout Standard
-Examples:
-\end_layout
-
-\begin_layout Description
-Agowhtiha.
- 
-\begin_inset Quotes eld
-\end_inset
-
-He or she sees it.
-\begin_inset Quotes erd
-\end_inset
-
- Because 
-\begin_inset Quotes eld
-\end_inset
-
-agowhtiha
-\begin_inset Quotes erd
-\end_inset
-
- does not start with the 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- prefix 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
-, it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word.
-\end_layout
-
-\begin_layout Description
-Uduliha.
- 
-\begin_inset Quotes eld
-\end_inset
-
-He or she wants it.
-\begin_inset Quotes erd
-\end_inset
-
- Because 
-\begin_inset Quotes eld
-\end_inset
-
-uduliha
-\begin_inset Quotes erd
-\end_inset
-
- starts with the 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- prefix 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
-, it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- word.
-\end_layout
-
-\begin_layout Description
-Sagonigei.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Blue.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It or he or she is blue
-\begin_inset Quotes erd
-\end_inset
-
-.
- Because 
-\begin_inset Quotes eld
-\end_inset
-
-sagonigei
-\begin_inset Quotes erd
-\end_inset
-
- does not start with the 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- prefix 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
-, it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word.
-\end_layout
-
-\begin_layout Description
-Uwodigei.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Brown.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It or he or she is brown
-\begin_inset Quotes erd
-\end_inset
-
-.
- Because 
-\begin_inset Quotes eld
-\end_inset
-
-uwodigei
-\begin_inset Quotes erd
-\end_inset
-
- starts with the 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- prefix 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
-, it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- word.
-\end_layout
-
-\begin_layout Subsubsection
-Using the bound pronouns
-\end_layout
-
-\begin_layout Standard
-In the vocabulary accompanying these lessons, you are given the 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- another
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-he/she/it \SpecialChar \ldots{}
- another
-\begin_inset Quotes erd
-\end_inset
-
- forms.
- These two forms will enable you to use any of the other bound pronouns
- to create new words and sentences.
- The following examples show how this done.
-\end_layout
-
-\begin_layout Paragraph*
-Example Vocabulary Entry
-\end_layout
-
-\begin_layout Description
-ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I see him/her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-As 
-\begin_inset Quotes eld
-\end_inset
-
-agowhtiha
-\begin_inset Quotes erd
-\end_inset
-
- does not start with the 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- prefix it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word.
- Removing the 
-\begin_inset Quotes eld
-\end_inset
-
-ji-
-\begin_inset Quotes erd
-\end_inset
-
- from the supplied 
-\begin_inset Quotes eld
-\end_inset
-
-I am \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
- form gives the partial word 
-\begin_inset Quotes eld
-\end_inset
-
--gowhtiha
-\begin_inset Quotes erd
-\end_inset
-
- to which we can add the 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- bound pronouns listed previously:
-\end_layout
-
-\begin_layout Itemize
-ji- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Wahya jigowhtiha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf, I see it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-We know to use 
-\begin_inset Quotes eld
-\end_inset
-
-ji-
-\begin_inset Quotes erd
-\end_inset
-
-, as this is the word provided in your vocabulary.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-jị- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Sadvdi jigowhtiha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A trap, I see it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ạgị- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi agigowhtiha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, it sees me.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Because this is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word this is the only valid meaning.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-hi- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi higowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, you see it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-hị- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Nvya higowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A rock, you see it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ja- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi jagowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, it sees you.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Because this is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word this is the only valid meaning.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-a- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Entoni doya agowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony, a beaver, he sees it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-ᏆᏆᎠ gasgilo agowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara, a chair, she sees it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-We know to use 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
-, as this is the provided vocabulary word.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ani- + -gowhtiha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Anitali wahya saloli anigowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Two wolves, a squirrel, they see it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Aniyvwi gasgilo anigowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-The people, a chair, they see it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Paragraph*
-Example Vocabulary Entry
-\end_layout
-
-\begin_layout Description
-ᎤᏚᎵᎭ [u¹du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she wants it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-As 
-\begin_inset Quotes eld
-\end_inset
-
-uduliha
-\begin_inset Quotes erd
-\end_inset
-
- starts with the 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- prefix it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- word.
- Removing the 
-\begin_inset Quotes eld
-\end_inset
-
-agw-
-\begin_inset Quotes erd
-\end_inset
-
- from the supplied 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
- form gives the partial word 
-\begin_inset Quotes eld
-\end_inset
-
--aduliha
-\begin_inset Quotes erd
-\end_inset
-
- to which we can add the other 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- bound pronouns as follows.
-\end_layout
-
-\begin_layout Itemize
-jiy- + -aduliha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Wahya jiyaduliha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf, I want it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-We use jiy- and not ji- because the word starts with a vowel.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-agi-/agw- + -aduliha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Sadvdi agwaduliha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A trap, I want it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because a trap is inanimate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi agwaduliha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, it wants me.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-Another \SpecialChar \ldots{}
- me
-\begin_inset Quotes erd
-\end_inset
-
- because a deer is animate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Agwaduliha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I want it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The most likely meaning is 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because the 
-\begin_inset Quotes eld
-\end_inset
-
-it
-\begin_inset Quotes erd
-\end_inset
-
- wasn't specified.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-We use 
-\begin_inset Quotes eld
-\end_inset
-
-agw-
-\begin_inset Quotes erd
-\end_inset
-
- and not 
-\begin_inset Quotes eld
-\end_inset
-
-agi-
-\begin_inset Quotes erd
-\end_inset
-
- because 
-\begin_inset Quotes eld
-\end_inset
-
--aduliha
-\begin_inset Quotes erd
-\end_inset
-
- starts with a vowel sound.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-hiy- + -aduliha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi hiyaduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, you want it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-We use hiy- and not hi- because the words starts with a vowel.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ja- + -aduliha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Nvya jaduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A rock, you want it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because a rock is inanimate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi jaduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, it wants you.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-Another \SpecialChar \ldots{}
- you
-\begin_inset Quotes erd
-\end_inset
-
- because a deer is animate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Jaduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-You want it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The most likely meaning is 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because the 
-\begin_inset Quotes eld
-\end_inset
-
-it
-\begin_inset Quotes erd
-\end_inset
-
- wasn't specified.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-u- + -aduliha (animate)
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-ᏆᏆᎠ doya uduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara, a beaver, she wants it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Entoni gasgilo uduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony, a chair, he wants it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-We know to use 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- and not 
-\begin_inset Quotes eld
-\end_inset
-
-uw-
-\begin_inset Quotes erd
-\end_inset
-
- as this is the supplied vocabulary word in the lesson material.
-\end_layout
-
-\begin_layout Itemize
-The 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- replaces 
-\begin_inset Quotes eld
-\end_inset
-
-a-
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-uni- + -aduliha (plural of the animate form)
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Anitali wahya saloli unaduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Two wolves, a squirrel, they want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Aniyvwi gasgilo unaduliha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-The people, a chair, they want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎬᏂᎭ [gv²hnị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎬᏂᎭ [gv¹nị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I am hitting it.
-\begin_inset Quotes erd
-\end_inset
-
- (The low fall tone on 
-\begin_inset Quotes eld
-\end_inset
-
-v
-\begin_inset Quotes erd
-\end_inset
-
- indicates this is 
-\begin_inset Quotes eld
-\end_inset
-
-I
-\begin_inset Quotes erd
-\end_inset
-
- and not 
-\begin_inset Quotes eld
-\end_inset
-
-he or she
-\begin_inset Quotes erd
-\end_inset
-
-).
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-As 
-\begin_inset Quotes eld
-\end_inset
-
-gvhniha
-\begin_inset Quotes erd
-\end_inset
-
- does not start with the 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- prefix it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word.
- Removing the 
-\begin_inset Quotes eld
-\end_inset
-
-g-
-\begin_inset Quotes erd
-\end_inset
-
- from the 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
- form gives the partial word 
-\begin_inset Quotes eld
-\end_inset
-
--vniha
-\begin_inset Quotes erd
-\end_inset
-
- to which we can add the other 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- bound pronouns as follows.
-\end_layout
-
-\begin_layout Itemize
-ji- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Wahya jiyvniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf, I am hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-The 
-\begin_inset Quotes eld
-\end_inset
-
-v
-\begin_inset Quotes erd
-\end_inset
-
- maintains the low fall tone.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-g- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Sadvdi gvniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A trap, I am hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-This is the word provided in your vocabulary.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ạgị- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi agwvniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, it is hitting me.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Because this is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word this is the only valid meaning.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-hi- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi hiyvniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, you are hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-hị- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Nvya hvniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A rock, you are hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ja- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Ahwi jvniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A deer, it is hitting you.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Because this is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- word this is the only valid meaning.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-g- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Entoni doya gvhniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony, a beaver, he is hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Gwagwaa gasgilo gvhniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara, a chair, she is hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-This is the word provided in your vocabulary.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ani- + -vniha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Aniyvwi saloli anvhniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-The people, a squirrel, they are hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Aniyvwi gasgilo anvhniha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-The people, a chair, they are hitting it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-This is the plural of the provided 
-\begin_inset Quotes eld
-\end_inset
-
-he \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
- vocabulary form and so maintains the added 
-\begin_inset Quotes eld
-\end_inset
-
-h
-\begin_inset Quotes erd
-\end_inset
-
- sound.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Description
-ᎤᎨᏳᎭ [u¹ge²yụ³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-He/she loves him/her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᎩᎨᏳᎭ [a¹gị²ge²yụ³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I am possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-As 
-\begin_inset Quotes eld
-\end_inset
-
-ugeyuha
-\begin_inset Quotes erd
-\end_inset
-
- starts with the 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- prefix it is a 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- word.
- Removing the 
-\begin_inset Quotes eld
-\end_inset
-
-agi-
-\begin_inset Quotes erd
-\end_inset
-
- from the 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
- form gives the partial word 
-\begin_inset Quotes eld
-\end_inset
-
--geyuha
-\begin_inset Quotes erd
-\end_inset
-
- to which we can add the other 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- bound pronouns as follows.
-\end_layout
-
-\begin_layout Itemize
-ji- + -geyuha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-ᏆᏆᎠ jigeyuha
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara, I love her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-agi-/agw- + -geyuha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Sadvdi agigeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A trap, I am possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because a trap is inanimate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Wahya agigeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf, it loves me.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-Another \SpecialChar \ldots{}
- me
-\begin_inset Quotes erd
-\end_inset
-
- because a wolf is animate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Agigeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I am possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-The most likely meaning is 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because the 
-\begin_inset Quotes eld
-\end_inset
-
-it
-\begin_inset Quotes erd
-\end_inset
-
- wasn't specified.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-hi- + -geyuha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Entoni higeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony, you love him.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ja- + -geyuha
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Nvya jageyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A rock, you are possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because a rock is inanimate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Wahya jageyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf, it loves you.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The only meaning that makes sense is 
-\begin_inset Quotes eld
-\end_inset
-
-Another \SpecialChar \ldots{}
- you
-\begin_inset Quotes erd
-\end_inset
-
- because a wolf is animate.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Jageyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-You are possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-The most likely meaning is 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
- because the 
-\begin_inset Quotes eld
-\end_inset
-
-it
-\begin_inset Quotes erd
-\end_inset
-
- wasn't specified.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-u- + -geyuha (animate)
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-ᏆᏆᎠ Entoni ugeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Barbara, Anthony, she loves him.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Entoni Gwagwaa ugeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony, Barbara, he loves her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Entoni gasgilo ugeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Anthony, a chair, he is possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-uni- + -geyuha (plural of animate form)
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Aniyvwi ᏆᏆᎠ unigeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-The people, Barbara, they love her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Aniyvwi gasgilo unigeyuha.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-The people, a chair, they are possessive of it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᏌᎪᏂᎨᎢ [sạ²ko²³nị³ge⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Blue
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It is blue
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Because 
-\begin_inset Quotes eld
-\end_inset
-
-sagonigei
-\begin_inset Quotes erd
-\end_inset
-
- does not start with the 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- prefix it uses the 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- bound pronouns.
- There is not a special 
-\begin_inset Quotes eld
-\end_inset
-
-I
-\begin_inset Quotes erd
-\end_inset
-
- form listed, so it uses the 
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- prefix 
-\begin_inset Quotes eld
-\end_inset
-
-ji-
-\begin_inset Quotes erd
-\end_inset
-
- for 
-\begin_inset Quotes eld
-\end_inset
-
-I
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-ji- + -sagonigei
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Jisagonigei.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I-blue
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I am blue.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-hi- + -sagonigei
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Hisagonigei.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-you-blue
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-You are blue.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-a- + -sagonigei
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Asagonigei.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-he/she-blue
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-It's blue.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ani- + -sagonigei
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Anisagonigei.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-they-animate-blue
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-They are blue.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Because 
-\begin_inset Quotes eld
-\end_inset
-
-sagonigei
-\begin_inset Quotes erd
-\end_inset
-
- is a descriptive word it only uses prefixes that have a meaning that match
- 
-\begin_inset Quotes eld
-\end_inset
-
-\SpecialChar \ldots{}
- another
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Description
-ᎤᏲᎢ [u²yo⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Bad
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-He, she or it is bad
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Because 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- starts with the 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- prefix it uses the 
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- bound pronouns.
- Because there is not a special 
-\begin_inset Quotes eld
-\end_inset
-
-I
-\begin_inset Quotes erd
-\end_inset
-
- form listed, we simply drop 
-\begin_inset Quotes eld
-\end_inset
-
-u-
-\begin_inset Quotes erd
-\end_inset
-
- to give the partial word 
-\begin_inset Quotes eld
-\end_inset
-
--yoi
-\begin_inset Quotes erd
-\end_inset
-
- to which we can add the 
-\begin_inset Quotes eld
-\end_inset
-
-agi-
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ja-
-\begin_inset Quotes erd
-\end_inset
-
- bound pronouns.
-\end_layout
-
-\begin_layout Itemize
-agi- + -yoi
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Agiyoi.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I-bad.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I am bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ja- + -yoi
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Jayoi.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-you-bad
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-You are bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-u- + -yoi
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Uyoi.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-he/she/it-bad.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-He/she/it is bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-This is the word provided in your vocabulary.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-uni- + -yoi
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Uniyoi.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-they-animate-bad.
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-They're bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Because 
-\begin_inset Quotes eld
-\end_inset
-
-uyoi
-\begin_inset Quotes erd
-\end_inset
-
- is a descriptive word it only uses prefixes that have a meaning that match
- 
-\begin_inset Quotes eld
-\end_inset
-
-\SpecialChar \ldots{}
- another
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏚᎵᎭ [u¹du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she wants it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I see him/her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
- Colored.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
- Colored.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Animate.
-\end_layout
-
-\begin_layout Description
-ᏧᎵᏑᏫᏓ [jul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
- Colored.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Inanimate.
 \end_layout
 
 \end_deeper
