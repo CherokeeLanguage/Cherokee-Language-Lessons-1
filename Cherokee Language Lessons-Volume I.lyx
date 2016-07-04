@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.234 $
+$Revision: 1.235 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/04 01:23:09 $ UTC
+$Date: 2016/07/04 01:29:31 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.234 $
+$Revision: 1.235 $
 \noun default
 .
 \end_layout
@@ -116460,28 +116460,22 @@ raggedcolumns
 \end_inset
 
 Color.
- Colored.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_deeper
 \begin_layout Description
 ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
 \begin_inset Quotes eld
 \end_inset
 
-Color.
- Colored.
+Color-them-animate.
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Plural.
- Animate.
+
 \end_layout
 
 \begin_layout Description
@@ -116489,18 +116483,13 @@ Plural.
 \begin_inset Quotes eld
 \end_inset
 
-Color.
- Colored.
+Color-them-inanimate.
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-Plural.
- Inanimate.
+
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
