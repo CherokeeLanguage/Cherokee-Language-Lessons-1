@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.243 $
+$Revision: 1.244 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/04 04:10:40 $ UTC
+$Date: 2016/07/04 04:13:13 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.243 $
+$Revision: 1.244 $
 \noun default
 .
 \end_layout
@@ -116411,12 +116411,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏐᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Eighteenth Lesson
+Nineteenth Lesson
 \end_layout
 
 \end_inset
@@ -121555,12 +121555,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏔᎵᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Eighteenth Lesson
+Twentieth Lesson
 \end_layout
 
 \end_inset
@@ -123852,12 +123852,12 @@ Write out each of the following Cherokee sentences followed by an English
 \end_layout
 
 \begin_layout Chapter
-ᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏔᎵᏍᎪ ᏌᏊᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
 status collapsed
 
 \begin_layout Plain Layout
-Eighteenth Lesson
+Twenty First Lesson
 \end_layout
 
 \end_inset
@@ -123867,78 +123867,6 @@ Eighteenth Lesson
 
 \begin_layout Section
 ᏘᎪᎵᏯ (Read them)
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color-them-animate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏧᎵᏑᏫᏓ [jul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color-them-inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -123985,86 +123913,6 @@ All.
 
 Hurry.
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏚᎵᎭ [u¹du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she wants it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-ᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-Eighteenth Lesson
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-ᏘᎪᎵᏯ (Read them)
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
 \end_inset
 
 
@@ -126510,12 +126358,12 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏐᏁᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏔᎵᏍᎪ ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Nineteenth Lesson
+Twenty Second Lesson
 \end_layout
 
 \end_inset
