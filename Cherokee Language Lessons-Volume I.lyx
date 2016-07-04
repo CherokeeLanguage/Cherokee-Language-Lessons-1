@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.244 $
+$Revision: 1.245 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/04 04:13:13 $ UTC
+$Date: 2016/07/04 04:23:54 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.244 $
+$Revision: 1.245 $
 \noun default
 .
 \end_layout
@@ -126360,7 +126360,7 @@ end{multicols}
 \begin_layout Chapter
 ᏔᎵᏍᎪ ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Twenty Second Lesson
