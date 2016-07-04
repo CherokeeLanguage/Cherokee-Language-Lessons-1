@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.236 $
+$Revision: 1.237 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/04 01:32:35 $ UTC
+$Date: 2016/07/04 01:33:30 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.236 $
+$Revision: 1.237 $
 \noun default
 .
 \end_layout
@@ -116985,6 +116985,15 @@ You will need to add three each of the following cards.
 \noindent
 \align center
 \begin_inset Graphics
+	filename artwork/objects-animate/ahwi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
 	filename artwork/objects-animate/soquili.png
 	lyxscale 15
 	width 15col%
@@ -116995,6 +117004,15 @@ You will need to add three each of the following cards.
  
 \begin_inset Graphics
 	filename artwork/objects-animate/wahya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-ahwi.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117023,9 +117041,9 @@ You will need to add three each of the following cards.
 \end_layout
 
 \begin_layout Standard
-Label each card on the reverse as follows: ᎤᏬᏗᎨ ᏐᏈᎵ, ᎤᏬᏗᎨ ᏩᎭᏯ, ᏧᏃᏗᎨ ᏐᏈᎵ,
- ᏧᏃᏗᎨ ᏩᎭᏯ, ᎠᎩᎦᎨ ᏐᏈᎵ, ᎠᎩᎦᎨ ᏩᎭᏯ, ᎠᏂᎩᎦᎨ ᏐᏈᎵ, ᎠᏂᎩᎦᎨ ᏩᎭᏯ, ᎤᏁᎦ ᏐᏈᎵ, ᎤᏁᎦ ᏩᎭᏯ, ᎤᏂᏁᎦ
- ᏐᏈᎵ, ᎤᏂᏁᎦ ᏩᎭᏯ.
+Label each card on the reverse as follows: ᎤᏬᏗᎨ ᎠᏫ, ᎤᏬᏗᎨ ᏐᏈᎵ, ᎤᏬᏗᎨ ᏩᎭᏯ,
+ ᏧᏃᏗᎨ ᎠᏫ, ᏧᏃᏗᎨ ᏐᏈᎵ, ᏧᏃᏗᎨ ᏩᎭᏯ, ᎠᎩᎦᎨ ᎠᏫ, ᎠᎩᎦᎨ ᏐᏈᎵ, ᎠᎩᎦᎨ ᏩᎭᏯ, ᎠᏂᎩᎦᎨ ᎠᏫ, ᎠᏂᎩᎦᎨ
+ ᏐᏈᎵ, ᎠᏂᎩᎦᎨ ᏩᎭᏯ, ᎤᏁᎦ ᎠᏫ, ᎤᏁᎦ ᏐᏈᎵ, ᎤᏁᎦ ᏩᎭᏯ, ᎤᏂᏁᎦ ᎠᏫ, ᎤᏂᏁᎦ ᏐᏈᎵ, ᎤᏂᏁᎦ ᏩᎭᏯ.
 \end_layout
 
 \begin_layout Standard
@@ -117360,6 +117378,673 @@ You will need to reuse the following blind-folded people index cards:
 \end_inset
 
 
+\end_layout
+
+\begin_layout Subsection
+Groups
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Any remaining people are grouped together and are designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, rotate positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+, and one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Keep rotating until everyone has been in position 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, starting over with the first set of challenges as needed.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be read from the book.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be done without reading the book.
+ 
+\end_layout
+
+\begin_layout Standard
+Each challenge-response should be done as in the following examples:
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects a rabbit card and shows the picture to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ→Ꭱ] ᏥᏯᎧᎭᏍ ᏥᏍᏚ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Do I have a rabbit?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎥᎥ, ᏥᏍᏚ ᎯᏯᎧᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: Yes, you have a rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects a bear card and shows the picture to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ→Ꭱ] ᏥᏯᎧᎭᏍᎪ ᎠᎭᏫ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Do I have a deer?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎥᏝ, ᏲᎾ ᎯᏯᎧᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: No, you have a bear.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ.
+ ᎠᏲᏁᎦ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects a deer card and a white person card and places them together..
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ→Ꭱ] ᎠᏫᏍ ᎤᏩᎧᎭᏍᎪ ᎠᏲᏁᎦ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Does the white person have a deer?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎥᎥ, ᏲᏁᎦ ᎠᏫ ᎤᏩᎧᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: Yes, the white person has a deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏚᏯ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects a brown bean card and shows the picture to 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ→Ꭱ] ᎠᎩᎭᏍ  ᎩᎨ ᏄᎾ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Do I have a red potato?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎥᏝ, ᎤᏬᏗᎨ ᏚᏯ ᏣᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: No, you have a brown bean.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ.
+ ᎠᏴᏫ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ selects a squirrel card and a generic person card and places them together..
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ→Ꭱ] ᏥᏍᏚᏍ ᎤᏩᎧᎭ ᎠᏴᏫ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ asks 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+: Does the person have a rabbit?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎥᏝ, ᎠᏴᏫ ᏌᎶᎵ ᎤᏩᎧᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responds: No, the person has a squirrel.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Someone Alone
+\end_layout
+
+\begin_layout Standard
+For the exercises you can either use index cards or use the list directly
+ from the book.
+\end_layout
+
+\begin_layout Standard
+If using the list in the book, be sure to cover up the answers with an index
+ card or sheet of paper until the answer needs checking.
+\end_layout
+
+\begin_layout Standard
+If using index cards, write the challenge on the front of each card.
+ Write all the responses on the back of each card.
+\end_layout
+
+\begin_layout Standard
+Each item should be done as in the following examples:
+\end_layout
+
+\begin_layout Standard
+Use a stuffed animal or pillow as an imaginary study partner.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+There are three main challenge types.
+ Those with people cards and animals, those with only people cards, and
+ those with only animal cards.
+ Each one is done differently.
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Select and hold a rabbit card.
+\end_layout
+
+\begin_layout Enumerate
+Point at your self and say to your study partner ᏥᏍᏚ ᏥᏯᎧᎭ.
+ (I have a rabbit.)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point at your partner and say Ꮭ ᏥᏍᏚ ᏱᎯᏯᎧᎭ.
+ (You don't have a rabbit.)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Place the card with your imaginary study partner.
+\end_layout
+
+\begin_layout Enumerate
+Point at yourself and say to your patner Ꮭ ᏥᏍᏚ ᏱᏥᏯᎧᎭ.
+ (I don't have a rabbit.)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point at your partner and say ᏥᏍᏚ ᎯᏯᎧᎭ.
+ (You have a rabbit.)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Check the answer and that you are using the correct card.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ [blind-folded]
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Select a generic person card that is blind-folded.
+\end_layout
+
+\begin_layout Enumerate
+Pretend aloud that your study partner asks Ꮎ ᎠᏴᏫ, ᏣᎪᏩᏘᎭᏍ? (That person,
+ does he/she see you?)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point at the card and say to your partner Ꮭ ᎠᏴᏫ ᏯᎩᎪᏩᏘᎭ.
+ (The person does not see me.)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Check the answer and that you are using the correct card.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏣᎳᎩ [not-blind-folded]
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Select a Cherokee person card that isn't blind-folded.
+\end_layout
+
+\begin_layout Enumerate
+Pretend aloud that your study partner asks Ꮎ ᎠᏣᎳᎩ, ᏣᎪᏩᏘᎭᏍ? (That Cherokee,
+ does he/she see you?)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Point at the card and say to your partner ᎥᎥ, ᎠᏣᎳᎩ ᎠᎩᎪᏩᏘᎭ.
+ (Yes, the Cherokee person sees me.)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Check the answer and that you are using the correct card.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ.
+ ✓ ᎠᏂᏴᏫᏯᎢ.
+ ✗ ᎠᏂᏣᎳᎩ.
+ ᎥᏍᎩ.
+\begin_inset Newline newline
+\end_inset
+
+The ✓ indicates they have it.
+ The ✗ indicates they don't have it.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Select a bear card and a Native American people card and place them with
+ each other.
+ Select a Cherokee people card and place it by itself.
+\end_layout
+
+\begin_layout Enumerate
+Point to the bear and Native American cards and say:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+ᎠᏂᏴᏫᏯᎢ ᏲᎾ ᎤᏂᎧᎭ.
+ (The Native Americans have a bear.)
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏍᎩ ᏲᎾ ᎤᏂᎧᎭ.
+ (They have a bear.)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Point to the Cherokee people card and say:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Ꮭ ᎠᏂᏣᎳᎩ ᏲᎾ ᏳᏂᎧᎭ.
+ (The Cherokee people don't have a bear.)
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᎥᏍᎩ ᏲᎾ ᏳᏂᎧᎭ.
+ (They don't have a bear.)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Check the answer and that you are using the correct card.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+☞ 
+\emph on
+Use the 
+\begin_inset Quotes eld
+\end_inset
+
+Sets for Someone Alone
+\begin_inset Quotes erd
+\end_inset
+
+ section for your exercises.
+\end_layout
+
+\begin_layout Subsection*
+Sets for Groups
+\end_layout
+
+\begin_layout Subsection*
+Sets for Someone Alone
+\end_layout
+
+\begin_layout Section
+ᏙᏪᎸᎦ (Write them)
+\end_layout
+
+\begin_layout Subsection*
+Translate into English
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee sentences with an English translation.
+ Compare your answers to the answers in the next section.
+ ☞ 
+\emph on
+Some of the Cherokee has pronunciation marks such as underdots and tone
+ markings added.
+ You should not write out these pronunciation marks.
 \end_layout
 
 \begin_layout Subsubsection
