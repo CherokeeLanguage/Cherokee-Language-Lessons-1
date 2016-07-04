@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.237 $
+$Revision: 1.238 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/04 01:33:30 $ UTC
+$Date: 2016/07/04 02:36:24 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.237 $
+$Revision: 1.238 $
 \noun default
 .
 \end_layout
@@ -108547,7 +108547,7 @@ You will need to create three copies each of the following index cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/gihli.png
+	filename artwork/objects-animate/ahwi.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108574,7 +108574,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wesa.png
+	filename artwork/objects-animate/wahya.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108644,21 +108644,21 @@ You will need to create three copies each of the following index cards.
 \end_layout
 
 \begin_layout Standard
-The red cards should be labeled on the reverse, in order: ᎠᎩᎦᎨ ᎩᏟ, ᎠᎩᎦᎨ
- ᏥᏍᏚ, ᎠᎩᎦᎨ ᏌᎶᎵ, ᎠᎩᎦᎨ ᏪᏌ, ᎠᎩᎦᎨ ᏲᎾ, ᎠᎩᎦᎨ ᎫᎴ, ᎠᎩᎦᎨ ᏅᏯ, ᎠᎩᎦᎨ ᏄᎾ, ᎠᎩᎦᎨ ᏌᏛᏗ, and
- ᎠᎩᎦᎨ ᏚᏯ.
+The red cards should be labeled on the reverse, in order: ᎠᎩᎦᎨ ᎠᏫ, ᎠᎩᎦᎨ
+ ᏥᏍᏚ, ᎠᎩᎦᎨ ᏌᎶᎵ, ᎠᎩᎦᎨ ᏩᎭᏯ, ᎠᎩᎦᎨ ᏲᎾ, ᎠᎩᎦᎨ ᎫᎴ, ᎠᎩᎦᎨ ᏅᏯ, ᎠᎩᎦᎨ ᏄᎾ, ᎠᎩᎦᎨ ᏌᏛᏗ,
+ and ᎠᎩᎦᎨ ᏚᏯ.
 \end_layout
 
 \begin_layout Standard
-The white cards should be labeled on the reverse, in order: ᎤᏁᎦ ᎩᏟ, ᎤᏁᎦ
- ᏥᏍᏚ, ᎤᏁᎦ ᏌᎶᎵ, ᎤᏁᎦ ᏪᏌ, ᎤᏁᎦ ᏲᎾ, ᎤᏁᎦ ᎫᎴ, ᎤᏁᎦ ᏅᏯ, ᎤᏁᎦ ᏄᎾ, ᎤᏁᎦ ᏌᏛᏗ, and ᎤᏁᎦ
+The white cards should be labeled on the reverse, in order: ᎤᏁᎦ ᎠᏫ, ᎤᏁᎦ
+ ᏥᏍᏚ, ᎤᏁᎦ ᏌᎶᎵ, ᎤᏁᎦ ᏩᎭᏯ, ᎤᏁᎦ ᏲᎾ, ᎤᏁᎦ ᎫᎴ, ᎤᏁᎦ ᏅᏯ, ᎤᏁᎦ ᏄᎾ, ᎤᏁᎦ ᏌᏛᏗ, and ᎤᏁᎦ
  ᏚᏯ.
 \end_layout
 
 \begin_layout Standard
-The brown cards should be labeled on the reverse, in order: ᎤᏬᏗᎨ ᎩᏟ, ᎤᏬᏗᎨ
- ᏥᏍᏚ, ᎤᏬᏗᎨ ᏌᎶᎵ, ᎤᏬᏗᎨ ᏪᏌ, ᎤᏬᏗᎨ ᏲᎾ, ᎤᏬᏗᎨ ᎫᎴ, ᎤᏬᏗᎨ ᏅᏯ, ᎤᏬᏗᎨ ᏄᎾ, ᎤᏬᏗᎨ ᏌᏛᏗ, and
- ᎤᏬᏗᎨ ᏚᏯ.
+The brown cards should be labeled on the reverse, in order: ᎤᏬᏗᎨ ᎠᏫ, ᎤᏬᏗᎨ
+ ᏥᏍᏚ, ᎤᏬᏗᎨ ᏌᎶᎵ, ᎤᏬᏗᎨ ᏩᎭᏯ, ᎤᏬᏗᎨ ᏲᎾ, ᎤᏬᏗᎨ ᎫᎴ, ᎤᏬᏗᎨ ᏅᏯ, ᎤᏬᏗᎨ ᏄᎾ, ᎤᏬᏗᎨ ᏌᏛᏗ,
+ and ᎤᏬᏗᎨ ᏚᏯ.
 \end_layout
 
 \begin_layout Standard
@@ -112502,7 +112502,7 @@ You will need to reuse the following cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/gihli.png
+	filename artwork/objects-animate/ahwi.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112529,7 +112529,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wesa.png
+	filename artwork/objects-animate/wahya.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116878,7 +116878,7 @@ You will need to reuse the following cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/gihli.png
+	filename artwork/objects-animate/ahwi.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116905,7 +116905,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wesa.png
+	filename artwork/objects-animate/wahya.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116985,7 +116985,7 @@ You will need to add three each of the following cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/ahwi.png
+	filename artwork/objects-animate/gihli.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117003,16 +117003,21 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wahya.png
+	filename artwork/objects-animate/wesa.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
 
 \end_inset
 
- 
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-ahwi.png
+	filename artwork/objects-animate/anitali-gihli.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117030,7 +117035,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wahya.png
+	filename artwork/objects-animate/anitali-wesa.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117041,9 +117046,9 @@ You will need to add three each of the following cards.
 \end_layout
 
 \begin_layout Standard
-Label each card on the reverse as follows: ᎤᏬᏗᎨ ᎠᏫ, ᎤᏬᏗᎨ ᏐᏈᎵ, ᎤᏬᏗᎨ ᏩᎭᏯ,
- ᏧᏃᏗᎨ ᎠᏫ, ᏧᏃᏗᎨ ᏐᏈᎵ, ᏧᏃᏗᎨ ᏩᎭᏯ, ᎠᎩᎦᎨ ᎠᏫ, ᎠᎩᎦᎨ ᏐᏈᎵ, ᎠᎩᎦᎨ ᏩᎭᏯ, ᎠᏂᎩᎦᎨ ᎠᏫ, ᎠᏂᎩᎦᎨ
- ᏐᏈᎵ, ᎠᏂᎩᎦᎨ ᏩᎭᏯ, ᎤᏁᎦ ᎠᏫ, ᎤᏁᎦ ᏐᏈᎵ, ᎤᏁᎦ ᏩᎭᏯ, ᎤᏂᏁᎦ ᎠᏫ, ᎤᏂᏁᎦ ᏐᏈᎵ, ᎤᏂᏁᎦ ᏩᎭᏯ.
+Label each card on the reverse as follows: ᎤᏬᏗᎨ ᎩᏟ, ᎤᏬᏗᎨ ᏐᏈᎵ, ᎤᏬᏗᎨ ᏪᏌ, ᏧᏃᏗᎨ
+ ᎩᏟ, ᏧᏃᏗᎨ ᏐᏈᎵ, ᏧᏃᏗᎨ ᏪᏌ, ᎠᎩᎦᎨ ᎩᏟ, ᎠᎩᎦᎨ ᏐᏈᎵ, ᎠᎩᎦᎨ ᏪᏌ, ᎠᏂᎩᎦᎨ ᎩᏟ, ᎠᏂᎩᎦᎨ ᏐᏈᎵ,
+ ᎠᏂᎩᎦᎨ ᏪᏌ, ᎤᏁᎦ ᎩᏟ, ᎤᏁᎦ ᏐᏈᎵ, ᎤᏁᎦ ᏪᏌ, ᎤᏂᏁᎦ ᎩᏟ, ᎤᏂᏁᎦ ᏐᏈᎵ, ᎤᏂᏁᎦ ᏪᏌ.
 \end_layout
 
 \begin_layout Standard
@@ -117057,7 +117062,7 @@ You will need to add three each of the following cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-gihli.png
+	filename artwork/objects-animate/anitali-ahwi.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117084,7 +117089,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wesa.png
+	filename artwork/objects-animate/anitali-wahya.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117104,9 +117109,9 @@ You will need to add three each of the following cards.
 \end_layout
 
 \begin_layout Standard
-Label each card on the reverse as follows: ᏧᏃᏗᎨ ᎩᏟ, ᏧᏃᏗᎨ ᏥᏍᏚ, ᏧᏃᏗᎨ ᏌᎶᎵ,
- ᏧᏃᏗᎨ ᏪᏌ, ᏧᏃᏗᎨ ᏲᎾ, ᎠᏂᎩᎦᎨ ᎩᏟ, ᎠᏂᎩᎦᎨ ᏥᏍᏚ, ᎠᏂᎩᎦᎨ ᏌᎶᎵ, ᎠᏂᎩᎦᎨ ᏪᏌ, ᎠᏂᎩᎦᎨ ᏲᎾ, ᎤᏂᏁᎦ
- ᎩᏟ, ᎤᏂᏁᎦ ᏥᏍᏚ, ᎤᏂᏁᎦ ᏌᎶᎵ, ᎤᏂᏁᎦ ᏪᏌ, ᎤᏂᏁᎦ ᏲᎾ.
+Label each card on the reverse as follows: ᏧᏃᏗᎨ ᎠᏫ, ᏧᏃᏗᎨ ᏥᏍᏚ, ᏧᏃᏗᎨ ᏌᎶᎵ,
+ ᏧᏃᏗᎨ ᏩᎭᏯ, ᏧᏃᏗᎨ ᏲᎾ, ᎠᏂᎩᎦᎨ ᎠᏫ, ᎠᏂᎩᎦᎨ ᏥᏍᏚ, ᎠᏂᎩᎦᎨ ᏌᎶᎵ, ᎠᏂᎩᎦᎨ ᏩᎭᏯ, ᎠᏂᎩᎦᎨ ᏲᎾ,
+ ᎤᏂᏁᎦ ᎠᏫ, ᎤᏂᏁᎦ ᏥᏍᏚ, ᎤᏂᏁᎦ ᏌᎶᎵ, ᎤᏂᏁᎦ ᏩᎭᏯ, ᎤᏂᏁᎦ ᏲᎾ.
 \end_layout
 
 \begin_layout Standard
