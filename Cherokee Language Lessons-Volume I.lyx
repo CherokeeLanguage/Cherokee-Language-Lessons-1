@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.246 $
+$Revision: 1.247 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/04 04:24:15 $ UTC
+$Date: 2016/07/05 02:22:41 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.246 $
+$Revision: 1.247 $
 \noun default
 .
 \end_layout
@@ -121573,7 +121573,38 @@ Twentieth Lesson
 \end_layout
 
 \begin_layout Standard
-In the vocabulary for this lesson you are going to see references to 
+The Cherokee words for 
+\begin_inset Quotes eld
+\end_inset
+
+is
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+was
+\begin_inset Quotes erd
+\end_inset
+
+, and 
+\begin_inset Quotes eld
+\end_inset
+
+will be
+\begin_inset Quotes erd
+\end_inset
+
+ work a little differently than they do in English.
+ The words have special forms to indicate just now, now and on going, usually,
+ a while ago, first hand knowledge, and second hand knowledge.
+\end_layout
+
+\begin_layout Standard
+The special first hand and second hand knowledge forms will be indicated
+ by references to 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121628,67 +121659,14 @@ Without personal knowledge
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-
+☞ 
 \emph on
-With personal knowledge
-\emph default
-
-\begin_inset Quotes erd
-\end_inset
-
- is indicated by the -ᎥᎩ (-v²³gi) ending.
- In English we indicate this by phrases such as 
+In some materials you will see these words grouped as one and referred to
+ as 
 \begin_inset Quotes eld
 \end_inset
 
-I saw \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-I know for a fact that \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-
-\emph on
-Without personal knowledge
-\begin_inset Quotes erd
-\end_inset
-
-
-\emph default
- is indicated by the -ᎡᎢ (-e²³ɂi) ending.
- In English we indicate this by phrases such as 
-\begin_inset Quotes eld
-\end_inset
-
-Reportedly \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-Supposedly \SpecialChar \ldots{}
-
+the copula
 \begin_inset Quotes erd
 \end_inset
 
@@ -121867,6 +121845,138 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+When looking at the previous vocabulary, it should be easy to see a pattern
+ that indicates some common endings.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Being
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ is indicated by the -ᎥᎢ (-v²³i) ending.
+ In English we indicate this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+His being \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+With personal knowledge
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ is indicated by the -ᎥᎩ (-v²³gi) ending.
+ In English we indicate this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+I saw \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I know for a fact that \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Without personal knowledge
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ is indicated by the -ᎡᎢ (-e²³ɂi) ending.
+ In English we indicate this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+Reportedly \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Supposedly \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Usually
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ is indicated by the -ᎣᎢ (-o³ɂi) ending.
+ In English we indication this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+Usually \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Often \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -122840,6 +122950,34 @@ It will be good.
 \end_layout
 
 \begin_layout Section
+ᏂᏔᏛᎦ (Do them)
+\end_layout
+
+\begin_layout Section
+ᏙᏪᎸᎦ (Write them)
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee sentences followed by an English
+ translation.
+ Compare your answers to the answers in the ᎩᎵᏏ section.
+\end_layout
+
+\begin_layout Chapter
+ᏔᎵᏍᎪ ᏌᏊᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Twenty First Lesson
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 ᏘᎪᎵᏯ (Read them)
 \end_layout
 
@@ -122921,87 +123059,6 @@ Tables.
 
 On a chair or on a table.
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-When indicating quantities some speakers add “ᎢᏯᏂ” after the number for
- living things and “ᎢᎦ” after the number for non-living things.
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-If unclear, assume objects go on tables and people sit on chairs.
-\end_layout
-
-\begin_layout Section
-ᏂᏔᏛᎦ (Do them)
-\end_layout
-
-\begin_layout Section
-ᏙᏪᎸᎦ (Write them)
-\end_layout
-
-\begin_layout Standard
-Write out each of the following Cherokee sentences followed by an English
- translation.
- Compare your answers to the answers in the ᎩᎵᏏ section.
-\end_layout
-
-\begin_layout Chapter
-ᏔᎵᏍᎪ ᏌᏊᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
-\begin_inset Argument 1
-status collapsed
-
-\begin_layout Plain Layout
-Twenty First Lesson
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section
-ᏘᎪᎵᏯ (Read them)
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
 \end_inset
 
 
@@ -123146,6 +123203,19 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+When indicating quantities some speakers add “ᎢᏯᏂ” after the number for
+ living things and “ᎢᎦ” after the number for non-living things.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+If unclear, assume objects go on tables and people sit on chairs.
 \end_layout
 
 \begin_layout Section
