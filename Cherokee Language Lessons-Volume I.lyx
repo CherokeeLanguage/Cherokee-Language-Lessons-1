@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.245 $
+$Revision: 1.246 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/04 04:23:54 $ UTC
+$Date: 2016/07/04 04:24:15 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.245 $
+$Revision: 1.246 $
 \noun default
 .
 \end_layout
@@ -121573,11 +121573,15 @@ Twentieth Lesson
 \end_layout
 
 \begin_layout Standard
-Cherokee uses a special set of words for the English 
+In the vocabulary for this lesson you are going to see references to 
 \begin_inset Quotes eld
 \end_inset
 
-is
+
+\emph on
+with personal knowledge
+\emph default
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -121585,28 +121589,134 @@ is
 \begin_inset Quotes eld
 \end_inset
 
-are
+
+\emph on
+without personal knowlege
+\emph default
+
 \begin_inset Quotes erd
 \end_inset
 
 .
- ☞ 
-\emph on
-Take special note of the 
+ 
 \begin_inset Quotes eld
 \end_inset
 
-time sense
+
+\emph on
+With personal knowledge
+\emph default
+
 \begin_inset Quotes erd
 \end_inset
 
- that is indicated with each word.
+ indicates being a first hand witness.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Without personal knowledge
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ indicates being told something by someone else making your information
+ second hand.
 \end_layout
 
-\begin_layout Subsection*
-Is.
- Are.
- (Recent Past.)
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+With personal knowledge
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ is indicated by the -ᎥᎩ (-v²³gi) ending.
+ In English we indicate this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+I saw \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I know for a fact that \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
+Without personal knowledge
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ is indicated by the -ᎡᎢ (-e²³ɂi) ending.
+ In English we indicate this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+Reportedly \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Supposedly \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -121615,9 +121725,128 @@ Is.
 \end_inset
 
 Is.
- Are.
- Just now was.
- Just now were.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Is now or was just now.
+\end_layout
+
+\begin_layout Description
+ᎢᎦ [i⁴ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Is.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Now and ongoing.
+\end_layout
+
+\begin_layout Description
+ᎨᏐᎢ [ge¹so³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Is.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Usually, habitually, or on certain occasions.
+\end_layout
+
+\begin_layout Description
+ᎨᏒᎢ [ge¹sv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎨᏒᎩ [ge¹sv²³gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Was being.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+With personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+ᎨᏎᎢ [ge¹se³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Was being.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+ᎨᎲᎢ [ge¹hv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Been (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎨᎲᎩ [ge¹hv²³gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Was (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+With personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+ᎨᎮᎢ [ge¹he³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Was (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+ᎨᏎᏍᏗ [ge¹se³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Will be being.
 \begin_inset Quotes erd
 \end_inset
 
@@ -121625,36 +121854,245 @@ Is.
 \end_layout
 
 \begin_layout Standard
-This word roughly means both 
-\begin_inset Quotes eld
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
 \end_inset
 
-just now is
-\begin_inset Quotes erd
-\end_inset
 
- and 
-\begin_inset Quotes eld
-\end_inset
-
-just now was
-\begin_inset Quotes erd
-\end_inset
-
-.
- Most of the time you can consider it as simply meaning 
-\begin_inset Quotes eld
-\end_inset
-
-is
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Standard
+They can be combined with Ꮭ/Ᏹ- to create the standard not forms:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎢᎩ [hla yi⁴gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎢᎦ [hla yi⁴ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏐᎢ [hla yi²ge¹so³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't usually.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏒᎢ [hla yi²ge¹sv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Not being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏒᎩ [hla yi²ge¹sv²³gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't being.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+With personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏎᎢ [hla yi²ge¹se³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't being.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᎲᎢ [hla yi²ge¹hv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Had not been (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᎲᎩ [hla yi²ge¹hv²³gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+With personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᎮᎢ [hla yi²ge¹he³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowlege, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏎᏍᏗ [hla yi²ge¹se³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Will not be being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
 Examples:
+\end_layout
+
+\begin_layout Description
+ᎢᎩ [i⁴gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Is.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Is now or was just now.
 \end_layout
 
 \begin_layout Itemize
@@ -121819,54 +122257,15 @@ It is good.
 \begin_inset space ~
 \end_inset
 
-_____
-\begin_inset space ~
-\end_inset
-
-ᏱᎩ [hla _____ yi⁴gi] 
+ᎢᎩ [hla yi⁴gi] 
 \begin_inset Quotes eld
 \end_inset
 
 Isn't.
- Aren't.
- Just now wasn't.
- Just now weren't.
 \begin_inset Quotes erd
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-When you add the Cherokee word 
-\begin_inset Quotes eld
-\end_inset
-
-Ꮭ
-\begin_inset Quotes erd
-\end_inset
-
- and also add the prefix 
-\begin_inset Quotes eld
-\end_inset
-
-Ᏹ-
-\begin_inset Quotes erd
-\end_inset
-
- to 
-\begin_inset Quotes eld
-\end_inset
-
-ᎢᎩ
-\begin_inset Quotes erd
-\end_inset
-
- you create a negative sentence.
-\end_layout
-
-\begin_layout Standard
-Examples:
 \end_layout
 
 \begin_layout Itemize
@@ -122028,122 +122427,10 @@ Just now it wasn't bad.
 \end_layout
 
 \end_deeper
-\begin_layout Description
-ᏱᎩ [yi⁴gi] 
-\begin_inset Quotes eld
-\end_inset
-
-If it is.
- If it just now was.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
-When you use only 
-\begin_inset Quotes eld
-\end_inset
-
-Ᏹ-
-\begin_inset Quotes erd
-\end_inset
-
- and do not use 
-\begin_inset Quotes eld
-\end_inset
-
-Ꮭ
-\begin_inset Quotes erd
-\end_inset
-
-, you create a statement that sits between 
-\begin_inset Quotes eld
-\end_inset
-
-it is
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-it isn't
-\begin_inset Quotes erd
-\end_inset
-
-.
- This is similar to the English words 
-\begin_inset Quotes eld
-\end_inset
-
-if
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-maybe
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Examples:
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎩ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Maybe Anthony is bad.
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-Maybe Anthony was just now bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎩ, ᎡᏅᏙᏂ Ꮭ ᎣᏍᏓ ᏱᎩ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony is bad, Anthony is not good.
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony just now was bad, Anthony just now was not good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-⚠ 
+☞ 
 \emph on
-Recent here refers to a period of time from 
+Recent refers to a period of time from 
 \begin_inset Quotes eld
 \end_inset
 
@@ -122154,66 +122441,18 @@ just now
  to within a few hours ago.
 \end_layout
 
-\begin_layout Subsection*
-Is.
- Are.
- (Now and ongoing.)
-\end_layout
-
 \begin_layout Description
 ᎢᎦ [i⁴ga] 
 \begin_inset Quotes eld
 \end_inset
 
 Is.
- Are.
 \begin_inset Quotes erd
 \end_inset
 
- - 
+ ☞ 
 \emph on
-Is now and ongoing.
-\end_layout
-
-\begin_layout Standard
-This word roughly means both 
-\begin_inset Quotes eld
-\end_inset
-
-is now
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-is ongoing
-\begin_inset Quotes erd
-\end_inset
-
-.
- It is also indicates some degree of 
-\begin_inset Quotes eld
-\end_inset
-
-it is that way
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-so it is
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Examples:
+Now and ongoing.
 \end_layout
 
 \begin_layout Itemize
@@ -122285,216 +122524,17 @@ It is an ongoing good.
 \end_layout
 
 \begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-_____
-\begin_inset space ~
-\end_inset
-
-ᏱᎦ [hla _____ yi⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-Is not.
- Are not.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Not as of now and not expected soon.
-\end_layout
-
-\begin_layout Standard
-Examples:
-\end_layout
-
-\begin_layout Itemize
-Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎦ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-There aren't four here.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Some other count other than four are here and this is not expected to change
- soon.
-\end_layout
-
-\begin_layout Itemize
-ᎥᏝᏊ ᎠᏂᏣᎳᎩ ᎠᏂ ᏱᎦ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-It is not only the Cherokee people here.
-\begin_inset Quotes erd
-\end_inset
-
- - 
-\emph on
-Others that are not Cherokee are here and this is not expected to change
- soon.
-\end_layout
-
-\begin_layout Description
-ᏱᎦ [yi⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-If it is.
- If it isn't.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Examples:
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎦ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Maybe Anthony is being bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎦ, ᎡᏅᏙᏂ Ꮭ ᎣᏍᏓ ᏱᎦ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony is being bad, Anthony is not being good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Is often being.
- (Habitually.)
-\end_layout
-
-\begin_layout Description
 ᎨᏐᎢ [ge¹so³ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
-It is often being.
- It usually is being.
- It habitually is being.
- It normally is being.
+Is.
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-The 
-\begin_inset Quotes eld
-\end_inset
-
--ᎣᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending indicates a state of having occurred repeatably in the past, with
- the expectation of the behavior continuing into the future.
- It is used to indicate something that happens 
-\begin_inset Quotes eld
-\end_inset
-
-often
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-normally
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-habitually
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-usually
-\begin_inset Quotes erd
-\end_inset
-
- without the expectation of it happening right now.
- This 
-\begin_inset Quotes eld
-\end_inset
-
--ᎣᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending is referred to as the 
-\begin_inset Quotes eld
-\end_inset
-
-habitual
-\begin_inset Quotes erd
-\end_inset
-
- ending.
  ☞ 
 \emph on
-The 
-\begin_inset Quotes eld
-\end_inset
-
--ᎣᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending indicates 
-\begin_inset Quotes eld
-\end_inset
-
-often
-\begin_inset Quotes erd
-\end_inset
-
-.
- It does not indicate 
-\begin_inset Quotes eld
-\end_inset
-
-always
-\begin_inset Quotes erd
-\end_inset
-
-!
+Usually, habitually, or on certain occasions.
 \end_layout
 
 \begin_layout Itemize
@@ -122507,7 +122547,7 @@ This person is often being good.
 \begin_inset Quotes erd
 \end_inset
 
- - 
+ ☞ 
 \emph on
 This does not mean the person isn't bad sometimes.
 \end_layout
@@ -122521,7 +122561,7 @@ That person is often being bad.
 \begin_inset Quotes erd
 \end_inset
 
- - 
+ ☞ 
 \emph on
 This does not mean the person isn't good sometimes.
 \end_layout
@@ -122536,223 +122576,23 @@ Cherokee people are often here.
 \begin_inset Quotes erd
 \end_inset
 
- - 
+ ☞ 
 \emph on
 This does not mean they are always here.
 \end_layout
 
 \begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-_____
-\begin_inset space ~
-\end_inset
-
-ᏱᎨᏐᎢ [hla _____ yi²ge¹so³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-It often is not.
- It usually is not.
- It habitually is not.
- It normally is not.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎯᎠ ᎠᏴᏫ Ꮭ ᎣᏍᏓ ᏱᎨᏐᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-This person is not often being good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Ꮎ ᎠᏴᏫ Ꮭ ᎤᏲ ᏱᎨᏐᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-That person is not often being bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂᎩᎵᏏ Ꮭ ᎠᏂ ᏱᎨᏐᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-English people are not often here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏱᎨᏐᎢ [yi²ge¹so³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-If it often is.
- If it usually is.
- If it habitually is.
- If it normally is.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ ᎠᏣᎳᎩ ᏱᎨᏐᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Maybe a Cherokee person is often here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ ᎠᏣᎳᎩ ᏱᎨᏐ, ᎠᏂ ᎠᎩᎵᏏ ᎨᏐᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If a Cherokee person is often here, an English person is often here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ ᎠᏣᎳᎩ ᏱᎨᏐ, ᎠᏂ Ꮭ ᎠᎩᎵᏏ ᎯᎨᏐᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If a Cherokee person is often here, an English person often isn't.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Was being.
-\end_layout
-
-\begin_layout Standard
-The Cherokee word for 
-\begin_inset Quotes eld
-\end_inset
-
-was being
-\begin_inset Quotes erd
-\end_inset
-
- comes in two main forms, 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᏒᎢ
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᏎᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Itemize
-The ending 
-\begin_inset Quotes eld
-\end_inset
-
--ᎥᎢ
-\begin_inset Quotes erd
-\end_inset
-
- indicates something that was witnessed or experienced directly by the speaker
- or writer.
- This is an indication of first hand information.
-\end_layout
-
-\begin_layout Itemize
-The ending 
-\begin_inset Quotes eld
-\end_inset
-
--ᎡᎢ
-\begin_inset Quotes erd
-\end_inset
-
- indicates something that was not witnessed and not experienced directly
- by the speaker or writer.
- This is an indication of second hand information.
-\end_layout
-
-\begin_layout Standard
-Let us look at each one in turn.
-\end_layout
-
-\begin_layout Description
-ᎨᏒᎢ [ge¹sv²³ɂi] 
+ᎨᏒᎩ [ge¹sv²³gi] 
 \begin_inset Quotes eld
 \end_inset
 
 Was being.
- Witnessed.
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-The 
-\begin_inset Quotes eld
-\end_inset
-
--ᎥᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending indicates that you, the speaker, 
+ ☞ 
 \emph on
-directly experienced or witnessed
-\emph default
- what you are talking about.
- You are indicating that you are a witness to what you are speaking about.
-\end_layout
-
-\begin_layout Standard
-Examples:
+With personal knowlege, or consciousness.
 \end_layout
 
 \begin_layout Itemize
@@ -122791,7 +122631,7 @@ Cherokee people were here.
 \begin_inset Quotes erd
 \end_inset
 
- - ☞ 
+ ☞ 
 \emph on
 It is not always possible to translate the full meaning of 
 \begin_inset Quotes eld
@@ -122810,33 +122650,12 @@ was being
 \end_inset
 
 Was being.
- Reportedly.
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-The 
-\begin_inset Quotes eld
-\end_inset
-
--ᎡᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending indicates that you, the speaker, 
+ ☞ 
 \emph on
-did NOT experience and did NOT witness
-\emph default
- what you are talking about.
- This is the ending you normally use when you talk about what you have been
- told by another person about events that have happened in the past.
-\end_layout
-
-\begin_layout Standard
-Examples:
+Without personal knowlege, or consciousness.
 \end_layout
 
 \begin_layout Itemize
@@ -122845,7 +122664,7 @@ Examples:
 \begin_inset Quotes eld
 \end_inset
 
-I was told this person was being good.
+Reportedly this person was being good.
 \begin_inset Quotes erd
 \end_inset
 
@@ -122858,20 +122677,7 @@ I was told this person was being good.
 \begin_inset Quotes eld
 \end_inset
 
-That person was reportedly being bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᏎᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Cherokee people were reported to have been here.
+Supposedly that person was being bad.
 \begin_inset Quotes erd
 \end_inset
 
@@ -122879,361 +122685,17 @@ Cherokee people were reported to have been here.
 \end_layout
 
 \begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-_____
-\begin_inset space ~
-\end_inset
-
-ᏱᎨᏒᎢ [hla _____ yi²ge¹sv³ɂi] 
+ᎨᎲᎩ [ge¹hv²³gi] 
 \begin_inset Quotes eld
 \end_inset
 
-Was not being.
+Was (a while ago).
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Itemize
-ᎯᎠ ᎠᎩᎵᏏ ᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-This was an English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-This wasn't an English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᏂ ᏅᎩ ᎢᎦ ᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-There were four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-There weren't four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-You can also replace the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎥᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending with the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎡᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending:
-\end_layout
-
-\begin_layout Itemize
-ᎯᎠ ᎠᎩᎵᏏ ᎨᏎᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-This reportedly was an English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᏎᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-This reportedly wasn't an English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᏂ ᏅᎩ ᎢᎦ ᎨᏎᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-There reportedly were four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᏎᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-There reportedly weren't four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᏱᎨᏒᎢ [yi²ge¹sv³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-If it was being.
- Maybe it was being.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Maybe Anthony was being bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏒ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony was being bad, Barbara wasn't being good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Switching the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎥᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending with the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎡᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending:
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏎᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-It was reported that Anthony might have been being bad.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᏎ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᏎᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony reportedly was being bad, Barbara reportedly wasn't being good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Was.
- (Remote Past.)
-\end_layout
-
-\begin_layout Standard
-This Cherokee word for 
-\begin_inset Quotes eld
-\end_inset
-
-was
-\begin_inset Quotes erd
-\end_inset
-
- also comes in two main forms: 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᎲᎢ
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᎮᎢ
-\begin_inset Quotes erd
-\end_inset
-
-.
  ☞ 
 \emph on
-Many speakers simply use ᎨᏒᎢ and ᎨᏎᎢ for 
-\begin_inset Quotes eld
-\end_inset
-
-was/were
-\begin_inset Quotes erd
-\end_inset
-
- and rarely use ᎨᎲᎢ and ᎨᎮᎢ.
-\end_layout
-
-\begin_layout Itemize
-Like for the word 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᏒᎢ
-\begin_inset Quotes erd
-\end_inset
-
- the ending 
-\begin_inset Quotes eld
-\end_inset
-
--ᎥᎢ
-\begin_inset Quotes erd
-\end_inset
-
- on 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᎲᎢ
-\begin_inset Quotes erd
-\end_inset
-
- is an indication of first hand knowledge.
-\end_layout
-
-\begin_layout Itemize
-Like for the word 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᏎᎢ
-\begin_inset Quotes erd
-\end_inset
-
- the ending 
-\begin_inset Quotes eld
-\end_inset
-
--ᎡᎢ
-\begin_inset Quotes erd
-\end_inset
-
- on 
-\begin_inset Quotes eld
-\end_inset
-
-ᎨᎮᎢ
-\begin_inset Quotes erd
-\end_inset
-
- is an indication of second hand knowledge.
-\end_layout
-
-\begin_layout Standard
-Let us look at each one in turn.
-\end_layout
-
-\begin_layout Description
-ᎨᎲᎢ [ge¹hv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Was (not recently).
- Witnessed.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Examples:
+With personal knowlege, or consciousness.
 \end_layout
 
 \begin_layout Itemize
@@ -123280,16 +122742,13 @@ Cherokee people were here a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-Was (not recently).
- Reportedly.
+Was (a while ago).
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
-Examples:
+ ☞ 
+\emph on
+Without personal knowlege, or consciousness.
 \end_layout
 
 \begin_layout Itemize
@@ -123298,7 +122757,7 @@ Examples:
 \begin_inset Quotes eld
 \end_inset
 
-I was told this person was good a while ago.
+Reportedly this person was good a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -123311,238 +122770,11 @@ I was told this person was good a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-That person was reportedly bad a while ago.
+Supposedly that person was bad a while ago.
 \begin_inset Quotes erd
 \end_inset
 
 
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᎮᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Cherokee people were reported to have been here a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-_____
-\begin_inset space ~
-\end_inset
-
-ᏱᎨᎲᎢ [hla _____ yi²ge¹hv³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Was not (not recently).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ ᏅᎩ ᎢᎦ ᎨᎲᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-A while ago there were four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᎲᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-A while ago there weren't four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-You can also replace the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎥᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending with the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎡᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending:
-\end_layout
-
-\begin_layout Itemize
-ᎯᎠ ᎠᎩᎵᏏ ᎨᎮᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Reportedly a while ago it was an English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᎨᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Reportedly a while ago it wasn't an English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᏂ ᏅᎩ ᎢᎦ ᎨᎮᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Reportedly a while ago there were four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Ꮭ ᎠᏂ ᏅᎩ ᎢᎦ ᏱᎨᎮᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Reportedly a while ago there weren't four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᏱᎨᎲᎢ [yi²ge¹hv³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-If it was a while ago.
- Maybe it was a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎲᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Maybe Anthony was bad a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎲ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony was bad a while ago, Barbara wasn't good a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Switching the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎥᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending with the 
-\begin_inset Quotes eld
-\end_inset
-
--ᎡᎢ
-\begin_inset Quotes erd
-\end_inset
-
- ending:
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎮᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-It was reported that Anthony might have been bad a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᎤᏲ ᏱᎨᎮ, ᏆᏆᎠ Ꮭ ᎣᏍᏓ ᏱᎨᎮᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony reportedly was bad a while ago, Barbara reportedly wasn't good
- a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Will be.
 \end_layout
 
 \begin_layout Description
@@ -123550,7 +122782,7 @@ Will be.
 \begin_inset Quotes eld
 \end_inset
 
-Will be.
+Will be being.
 \begin_inset Quotes erd
 \end_inset
 
@@ -123601,120 +122833,6 @@ Cherokee people will be here.
 \end_inset
 
 It will be good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-_____
-\begin_inset space ~
-\end_inset
-
-ᏱᎨᏎᏍᏗ [hla _____ yi²ge¹se³sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Will not be.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎯᎠ Ꮭ ᎠᎩᎵᏏ ᏱᎨᏎᏍᏗ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-This will not be an English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ Ꮭ ᏅᎩ ᎢᎦ ᏱᎨᏎᏍᏗ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-There will not be four here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎥᏝᏊ ᎠᏂᏣᎳᎩ ᏱᎨᏎᏍᏗ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-It will not only be the Cherokee people.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Ꮭ ᎤᏲ ᏱᎨᏎᏍᏗ.
- ᎣᏍᏓ ᎨᏎᏍᏗ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-It will not be bad.
- It will be good.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏱᎨᏎᏍᏗ [yi²ge¹se³sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-If it will be.
- If it will not be.
- Maybe it will be.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᏱᎨᏎᏍᏗ ᎠᏂ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Maybe Anthony will be here.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-ᎡᏅᏙᏂ ᏱᎨᏎᏍᏗ ᎠᏂ, ᎠᏴ ᎨᏎᏍᏗ ᎠᏂ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-If Anthony will be here, I will be here.
 \begin_inset Quotes erd
 \end_inset
 
