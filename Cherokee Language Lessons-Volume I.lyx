@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.247 $
+$Revision: 1.248 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/05 02:22:41 $ UTC
+$Date: 2016/07/05 02:42:42 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.247 $
+$Revision: 1.248 $
 \noun default
 .
 \end_layout
@@ -122691,6 +122691,104 @@ Cherokee people are often here.
 This does not mean they are always here.
 \end_layout
 
+\begin_layout Itemize
+ᏣᏂ ᎤᏲ ᏱᎨᏐ ᎹᏫᎠ ᎤᏲ ᎨᏐᎢ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If John is bad Maria is bad.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+This is an example of 
+\begin_inset Quotes eld
+\end_inset
+
+on certain occasions
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+ᎨᏒᎢ [ge¹sv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎩᏟ ᎣᏍᏓ ᎨᏒᎢ ᏥᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I see the dog being good.
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I see the dog's goodness.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᎠᏴᏫ ᎤᏲ ᎨᏒᎢ ᎤᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He sees the person being bad.
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+I see the person's badness.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏪᏌ ᎬᎿᎨ ᎨᏒᎢ ᎤᏂᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+They see a cat being the color black.
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+They see the cat's blackness.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
 ᎨᏒᎩ [ge¹sv²³gi] 
 \begin_inset Quotes eld
@@ -122706,7 +122804,7 @@ With personal knowlege, or consciousness.
 \end_layout
 
 \begin_layout Itemize
-ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᏒᎢ.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᏒᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -122719,7 +122817,7 @@ This person was being good.
 \end_layout
 
 \begin_layout Itemize
-Ꮎ ᎠᏴᏫ ᎤᏲᎢ ᎨᏒᎢ.
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᏒᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -122729,29 +122827,6 @@ That person was being bad.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Itemize
-ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᏒᎢ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Cherokee people were here.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-It is not always possible to translate the full meaning of 
-\begin_inset Quotes eld
-\end_inset
-
-was being
-\begin_inset Quotes erd
-\end_inset
-
- into English and make English sense.
 \end_layout
 
 \begin_layout Description
@@ -122809,7 +122884,7 @@ With personal knowlege, or consciousness.
 \end_layout
 
 \begin_layout Itemize
-ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᎲᎢ.
+ᎯᎠ ᎠᏴᏫ ᎣᏍᏓ ᎨᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -122822,7 +122897,7 @@ This person was good a while ago.
 \end_layout
 
 \begin_layout Itemize
-Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᎲᎢ.
+Ꮎ ᎠᏴᏫ ᎤᏲ ᎨᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -122835,7 +122910,7 @@ That person was bad a while ago.
 \end_layout
 
 \begin_layout Itemize
-ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᎲᎢ.
+ᎠᏂ ᎠᏂᏣᎳᎩ ᎨᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -123093,32 +123168,6 @@ Hurry.
 
 \end_layout
 
-\begin_layout Description
-ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I see him/her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Description
 ᎤᏚᎵᎭ [u¹du²lị³ha] 
 \begin_inset Quotes eld
