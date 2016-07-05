@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.248 $
+$Revision: 1.249 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/05 02:42:42 $ UTC
+$Date: 2016/07/05 03:02:53 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.248 $
+$Revision: 1.249 $
 \noun default
 .
 \end_layout
@@ -122697,7 +122697,7 @@ This does not mean they are always here.
 \begin_inset Quotes eld
 \end_inset
 
-If John is bad Maria is bad.
+If John is bad Maria is usually bad.
 \begin_inset Quotes erd
 \end_inset
 
