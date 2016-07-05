@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.251 $
+$Revision: 1.252 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/05 03:10:22 $ UTC
+$Date: 2016/07/05 03:14:48 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.251 $
+$Revision: 1.252 $
 \noun default
 .
 \end_layout
@@ -121871,6 +121871,15 @@ Being
 
 His being \SpecialChar \ldots{}
 
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+His \SpecialChar \ldots{}
+ness
 \begin_inset Quotes erd
 \end_inset
 
