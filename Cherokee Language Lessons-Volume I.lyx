@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.252 $
+$Revision: 1.253 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/05 03:14:48 $ UTC
+$Date: 2016/07/05 03:16:06 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.252 $
+$Revision: 1.253 $
 \noun default
 .
 \end_layout
@@ -123050,6 +123050,500 @@ It will be good.
 
 \begin_layout Section
 ᏂᏔᏛᎦ (Do them)
+\end_layout
+
+\begin_layout Standard
+You will need to reuse the following white cards from the previous chapter.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/ahwi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/jisdu.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/saloli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/wahya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/yona.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/soquili.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-ahwi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-jisdu.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-saloli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-wahya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-yona.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-soquili.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/gule.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/nuna.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/sadvdi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tuya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-gule.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-nuna.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-sadvdi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-tuya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to reuse the following people index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/ayonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyonega-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ayonega-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyonega-flag-blind.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to add 9 each of the following card.
+ Color the first 8 squares as ᎢᏤᎢᏳᏍᏗ, ᎤᏬᏗᎨᎢ, ᎩᎦᎨᎢ, ᎬᎿᎨᎢ, ᏌᎪᏂᎨᎢ, ᏓᎭᎵᎨᎢ, ᏓᎶᏂᎨᎢ,
+ and ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/for-colors/square-white.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label the reverse of each as ᎢᏤᎢᏳᏍᏗ, ᎤᏬᏗᎨᎢ, ᎠᎩᎦᎨᎢ / ᎩᎦᎨᎢ, ᎠᎬᎿᎨᎢ / ᎬᎿᎨᎢ,
+ ᎠᏌᎪᏂᎨᎢ / ᏌᎪᏂᎨᎢ, ᎠᏓᎭᎵᎨᎢ / ᏓᎭᎵᎨᎢ, ᎠᏓᎶᏂᎨᎢ / ᏓᎶᏂᎨᎢ, and ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ / ᏓᎶᏂᎨ
+ ᎤᏍᎪᎸᎢ, and ᎤᏁᎦ.
+\end_layout
+
+\begin_layout Standard
+You will need to add 9 each of the following card.
+ Color the first 8 sets of squares as ᏗᏤᎢᏳᏍᏗ, ᏧᏬᏗᎨᎢ, ᏗᎩᎦᎨᎢ, ᏗᎬᎿᎨᎢ, ᏗᏌᎪᏂᎨᎢ,
+ ᏗᏓᎭᎵᎨᎢ, ᏗᏓᎶᏂᎨᎢ, and ᏗᏓᎶᏂᎨ ᏧᏍᎪᎸᎢ.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/for-colors/squares-white.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label the reverse of each as ᎠᏂᏤᎢᏳᏍᏗ / ᏗᏤᎢᏳᏍᏗ, ᏧᏃᏗᎨᎢ / ᏧᏬᏗᎨᎢ, ᎠᏂᎩᎦᎨᎢ / ᏗᎩᎦᎨᎢ,
+ ᎠᏂᎬᎿᎨᎢ / ᏗᎬᎿᎨᎢ, ᎠᏂᏌᎪᏂᎨᎢ / ᏗᏌᎪᏂᎨᎢ, ᎠᏂᏓᎭᎵᎨᎢ / ᏗᏓᎭᎵᎨᎢ, ᎠᏂᏓᎶᏂᎨᎢ / ᏗᏓᎶᏂᎨᎢ, and
+ ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸᎢ / ᏗᏓᎶᏂᎨ ᏧᏍᎪᎸᎢ, and ᎤᏂᏁᎦ / ᏧᏁᎦ.
+\end_layout
+
+\begin_layout Subsection
+Groups
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Any remaining people are grouped together and are designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, rotate positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+, and one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Keep rotating until everyone has been in position 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, starting over with the first set of challenges as needed.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be read from the book.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be done without reading the book.
+ 
+\end_layout
+
+\begin_layout Standard
+Each challenge-response should be done as in the previous lesson.
+\end_layout
+
+\begin_layout Standard
+Examples:
 \end_layout
 
 \begin_layout Section
