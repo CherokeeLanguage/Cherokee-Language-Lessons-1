@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.258 $
+$Revision: 1.259 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/06 23:22:08 $ UTC
+$Date: 2016/07/06 23:25:55 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.258 $
+$Revision: 1.259 $
 \noun default
 .
 \end_layout
@@ -122570,15 +122570,6 @@ It is not good.
 \end_inset
 
 It is not bad.
- It is good.
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-Just now it wasn't bad.
  It is good.
 \begin_inset Quotes erd
 \end_inset
