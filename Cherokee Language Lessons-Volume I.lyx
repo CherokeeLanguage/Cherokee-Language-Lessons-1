@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.253 $
+$Revision: 1.254 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/05 03:16:06 $ UTC
+$Date: 2016/07/06 02:18:25 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.253 $
+$Revision: 1.254 $
 \noun default
 .
 \end_layout
@@ -123328,7 +123328,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/ayonega-flag.png
+	filename artwork/yvwi-no-flag.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123337,7 +123337,16 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyonega-flag.png
+	filename artwork/flags/aniyvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+  
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag-blind.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123346,16 +123355,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ayonega-flag-blind.png
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename artwork/flags/aniyonega-flag-blind.png
+	filename artwork/flags/aniyvwi-no-flag-blind.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
