@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.256 $
+$Revision: 1.257 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/06 21:35:11 $ UTC
+$Date: 2016/07/06 21:41:14 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.256 $
+$Revision: 1.257 $
 \noun default
 .
 \end_layout
@@ -121849,7 +121849,7 @@ end{multicols}
 
 \begin_layout Standard
 When looking at the previous vocabulary, it should be easy to see a pattern
- that indicates some common endings in use.
+ that indicates some common endings are in use.
 \end_layout
 
 \begin_layout Standard
@@ -121869,7 +121869,7 @@ Being
 \begin_inset Quotes eld
 \end_inset
 
-His seeing \SpecialChar \ldots{}
+His act of \SpecialChar \ldots{}
 
 \begin_inset Quotes erd
 \end_inset
@@ -121967,7 +121967,7 @@ Usually
 \end_inset
 
  is indicated by the -ᎣᎢ (-o³ɂi) ending.
- In English we indication this by phrases such as 
+ In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
 
@@ -122008,15 +122008,8 @@ Will be
 \emph on
 In the preceding vocabulary you saw words ending in both -ᎥᎩ (with personal
  knowledge) and -ᎥᎢ (being).
- Some dialects of Cherokee do not use the -ᎥᎩ ending for 
-\begin_inset Quotes eld
-\end_inset
-
-was with personal knowledge
-\begin_inset Quotes erd
-\end_inset
-
- and instead use -ᎥᎢ for both 
+ Some dialects of Cherokee do not use the -ᎥᎩ ending and instead use -ᎥᎢ
+ for both 
 \begin_inset Quotes eld
 \end_inset
 
@@ -122032,7 +122025,8 @@ was with personal knowledge
 \begin_inset Quotes erd
 \end_inset
 
- using context to keep the two different meanings separate.
+.
+ Such dialects use context to keep the two different meanings separate.
  As many historical documents use the -ᎥᎩ ending extensively and its use
  appears in some modern publications such as 
 \begin_inset Quotes eld
@@ -122046,7 +122040,15 @@ The Cherokee Phoenix
 \end_layout
 
 \begin_layout Standard
-They can be combined with Ꮭ/Ᏹ- to create the standard not forms:
+The various words for 
+\begin_inset Quotes eld
+\end_inset
+
+is
+\begin_inset Quotes erd
+\end_inset
+
+ can be combined with Ꮭ and Ᏹ- to create the standard not forms:
 \end_layout
 
 \begin_layout Standard
@@ -122254,21 +122256,11 @@ end{multicols}
 \end_layout
 
 \begin_layout Subsection
-Some Examples:
+Examples:
 \end_layout
 
 \begin_layout Description
-ᎢᎩ [i⁴gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Is.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-Is now or was just now.
+ᎢᎩ
 \end_layout
 
 \begin_layout Itemize
@@ -122433,15 +122425,7 @@ It is good.
 \begin_inset space ~
 \end_inset
 
-ᎢᎩ [hla yi⁴gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Isn't.
-\begin_inset Quotes erd
-\end_inset
-
-
+ᏱᎩ
 \end_layout
 
 \begin_layout Itemize
@@ -122618,17 +122602,7 @@ just now
 \end_layout
 
 \begin_layout Description
-ᎢᎦ [i⁴ga] 
-\begin_inset Quotes eld
-\end_inset
-
-Is.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-Now and ongoing.
+ᎢᎦ
 \end_layout
 
 \begin_layout Itemize
@@ -122700,17 +122674,7 @@ It is an ongoing good.
 \end_layout
 
 \begin_layout Description
-ᎨᏐᎢ [ge¹so³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Is.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-Usually, habitually, or on certain occasions.
+ᎨᏐᎢ
 \end_layout
 
 \begin_layout Itemize
@@ -122781,15 +122745,7 @@ on certain occasions
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎢ [ge¹sv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Being.
-\begin_inset Quotes erd
-\end_inset
-
-
+ᎨᏒᎢ
 \end_layout
 
 \begin_layout Itemize
@@ -122856,17 +122812,7 @@ They see the cat's blackness.
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎩ [ge¹sv²³gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Was being.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-With personal knowledge, or consciousness.
+ᎨᏒᎩ
 \end_layout
 
 \begin_layout Itemize
@@ -122896,17 +122842,7 @@ That person was being bad.
 \end_layout
 
 \begin_layout Description
-ᎨᏎᎢ [ge¹se³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Was being.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-Without personal knowledge, or consciousness.
+ᎨᏎᎢ
 \end_layout
 
 \begin_layout Itemize
@@ -122936,17 +122872,7 @@ Supposedly that person was being bad.
 \end_layout
 
 \begin_layout Description
-ᎨᎲᎩ [ge¹hv²³gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Was (a while ago).
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-With personal knowledge, or consciousness.
+ᎨᎲᎩ
 \end_layout
 
 \begin_layout Itemize
@@ -122989,17 +122915,7 @@ Cherokee people were here a while ago.
 \end_layout
 
 \begin_layout Description
-ᎨᎮᎢ [ge¹he³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Was (a while ago).
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-Without personal knowledge, or consciousness.
+ᎨᎮᎢ
 \end_layout
 
 \begin_layout Itemize
@@ -123029,15 +122945,7 @@ Supposedly that person was bad a while ago.
 \end_layout
 
 \begin_layout Description
-ᎨᏎᏍᏗ [ge¹se³sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Will be being.
-\begin_inset Quotes erd
-\end_inset
-
-
+ᎨᏎᏍᏗ
 \end_layout
 
 \begin_layout Itemize
