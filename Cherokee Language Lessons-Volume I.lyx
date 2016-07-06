@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.254 $
+$Revision: 1.255 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/06 02:18:25 $ UTC
+$Date: 2016/07/06 12:46:56 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.254 $
+$Revision: 1.255 $
 \noun default
 .
 \end_layout
@@ -121622,7 +121622,7 @@ with personal knowledge
 
 
 \emph on
-without personal knowlege
+without personal knowledge
 \emph default
 
 \begin_inset Quotes erd
@@ -121675,6 +121675,47 @@ the copula
 
 \begin_layout Section
 ᏘᎪᎵᏯ (Read them)
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+In the following vocabulary you will see words ending in -ᎥᎩ and -ᎥᎢ.
+ Some dialects of Cherokee do not use the -ᎥᎩ ending for 
+\begin_inset Quotes eld
+\end_inset
+
+was with personal knowledge
+\begin_inset Quotes erd
+\end_inset
+
+ and instead use -ᎥᎢ for both 
+\begin_inset Quotes eld
+\end_inset
+
+being
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+was with personal knowledge
+\begin_inset Quotes erd
+\end_inset
+
+ using context to keep the two different meanings separate.
+ As many historical documents use the -ᎥᎩ ending extensively and its use
+ appears in some modern publications such as 
+\begin_inset Quotes eld
+\end_inset
+
+The Cherokee Phoenix
+\begin_inset Quotes erd
+\end_inset
+
+, this material will be teaching the use of both -ᎥᎩ and -ᎥᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -121762,7 +121803,7 @@ Was being.
 
  ☞ 
 \emph on
-With personal knowlege, or consciousness.
+With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -121776,7 +121817,7 @@ Was being.
 
  ☞ 
 \emph on
-Without personal knowlege, or consciousness.
+Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -121802,7 +121843,7 @@ Was (a while ago).
 
  ☞ 
 \emph on
-With personal knowlege, or consciousness.
+With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -121816,7 +121857,7 @@ Was (a while ago).
 
  ☞ 
 \emph on
-Without personal knowlege, or consciousness.
+Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -121849,7 +121890,7 @@ end{multicols}
 
 \begin_layout Standard
 When looking at the previous vocabulary, it should be easy to see a pattern
- that indicates some common endings.
+ that indicates some common endings in use.
 \end_layout
 
 \begin_layout Standard
@@ -121866,6 +121907,15 @@ Being
 
  is indicated by the -ᎥᎢ (-v²³i) ending.
  In English we indicate this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+His seeing \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121900,15 +121950,6 @@ With personal knowledge
 
  is indicated by the -ᎥᎩ (-v²³gi) ending.
  In English we indicate this by phrases such as 
-\begin_inset Quotes eld
-\end_inset
-
-I saw \SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -122106,7 +122147,7 @@ Wasn't being.
 
  ☞ 
 \emph on
-With personal knowlege, or consciousness.
+With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -122124,7 +122165,7 @@ Wasn't being.
 
  ☞ 
 \emph on
-Without personal knowlege, or consciousness.
+Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -122158,7 +122199,7 @@ Wasn't (a while ago).
 
  ☞ 
 \emph on
-With personal knowlege, or consciousness.
+With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -122176,7 +122217,7 @@ Wasn't (a while ago).
 
  ☞ 
 \emph on
-Without personal knowlege, or consciousness.
+Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -122824,7 +122865,7 @@ Was being.
 
  ☞ 
 \emph on
-With personal knowlege, or consciousness.
+With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Itemize
@@ -122864,7 +122905,7 @@ Was being.
 
  ☞ 
 \emph on
-Without personal knowlege, or consciousness.
+Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Itemize
@@ -122904,7 +122945,7 @@ Was (a while ago).
 
  ☞ 
 \emph on
-With personal knowlege, or consciousness.
+With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Itemize
@@ -122957,7 +122998,7 @@ Was (a while ago).
 
  ☞ 
 \emph on
-Without personal knowlege, or consciousness.
+Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Itemize
