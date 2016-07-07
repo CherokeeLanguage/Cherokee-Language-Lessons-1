@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.260 $
+$Revision: 1.261 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/06 23:27:07 $ UTC
+$Date: 2016/07/06 23:28:17 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.260 $
+$Revision: 1.261 $
 \noun default
 .
 \end_layout
@@ -122140,24 +122140,6 @@ Not being.
 \begin_inset space ~
 \end_inset
 
-ᎨᏒᎩ [hla yi²ge¹sv²³gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Wasn't being.
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-With personal knowledge, or consciousness.
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
 ᎨᏎᎢ [hla yi²ge¹se³ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -122185,24 +122167,6 @@ Had not been (a while ago).
 \end_inset
 
 
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-ᎨᎲᎩ [hla yi²ge¹hv²³gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Wasn't (a while ago).
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
@@ -122253,6 +122217,29 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+When using the Ᏹ- prefix you should use the -ᎡᎢ 
+\begin_inset Quotes eld
+\end_inset
+
+without personal knowledge
+\begin_inset Quotes erd
+\end_inset
+
+ ending instead of the -ᎥᎩ 
+\begin_inset Quotes eld
+\end_inset
+
+with personal knowledge
+\begin_inset Quotes erd
+\end_inset
+
+ ending.
+ This also applies when asking questions.
 \end_layout
 
 \begin_layout Subsection
