@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.274 $
+$Revision: 1.275 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/09 03:45:36 $ UTC
+$Date: 2016/07/09 15:59:48 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.274 $
+$Revision: 1.275 $
 \noun default
 .
 \end_layout
@@ -126914,6 +126914,18 @@ He wants me.
 \end_layout
 
 \begin_layout Description
+ᎬᏆᏚᎵᎭ [gv¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎤᏚᎵᎭ [u¹du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -127009,6 +127021,18 @@ You want them-inanimate.
 \end_inset
 
 He wants you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎨᏣᏚᎵᎭ [ge²jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want you.
 \begin_inset Quotes erd
 \end_inset
 
