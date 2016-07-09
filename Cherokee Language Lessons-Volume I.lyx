@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.268 $
+$Revision: 1.269 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/09 00:05:30 $ UTC
+$Date: 2016/07/09 01:23:05 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.268 $
+$Revision: 1.269 $
 \noun default
 .
 \end_layout
@@ -126390,6 +126390,206 @@ Twenty First Lesson
 \end_layout
 
 \begin_layout Section
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Don't get hung up on the following description of word ordering.
+ It is not something that needs to memorized or fully understood.
+ Exercises in the lesson material will be the main way you learn how to
+ order words properly in sentences.
+\end_layout
+
+\begin_layout Standard
+Cherokee word ordering works differently than English word order.
+\end_layout
+
+\begin_layout Standard
+In simple sentences the subject of the sentence comes first, followed by
+ the object and its modifiers, and finally by the verb and its modifiers.
+ This results in what is called a 
+\begin_inset Quotes eld
+\end_inset
+
+subject-object-verb
+\begin_inset Quotes erd
+\end_inset
+
+ word order.
+ This can be seen in the following example:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+ᎡᏅᏙᏂ ᎠᏫ ᎠᎪᏩᏘᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Tony, a deer, he sees it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Tony sees a deer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Placing the subject after the verb is also possible, yielding 
+\begin_inset Quotes eld
+\end_inset
+
+object-verb-subject
+\begin_inset Quotes erd
+\end_inset
+
+, as in the following example:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+ᎠᏫ ᎠᎪᏩᏘᎭ ᏆᏆᎠ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+A deer, she sees it, Barbara.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Barbara sees a deer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+In addition, adjectives, such as colors, while normally place before nouns,
+ will sometimes be used after them as in the following two examples:
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+ᎡᏅᏙᏂ ᎠᎩᎦᎨ ᎠᏫ ᎠᎪᏩᏘᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Anthony, a red deer, he sees it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Anthony sees a red deer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+ᏆᏆᎠ ᎠᏫ ᎠᎩᎦᎨ ᎠᎪᏩᏘᎭ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Barbara, a deer, a red one, she sees it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Barbara sees a red deer.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Because Cherokee is very flexible about word ordering many speakers will
+ sometimes rearrange sentences to emphasis something by saying that part
+ first.
+\end_layout
+
+\begin_layout Standard
+As you work through the exercises Cherokee word ordering will become second
+ nature and not something you normally will need to think about.
+\end_layout
+
+\begin_layout Section
 ᏘᎪᎵᏯ (Read them)
 \end_layout
 
@@ -126506,32 +126706,6 @@ Hurry.
 \end_layout
 
 \begin_layout Description
-ᎤᏚᎵᎭ [u¹du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she wants it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
 ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
 \begin_inset Quotes eld
 \end_inset
@@ -126575,6 +126749,32 @@ Plural.
 \end_layout
 
 \end_deeper
+\begin_layout Description
+ᎤᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she wants it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -126592,281 +126792,232 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-When indicating quantities some speakers add “ᎢᏯᏂ” after the number for
- living things and “ᎢᎦ” after the number for non-living things.
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-If unclear, assume objects go on tables and people sit on chairs.
-\end_layout
-
-\begin_layout Section
-Simple Sentences
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Simple-Sentences"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Now that you know the basics for combining bound pronouns with words, you
- can create simple sentences.
+The following shows ᎤᏚᎵᎭ combined with the bound pronouns you have learned
+ so far:
 \end_layout
 
 \begin_layout Standard
 
-\emph on
-Don't get hung up on the following description of word ordering.
- It is not something that needs to memorized or fully understood.
- Exercises in the lesson material will be the main way you learn how to
- order words properly in sentences.
- The important thing is to examine the example sentences 
-\begin_inset CommandInset ref
-LatexCommand vref
-reference "sentence1-1"
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
 
 \end_inset
 
- through 
-\begin_inset CommandInset ref
-LatexCommand vref
-reference "sentence4-1"
 
+\end_layout
+
+\begin_layout Description
+ᏥᏯᏚᎵᎭ [ji²ya²du²lị³ha] 
+\begin_inset Quotes eld
 \end_inset
 
- and see the different orderings the Cherokee words can be placed in to
- state something.
+He wants it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏥᏯᏚᎵᎭ [ga²ji²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏓᏆᏚᎵᎭ [da¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants him, it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏚᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants him, it.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-In simple sentences the subject of the sentence comes first, followed by
- the object and its modifiers, and finally by the verb and its modifiers.
- This results in what is called a 
-\begin_inset Quotes eld
-\end_inset
 
-subject-object-verb
-\begin_inset Quotes erd
-\end_inset
+\lang english
+\begin_inset ERT
+status collapsed
 
- word order.
- This can be seen in Example 
-\begin_inset CommandInset ref
-LatexCommand vref
-reference "sentence1-1"
+\begin_layout Plain Layout
 
-\end_inset
 
-.
- Placing the subject after the verb is also possible, yielding 
-\begin_inset Quotes eld
-\end_inset
-
-object-verb-subject
-\begin_inset Quotes erd
-\end_inset
-
-, as in Example 
-\begin_inset CommandInset ref
-LatexCommand vref
-reference "sentence2-1"
-
-\end_inset
-
-.
- In addition, adjectives, such as colors, while normally place before nouns,
- will sometimes be used after them as in Examples 
-\begin_inset CommandInset ref
-LatexCommand vref
-reference "sentence3-1"
-
-\end_inset
-
- and 
-\begin_inset CommandInset ref
-LatexCommand vref
-reference "sentence4-1"
-
-\end_inset
-
-.
+\backslash
+columnbreak{}
 \end_layout
-
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Entoni ahwi agowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "sentence1-1"
 
 \end_inset
 
 
 \end_layout
 
-\begin_deeper
-\begin_layout Enumerate
+\begin_layout Description
+ᎯᏯᏚᎵᎭ [hi²ya²du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-Tony, a deer, he sees it.
+You want him.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Description
+ᏣᏚᎵᎭ [jạ²du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-Tony sees a deer.
+You want it.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
+\begin_layout Description
+ᎦᎯᏯᏚᎵᎭ [ga²hi²ya²du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-Ahwi agowhtiha ᏆᏆᎠ.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "sentence2-1"
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-A deer, she sees it, Barbara.
+You want them-animate.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Description
+ᏕᏣᏚᎵᎭ [de²jạ²du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-Barbara sees a deer.
+You want them-inanimate.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
+\begin_layout Description
+ᏣᏚᎵᎭ [jạ²du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-Entoni agigage ahwi agowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "sentence3-1"
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Anthony, a red deer, he sees it.
+He wants you.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Description
+ᎤᎾᏚᎵᎭ [u¹na²du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-Anthony sees a red deer.
+They wants him, it.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
+\begin_layout Description
+ᏚᎾᏚᎵᎭ [du¹na²du²lị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-ᏆᏆᎠ ahwi ᎠᎩᎦᎨ agowhtiha.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "sentence4-1"
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
-
-Barbara, a deer, a red one, she sees it.
+They want them.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Enumerate
-\begin_inset Quotes eld
-\end_inset
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
 
-Barbara sees a red deer.
-\begin_inset Quotes erd
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
 \end_inset
 
 
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 \begin_inset Newpage clearpage
 \end_inset
