@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.272 $
+$Revision: 1.273 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/09 03:37:24 $ UTC
+$Date: 2016/07/09 03:39:21 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.272 $
+$Revision: 1.273 $
 \noun default
 .
 \end_layout
@@ -126697,7 +126697,7 @@ All.
 \begin_inset Quotes eld
 \end_inset
 
-Colored.
+Color.
 \begin_inset Quotes erd
 \end_inset
 
@@ -126710,7 +126710,7 @@ Colored.
 \begin_inset Quotes eld
 \end_inset
 
-Colored (them-animate).
+Color (them-animate).
 \begin_inset Quotes erd
 \end_inset
 
@@ -126722,7 +126722,7 @@ Colored (them-animate).
 \begin_inset Quotes eld
 \end_inset
 
-Colored (them-inanimate).
+Color (them-inanimate).
 \begin_inset Quotes erd
 \end_inset
 
