@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.276 $
+$Revision: 1.277 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/09 16:01:19 $ UTC
+$Date: 2016/07/09 21:24:42 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.276 $
+$Revision: 1.277 $
 \noun default
 .
 \end_layout
@@ -126937,6 +126937,2973 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+Additional vocabulary used in the following exercises.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏎᏃ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏎᏅ [a²se³hno, a²se³hnv] 
+\begin_inset Quotes eld
+\end_inset
+
+But.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᎪ [ga³go²] 
+\begin_inset Quotes eld
+\end_inset
+
+Who?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏍᎩᎶ [ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+A table or a chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+Tables.
+ Chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏂᏔᏛᎦ (Do them)
+\end_layout
+
+\begin_layout Standard
+You will need to reuse the following white cards from the previous chapter.
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/ahwi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/jisdu.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/saloli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/wahya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/yona.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/soquili.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-ahwi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-jisdu.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-saloli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-wahya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-yona.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-gihli.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-soquili.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-animate/anitali-wesa.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/gule.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/for-colors/nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/nuna.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/sadvdi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tuya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-gule.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-nvya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-nuna.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-sadvdi.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/tali-tuya.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to reuse the following people index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/adaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/ajalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/agilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/yvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/flags/anidaksi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anijalagi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/anigilisi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniyvwi-no-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+You will need to add the following index cards:
+\end_layout
+
+\begin_layout Subsection
+Groups
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Any remaining people are grouped together and are designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, rotate positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ and one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Keep rotating until everyone has been in position 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+, starting over with the first set of challenges as needed.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be read from the book.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ responses should be done without reading the book.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should help as needed.
+\end_layout
+
+\begin_layout Standard
+Each challenge-response should be done as in the following examples:
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᏪᏌ, ᏌᏛᏗ, ᏔᎵ ᎫᎴ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ places a single bear card, a two cat card, a single trap card, and a two
+ acorn card in front of 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᏓᏆᏚᎵᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ says: I want acorns.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴᏍ ᏕᏣᏚᎵᎭ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ confirms: You want acorns?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Yes.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎫᎴ → [Ꭰ]
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Alright.
+ Hands 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ the acorns card.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴ ᏕᏣᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: You have acorns.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏲᎾ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏂᏣᎳᎩ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ places a single dog card, a two bear card, a single chair card, a two trap
+ card, and a two Cherokee card in front of 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᏚᎾᏚᎵᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ points at the Cherokee card and says: They want bears.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾᏍ ᏚᎾᏚᎵᎭ?
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ confirms: They want bears?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Yes.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏲᎾ → ᎠᏂᏣᎳᎩ
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: Alright.
+ Places bears with Cherokee.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾ ᏚᏂᎧᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: They have bears.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ, ᎠᏂᏔᎵ ᎩᏟ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᎩᎵᏏ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ places a single squirrel card, a two dog card, a single table card, a two
+ table card, and a two English card in front of 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᎤᏚᎵᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ points at the English card and says: He/she wants a potato.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ says: But I don't have a potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᏌᎶᎵ, ᎠᏂᏔᎵ ᎠᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᏌᎶᎵ.
+ ᎯᎠ ᎠᏂᏔᎵ ᎠᏫ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᏌᏊ ᏌᎶᎵ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᎠᏴᏫ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᎠᏴᏫ.
+ ᎯᎠ ᎠᏂᏔᎵ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᎠᏂᏔᎵ ᎠᏂᏴᏫ ᎬᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Someone Alone
+\end_layout
+
+\begin_layout Standard
+Add three pretend study partners and follow the instructions for Groups.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Use an index card and hide the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ responses when reading the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ challenges.
+ Until you know the exercises steps, you will have to periodcally check
+ the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ responses before doing them while they are covered.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Remember to speak and act the responses out!
+\end_layout
+
+\begin_layout Subsection*
+Sets
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Take a short break if needed after every two to three sets.
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏲᎾ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏲᎾ → ᎠᏂᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾ ᏚᏂᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ, ᎠᏂᏔᎵ ᎩᏟ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᏥᏍᏚ, ᎠᏂᏔᎵ ᏥᏍᏚ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᏥᏍᏚ.
+ ᎯᎠ ᎠᏂᏔᎵ ᏥᏍᏚ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏥᏍᏚ ᎬᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏐᏈᎵ, ᎠᏂᏔᎵ ᏪᏌ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏄᎾ, → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏪᏌ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏪᏌ → ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌ ᏚᏂᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᏅᏯ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ, ᎠᏂᏔᎵ ᏐᏈᎵ, ᎫᎴ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏐᏈᎵ ᎦᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵᏍ ᎦᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏐᏈᎵ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵ ᎦᎯᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᎠᏫ, ᎠᏂᏔᎵ ᏌᎶᎵ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᎠᏫ.
+ ᎯᎠ ᎠᏂᏔᎵ ᏌᎶᎵ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏌᎶᎵ ᎬᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᎠᏫ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑), → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ, ᏚᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏂᏴᏫ ᎦᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏂᏴᏫᏍ ᎦᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏂᏴᏫ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏂᏴᏫ ᎦᎯᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᏌᎶᎵ, ᏌᏛᏗ, ᏔᎵ ᎫᎴ, → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏥᏍᏚ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏥᏍᏚᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏥᏍᏚ → ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏥᏍᏚ ᎤᏩᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᏩᎭᏯ, ᎠᏂᏔᎵ ᎠᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᏩᎭᏯ.
+ ᎯᎠ ᎠᏂᏔᎵ ᎠᏫ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᎠᏂᏔᎵ ᎠᏫ ᎬᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ, ᎠᏂᏔᎵ ᏪᏌ, ᏄᎾ, ᏔᎵ ᏚᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏪᏌ ᎦᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌᏍ ᎦᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏪᏌ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌ ᎦᎯᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ, ᎠᏂᏔᎵ ᏲᎾ, ᏅᏯ, ᏔᎵ ᏅᏯ, → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏴᏫ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏴᏫ → ᎠᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫ ᎤᏩᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᏚᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏚᏯ → ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯ ᎤᏂᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᎩᏟ, ᎠᏂᏔᎵ ᏥᏍᏚ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᎩᏟ.
+ ᎯᎠ ᎠᏂᏔᎵ ᏥᏍᏚ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᏌᏊ ᎩᏟ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᎩᏟ, ᏅᏯ, ᏔᎵ ᏅᏯ, → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏪᏌ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏪᏌ → ᎠᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌ ᎤᏩᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ, ᏄᎾ, ᏔᎵ ᏄᎾ, → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏄᎾ → ᎠᏂᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾ ᎤᏂᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏐᏈᎵ, ᎠᏂᏔᎵ ᏐᏈᎵ, ᏌᏛᏗ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏗᎦᏍᎩᎶ ᏓᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏕᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶ ᏕᏣᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᏌᎶᎵ, ᎠᏂᏔᎵ ᏥᏍᏚ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᏌᎶᎵ.
+ ᎯᎠ ᎠᏂᏔᎵ ᏥᏍᏚ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᏌᏊ ᏌᎶᎵ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᏪᏌ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐), → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏍᎩᎶ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎦᏍᎩᎶ → ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶ ᎤᏂᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ, ᎠᏂᏔᎵ ᏌᎶᎵ, ᎫᎴ, ᏔᎵ ᏚᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᏓᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯᏍ ᏕᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏚᏯ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯ ᏕᏣᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᎩᏟ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᎫᎴ, → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏌᎶᎵ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᏊ ᎩᏟ, ᎠᏂᏔᎵ ᏲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎯᎠ ᏌᏊ ᎩᏟ.
+ ᎯᎠ ᎠᏂᏔᎵ ᏲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᏌᏊ ᎩᏟ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏐᏈᎵ, ᎠᏂᏔᎵ ᎩᏟ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏗᎦᏍᎩᎶ ᏓᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏕᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶ ᏕᏣᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᏄᎾ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏫ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ, ᎠᏂᏔᎵ ᎠᏫ, ᏌᏛᏗ, ᏔᎵ ᏄᎾ, → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏴᏫ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏴᏫ → ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫ ᎤᏂᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏪᏌ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏚᏯ, → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᏚᏯ, ᏔᎵ ᎫᎴ, → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏲᎾ → ᎠᏂᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾ ᎤᏂᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ, ᏅᏯ, ᏔᎵ ᏅᏯ, → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏅᏯ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏅᏯ → ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯ ᏚᏂᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᏐᏈᎵ, ᎫᎴ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑), → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏩᎭᏯ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏩᎭᏯᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏩᎭᏯ → ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏩᎭᏯ ᎤᏂᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ, ᎠᏂᏔᎵ ᏲᎾ, ᎫᎴ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏗᏌᏛᏗ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᏌᏛᏗᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᏌᏛᏗ → ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᏌᏛᏗ ᏚᏂᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᏐᏈᎵ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏍᎩᎶ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶᏍ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎦᏍᎩᎶ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶ ᏣᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏐᏈᎵ, ᎠᏂᏔᎵ ᏌᎶᎵ, ᏄᎾ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏗᎦᏍᎩᎶ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ → ᎠᏂᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶ ᏚᏂᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᎠᏫ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏍᎩᎶ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶᏍ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎦᏍᎩᎶ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶ ᏣᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᏌᏛᏗ, ᏔᎵ ᏅᏯ, → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏐᏈᎵ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᏚᏯ, ᏔᎵ ᏗᏌᏛᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯᏍ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏚᏯ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯ ᏣᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᎩᏟ, ᏅᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑), → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏴᏫ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏴᏫ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ, ᏌᏛᏗ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᏓᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᏪᏌ, ᏌᏛᏗ, ᏔᎵ ᎫᎴ, → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏌᎶᎵ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏪᏌ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏅᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᏓᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᏄᎾ, ᏔᎵ ᏚᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏐᏈᎵ ᎦᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᏌᏛᏗ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᏓᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᏚᏯ, ᏔᎵ ᏄᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏂᏴᏫ ᎦᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏂᏴᏫ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᎩᏟ, ᏅᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏅᏯ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏅᏯ → ᎠᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯ ᎤᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᎫᎴ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏫ ᎦᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᎠᏫ, ᎫᎴ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎫᎴ → ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴ ᎤᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏚᏯ, → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏥᏍᏚ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏥᏍᏚᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏥᏍᏚ → ᎠᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏥᏍᏚ ᏚᏩᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏐᏈᎵ, ᎠᏂᏔᎵ ᏲᎾ, ᎫᎴ, ᏔᎵ ᏅᏯ, → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎫᎴ → ᎠᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴ ᎤᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᏌᎶᎵ, ᏄᎾ, ᏔᎵ ᏄᎾ, → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏌᎶᎵ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏌᎶᎵ → ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵ ᏚᏩᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏴᏫ ᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫᏍ ᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏴᏫ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫ ᎯᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏐᏈᎵ, ᏚᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏐᏈᎵ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏐᏈᎵ → ᎠᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵ ᏚᏩᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ, ᎠᏂᏔᎵ ᏪᏌ, ᏌᏛᏗ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏌᎶᎵ ᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵᏍ ᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏌᎶᎵ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵ ᎯᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ, ᎠᏂᏔᎵ ᎩᏟ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏅᏯ, → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ, ᏅᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾᏍ ᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏲᎾ → [Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾ ᎯᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᏪᏌ, ᏅᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᏲᎾ, ᏅᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏐᏈᎵ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᏌᏛᏗ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ, ᎠᏂᏔᎵ ᎩᏟ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏗᏌᏛᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏄᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏅᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᎩᏟ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏚᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏴᏫ ᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏴᏫ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᏪᏌ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏅᏯ, → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏩᎭᏯ, ᏅᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐).
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏫ ᏥᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᏪᏌ, ᏚᏯ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏌᎶᎵ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 9
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏩᎭᏯ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᏄᎾ, ᏔᎵ ᎫᎴ, → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏌᎶᎵ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᎩᏟ, ᎫᎴ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏲᎾ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᎩᏟ, ᏌᏛᏗ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏫ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ, ᏌᏛᏗ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏪᏌ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑), → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎠᏂᏴᏫ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏂᏴᏫ ᏱᎨᏥᏯᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ, ᎠᏂᏔᎵ ᎠᏫ, ᏅᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑), → ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ, ᎠᏂᏔᎵ ᏌᎶᎵ, ᏅᏯ, ᏔᎵ ᏅᏯ, → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏅᏯ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏅᏯ → ᎠᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯ ᏚᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᏐᏈᎵ, ᎦᏍᎩᎶ(├┐), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐), → ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᎤᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 10
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ, ᎠᏂᏔᎵ ᎩᏟ, ᏄᎾ, ᏔᎵ ᏗᎦᏍᎩᎶ(┍┑┍┑), → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏗᎦᏍᎩᎶ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ → ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶ ᏚᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏪᏌ, ᎠᏂᏔᎵ ᏐᏈᎵ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏗᎦᏍᎩᎶ(├┐┍┑), → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏚᏯ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ, ᎠᏂᏔᎵ ᏥᏍᏚ, ᎦᏍᎩᎶ(┍┑), ᏔᎵ ᏄᎾ, → ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏄᎾ → ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾ ᏚᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ, ᎠᏂᏔᎵ ᎠᏂᏴᏫ, ᏅᏯ, ᏔᎵ ᏗᏌᏛᏗ, → ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎫᎴ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ, ᎠᏂᏔᎵ ᏌᎶᎵ, ᏚᏯ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐), → ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏌᎶᎵ ᏚᎾᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏌᎶᎵ → ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵ ᏚᏂᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏴᏫ, ᎠᏂᏔᎵ ᏲᎾ, ᏌᏛᏗ, ᏔᎵ ᏗᎦᏍᎩᎶ(├┐├┐), → ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᏄᎾ ᏚᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 ᏔᎵᏍᎪ ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
@@ -127059,33 +130026,6 @@ Count of inanimate.
 
 \end_layout
 
-\begin_layout Description
-ᎦᏍᎩᎶ [ga²sgị²lo] 
-\begin_inset Quotes eld
-\end_inset
-
-A table or a chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo] 
-\begin_inset Quotes eld
-\end_inset
-
-Tables.
- Chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Description
 ᎦᏍᎩᎸᎢ [ga²sgị²lv⁴ɂi] 
 \begin_inset Quotes eld
