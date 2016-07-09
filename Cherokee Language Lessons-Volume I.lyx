@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.275 $
+$Revision: 1.276 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/09 15:59:48 $ UTC
+$Date: 2016/07/09 16:01:19 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.275 $
+$Revision: 1.276 $
 \noun default
 .
 \end_layout
@@ -126659,7 +126659,7 @@ Barbara sees a red deer.
 \end_deeper
 \begin_layout Standard
 Because Cherokee is very flexible about word ordering many speakers will
- sometimes rearrange sentences to emphasis something by saying that part
+ sometimes rearrange sentences to emphasize something by saying that part
  first.
 \end_layout
 
@@ -126675,154 +126675,12 @@ As you work through the exercises Cherokee word ordering will become second
 \end_layout
 
 \begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᏯᏂ [ị²yạ³ni] 
+This lesson also introduces ᎤᏚᎵᎭ 
 \begin_inset Quotes eld
 \end_inset
 
-Count of animate.
+He wants him, it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᎦ [i²³ga⁴] 
-\begin_inset Quotes eld
-\end_inset
-
-Count of inanimate.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᏍᎩᎶ [ga²sgị²lo] 
-\begin_inset Quotes eld
-\end_inset
-
-A table or a chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo] 
-\begin_inset Quotes eld
-\end_inset
-
-Tables.
- Chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏍᎩᎸᎢ [ga²sgị²lv⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-On a chair or on a table.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏂᎦᏓ,
-\begin_inset space ~
-\end_inset
-
-ᏂᎦᏛ [nị²ga⁴da, nị²ga⁴dv] 
-\begin_inset Quotes eld
-\end_inset
-
-All.
- Everyone.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color (them-animate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏧᎵᏑᏫᏓ [jul²su²³hwị²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Color (them-inanimate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
 \end_inset
 
 
@@ -127141,6 +126999,160 @@ Hurry.
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏯᏂ [ị²yạ³ni] 
+\begin_inset Quotes eld
+\end_inset
+
+Count of animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᎦ [i²³ga⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Count of inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏍᎩᎶ [ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+A table or a chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+Tables.
+ Chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏍᎩᎸᎢ [ga²sgị²lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+On a chair or on a table.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏂᎦᏓ,
+\begin_inset space ~
+\end_inset
+
+ᏂᎦᏛ [nị²ga⁴da, nị²ga⁴dv] 
+\begin_inset Quotes eld
+\end_inset
+
+All.
+ Everyone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color (them-animate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏧᎵᏑᏫᏓ [jul²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color (them-inanimate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
