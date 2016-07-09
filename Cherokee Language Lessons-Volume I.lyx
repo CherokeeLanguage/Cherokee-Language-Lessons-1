@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.267 $
+$Revision: 1.268 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/09 00:01:31 $ UTC
+$Date: 2016/07/09 00:05:30 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.267 $
+$Revision: 1.268 $
 \noun default
 .
 \end_layout
@@ -72941,7 +72941,11 @@ Ouch!
 \end_layout
 
 \begin_layout Description
-ᎣᏍᏓ [o⁴sda] 
+ᎣᏍᏓ,
+\begin_inset space ~
+\end_inset
+
+ᎣᏍᏛ [o⁴sda, o⁴sdv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73472,7 +73476,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏛ
 \end_layout
 
 \begin_deeper
@@ -73481,6 +73485,15 @@ Pass the gift from left to right.
  The person to receive it should indicate they don't want it and say “Ꮭ!”.
  The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
  The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The person giving the gift should say 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏛ
+\begin_inset Quotes erd
+\end_inset
+
+.
  The gift should then be passed.
 \end_layout
 
@@ -73548,6 +73561,15 @@ Pass the gift from left to right.
  The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
  The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
  The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The person giving the gift should say 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+.
  The gift should then be passed.
 \end_layout
 
@@ -73651,7 +73673,7 @@ Pass the gift from left to right.
 
 \end_deeper
 \begin_layout Enumerate
-Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏛ
 \end_layout
 
 \begin_deeper
@@ -73660,6 +73682,15 @@ Pass the gift from left to right.
  The person to receive it should indicate they don't want it and say “Ꮭ!”.
  The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
  The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The person giving the gift should say 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏛ
+\begin_inset Quotes erd
+\end_inset
+
+.
  The gift should then be passed.
 \end_layout
 
@@ -73772,6 +73803,15 @@ Pass the gift from left to right.
  The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
  The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
  The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The person giving the gift should say 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+.
  The gift should then be passed.
 \end_layout
 
@@ -73830,7 +73870,7 @@ Pass the gift from left to right.
 
 \end_deeper
 \begin_layout Enumerate
-Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏓ
+Ꮭ, ᎥᎥ, ᎤᏲᎢ, ᎣᏍᏛ
 \end_layout
 
 \begin_deeper
@@ -73839,6 +73879,15 @@ Pass the gift from left to right.
  The person to receive it should indicate they don't want it and say “Ꮭ!”.
  The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
  The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The person giving the gift should say 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏛ
+\begin_inset Quotes erd
+\end_inset
+
+.
  The gift should then be passed.
 \end_layout
 
@@ -73865,6 +73914,15 @@ Pass the gift from left to right.
  The person to receive it should indicate they don't want it and say “ᎥᏝ!”.
  The person giving the gift should then say “ᎥᏍᎩᎩ? ᎤᏲᎢ!”.
  The person receiving the gift should then say “Ꭳ… ᎰᏩ, ᎥᎥ.”.
+ The person giving the gift should say 
+\begin_inset Quotes eld
+\end_inset
+
+ᎣᏍᏓ
+\begin_inset Quotes erd
+\end_inset
+
+.
  The gift should then be passed.
 \end_layout
 
@@ -85211,12 +85269,12 @@ raggedcolumns
 
 \begin_layout Enumerate
 [Ꭰ] ᎤᏲᎢ ᏙᏯ.
- ᎣᏍᏓ ᎠᏍᎦᏯ.
+ ᎣᏍᏛ ᎠᏍᎦᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎠᏍᎦᏯ ᎣᏍᏓ.
+[Ꭰ→Ꭱ] ᎠᏍᎦᏯ ᎣᏍᏛ.
 \end_layout
 
 \begin_layout Enumerate
@@ -85263,7 +85321,7 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᎠᎨᏯ.
+[Ꭰ] ᎣᏍᏛ ᎠᎨᏯ.
  ᎤᏲᎢ ᏩᎭᏯ.
 \end_layout
 
@@ -85277,7 +85335,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎠᎨᏯ ᎣᏍᏓ.
+[Ꭰ→Ꭱ] ᎠᎨᏯ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85301,17 +85359,17 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᎠᏫ.
- ᎣᏍᏓ ᎩᏟ.
+[Ꭰ] ᎣᏍᏛ ᎠᏫ.
+ ᎣᏍᏛ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎠᏫᏊᏍ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᎠᏫᏊᏍ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᏝ, ᎠᏫ ᎣᏍᏓ ᎠᎴ ᎩᏟ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᏝ, ᎠᏫ ᎣᏍᏛ ᎠᎴ ᎩᏟ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85361,17 +85419,17 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᎠᎨᏯ.
- ᎣᏍᏓ ᏩᎭᏯ.
+[Ꭰ] ᎣᏍᏛ ᎠᎨᏯ.
+ ᎣᏍᏛ ᏩᎭᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᎥ, ᎠᎨᏯᏊᏧ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᎥᎥ, ᎠᎨᏯᏊᏧ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᏝ, ᎠᎨᏯ ᎣᏍᏓ ᎠᎴ ᏩᎭᏯ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᏝ, ᎠᎨᏯ ᎣᏍᏛ ᎠᎴ ᏩᎭᏯ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85479,17 +85537,17 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᎠᎨᏯ.
+[Ꭰ] ᎣᏍᏛ ᎠᎨᏯ.
  ᎤᏲᎢ ᎠᏍᎦᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᎥ, ᎠᎨᏯᏧ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᎥᎥ, ᎠᎨᏯᏧ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᎥ, ᎠᎨᏯ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᎥ, ᎠᎨᏯ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85525,16 +85583,16 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎤᏲᎢ ᎠᎨᏯ.
- ᎣᏍᏓ ᎩᏟ.
+ ᎣᏍᏛ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᎥ, ᎩᏟᏧ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᎥᎥ, ᎩᏟᏧ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᎥ, ᎩᏟ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᎥ, ᎩᏟ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85555,16 +85613,16 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎤᏲᎢ ᎠᎭᏫ.
- ᎣᏍᏓ ᎠᏍᎦᏯ.
+ ᎣᏍᏛ ᎠᏍᎦᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᎥ, ᎠᎭᏫᏧ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᎥᎥ, ᎠᎭᏫᏧ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᏝ, Ꮭ ᎠᎭᏫ ᎣᏍᏓ ᏱᎩ.
+[Ꭱ→Ꭰ] ᎥᏝ, Ꮭ ᎠᎭᏫ ᎣᏍᏛ ᏱᎩ.
 \end_layout
 
 \end_deeper
@@ -85672,17 +85730,17 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᏥᏍᏚ.
+[Ꭰ] ᎣᏍᏛ ᏥᏍᏚ.
  ᎤᏲᎢ ᏪᏌ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᏥᏍᏚᏍ ᎣᏍᏓ? 
+[Ꭰ→Ꭱ] ᏥᏍᏚᏍ ᎣᏍᏛ? 
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᎥ, ᏥᏍᏚ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᎥ, ᏥᏍᏚ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85732,17 +85790,17 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᏙᏯ.
+[Ꭰ] ᎣᏍᏛ ᏙᏯ.
  ᎤᏲᎢ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᏙᏯᏊᏍᎪ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᏙᏯᏊᏍᎪ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᎥ, ᏙᏯᏊ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᎥ, ᏙᏯᏊ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85821,16 +85879,16 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎤᏲᎢ ᏥᏍᏚ.
- ᎣᏍᏓ ᏩᎭᏯ.
+ ᎣᏍᏛ ᏩᎭᏯ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᏩᎭᏯᏊᏍᎪ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᏩᎭᏯᏊᏍᎪ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᎥ, ᏩᎭᏯᏊ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᎥ, ᏩᎭᏯᏊ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85850,17 +85908,17 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᏙᏯ.
+[Ꭰ] ᎣᏍᏛ ᏙᏯ.
  ᎤᏲᎢ ᏪᏌ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᎥ, ᏙᏯᏊᏧ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᎥᎥ, ᏙᏯᏊᏧ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᎥ, ᏙᏯᏊ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᎥ, ᏙᏯᏊ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
@@ -85880,17 +85938,17 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎣᏍᏓ ᏥᏍᏚ.
+[Ꭰ] ᎣᏍᏛ ᏥᏍᏚ.
  ᎤᏲᎢ ᎩᏟ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᎥ, ᏥᏍᏚᏊᏧ ᎣᏍᏓ?
+[Ꭰ→Ꭱ] ᎥᎥ, ᏥᏍᏚᏊᏧ ᎣᏍᏛ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎥᎥ, ᏥᏍᏚᏊ ᎣᏍᏓ.
+[Ꭱ→Ꭰ] ᎥᎥ, ᏥᏍᏚᏊ ᎣᏍᏛ.
 \end_layout
 
 \end_deeper
