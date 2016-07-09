@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.278 $
+$Revision: 1.279 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/09 23:31:14 $ UTC
+$Date: 2016/07/09 23:38:39 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.278 $
+$Revision: 1.279 $
 \noun default
 .
 \end_layout
@@ -127392,6 +127392,60 @@ You will need to reuse the following people index cards:
 
 \begin_layout Standard
 You will need to add the following index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/objects-neutral/gasgilo-table.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/gasgilo-chair.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/digasgilo-tables.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/digasgilo-chairs.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/objects-neutral/digasgilo-table+chair.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each one on the reverse as follows: ᎦᏍᎩᎶ, ᎦᏍᎩᎶ, ᏗᎦᏍᎩᎶ, ᏗᎦᏍᎩᎶ, ᏗᎦᏍᎩᎶ.
 \end_layout
 
 \begin_layout Standard
