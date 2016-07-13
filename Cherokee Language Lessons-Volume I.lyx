@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.281 $
+$Revision: 1.282 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/10 00:19:11 $ UTC
+$Date: 2016/07/10 00:27:54 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.281 $
+$Revision: 1.282 $
 \noun default
 .
 \end_layout
@@ -88116,108 +88116,61 @@ For the words
 \end_layout
 
 \begin_layout Standard
-You will need the following props:
+You will need to create three each of the following index cards:
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/flags/aniahwi-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
 
-\lang english
-\begin_inset ERT
-status collapsed
+\end_inset
 
-\begin_layout Plain Layout
+ 
+\begin_inset Graphics
+	filename artwork/flags/anigihli-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
 
+\end_inset
 
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
+ 
+\begin_inset Graphics
+	filename artwork/flags/anijisdu-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniwahaya-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/aniwesa-flag.png
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
 
 \end_inset
 
 
-\end_layout
-
-\begin_layout Itemize
-Three sheets of paper with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎠᏂᏩᏯ
-\begin_inset Quotes erd
-\end_inset
-
- on them.
- It's better if pictures of wolves are on them.
-\end_layout
-
-\begin_layout Itemize
-Three sheets of paper with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎠᏂᎩᏟ
-\begin_inset Quotes erd
-\end_inset
-
- on them.
- It's better if pictures of dogs are on them.
-\end_layout
-
-\begin_layout Itemize
-Three sheets of paper with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎠᏂᏪᏌ
-\begin_inset Quotes erd
-\end_inset
-
- on them.
- It's better if pictures of cats are on them.
-\end_layout
-
-\begin_layout Itemize
-Three sheets of paper with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎠᏂᏥᏍᏚ
-\begin_inset Quotes erd
-\end_inset
-
- on them.
- It's better if pictures of rabbits are on them.
-\end_layout
-
-\begin_layout Itemize
-Three sheets of paper with 
-\begin_inset Quotes eld
-\end_inset
-
-ᎠᏂᎠᏫ
-\begin_inset Quotes erd
-\end_inset
-
- on them.
- It's better if pictures of deer are on them.
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
+Label each card on the reverse as follows: ᎠᏂᎠᏫ, ᎠᏂᎩᏟ, ᎠᏂᏥᏍᏚ, ᎠᏂᏩᎭᏯ, ᎠᏂᏪᏌ.
 \end_layout
 
 \begin_layout Standard
