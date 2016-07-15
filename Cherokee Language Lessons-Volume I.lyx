@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.284 $
+$Revision: 1.285 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/13 01:15:22 $ UTC
+$Date: 2016/07/14 11:26:53 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.284 $
+$Revision: 1.285 $
 \noun default
 .
 \end_layout
@@ -99402,6 +99402,7 @@ Red / ᎩᎦᎨ ᏪᏌ.
 
 \begin_layout Itemize
 Black / ᎬᎿᎨ ᏪᏌ.
+ (ᎬᏂᎨ ᏪᏌ.)
 \end_layout
 
 \begin_layout Itemize
@@ -99600,7 +99601,6 @@ The
 \end_inset
 
  responses should be done without reading the book.
- 
 \end_layout
 
 \begin_layout Standard
@@ -108393,7 +108393,7 @@ long and rigid
 \emph default
 , and 
 \emph on
-solid or other
+solid or other (neutral)
 \emph default
 .
  The following vocabulary introduces two such verbs: ᎤᎭ and ᎤᏩᎧᎭ.
@@ -108680,7 +108680,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/adaksi-flag.png
+	filename artwork/flags/adaksi-flag.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108689,7 +108689,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ajalagi-flag.png
+	filename artwork/flags/ajalagi-flag.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108698,7 +108698,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/agilisi-flag.png
+	filename artwork/flags/agilisi-flag.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108707,7 +108707,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ayonega-flag.png
+	filename artwork/flags/ayonega-flag.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108716,7 +108716,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag.png
+	filename artwork/flags/ayvwi-no-flag.png
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
