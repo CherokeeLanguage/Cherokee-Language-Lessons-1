@@ -442,11 +442,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.288 $
+$Revision: 1.289 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/15 01:09:06 $ UTC
+$Date: 2016/07/15 01:15:39 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.288 $
+$Revision: 1.289 $
 \noun default
 .
 \end_layout
@@ -127860,7 +127860,7 @@ Each challenge-response should be done as in the following examples:
 \begin_inset Quotes erd
 \end_inset
 
- points at the deer card and says: These are deer.
+ points at the deer card and says: These are two deer.
 \end_layout
 
 \begin_layout Enumerate
@@ -127939,7 +127939,7 @@ Each challenge-response should be done as in the following examples:
 \begin_inset Quotes erd
 \end_inset
 
- points at the two person card and says: These are people.
+ points at the two person card and says: These are two people.
 \end_layout
 
 \begin_layout Enumerate
