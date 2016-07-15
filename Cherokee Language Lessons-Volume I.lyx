@@ -192,6 +192,10 @@ pagestyle{empty}
 \begin_inset Newline newline
 \end_inset
 
+ᎢᎬᏱᎢ ᏗᎪᏪᎵ
+\begin_inset Newline newline
+\end_inset
+
 
 \begin_inset CommandInset line
 LatexCommand rule
@@ -206,6 +210,10 @@ height "1pt"
 \end_inset
 
 Cherokee Language Lessons
+\begin_inset Newline newline
+\end_inset
+
+Volume 1
 \end_layout
 
 \begin_layout Author
@@ -442,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.289 $
+$Revision: 1.290 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/15 01:15:39 $ UTC
+$Date: 2016/07/15 01:19:45 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.289 $
+$Revision: 1.290 $
 \noun default
 .
 \end_layout
