@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.295 $
+$Revision: 1.296 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/16 01:44:44 $ UTC
+$Date: 2016/07/16 01:47:39 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.295 $
+$Revision: 1.296 $
 \noun default
 .
 \end_layout
@@ -81174,7 +81174,7 @@ Each challenge-response comes in one of three forms and should be done as
 \begin_inset Quotes erd
 \end_inset
 
- responds: Which do I see?
+ responds: Which do I see there?
 \end_layout
 
 \begin_layout Enumerate
