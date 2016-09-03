@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.299 $
+$Revision: 1.300 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/09/03 00:15:29 $ UTC
+$Date: 2016/09/03 00:32:36 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.299 $
+$Revision: 1.300 $
 \noun default
 .
 \end_layout
@@ -108167,10 +108167,24 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
 For review:
 \end_layout
 
-\begin_layout Standard
+\begin_layout Plain Layout
 
 \lang english
 \begin_inset ERT
@@ -108203,24 +108217,30 @@ He.
 \begin_inset Quotes erd
 \end_inset
 
- 
+
 \end_layout
 
 \begin_deeper
 \begin_layout Description
-ᎥᏍᎩ [v¹sgị]
+ᎥᏍᎩ [v¹sgị] - 
+\emph on
+Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
-ᏍᎩᎾ [sgị²na]
+ᏍᎩᎾ [sgị²na] - 
+\emph on
+Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
-ᎾᏍᎩ [na¹sgi]
+ᎾᏍᎩ [na¹sgi] - 
+\emph on
+Alternate pronunciation.
 \end_layout
 
 \end_deeper
-\begin_layout Standard
+\begin_layout Plain Layout
 \begin_inset ERT
 status collapsed
 
@@ -108229,6 +108249,11 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
