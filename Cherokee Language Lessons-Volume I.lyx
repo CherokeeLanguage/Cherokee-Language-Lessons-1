@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.301 $
+$Revision: 1.302 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/09/03 00:36:28 $ UTC
+$Date: 2016/09/03 01:30:52 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.301 $
+$Revision: 1.302 $
 \noun default
 .
 \end_layout
@@ -955,10 +955,10 @@ TPRS
 \begin_layout Quote
 
 \emph on
-Total physical response
+TPR 
 \emph default
- (TPR) is a language teaching method developed by James Asher, a professor
- emeritus of psychology at San José State University.
+(Total Physical Response) is a language teaching method developed by James
+ Asher, a professor emeritus of psychology at San José State University.
  It is based on the coordination of language and physical movement.
  In TPR, instructors give commands to students in the target language, and
  students respond with whole-body actions\SpecialChar \ldots{}
@@ -993,10 +993,9 @@ The core concept of TPR is physical activity in response to the language
 \begin_layout Quote
 
 \emph on
-TPR Storytelling
+TPRS
 \emph default
- (Teaching Proficiency through Reading and Storytelling or TPRS) is a method
- of teaching foreign languages.
+ (TPR Storytelling) is a method of teaching foreign languages.
  TPRS lessons use a mixture of reading and storytelling to help students
  learn a foreign language\SpecialChar \ldots{}
 
@@ -1042,7 +1041,7 @@ One thing both approaches agree on is that students should be listening
 
 \begin_layout Standard
 In addition to the TPR and TPRS approaches, there also sections explaining
- grammar concepts in combination with traditional translation exercises.
+ core grammar concepts in combination with traditional translation exercises.
 \end_layout
 
 \begin_layout Chapter
