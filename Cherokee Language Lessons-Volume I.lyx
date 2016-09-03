@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.305 $
+$Revision: 1.306 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/09/03 02:00:15 $ UTC
+$Date: 2016/09/03 02:01:27 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.305 $
+$Revision: 1.306 $
 \noun default
 .
 \end_layout
@@ -1018,8 +1018,8 @@ https://en.wikipedia.org/wiki/TPR_Storytelling
 \begin_layout Quote
 ☞ 
 \emph on
-The core concept of TPRS is speaking the language being learned to describe
- things.
+The core concept of TPRS is listening to the language as it is used to describe
+ a series of connected events.
 \end_layout
 
 \begin_layout Standard
@@ -1033,15 +1033,15 @@ Many activities involve TPR by participants performing physical actions
 
 \begin_layout Standard
 One thing both approaches agree on is that students should be listening
- and responding with actions or very simple and brief verbal responses.
+ and only responding with actions only using simple and brief verbal responses
+ when necessary.
  It usually takes about 30 hours of instruction in a classroom setting before
- students are ready to start speaking beyond simple brief words.
- It takes longer when doing self-study.
- This generally applies to any language being learned.
+ students are ready to start speaking simple sentences.
+ It is important to not force speaking the language before being ready.
 \end_layout
 
 \begin_layout Standard
-In addition to the TPR and TPRS approaches, there are also sections explaining
+In addition to the TPR and TPRS approaches, there also sections explaining
  core grammar concepts in combination with traditional translation exercises.
 \end_layout
 
@@ -3926,9 +3926,9 @@ You should be able to learn the Cherokee Syllabary with three to five days
 The best way to learn any writing system is by writing it.
  Unless you learn to write the Syllabary, you will be spending a lot of
  effort just to learn to read Cherokee.
- The physical act of writing each Cherokee Syllabary letter immediately
- after speaking aloud the letter you are going to write, will reduce the
- amount of time it takes for you to learn the Cherokee Syllabary.
+ The physical act of writing will dramatically reduce the amount of time
+ it takes for you to learn the Cherokee Syllabary.
+ You need to associate a physical response with each letter's shape.
 \end_layout
 
 \begin_layout Standard
@@ -3998,10 +3998,6 @@ It works out best if you do each session twice per day.
 \end_layout
 
 \begin_layout Standard
-You can always repeat a session the next day if you feel you need it.
-\end_layout
-
-\begin_layout Standard
 During your later lessons, if you are having problems recognizing any of
  the Syllabary, simply do the day 4 session as a refresher.
 \end_layout
@@ -4059,8 +4055,7 @@ Estimated time: 5 minutes.
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
  each of the letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -4076,12 +4071,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 01 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 01.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -6374,8 +6369,6 @@ Cherokee Syllabary Dictation Practice
 \emph default
 ).
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -8784,9 +8777,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -8802,12 +8794,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 02 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 02.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -11095,8 +11087,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -13509,9 +13499,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -13527,12 +13516,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 03 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 03.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -15820,8 +15809,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -18230,9 +18217,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -18248,12 +18234,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 04 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 04.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -20541,8 +20527,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -22955,9 +22939,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -22973,12 +22956,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 05 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 05.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -25266,8 +25249,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -27676,9 +27657,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -27694,12 +27674,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 06 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 06.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -30020,8 +30000,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -32434,9 +32412,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -32452,12 +32429,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 07 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 07.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -34800,8 +34777,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -37210,9 +37185,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -37228,12 +37202,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 08 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 08.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -39521,8 +39495,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -41935,9 +41907,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -41953,12 +41924,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 09 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 09.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -44246,8 +44217,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -46656,9 +46625,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -46674,12 +46642,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 10 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 10.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -48967,8 +48935,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -51381,9 +51347,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -51399,12 +51364,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 11 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 11.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -53692,8 +53657,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -56102,9 +56065,8 @@ Estimated time: 5 minutes.
 
 \begin_layout Standard
 The purpose of this exercise is to learn the hand strokes needed for writing
- each of these newly presented letters.
- Write each letter out at least six times in a row, one repeated letter
- set per row.
+ each of the letters.
+ Write the following line out six times.
  Take your time and draw each letter step by step as depicted in the following
  figure.
  
@@ -56120,12 +56082,12 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 12 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 12.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -58445,8 +58407,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
@@ -60842,7 +60802,7 @@ One additional letter and a review.
 
 \begin_layout Standard
 These additional exercises cover the final new letter “Ᏼ (yv)” and reviews
- the letters “Ꮗ (que)”, “Ꮚ (quu)”, “Ꮿ (ya)”, “Ꭶ (ga)”, “Ꮥ (de)”, and “Ꮪ
+ the letters “Ꮗ (gwe)”, “Ꮚ (gwu)”, “Ꮿ (ya)”, “Ꭶ (ga)”, “Ꮥ (de)”, and “Ꮪ
  (du)”.
 \end_layout
 
@@ -60854,12 +60814,12 @@ Refer to the following figure as needed.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/syllabary practice paper - sheet 13 a.png
-	lyxscale 10
-	width 40col%
+	filename artwork/letters/samples/handone - sample 13.png
+	lyxscale 40
+	width 90col%
 	height 20pheight%
 	keepAspectRatio
-	groupId penmanship2
+	groupId sample-lettering
 
 \end_inset
 
@@ -63147,8 +63107,6 @@ Estimated time: 20 minutes.
 \begin_layout Standard
 Have a partner call out each of the following letters.
  As the letters are called out, write each one down.
- As you write down each letter, say aloud its name while keeping the tip
- of your tongue against the backside of your lower front teeth.
  At the end of each line, your partner should say 
 \begin_inset Quotes eld
 \end_inset
