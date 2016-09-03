@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.298 $
+$Revision: 1.299 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/07/29 19:40:36 $ UTC
+$Date: 2016/09/03 00:15:29 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.298 $
+$Revision: 1.299 $
 \noun default
 .
 \end_layout
@@ -108150,6 +108150,76 @@ You have it, something alive.
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+For review:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎥᏍᎩᎾ [v¹sgị²na] 
+\begin_inset Quotes eld
+\end_inset
+
+He.
+ She.
+ They.
+ That.
+ Those.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎥᏍᎩ [v¹sgị]
+\end_layout
+
+\begin_layout Description
+ᏍᎩᎾ [sgị²na]
+\end_layout
+
+\begin_layout Description
+ᎾᏍᎩ [na¹sgi]
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
