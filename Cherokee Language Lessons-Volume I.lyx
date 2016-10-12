@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.310 $
+$Revision: 1.311 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/09/04 08:20:58 $ UTC
+$Date: 2016/10/02 21:30:25 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.310 $
+$Revision: 1.311 $
 \noun default
 .
 \end_layout
@@ -116493,6 +116493,18 @@ He has them, some alive things.
 \end_layout
 
 \begin_layout Description
+ᏚᏂᎧᎭ [du¹ni²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎦᏥᏯᎧᎭ [ga²ji²ya²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -116626,6 +116638,22 @@ You don't have them, some solid things.
 \end_inset
 
 He doesn't have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏚᏂᎧᎭ [hla yị²du¹ni²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They don't have them, some alive things.
 \begin_inset Quotes erd
 \end_inset
 
