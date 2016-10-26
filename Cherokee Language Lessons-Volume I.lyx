@@ -188,11 +188,7 @@ pagestyle{empty}
 \end_layout
 
 \begin_layout Title
-ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᏗᏕᎶᏆᏍᏗ
-\begin_inset Newline newline
-\end_inset
-
-ᎢᎬᏱᎢ ᏗᎪᏪᎵ
+ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᏗᏕᎶᏆᏍᏗ 1
 \begin_inset Newline newline
 \end_inset
 
@@ -209,11 +205,7 @@ height "1pt"
 \begin_inset Newline newline
 \end_inset
 
-Cherokee Language Lessons
-\begin_inset Newline newline
-\end_inset
-
-Volume 1
+Cherokee Language Lessons 1
 \end_layout
 
 \begin_layout Author
@@ -425,7 +417,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-Cherokee Language Lessons, Volume 1, 2nd Edition
+Cherokee Language Lessons 1, 2nd Edition
 \end_layout
 
 \begin_layout Standard
@@ -450,11 +442,11 @@ ISBN: 978-1-365-48874-0
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.317 $
+$Revision: 1.318 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/26 19:16:30 $ UTC
+$Date: 2016/10/26 19:22:07 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +691,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.317 $
+$Revision: 1.318 $
 \noun default
 .
 \end_layout
@@ -3830,7 +3822,7 @@ The Syllabary
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/syllabary chart.png
+	filename artwork/syllabary chart.jpg
 	lyxscale 20
 	width 85col%
 	height 30pheight%
@@ -4079,7 +4071,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 01.png
+	filename artwork/letters/samples/handone - sample 01.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -8802,7 +8794,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 02.png
+	filename artwork/letters/samples/handone - sample 02.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -13531,7 +13523,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 03.png
+	filename artwork/letters/samples/handone - sample 03.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -18249,7 +18241,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 04.png
+	filename artwork/letters/samples/handone - sample 04.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -22978,7 +22970,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 05.png
+	filename artwork/letters/samples/handone - sample 05.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -27696,7 +27688,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 06.png
+	filename artwork/letters/samples/handone - sample 06.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -32458,7 +32450,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 07.png
+	filename artwork/letters/samples/handone - sample 07.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -37231,7 +37223,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 08.png
+	filename artwork/letters/samples/handone - sample 08.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -41960,7 +41952,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 09.png
+	filename artwork/letters/samples/handone - sample 09.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -46678,7 +46670,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 10.png
+	filename artwork/letters/samples/handone - sample 10.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -51407,7 +51399,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 11.png
+	filename artwork/letters/samples/handone - sample 11.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -56125,7 +56117,7 @@ Do not write out the English pronunciation next to each letter
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 12.png
+	filename artwork/letters/samples/handone - sample 12.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -60857,7 +60849,7 @@ Refer to the following figure as needed.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/letters/samples/handone - sample 13.png
+	filename artwork/letters/samples/handone - sample 13.jpg
 	lyxscale 40
 	width 90col%
 	height 20pheight%
@@ -87783,7 +87775,7 @@ You will need to create three each of the following index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/aniahwi-flag.png
+	filename artwork/flags/aniahwi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -87792,7 +87784,7 @@ You will need to create three each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anigihli-flag.png
+	filename artwork/flags/anigihli-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -87801,7 +87793,7 @@ You will need to create three each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anijisdu-flag.png
+	filename artwork/flags/anijisdu-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -87810,7 +87802,7 @@ You will need to create three each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniwahaya-flag.png
+	filename artwork/flags/aniwahaya-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -87819,7 +87811,7 @@ You will need to create three each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniwesa-flag.png
+	filename artwork/flags/aniwesa-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -94902,7 +94894,7 @@ Example index card fronts:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/adaksi-flag.png
+	filename artwork/adaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -94911,7 +94903,7 @@ Example index card fronts:
 
  
 \begin_inset Graphics
-	filename artwork/ajalagi-flag.png
+	filename artwork/ajalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -94920,7 +94912,7 @@ Example index card fronts:
 
  
 \begin_inset Graphics
-	filename artwork/agilisi-flag.png
+	filename artwork/agilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -94929,7 +94921,7 @@ Example index card fronts:
 
  
 \begin_inset Graphics
-	filename artwork/ayonega-flag.png
+	filename artwork/ayonega-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -94938,7 +94930,7 @@ Example index card fronts:
 
  
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag.png
+	filename artwork/yvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -98616,7 +98608,7 @@ Example:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/for-colors/square-black.png
+	filename artwork/for-colors/square-black.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -98625,7 +98617,7 @@ Example:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/square-black-name.png
+	filename artwork/for-colors/square-black-name.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -98728,7 +98720,7 @@ For the second set you will need to create five copies of each the following
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/for-colors/nvya.png
+	filename artwork/for-colors/nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -98737,7 +98729,7 @@ For the second set you will need to create five copies of each the following
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/gihli.png
+	filename artwork/for-colors/gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -98746,7 +98738,7 @@ For the second set you will need to create five copies of each the following
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/wesa.png
+	filename artwork/for-colors/wesa.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -98755,7 +98747,7 @@ For the second set you will need to create five copies of each the following
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/gihli-dead.png
+	filename artwork/for-colors/gihli-dead.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -98764,7 +98756,7 @@ For the second set you will need to create five copies of each the following
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/wesa-dead.png
+	filename artwork/for-colors/wesa-dead.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -99109,7 +99101,7 @@ Recommended areas on each card to color:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/for-colors/nvya-black.png
+	filename artwork/for-colors/nvya-black.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -99118,7 +99110,7 @@ Recommended areas on each card to color:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/gihli-black.png
+	filename artwork/for-colors/gihli-black.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -99127,7 +99119,7 @@ Recommended areas on each card to color:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/wesa-black.png
+	filename artwork/for-colors/wesa-black.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -99136,7 +99128,7 @@ Recommended areas on each card to color:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/gihli-dead-black.png
+	filename artwork/for-colors/gihli-dead-black.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -99145,7 +99137,7 @@ Recommended areas on each card to color:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/wesa-dead-black.png
+	filename artwork/for-colors/wesa-dead-black.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -101754,7 +101746,7 @@ You will need to create six copies each of the following index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/for-colors/gihli.png
+	filename artwork/for-colors/gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -101763,7 +101755,7 @@ You will need to create six copies each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/gihli-dead.png
+	filename artwork/for-colors/gihli-dead.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -101772,7 +101764,7 @@ You will need to create six copies each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/wesa-anitali.png
+	filename artwork/for-colors/wesa-anitali.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -101781,7 +101773,7 @@ You will need to create six copies each of the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/wesa-tali-dead.png
+	filename artwork/for-colors/wesa-tali-dead.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108341,7 +108333,7 @@ You will need to create three copies each of the following index cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/ahwi.png
+	filename artwork/objects-animate/ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108350,7 +108342,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/jisdu.png
+	filename artwork/objects-animate/jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108359,7 +108351,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/saloli.png
+	filename artwork/objects-animate/saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108368,7 +108360,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wahya.png
+	filename artwork/objects-animate/wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108377,7 +108369,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/yona.png
+	filename artwork/objects-animate/yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108391,7 +108383,7 @@ You will need to create three copies each of the following index cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/gule.png
+	filename artwork/objects-neutral/gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108400,7 +108392,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/nvya.png
+	filename artwork/for-colors/nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108409,7 +108401,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/nuna.png
+	filename artwork/objects-neutral/nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108418,7 +108410,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/sadvdi.png
+	filename artwork/objects-neutral/sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108427,7 +108419,7 @@ You will need to create three copies each of the following index cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tuya.png
+	filename artwork/objects-neutral/tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108463,7 +108455,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/adaksi-flag.png
+	filename artwork/flags/adaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108472,7 +108464,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/ajalagi-flag.png
+	filename artwork/flags/ajalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108481,7 +108473,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/agilisi-flag.png
+	filename artwork/flags/agilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108490,7 +108482,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/ayonega-flag.png
+	filename artwork/flags/ayonega-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -108499,7 +108491,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/ayvwi-no-flag.png
+	filename artwork/flags/ayvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -109099,7 +109091,7 @@ You will need to add the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/anidaksi-flag.png
+	filename artwork/flags/anidaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -109108,7 +109100,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anijalagi-flag.png
+	filename artwork/flags/anijalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -109117,7 +109109,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anigilisi-flag.png
+	filename artwork/flags/anigilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -109126,7 +109118,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyonega-flag.png
+	filename artwork/flags/aniyonega-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -109135,7 +109127,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag.png
+	filename artwork/flags/aniyvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112304,7 +112296,7 @@ You will need to reuse the following cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/ahwi.png
+	filename artwork/objects-animate/ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112313,7 +112305,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/jisdu.png
+	filename artwork/objects-animate/jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112322,7 +112314,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/saloli.png
+	filename artwork/objects-animate/saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112331,7 +112323,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wahya.png
+	filename artwork/objects-animate/wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112340,7 +112332,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/yona.png
+	filename artwork/objects-animate/yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112354,7 +112346,7 @@ You will need to reuse the following cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/gule.png
+	filename artwork/objects-neutral/gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112363,7 +112355,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/nvya.png
+	filename artwork/for-colors/nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112372,7 +112364,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/nuna.png
+	filename artwork/objects-neutral/nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112381,7 +112373,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/sadvdi.png
+	filename artwork/objects-neutral/sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112390,7 +112382,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tuya.png
+	filename artwork/objects-neutral/tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112408,7 +112400,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/adaksi-flag.png
+	filename artwork/adaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112417,7 +112409,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ajalagi-flag.png
+	filename artwork/ajalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112426,7 +112418,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/agilisi-flag.png
+	filename artwork/agilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112435,7 +112427,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ayonega-flag.png
+	filename artwork/ayonega-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112444,7 +112436,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag.png
+	filename artwork/yvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112462,7 +112454,7 @@ You will need to add the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/anidaksi-flag.png
+	filename artwork/flags/anidaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112471,7 +112463,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anijalagi-flag.png
+	filename artwork/flags/anijalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112480,7 +112472,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anigilisi-flag.png
+	filename artwork/flags/anigilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112489,7 +112481,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyonega-flag.png
+	filename artwork/flags/aniyonega-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112498,7 +112490,7 @@ You will need to add the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag.png
+	filename artwork/flags/aniyvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112522,7 +112514,7 @@ You will need to create one copy each of the following blind-folded people
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/adaksi-flag-blind.png
+	filename artwork/adaksi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112531,7 +112523,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/ajalagi-flag-blind.png
+	filename artwork/ajalagi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112540,7 +112532,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/agilisi-flag-blind.png
+	filename artwork/agilisi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112549,7 +112541,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/ayonega-flag-blind.png
+	filename artwork/ayonega-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112558,7 +112550,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag-blind.png
+	filename artwork/yvwi-no-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112572,7 +112564,7 @@ You will need to create one copy each of the following blind-folded people
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/anidaksi-flag-blind.png
+	filename artwork/flags/anidaksi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112581,7 +112573,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/flags/anijalagi-flag-blind.png
+	filename artwork/flags/anijalagi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112590,7 +112582,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/flags/anigilisi-flag-blind.png
+	filename artwork/flags/anigilisi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112599,7 +112591,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyonega-flag-blind.png
+	filename artwork/flags/aniyonega-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -112608,7 +112600,7 @@ You will need to create one copy each of the following blind-folded people
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag-blind.png
+	filename artwork/flags/aniyvwi-no-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116720,7 +116712,7 @@ You will need to reuse the following cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/ahwi.png
+	filename artwork/objects-animate/ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116729,7 +116721,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/jisdu.png
+	filename artwork/objects-animate/jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116738,7 +116730,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/saloli.png
+	filename artwork/objects-animate/saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116747,7 +116739,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wahya.png
+	filename artwork/objects-animate/wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116756,7 +116748,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/yona.png
+	filename artwork/objects-animate/yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116770,7 +116762,7 @@ You will need to reuse the following cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/gule.png
+	filename artwork/objects-neutral/gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116779,7 +116771,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/nvya.png
+	filename artwork/for-colors/nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116788,7 +116780,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/nuna.png
+	filename artwork/objects-neutral/nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116797,7 +116789,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/sadvdi.png
+	filename artwork/objects-neutral/sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116806,7 +116798,7 @@ You will need to reuse the following cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tuya.png
+	filename artwork/objects-neutral/tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116827,7 +116819,7 @@ You will need to add three each of the following cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/gihli.png
+	filename artwork/objects-animate/gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116836,7 +116828,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/soquili.png
+	filename artwork/objects-animate/soquili.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116845,7 +116837,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wesa.png
+	filename artwork/objects-animate/wesa.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116859,7 +116851,7 @@ You will need to add three each of the following cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-gihli.png
+	filename artwork/objects-animate/anitali-gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116868,7 +116860,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-soquili.png
+	filename artwork/objects-animate/anitali-soquili.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116877,7 +116869,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wesa.png
+	filename artwork/objects-animate/anitali-wesa.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116904,7 +116896,7 @@ You will need to add three each of the following cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-ahwi.png
+	filename artwork/objects-animate/anitali-ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116913,7 +116905,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-jisdu.png
+	filename artwork/objects-animate/anitali-jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116922,7 +116914,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-saloli.png
+	filename artwork/objects-animate/anitali-saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116931,7 +116923,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wahya.png
+	filename artwork/objects-animate/anitali-wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116940,7 +116932,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-yona.png
+	filename artwork/objects-animate/anitali-yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116967,7 +116959,7 @@ You will need to add three each of the following cards.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-gule.png
+	filename artwork/objects-neutral/tali-gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116976,7 +116968,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-nvya.png
+	filename artwork/objects-neutral/tali-nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116985,7 +116977,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-nuna.png
+	filename artwork/objects-neutral/tali-nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -116994,7 +116986,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-sadvdi.png
+	filename artwork/objects-neutral/tali-sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117003,7 +116995,7 @@ You will need to add three each of the following cards.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-tuya.png
+	filename artwork/objects-neutral/tali-tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117027,7 +117019,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/adaksi-flag.png
+	filename artwork/adaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117036,7 +117028,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ajalagi-flag.png
+	filename artwork/ajalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117045,7 +117037,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/agilisi-flag.png
+	filename artwork/agilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117054,7 +117046,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ayonega-flag.png
+	filename artwork/ayonega-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117063,7 +117055,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag.png
+	filename artwork/yvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117077,7 +117069,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/anidaksi-flag.png
+	filename artwork/flags/anidaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117086,7 +117078,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anijalagi-flag.png
+	filename artwork/flags/anijalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117095,7 +117087,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anigilisi-flag.png
+	filename artwork/flags/anigilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117104,7 +117096,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyonega-flag.png
+	filename artwork/flags/aniyonega-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117113,7 +117105,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag.png
+	filename artwork/flags/aniyvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117131,7 +117123,7 @@ You will need to reuse the following blind-folded people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/adaksi-flag-blind.png
+	filename artwork/adaksi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117140,7 +117132,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ajalagi-flag-blind.png
+	filename artwork/ajalagi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117149,7 +117141,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/agilisi-flag-blind.png
+	filename artwork/agilisi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117158,7 +117150,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ayonega-flag-blind.png
+	filename artwork/ayonega-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117167,7 +117159,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag-blind.png
+	filename artwork/yvwi-no-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117181,7 +117173,7 @@ You will need to reuse the following blind-folded people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/anidaksi-flag-blind.png
+	filename artwork/flags/anidaksi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117190,7 +117182,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anijalagi-flag-blind.png
+	filename artwork/flags/anijalagi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117199,7 +117191,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anigilisi-flag-blind.png
+	filename artwork/flags/anigilisi-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117208,7 +117200,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyonega-flag-blind.png
+	filename artwork/flags/aniyonega-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -117217,7 +117209,7 @@ You will need to reuse the following blind-folded people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag-blind.png
+	filename artwork/flags/aniyvwi-no-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122835,7 +122827,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/ahwi.png
+	filename artwork/objects-animate/ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122844,7 +122836,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/jisdu.png
+	filename artwork/objects-animate/jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122853,7 +122845,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/saloli.png
+	filename artwork/objects-animate/saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122862,7 +122854,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wahya.png
+	filename artwork/objects-animate/wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122876,7 +122868,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/yona.png
+	filename artwork/objects-animate/yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122885,7 +122877,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/gihli.png
+	filename artwork/objects-animate/gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122894,7 +122886,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/soquili.png
+	filename artwork/objects-animate/soquili.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122903,7 +122895,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wesa.png
+	filename artwork/objects-animate/wesa.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122917,7 +122909,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-ahwi.png
+	filename artwork/objects-animate/anitali-ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122926,7 +122918,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-jisdu.png
+	filename artwork/objects-animate/anitali-jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122935,7 +122927,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-saloli.png
+	filename artwork/objects-animate/anitali-saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122944,7 +122936,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wahya.png
+	filename artwork/objects-animate/anitali-wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122958,7 +122950,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-yona.png
+	filename artwork/objects-animate/anitali-yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122967,7 +122959,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-gihli.png
+	filename artwork/objects-animate/anitali-gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122976,7 +122968,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-soquili.png
+	filename artwork/objects-animate/anitali-soquili.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122985,7 +122977,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wesa.png
+	filename artwork/objects-animate/anitali-wesa.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -122999,7 +122991,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/gule.png
+	filename artwork/objects-neutral/gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123008,7 +123000,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/nvya.png
+	filename artwork/for-colors/nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123017,7 +123009,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/nuna.png
+	filename artwork/objects-neutral/nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123026,7 +123018,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/sadvdi.png
+	filename artwork/objects-neutral/sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123035,7 +123027,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tuya.png
+	filename artwork/objects-neutral/tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123049,7 +123041,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-gule.png
+	filename artwork/objects-neutral/tali-gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123058,7 +123050,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-nvya.png
+	filename artwork/objects-neutral/tali-nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123067,7 +123059,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-nuna.png
+	filename artwork/objects-neutral/tali-nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123076,7 +123068,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-sadvdi.png
+	filename artwork/objects-neutral/tali-sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123085,7 +123077,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-tuya.png
+	filename artwork/objects-neutral/tali-tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123103,7 +123095,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag.png
+	filename artwork/yvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123112,7 +123104,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag.png
+	filename artwork/flags/aniyvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123121,7 +123113,7 @@ You will need to reuse the following people index cards:
 
   
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag-blind.png
+	filename artwork/yvwi-no-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123130,7 +123122,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag-blind.png
+	filename artwork/flags/aniyvwi-no-flag-blind.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123150,7 +123142,7 @@ You will need to add 9 each of the following card.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/for-colors/square-white.png
+	filename artwork/for-colors/square-white.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -123176,7 +123168,7 @@ You will need to add 9 each of the following card.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/for-colors/squares-white.png
+	filename artwork/for-colors/squares-white.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126827,7 +126819,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/ahwi.png
+	filename artwork/objects-animate/ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126836,7 +126828,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/jisdu.png
+	filename artwork/objects-animate/jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126845,7 +126837,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/saloli.png
+	filename artwork/objects-animate/saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126854,7 +126846,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wahya.png
+	filename artwork/objects-animate/wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126868,7 +126860,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/yona.png
+	filename artwork/objects-animate/yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126877,7 +126869,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/gihli.png
+	filename artwork/objects-animate/gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126886,7 +126878,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/soquili.png
+	filename artwork/objects-animate/soquili.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126895,7 +126887,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/wesa.png
+	filename artwork/objects-animate/wesa.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126909,7 +126901,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-ahwi.png
+	filename artwork/objects-animate/anitali-ahwi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126918,7 +126910,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-jisdu.png
+	filename artwork/objects-animate/anitali-jisdu.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126927,7 +126919,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-saloli.png
+	filename artwork/objects-animate/anitali-saloli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126936,7 +126928,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wahya.png
+	filename artwork/objects-animate/anitali-wahya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126950,7 +126942,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-yona.png
+	filename artwork/objects-animate/anitali-yona.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126959,7 +126951,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-gihli.png
+	filename artwork/objects-animate/anitali-gihli.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126968,7 +126960,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-soquili.png
+	filename artwork/objects-animate/anitali-soquili.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126977,7 +126969,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-animate/anitali-wesa.png
+	filename artwork/objects-animate/anitali-wesa.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -126991,7 +126983,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/gule.png
+	filename artwork/objects-neutral/gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127000,7 +126992,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/for-colors/nvya.png
+	filename artwork/for-colors/nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127009,7 +127001,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/nuna.png
+	filename artwork/objects-neutral/nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127018,7 +127010,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/sadvdi.png
+	filename artwork/objects-neutral/sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127027,7 +127019,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tuya.png
+	filename artwork/objects-neutral/tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127041,7 +127033,7 @@ You will need to reuse the following white cards from the previous chapter.
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-gule.png
+	filename artwork/objects-neutral/tali-gule.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127050,7 +127042,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-nvya.png
+	filename artwork/objects-neutral/tali-nvya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127059,7 +127051,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-nuna.png
+	filename artwork/objects-neutral/tali-nuna.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127068,7 +127060,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-sadvdi.png
+	filename artwork/objects-neutral/tali-sadvdi.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127077,7 +127069,7 @@ You will need to reuse the following white cards from the previous chapter.
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/tali-tuya.png
+	filename artwork/objects-neutral/tali-tuya.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127095,7 +127087,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/adaksi-flag.png
+	filename artwork/adaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127104,7 +127096,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/ajalagi-flag.png
+	filename artwork/ajalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127113,7 +127105,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/agilisi-flag.png
+	filename artwork/agilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127122,7 +127114,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/yvwi-no-flag.png
+	filename artwork/yvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127136,7 +127128,7 @@ You will need to reuse the following people index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/flags/anidaksi-flag.png
+	filename artwork/flags/anidaksi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127145,7 +127137,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anijalagi-flag.png
+	filename artwork/flags/anijalagi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127154,7 +127146,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/anigilisi-flag.png
+	filename artwork/flags/anigilisi-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127163,7 +127155,7 @@ You will need to reuse the following people index cards:
 
  
 \begin_inset Graphics
-	filename artwork/flags/aniyvwi-no-flag.png
+	filename artwork/flags/aniyvwi-no-flag.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127181,7 +127173,7 @@ You will need to add the following index cards:
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/objects-neutral/gasgilo-table.png
+	filename artwork/objects-neutral/gasgilo-table.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127190,7 +127182,7 @@ You will need to add the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/gasgilo-chair.png
+	filename artwork/objects-neutral/gasgilo-chair.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127199,7 +127191,7 @@ You will need to add the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/digasgilo-tables.png
+	filename artwork/objects-neutral/digasgilo-tables.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127208,7 +127200,7 @@ You will need to add the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/digasgilo-chairs.png
+	filename artwork/objects-neutral/digasgilo-chairs.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
@@ -127217,7 +127209,7 @@ You will need to add the following index cards:
 
  
 \begin_inset Graphics
-	filename artwork/objects-neutral/digasgilo-table+chair.png
+	filename artwork/objects-neutral/digasgilo-table+chair.jpg
 	lyxscale 15
 	width 15col%
 	groupId index-card-fronts
