@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.315 $
+$Revision: 1.316 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/26 03:19:08 $ UTC
+$Date: 2016/10/26 13:01:21 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.315 $
+$Revision: 1.316 $
 \noun default
 .
 \end_layout
@@ -131124,6 +131124,17 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Congratulations! You are ready to move on to the next book.
 \end_layout
 
 \begin_layout Chapter
