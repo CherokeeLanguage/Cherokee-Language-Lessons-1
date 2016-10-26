@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.312 $
+$Revision: 1.313 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/12 21:58:29 $ UTC
+$Date: 2016/10/26 03:02:05 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.312 $
+$Revision: 1.313 $
 \noun default
 .
 \end_layout
@@ -130170,7 +130170,7 @@ Read the following comic.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset Newpage cleardoublepage
 \end_inset
 
 
