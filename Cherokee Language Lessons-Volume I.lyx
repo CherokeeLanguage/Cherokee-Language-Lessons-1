@@ -450,11 +450,11 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.311 $
+$Revision: 1.312 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/02 21:30:25 $ UTC
+$Date: 2016/10/12 21:58:29 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -699,7 +699,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.311 $
+$Revision: 1.312 $
 \noun default
 .
 \end_layout
@@ -130061,12 +130061,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-Read the following comic aloud.
- ☞ 
-\emph on
-If you have partners, have one person read aloud all the xxx and yyy parts
- and another the zzz and ggg parts.
- Each person should read aloud each role at least once.
+Read the following comic.
 \end_layout
 
 \begin_layout Standard
@@ -130079,7 +130074,7 @@ If you have partners, have one person read aloud all the xxx and yyy parts
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch05-07/panels2.lyx/001.jpg
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/001.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -130093,7 +130088,7 @@ If you have partners, have one person read aloud all the xxx and yyy parts
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch05-07/panels2.lyx/002.jpg
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/002.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -130107,7 +130102,7 @@ If you have partners, have one person read aloud all the xxx and yyy parts
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch05-07/panels2.lyx/003.jpg
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/003.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -130121,7 +130116,7 @@ If you have partners, have one person read aloud all the xxx and yyy parts
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch05-07/panels2.lyx/004.jpg
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/004.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -130135,7 +130130,7 @@ If you have partners, have one person read aloud all the xxx and yyy parts
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch05-07/panels2.lyx/005.jpg
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/005.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -130149,7 +130144,7 @@ If you have partners, have one person read aloud all the xxx and yyy parts
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch05-07/panels2.lyx/006.jpg
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/006.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -130163,7 +130158,7 @@ If you have partners, have one person read aloud all the xxx and yyy parts
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename comics/ch05-07/panels2.lyx/007.jpg
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/007.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -130195,6 +130190,10 @@ Refer back to the comic as needed to be sure your translation fits the scene
  the dialogue is taken from.
 \end_layout
 
+\begin_layout Subsection
+ᏣᎳᎩ
+\end_layout
+
 \begin_layout Standard
 
 \lang english
@@ -130215,424 +130214,180 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsection*
-Panel 1-1
+\begin_layout Subsubsection
+Page 1
 \end_layout
 
 \begin_layout Description
-ᏂᎦᏓ: ᎤᏂᏲᎢ ᏪᏌ.
+\begin_inset space ~
+\end_inset
+
+ ᎤᏂᏲ ᏪᏌ
 \end_layout
 
 \begin_layout Description
-Nigada: Uniyoi Wesa.
+ᏪᏌ ᎻᎠᎠ...
+ ᎻᎤᎤ...
+ ᎻᎠᎠᎠ...
 \end_layout
 
-\begin_layout Subsection*
-Panel 1-2
-\end_layout
-
-\begin_layout Description
-ᏂᎦᏓ: ᎻᎠᎠᎠ...
- ᎻᎤᎤᎤ...
+\begin_layout Subsubsection
+Page 2
 \end_layout
 
 \begin_layout Description
-Nigada: Miaaa...
- Miuuu...
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-1
+Ꮉ Ꮎ ᎤᏲ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
+Ꮌ Ꮎ ᎤᏂᏲ ᎠᏂᏴᏫ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
-Ma: Na uyoi gesvi!
+Ꮋ ᎰᏩᏍ Ꮉ? ᎰᏩᏍ Ꮌ?
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꮎ ᎤᏂᏲᎢ ᎠᏂᏴᏫ ᎨᏒᎢ!
+Ꮌ ᎭᏢ ᎠᏃᏍᏓ ᏴᏫ?
 \end_layout
 
 \begin_layout Description
-Mo: Na uniyoi aniyvwi gesvi!
+Ꮋ ᎠᏃᏍᏓ ᏴᏫ Ꮭ ᎠᏂ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎰᏩᏍ Ꮉ? ᎰᏩᏍ Ꮌ?
+Ꮉ ᎤᎿᎾ?
 \end_layout
 
 \begin_layout Description
-Mi: Howas Ma? Howas Mu?
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-2
+Ꮋ ᎠᏃᏍᏓ ᎠᏂᏴᏫ ᎤᎿ ᏱᎨᏎᏍᏗ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎠᏃᏍᏓ ᎠᏂᏴᏫ ᎤᎿ ᏱᎨᏎᏍᏗ!
+Ꮋ ᏍᏍᏍ...
+ ᎠᏍᎦᏯ Ꮭ Ꮎ ᏱᎪᏩᏘᎭ ᎠᏴ ᎠᏂ!
 \end_layout
 
 \begin_layout Description
-Mi: Anosda aniyvwi uhna yigesesdi!
+Ꮌ ᎥᏍᎩᎩ?
 \end_layout
 
-\begin_layout Subsection*
-Panel 2-3
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᏍᏍᏍ\SpecialChar \ldots{}
- ᎠᏴᏫ Ꮭ ᏯᎪᏩᏘᎭ Ꮎ ᎠᎭᏂ ᎠᏴ!
+\begin_layout Subsubsection
+Page 3
 \end_layout
 
 \begin_layout Description
-Mi: Sss\SpecialChar \ldots{}
- Ayvwi hla yagowhtiha na ahani ayv!
+Ꮋ ᎰᏩ! ᎠᏴ ᎠᏂ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᎥᏍᎩᎩ?
+Ꮌ ᏍᏍᏍ...
 \end_layout
 
 \begin_layout Description
-Mo: Vsgigi?
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-5
+Ꮋ ᎰᏩ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ᏸ! ᎠᏴ ᎠᎭᏂ!
+Ꮌ ᏍᏍᏍ...
+ ᎤᏂᏲ ᎠᏂᏴᏫ ᎠᏂ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Mi: Ye! Ayv ahani!
+Ꮋ ᎥᏍᎩᎩ? Ꮋ...
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꭷ! Ꮒ! ᎤᎿ!
+Ꮋ ᎠᏲ! Ꮎ ᎤᏲ ᎨᏒᎩ ᏂᎯ!
 \end_layout
 
 \begin_layout Description
-Mo: Ka! Ni! Uhna!
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-6
+Ꮋ Ꭳ! ᎭᏢ ᏴᏫ?
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᏍᏍᏍ\SpecialChar \ldots{}
- Ꮒ ᎤᎿ!
+Ꮉ Ꮭ ᎠᏂ ᏱᎩ!
+\end_layout
+
+\begin_layout Subsubsection
+Page 4
 \end_layout
 
 \begin_layout Description
-Mo: Sss\SpecialChar \ldots{}
- Ni uhna!
+Ꮌ ᎠᏲ! ᎯᎠ ᎤᏲ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꭳ!
+Ꮋ Ꮎ ᎤᏲ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
-Mi: O!
-\end_layout
-
-\begin_layout Subsection*
-Panel 3-1
+Ꮉ Ꮌ! ᎰᏍᏓᏍ?
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᏍᏍᏍ\SpecialChar \ldots{}
- ᎤᏂᏲᎢ ᎠᏂᏴᏫ ᎠᎭᏂ ᏱᎩ.
+Ꮌ ᎠᏲ! ᎠᏲ!
 \end_layout
 
 \begin_layout Description
-Mo: Sss\SpecialChar \ldots{}
- Uniyoi aniyvwi ahani yigi.
+Ꮌ Ꭷ!
+\end_layout
+
+\begin_layout Subsubsection
+Page 5
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎥᏍᎩᎩ? Ꮋ\SpecialChar \ldots{}
-
+Ꮌ Ꮭ ᎾᏍᎩ ᏱᏥᎪᏩᏘᎭ!
 \end_layout
 
 \begin_layout Description
-Mi: Vsgigi? Mi\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 3-3
+Ꮋ ᎯᎠ ᎰᏩᏊ! ᎣᏍᏓᏊ! Ꮌ, ᏂᎯᏧ ᎠᏂ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎠᏲ! Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
-\end_layout
-
-\begin_layout Description
-Mi: Ayo! Na uyoi gesvi!
-\end_layout
-
-\begin_layout Subsection*
-Panel 3-4
-\end_layout
-
-\begin_layout Description
-Ꮋ: Ꭳ! ᎭᏢ ᎠᏂᏴᏫ?
-\end_layout
-
-\begin_layout Description
-Mi: O! Hadlv aniyvwi?
-\end_layout
-
-\begin_layout Description
-Ꮌ: Ꮭ ᎠᎭᏂ ᏱᎩ!
-\end_layout
-
-\begin_layout Description
-Mo: Hla ahani yigi!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-1
-\end_layout
-
-\begin_layout Description
-Ꮉ: ᎠᏲ! ᎯᎠ ᎤᏲᎢ!
-\end_layout
-
-\begin_layout Description
-Mah: Ayo! Hia uyoi!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-2
-\end_layout
-
-\begin_layout Description
-Ꮋ: Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
-\end_layout
-
-\begin_layout Description
-Mi: Na uyoi gesvi!
-\end_layout
-
-\begin_layout Description
-Ꮉ: Ꮌ! ᎰᏍᏓᏍ?
-\end_layout
-
-\begin_layout Description
-Mah: Mo! Hosdas?
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-3
-\end_layout
-
-\begin_layout Description
-Ꮌ: ᎠᏲ! ᎠᏲ!
-\end_layout
-
-\begin_layout Description
-Mo: Ayo! Ayo!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-4
-\end_layout
-
-\begin_layout Description
-Ꮌ: ᎠᎠᎠᎠ! ᎯᎠ ᎤᏲᎢ!
-\end_layout
-
-\begin_layout Description
-Mo: Aaaa! Hia uyoi!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-5
-\end_layout
-
-\begin_layout Description
-Ꮌ: Ꮭ Ꮎ ᏱᏥᎪᏩᏘᎭ\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Description
-Mo: Hla na yijigowhtiha\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-6
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᏫᎢᎢᎢ!
-\end_layout
-
-\begin_layout Description
-Mi: Wiiii!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-1
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᎯᎠ ᎰᏩᏊ! ᎣᏍᏓᏊ! Ꮌ, ᏂᎯᏧ ᎠᎭᏂ?
-\end_layout
-
-\begin_layout Description
-Mi: Hia howagwu! Osdagwu! Mo, nihiju ahani?
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-2
-\end_layout
-
-\begin_layout Description
-Ꮌ: ᎰᏩ! \SpecialChar \ldots{}
+Ꮌ ᎰᏩ! ...
  ᎯᎠ ᎣᏍᏓ!
 \end_layout
 
-\begin_layout Description
-Mo: Howa! \SpecialChar \ldots{}
- Hia osda!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-4
+\begin_layout Subsubsection
+Page 6
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꭳ!
+Ꮋ Ꭳ, Ꮭ ᎣᏍᏓ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Mo: O!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-5
+Ꮋ ᏂᎯᏧ ᎤᎿ? ᎰᏍᏓᏍ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꭳ, Ꮭ ᎣᏍᏓ ᏱᎩ!
+Ꮉ Ꮭ ᏱᏥᎪᏩᏘᎭ!
 \end_layout
 
 \begin_layout Description
-Mi: O, Hla osda yigi!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-6
+Ꮋ Ꮌ! ᎭᏢ ᏂᎯ? ᏂᎯᏍ ᎤᎿ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꮌ! ᎤᎿᏧ? ᎰᏍᏓᏍ?
+Ꮉ Ꮌ! ᎣᏏᏲ!
 \end_layout
 
 \begin_layout Description
-Mi: Mo! Uhnaju? Hosdas?
+Ꮉ ᎯᎠ Ꮭ ᎣᏍᏓ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꮭ ᏱᏥᎪᏩᏘᎭ!
+Ꮋ Ꮒ! ᎤᎿᎾ?
+\end_layout
+
+\begin_layout Subsubsection
+Page 7
 \end_layout
 
 \begin_layout Description
-Mah: Hla yijigowhtiha!
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-1
-\end_layout
-
-\begin_layout Description
-Ꮋ: Ꮌ! ᎭᏢ ᏂᎯ? ᏂᎯᏍ ᎤᎿ?
-\end_layout
-
-\begin_layout Description
-Mi: Mo! Hadlv nihi? Nihis uhna?
-\end_layout
-
-\begin_layout Description
-Ꮉ: Ꭷ Ꮌ! ᎣᏏᏲ!
-\end_layout
-
-\begin_layout Description
-Ma: Ka Mo! Osiyo!
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-2
-\end_layout
-
-\begin_layout Description
-Ꮉ: ᎯᎠ Ꮭ ᎣᏍᏓ ᏱᎩ!
-\end_layout
-
-\begin_layout Description
-Mah: Hia hla osda yigi!
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᎤᎿ ᏱᎨᏎᏍᏗ ᎠᏴ?
-\end_layout
-
-\begin_layout Description
-Mi: Uhna yigesesdi ayv?
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-3
-\end_layout
-
-\begin_layout Description
-Ꮉ
-\begin_inset space ~
-\end_inset
-
-ᎠᎴ
-\begin_inset space ~
-\end_inset
-
-Ꮋ: ᎲᎥᎥᎥᎥ\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Description
-Ma
-\begin_inset space ~
-\end_inset
-
-ale
-\begin_inset space ~
-\end_inset
-
-Mi: Hvvvvv\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-5
-\end_layout
-
-\begin_layout Description
-Ꮌ: ᏩᏙ! Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
-\end_layout
-
-\begin_layout Description
-Mo: Wado! Na uyoi gesvi!
+Ꮌ ᏩᏙ! ᎤᎿ ᎤᏲ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
@@ -130644,124 +130399,113 @@ Mo: Wado! Na uyoi gesvi!
 \begin_inset space ~
 \end_inset
 
-Ꮉ: ᎰᏍᏓᏧ?
+Ꮉ ᎰᏍᏓᏧ?
 \end_layout
 
 \begin_layout Description
-Mi
+Ꮌ ᎠᎩᏲ ᎠᏆᏚᎵᎭ...
+\end_layout
+
+\begin_layout Description
+Ꮉ ᎠᎩᏲ ᎠᏆᏚᎵᎭ...
+ ᏣᏲᏍ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Description
+Ꮋ ᎥᎥ! ᎠᎩᏲ ᎠᏆᏚᎵᎭ!
+\end_layout
+
+\begin_layout Description
+Ꮉ ᎠᏣᎳᎩ ᏪᏌ ᎨᏎᎢ! ᎠᎩᎵᏏ ᏪᏌ ᎨᏎᎢ!
+\end_layout
+
+\begin_layout Description
+Ꮉ ᎣᏍᏓ ᏪᏌ ᎨᏎᎢ! ᎤᏲ ᏪᏌ ᎨᏎᎢ!
+\end_layout
+
+\begin_layout Description
+Ꮋ Ꭳ Ꮭ! ᏴᏫ!
+\end_layout
+
+\begin_layout Subsubsection
+Page 8
+\end_layout
+
+\begin_layout Description
+Ꮋ ᎤᏂᏲ ᎠᏂᏴᏫ ᎠᏂ!
+\end_layout
+
+\begin_layout Description
+Ꮌ ᏄᎳ! ᏄᎳ!
+\end_layout
+
+\begin_layout Description
+ᎢᎬᏱ
 \begin_inset space ~
 \end_inset
 
-ale
+ᏴᏫ ᎾᏍᎩ ᎠᏃᏍᏓ ᎩᏟ ᎠᏂ ᎨᏒᎩ!
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏁ
 \begin_inset space ~
 \end_inset
 
-Ma: Hosdaju?
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-6
+ᏴᏫ Ꭳ ᎰᏩ! ᎰᏩ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᎠᎩᏲᎢ ᎠᏆᏚᎵᎭ\SpecialChar \ldots{}
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
 
+ᏴᏫ Ꮎ ᏅᎩ ᎩᏟ ᎦᎯᏯᏚᎵᎭ.
 \end_layout
 
 \begin_layout Description
-Mo: Agiyoi agwaduliha\SpecialChar \ldots{}
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
 
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-1
-\end_layout
-
-\begin_layout Description
-Ꮉ: ᎠᎩᏲᎢ ᎠᏆᏚᎵᎭ\SpecialChar \ldots{}
- ᏣᏲᎢᏍ ᏣᏚᎵᎭ?
+ᏴᏫ ᎯᎠ ᎣᏍᏓ.
 \end_layout
 
 \begin_layout Description
-Ma: Agiyoi agwaduliha\SpecialChar \ldots{}
- Jayois jaduliha?
+ᏔᎵᏁ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ ᏱᎩ.
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎥᎥ! ᎠᎩᏲᎢ ᎠᏆᏚᎵᎭ!
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ ᎦᏙ ᎤᏍᏗ ᎯᎠ!?!? ᎤᏂᏲ ᏪᏌ?!?!
 \end_layout
 
 \begin_layout Description
-Mi: Vv! Agiyoi agwaduliha!
-\end_layout
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
 
-\begin_layout Subsection*
-Panel 7-2
-\end_layout
-
-\begin_layout Description
-Ꮉ: ᎠᏣᎳᎩ ᏪᏌ ᎨᏎᎢ! ᎠᏲᏁᎦ ᏪᏌ ᎨᏎᎢ!
+ᏴᏫ Ꭳ! Ꮟ! Ꭵ...
 \end_layout
 
 \begin_layout Description
-Ma: Ajalagi wesa gesei! Ayonega wesa gesei!
-\end_layout
+ᏔᎵᏁ
+\begin_inset space ~
+\end_inset
 
-\begin_layout Subsection*
-Panel 7-3
-\end_layout
-
-\begin_layout Description
-Ꮉ: ᎣᏍᏓ ᏪᏌ ᎨᏎᎢ! ᎤᏲᎢ ᏪᏌ ᎨᏎᎢ!
+ᏴᏫ ᎯᎠ ᎣᏍᏓ! Ꮎ ᏪᏌ ᎠᏃᏍᏓ! ᎾᏍᎩ ᎦᏥᏯᏚᎵᎭ!
 \end_layout
 
 \begin_layout Description
-Ma: Osda wesa gesei! Uyoi wesa gesei!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-4
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᏍᏍᏍ\SpecialChar \ldots{}
- ᎠᏂᏴᏫ!
-\end_layout
-
-\begin_layout Description
-Mi: Sss… Aniyvwi!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-5
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᎤᏂᏲᎢ ᎠᏂᏴᏫ ᎠᎭᏂ!
-\end_layout
-
-\begin_layout Description
-Mi: Uniyoi aniyvwi ahani!
-\end_layout
-
-\begin_layout Description
-Ꮌ: ᏄᎳ! ᏄᎳ!
-\end_layout
-
-\begin_layout Description
-Mo: Nula! Nula!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-6
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᏝᏊ ᎣᏍᏓ ᏱᎨᏒᎢ!
-\end_layout
-
-\begin_layout Description
-Mi: Hlagwu osda yigesei!
+Ꮋ ᎠᏂᏦ ᎤᏂᏲ ᏪᏌ...
+ ᎠᏴ ᎨᏒᎩ.
 \end_layout
 
 \begin_layout Standard
@@ -130780,15 +130524,15 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
+\begin_layout Subsection
+ᎩᎵᏏ
 \end_layout
 
-\begin_layout Subsection
-ᎤᏬᎵᏗ ᎪᏪᎵ
+\begin_layout Standard
+☞ 
+\emph on
+Your answers are not expected to exactly match the answers provided here.
+ Just be close.
 \end_layout
 
 \begin_layout Standard
@@ -130811,425 +130555,320 @@ raggedcolumns
 
 \end_layout
 
-\begin_layout Subsection*
-Panel 1-1
+\begin_layout Subsubsection
+Page 1
 \end_layout
 
 \begin_layout Description
-ᏂᎦᏓ: ᎤᏂᏲᎢ ᏪᏌ.
+\begin_inset space ~
+\end_inset
+
+ ᎤᏂᏲ ᏪᏌ
 \end_layout
 
 \begin_layout Description
-All: Bad Cats.
-\end_layout
+\begin_inset space ~
+\end_inset
 
-\begin_layout Subsection*
-Panel 1-2
-\end_layout
-
-\begin_layout Description
-ᏂᎦᏓ: ᎻᎠᎠᎠ...
- ᎻᎤᎤᎤ...
+ Bad cats
 \end_layout
 
 \begin_layout Description
-All: Meow...
- Meow...
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-1
+ᏪᏌ ᎻᎠᎠ...
+ ᎻᎤᎤ...
+ ᎻᎠᎠᎠ...
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
+Cats Meaaah...
+ Meooo...
+ Meaaaah...
+\end_layout
+
+\begin_layout Subsubsection
+Page 2
 \end_layout
 
 \begin_layout Description
-Mah: That was bad!
+Ꮉ Ꮎ ᎤᏲ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꮎ ᎤᏂᏲᎢ ᎠᏂᏴᏫ ᎨᏒᎢ!
+Ma That was bad!
 \end_layout
 
 \begin_layout Description
-Moe: Those were bad people!
+Ꮌ Ꮎ ᎤᏂᏲ ᎠᏂᏴᏫ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎰᏩᏍ Ꮉ? ᎰᏩᏍ Ꮌ?
+Mo Those were bad people!
 \end_layout
 
 \begin_layout Description
-Mee: Are you alright Mah? Are you alright Moe?
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-2
+Ꮋ ᎰᏩᏍ Ꮉ? ᎰᏩᏍ Ꮌ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎠᏃᏍᏓ ᎠᏂᏴᏫ ᎤᎿ ᏱᎨᏎᏍᏗ!
+Mi Are you good Ma? Are you good Mo?
 \end_layout
 
 \begin_layout Description
-Mee: Maybe good people are there!
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-3
+Ꮌ ᎭᏢ ᎠᏃᏍᏓ ᏴᏫ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᏍᏍᏍ\SpecialChar \ldots{}
- ᎠᏴᏫ Ꮭ ᏯᎪᏩᏘᎭ Ꮎ ᎠᎭᏂ ᎠᏴ!
+Mo Where are good people?
 \end_layout
 
 \begin_layout Description
-Mee: Shh\SpecialChar \ldots{}
- The person doesn't see that we are here!
+Ꮋ ᎠᏃᏍᏓ ᏴᏫ Ꮭ ᎠᏂ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᎥᏍᎩᎩ?
+Mi Good people aren't here!
 \end_layout
 
 \begin_layout Description
-Moe: Really?
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-5
+Ꮉ ᎤᎿᎾ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ᏸ! ᎠᏴ ᎠᎭᏂ!
+Ma What about there?
 \end_layout
 
 \begin_layout Description
-Mee: Yay! We're here!
+Ꮋ ᎠᏃᏍᏓ ᎠᏂᏴᏫ ᎤᎿ ᏱᎨᏎᏍᏗ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꭷ! Ꮒ! ᎤᎿ!
+Mi Maybe good people will be there!
 \end_layout
 
 \begin_layout Description
-Moe: Hey! Look! There!
-\end_layout
-
-\begin_layout Subsection*
-Panel 2-6
+Ꮋ ᏍᏍᏍ...
+ ᎠᏍᎦᏯ Ꮭ Ꮎ ᏱᎪᏩᏘᎭ ᎠᏴ ᎠᏂ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᏍᏍᏍ\SpecialChar \ldots{}
- Ꮒ ᎤᎿ!
+Mi Shh....
+ The man doesn't see that we are here!
 \end_layout
 
 \begin_layout Description
-Moe: Shh\SpecialChar \ldots{}
- Look there!
+Ꮌ ᎥᏍᎩᎩ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꭳ!
+Mo Really?
+\end_layout
+
+\begin_layout Subsubsection
+Page 3
 \end_layout
 
 \begin_layout Description
-Mee: Oh!
-\end_layout
-
-\begin_layout Subsection*
-Panel 3-1
+Ꮋ ᎰᏩ! ᎠᏴ ᎠᏂ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᏍᏍᏍ\SpecialChar \ldots{}
- ᎤᏂᏲᎢ ᎠᏂᏴᏫ ᎠᎭᏂ ᏱᎩ
+Mi Alright! Here we are!
 \end_layout
 
 \begin_layout Description
-Moe: Shh\SpecialChar \ldots{}
- Bad people might be here.
+Ꮌ ᏍᏍᏍ...
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎥᏍᎩᎩ? Ꮋ\SpecialChar \ldots{}
-
+Mo Shh...
 \end_layout
 
 \begin_layout Description
-Mee: Really? M\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 3-3
+Ꮋ ᎰᏩ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎠᏲ! Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
+Mi Ok!
 \end_layout
 
 \begin_layout Description
-Mee: Ow! That was bad!
-\end_layout
-
-\begin_layout Subsection*
-Panel 3-4
+Ꮌ ᏍᏍᏍ...
+ ᎤᏂᏲ ᎠᏂᏴᏫ ᎠᏂ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꭳ! ᎭᏢ ᎠᏂᏴᏫ?
+Mo Shh...
+ Bad people might be here!
 \end_layout
 
 \begin_layout Description
-Mee: Oh! Where are the people?
+Ꮋ ᎥᏍᎩᎩ? Ꮋ...
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꮭ ᎠᎭᏂ ᏱᎩ!
+Mi Really? Meee...
 \end_layout
 
 \begin_layout Description
-Moe: Not here!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-1
+Ꮋ ᎠᏲ! Ꮎ ᎤᏲ ᎨᏒᎩ ᏂᎯ!
 \end_layout
 
 \begin_layout Description
-Ꮉ: ᎠᏲ! ᎯᎠ ᎤᏲᎢ!
+Mi Ow! That was bad y'all!
 \end_layout
 
 \begin_layout Description
-Mah: Ow! This is bad!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-2
+Ꮋ Ꭳ! ᎭᏢ ᏴᏫ?
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
+Mi Oh! Where are the people?
 \end_layout
 
 \begin_layout Description
-Mee: That was bad!
+Ꮉ Ꮭ ᎠᏂ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꮌ! ᎰᏍᏓᏍ?
+Ma Not here!
+\end_layout
+
+\begin_layout Subsubsection
+Page 4
 \end_layout
 
 \begin_layout Description
-Mah: Moe! Are you good?
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-3
+Ꮌ ᎠᏲ! ᎯᎠ ᎤᏲ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᎠᏲ! ᎠᏲ!
+Mo Ow! This is bad!
 \end_layout
 
 \begin_layout Description
-Moe: Ow! Ow!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-4
+Ꮋ Ꮎ ᎤᏲ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᎠᎠᎠᎠ! ᎯᎠ ᎤᏲᎢ!
+Mi That was bad!
 \end_layout
 
 \begin_layout Description
-Moe: Ah! This is bad!
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-5
+Ꮉ Ꮌ! ᎰᏍᏓᏍ?
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꮭ Ꮎ ᏱᏥᎪᏩᏘᎭ\SpecialChar \ldots{}
-
+Ma Mo! Are you good?
 \end_layout
 
 \begin_layout Description
-Moe: I don't see that\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 4-6
+Ꮌ Ꭷ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᏫᎢᎢᎢ!
+Mo Enough!
+\end_layout
+
+\begin_layout Subsubsection
+Page 5
 \end_layout
 
 \begin_layout Description
-Mee: Weeee!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-1
+Ꮌ Ꮭ ᎾᏍᎩ ᏱᏥᎪᏩᏘᎭ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎯᎠ ᎰᏩᏊ! ᎣᏍᏓᏊ! Ꮌ, ᏂᎯᏧ ᎠᎭᏂ?
+Mo I don't see that!
 \end_layout
 
 \begin_layout Description
-Mee: This is just alright! Only good! Moe, you are going to be here aren't
- you?
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-2
+Ꮋ ᎯᎠ ᎰᏩᏊ! ᎣᏍᏓᏊ! Ꮌ, ᏂᎯᏧ ᎠᏂ?
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᎰᏩ! \SpecialChar \ldots{}
+Mi This is just alright! Just good! Mo, you here, right?
+\end_layout
+
+\begin_layout Description
+Ꮌ ᎰᏩ! ...
  ᎯᎠ ᎣᏍᏓ!
 \end_layout
 
 \begin_layout Description
-Moe: Alright!\SpecialChar \ldots{}
+Mo Alright! ...
  This is good!
 \end_layout
 
-\begin_layout Subsection*
-Panel 5-4
+\begin_layout Subsubsection
+Page 6
 \end_layout
 
 \begin_layout Description
-Ꮌ: Ꭳ!
+Ꮋ Ꭳ, Ꮭ ᎣᏍᏓ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Moe: Oh!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-5
+Mi Oh, not good!
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꭳ, Ꮭ ᎣᏍᏓ ᏱᎩ!
+Ꮋ ᏂᎯᏧ ᎤᎿ? ᎰᏍᏓᏍ?
 \end_layout
 
 \begin_layout Description
-Mee: Oh!, That's not good!
-\end_layout
-
-\begin_layout Subsection*
-Panel 5-6
+Mi You're there, aren't you? Are you good?
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꮌ! ᎤᎿᏧ? ᎰᏍᏓᏍ?
+Ꮉ Ꮭ ᏱᏥᎪᏩᏘᎭ!
 \end_layout
 
 \begin_layout Description
-Mee: Moe! You are there aren't you? Are you good?
+Ma I don't see him!
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꮭ ᏱᏥᎪᏩᏘᎭ!
+Ꮋ Ꮌ! ᎭᏢ ᏂᎯ? ᏂᎯᏍ ᎤᎿ?
 \end_layout
 
 \begin_layout Description
-Mah: I don't see him!
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-1
+Mi Mo! Where are you? Are you there?
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꮌ! ᎭᏢ ᏂᎯ? ᏂᎯᏍ ᎤᎿ?
+Ꮉ Ꮌ! ᎣᏏᏲ!
 \end_layout
 
 \begin_layout Description
-Mee: Moe! Where are you? Are you there?
+Ma Mo! Hello!
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꭷ Ꮌ! ᎣᏏᏲ!
+Ꮉ ᎯᎠ Ꮭ ᎣᏍᏓ ᏱᎩ!
 \end_layout
 
 \begin_layout Description
-Mah: Hey Mo! Hello!
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-2
+Ma This isn't good!
 \end_layout
 
 \begin_layout Description
-Ꮉ: ᎯᎠ Ꮭ ᎣᏍᏓ ᏱᎩ!
+Ꮋ Ꮒ! ᎤᎿᎾ?
 \end_layout
 
 \begin_layout Description
-Mah: This is not good!
+Mi Look! What about there?
+\end_layout
+
+\begin_layout Subsubsection
+Page 7
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎤᎿ ᏱᎨᏎᏍᏗ ᎠᏴ?
+Ꮌ ᏩᏙ! ᎤᎿ ᎤᏲ ᎨᏒᎩ!
 \end_layout
 
 \begin_layout Description
-Mee: Us there maybe?
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-3
-\end_layout
-
-\begin_layout Description
-Ꮉ
-\begin_inset space ~
-\end_inset
-
-ᎠᎴ
-\begin_inset space ~
-\end_inset
-
-Ꮋ: ᎲᎥᎥᎥᎥ\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Description
-Mah
-\begin_inset space ~
-\end_inset
-
-and
-\begin_inset space ~
-\end_inset
-
-Mee: Ahhhhhhh\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-5
-\end_layout
-
-\begin_layout Description
-Ꮌ: ᏩᏙ! Ꮎ ᎤᏲᎢ ᎨᏒᎢ!
-\end_layout
-
-\begin_layout Description
-Moe: Thanks! That was bad!
+Mo Thanks! It was bad there!
 \end_layout
 
 \begin_layout Description
@@ -131241,11 +130880,11 @@ Moe: Thanks! That was bad!
 \begin_inset space ~
 \end_inset
 
-Ꮉ: ᎰᏍᏓᏧ?
+Ꮉ ᎰᏍᏓᏧ?
 \end_layout
 
 \begin_layout Description
-Mee
+Mi
 \begin_inset space ~
 \end_inset
 
@@ -131253,113 +130892,215 @@ and
 \begin_inset space ~
 \end_inset
 
-Mah: You're good aren't you?
-\end_layout
-
-\begin_layout Subsection*
-Panel 6-6
+Ma You're good, right?
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᎠᎩᏲᎢ ᎠᏆᏚᎵᎭ\SpecialChar \ldots{}
-
+Ꮌ ᎠᎩᏲ ᎠᏆᏚᎵᎭ...
 \end_layout
 
 \begin_layout Description
-Moe: I want to be bad\SpecialChar \ldots{}
-
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-1
+Mo I want to be bad...
 \end_layout
 
 \begin_layout Description
-Ꮉ: ᎠᎩᏲᎢ ᎠᏆᏚᎵᎭ\SpecialChar \ldots{}
- ᏣᏲᎢᏍ ᏣᏚᎵᎭ?
+Ꮉ ᎠᎩᏲ ᎠᏆᏚᎵᎭ...
+ ᏣᏲᏍ ᏣᏚᎵᎭ?
 \end_layout
 
 \begin_layout Description
-Mah: I want to be bad\SpecialChar \ldots{}
- Do you want to be bad?
+Ma I want to be bad...
+ Are you wanting to be bad?
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᎥᎥ! ᎠᎩᏲᎢ ᎠᏆᏚᎵᎭ!
+Ꮋ ᎥᎥ! ᎠᎩᏲ ᎠᏆᏚᎵᎭ!
 \end_layout
 
 \begin_layout Description
-Mee: Yes! I want to be bad!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-2
+Mi Yes! I want to be bad!
 \end_layout
 
 \begin_layout Description
-Ꮉ: ᎠᏣᎳᎩ ᏪᏌ ᎨᏎᎢ! ᎠᏲᏁᎦ ᏪᏌ ᎨᏎᎢ!
+Ꮉ ᎠᏣᎳᎩ ᏪᏌ ᎨᏎᎢ! ᎠᎩᎵᏏ ᏪᏌ ᎨᏎᎢ!
 \end_layout
 
 \begin_layout Description
-Mah: There was a Cherokee cat! There was an English cat!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-3
+Ma There was a Cherokee cat! There was a English cat!
 \end_layout
 
 \begin_layout Description
-Ꮉ: ᎣᏍᏓ ᏪᏌ ᎨᏎᎢ! ᎤᏲᎢ ᏪᏌ ᎨᏎᎢ!
+Ꮉ ᎣᏍᏓ ᏪᏌ ᎨᏎᎢ! ᎤᏲ ᏪᏌ ᎨᏎᎢ!
 \end_layout
 
 \begin_layout Description
-Mah: There was a good cat! There was a bad cat!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-4
+Ma There was a good cat! There was a bad cat!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᏍᏍᏍ\SpecialChar \ldots{}
- ᎠᏂᏴᏫ!
+Ꮋ Ꭳ Ꮭ! ᏴᏫ!
 \end_layout
 
 \begin_layout Description
-Mee: Shh\SpecialChar \ldots{}
- People!
+Mi Oh no! People!
 \end_layout
 
-\begin_layout Subsection*
-Panel 7-5
-\end_layout
-
-\begin_layout Description
-Ꮋ: ᎤᏂᏲᎢ ᎠᏂᏴᏫ ᎠᎭᏂ!
+\begin_layout Subsubsection
+Page 8
 \end_layout
 
 \begin_layout Description
-Mee: Bad people are here!
+Ꮋ ᎤᏂᏲ ᎠᏂᏴᏫ ᎠᏂ!
 \end_layout
 
 \begin_layout Description
-Ꮌ: ᏄᎳ! ᏄᎳ!
+Mi Bad people are here!
 \end_layout
 
 \begin_layout Description
-Moe: Hurry! Hurry!
-\end_layout
-
-\begin_layout Subsection*
-Panel 7-6
+Ꮌ ᏄᎳ! ᏄᎳ!
 \end_layout
 
 \begin_layout Description
-Ꮋ: ᏝᏊ ᎣᏍᏓ ᏱᎨᏒᎢ!
+Mo Hurry! Hurry!
 \end_layout
 
 \begin_layout Description
-Mee: That wasn't good!
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ ᎾᏍᎩ ᎠᏃᏍᏓ ᎩᏟ ᎠᏂ ᎨᏒᎩ!
+\end_layout
+
+\begin_layout Description
+First
+\begin_inset space ~
+\end_inset
+
+Person Those good dogs were here!
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏁ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ Ꭳ ᎰᏩ! ᎰᏩ!
+\end_layout
+
+\begin_layout Description
+Second
+\begin_inset space ~
+\end_inset
+
+Person Oh ok! Ok!
+\end_layout
+
+\begin_layout Description
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ Ꮎ ᏅᎩ ᎩᏟ ᎦᎯᏯᏚᎵᎭ.
+\end_layout
+
+\begin_layout Description
+First
+\begin_inset space ~
+\end_inset
+
+Person You are wanting those four dogs.
+\end_layout
+
+\begin_layout Description
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ ᎯᎠ ᎣᏍᏓ.
+\end_layout
+
+\begin_layout Description
+First
+\begin_inset space ~
+\end_inset
+
+Person This is good.
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏁ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ ᏱᎩ.
+\end_layout
+
+\begin_layout Description
+Second
+\begin_inset space ~
+\end_inset
+
+person Maybe.
+\end_layout
+
+\begin_layout Description
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ ᎦᏙ ᎤᏍᏗ ᎯᎠ!?!? ᎤᏂᏲ ᏪᏌ?!?!
+\end_layout
+
+\begin_layout Description
+First
+\begin_inset space ~
+\end_inset
+
+Person What's this!?!? Bad cats?!?!
+\end_layout
+
+\begin_layout Description
+ᎢᎬᏱ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ Ꭳ! Ꮟ! Ꭵ...
+\end_layout
+
+\begin_layout Description
+First
+\begin_inset space ~
+\end_inset
+
+Person Oh! Wait! uh...
+\end_layout
+
+\begin_layout Description
+ᏔᎵᏁ
+\begin_inset space ~
+\end_inset
+
+ᏴᏫ ᎯᎠ ᎣᏍᏓ! Ꮎ ᏪᏌ ᎠᏃᏍᏓ! ᎾᏍᎩ ᎦᏥᏯᏚᎵᎭ!
+\end_layout
+
+\begin_layout Description
+Second
+\begin_inset space ~
+\end_inset
+
+Person This is good! Those cats are good! I want them!
+\end_layout
+
+\begin_layout Description
+Ꮋ ᎠᏂᏦ ᎤᏂᏲ ᏪᏌ...
+ ᎠᏴ ᎨᏒᎩ.
+\end_layout
+
+\begin_layout Description
+Mi Three bad cats....
+ we were.
 \end_layout
 
 \begin_layout Standard
