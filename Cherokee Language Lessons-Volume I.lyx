@@ -224,6 +224,67 @@ If our language and culture die, as a people, so do we.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace vfill*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Cherokee Language Lessons 1, 2nd Edition
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch smashwords
+status collapsed
+
+\begin_layout Standard
+Published by Michael Joyner at Smashwords
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Copyright 2016, Michael Joyner
+\end_layout
+
+\begin_layout Standard
+ISBN: 978-1-365-48874-0
+\end_layout
+
+\begin_layout Standard
+$Revision: 1.320 $
+\end_layout
+
+\begin_layout Standard
+$Date: 2016/10/30 21:07:58 $ UTC
+\end_layout
+
+\begin_layout Standard
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 3.0 United States License
+\noun default
+.
+ This means you are free to copy, share, and update this material under
+ the condition that attribution is kept, no endorsements are implied, and
+ your work is also licensed the same.
+ 
+\emph on
+Commercial use is permitted.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage cleardoublepage
 \end_inset
 
@@ -386,81 +447,6 @@ end{multicols}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage cleardoublepage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset space ~
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage clearpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset VSpace vfill*
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Cherokee Language Lessons 1, 2nd Edition
-\end_layout
-
-\begin_layout Standard
-\begin_inset Branch smashwords
-status collapsed
-
-\begin_layout Standard
-Published by Michael Joyner at Smashwords
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Copyright 2016, Michael Joyner
-\end_layout
-
-\begin_layout Standard
-ISBN: 978-1-365-48874-0
-\end_layout
-
-\begin_layout Standard
-$Revision: 1.319 $
-\end_layout
-
-\begin_layout Standard
-$Date: 2016/10/26 21:23:01 $ UTC
-\end_layout
-
-\begin_layout Standard
-This work is licensed under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
- This means you are free to copy, share, and update this material under
- the condition that attribution is kept, no endorsements are implied, and
- your work is also licensed the same.
- 
-\emph on
-Commercial use is permitted.
 \end_layout
 
 \begin_layout Standard
@@ -691,7 +677,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.319 $
+$Revision: 1.320 $
 \noun default
 .
 \end_layout
@@ -130152,6 +130138,20 @@ Read the following comic.
 \align center
 \begin_inset Graphics
 	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/007.jpg
+	lyxscale 25
+	width 95col%
+	height 86pheight%
+	groupId comic-full-page
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename comics/mi-ma-ale-mo-uniyo-wesa/pages.jpg/008.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
