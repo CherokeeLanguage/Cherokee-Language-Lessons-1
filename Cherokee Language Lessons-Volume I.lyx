@@ -263,11 +263,11 @@ ISBN: 978-1-365-48874-0
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.325 $
+$Revision: 1.326 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/18 22:34:04 $ UTC
+$Date: 2016/11/19 03:21:33 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -677,7 +677,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.325 $
+$Revision: 1.326 $
 \noun default
 .
 \end_layout
@@ -94295,7 +94295,7 @@ raggedcolumns
 \end_inset
 
 \SpecialChar \ldots{}
- is what he or she is called.
+ is what he is called.
 \begin_inset Quotes erd
 \end_inset
 
