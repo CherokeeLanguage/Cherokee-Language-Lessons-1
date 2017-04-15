@@ -265,11 +265,11 @@ ISBN: 978-1-365-48874-0
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.336 $
+$Revision: 1.337 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/04/15 15:04:51 $ UTC
+$Date: 2017/04/15 16:07:25 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -679,7 +679,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 1.336 $
+$Revision: 1.337 $
 \noun default
 .
 \end_layout
@@ -132895,7 +132895,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏴᏫ ᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏴᏫ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏴᏫ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -132910,7 +132913,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏲᎾ ᎦᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -132926,7 +132932,14 @@ raggedcolumns
 \begin_layout Enumerate
 [Ꭰ] ᎯᎠ ᏌᏊ ᎩᏟ.
  ᎯᎠ ᎠᏂᏔᎵ ᏌᎶᎵ.
- [Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ? [Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏌᎶᎵ ᎬᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏌᎶᎵ ᎬᏆᏚᎵᎭ.
 \end_layout
 
 \end_deeper
@@ -132941,7 +132954,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏫ ᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -132956,7 +132972,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏫ ᎦᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -132971,8 +132990,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏗᏌᏛᏗ ᏓᏆᏚᎵᎭ.
- [Ꭱ] ᏗᏌᏛᏗᏍ ᏕᏣᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏗᏌᏛᏗ →[Ꭰ] [Ꭱ] ᏗᏌᏛᏗ ᏕᏣᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᏌᏛᏗᏍ ᏕᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᏌᏛᏗ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᏌᏛᏗ ᏕᏣᎭ.
 \end_layout
 
 \end_deeper
@@ -132988,7 +133021,14 @@ raggedcolumns
 \begin_layout Enumerate
 [Ꭰ] ᎯᎠ ᏌᏊ ᎠᏴᏫ.
  ᎯᎠ ᎠᏂᏔᎵ ᏪᏌ.
- [Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ? [Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏪᏌ ᎬᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏪᏌ ᎬᏆᏚᎵᎭ.
 \end_layout
 
 \end_deeper
@@ -133003,7 +133043,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᎶᎵ ᎦᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133061,8 +133104,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏅᏯ ᏓᏆᏚᎵᎭ.
- [Ꭱ] ᏅᏯᏍ ᏕᏣᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏅᏯ →[Ꭰ] [Ꭱ] ᏅᏯ ᏕᏣᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯᏍ ᏕᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏅᏯ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯ ᏕᏣᎭ.
 \end_layout
 
 \end_deeper
@@ -133077,8 +133134,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎦᏍᎩᎶ ᎠᏆᏚᎵᎭ.
- [Ꭱ] ᎦᏍᎩᎶᏍ ᏣᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎦᏍᎩᎶ →[Ꭰ] [Ꭱ] ᎦᏍᎩᎶ ᏣᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶᏍ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎦᏍᎩᎶ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶ ᏣᎭ.
 \end_layout
 
 \end_deeper
@@ -133094,7 +133165,14 @@ raggedcolumns
 \begin_layout Enumerate
 [Ꭰ] ᎯᎠ ᏌᏊ ᏲᎾ.
  ᎯᎠ ᎠᏂᏔᎵ ᏥᏍᏚ.
- [Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ? [Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏥᏍᏚ ᎬᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᎨᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᎠᏂᏔᎵ ᏥᏍᏚ ᎬᏆᏚᎵᎭ.
 \end_layout
 
 \end_deeper
@@ -133109,8 +133187,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᏓᏆᏚᎵᎭ.
- [Ꭱ] ᏚᏯᏍ ᏕᏣᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏚᏯ →[Ꭰ] [Ꭱ] ᏚᏯ ᏕᏣᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯᏍ ᏕᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏚᏯ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯ ᏕᏣᎭ.
 \end_layout
 
 \end_deeper
@@ -133125,8 +133217,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᎠᏆᏚᎵᎭ.
- [Ꭱ] ᏄᎾᏍ ᏣᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏄᎾ →[Ꭰ] [Ꭱ] ᏄᎾ ᏣᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾᏍ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏄᎾ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾ ᏣᎭ.
 \end_layout
 
 \end_deeper
@@ -133141,7 +133247,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏐᏈᎵ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133157,7 +133266,14 @@ raggedcolumns
 \begin_layout Enumerate
 [Ꭰ] ᎯᎠ ᏌᏊ ᎠᏫ.
  ᎯᎠ ᎠᏂᏔᎵ ᎩᏟ.
- [Ꭰ] ᎦᎪ ᏣᏚᎵᎭ? [Ꭱ] Ꮎ ᏌᏊ ᎠᏫ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᏌᏊ ᎠᏫ ᎠᏆᏚᎵᎭ.
 \end_layout
 
 \end_deeper
@@ -133172,8 +133288,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏅᏯ ᎠᏆᏚᎵᎭ.
- [Ꭱ] ᏅᏯᏍ ᏣᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏅᏯ →[Ꭰ] [Ꭱ] ᏅᏯ ᏣᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯᏍ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏅᏯ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯ ᏣᎭ.
 \end_layout
 
 \end_deeper
@@ -133231,7 +133361,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᎶᎵ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133246,7 +133379,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᏓᏆᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133262,7 +133398,14 @@ raggedcolumns
 \begin_layout Enumerate
 [Ꭰ] ᎯᎠ ᏌᏊ ᎩᏟ.
  ᎯᎠ ᎠᏂᏔᎵ ᏲᎾ.
- [Ꭰ] ᎦᎪ ᏣᏚᎵᎭ? [Ꭱ] Ꮎ ᏌᏊ ᎩᏟ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᏌᏊ ᎩᏟ ᎠᏆᏚᎵᎭ.
 \end_layout
 
 \end_deeper
@@ -133277,7 +133420,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏲᎾ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133292,7 +133438,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᏓᏆᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133307,7 +133456,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133323,7 +133475,14 @@ raggedcolumns
 \begin_layout Enumerate
 [Ꭰ] ᎯᎠ ᏌᏊ ᎠᏴᏫ.
  ᎯᎠ ᎠᏂᏔᎵ ᏩᎭᏯ.
- [Ꭰ] ᎦᎪ ᏣᏚᎵᎭ? [Ꭱ] Ꮎ ᏌᏊ ᎠᏴᏫ ᎠᏆᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎦᎪ ᏣᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] Ꮎ ᏌᏊ ᎠᏴᏫ ᎠᏆᏚᎵᎭ.
 \end_layout
 
 \end_deeper
@@ -133338,7 +133497,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᏓᏆᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133396,7 +133558,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133411,8 +133576,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎫᎴᏍ ᎤᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎫᎴ →ᎠᏂᏴᏫᏯᎢ [Ꭱ] ᎫᎴ ᎤᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎫᎴ →ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴ ᎤᏂᎭ.
 \end_layout
 
 \end_deeper
@@ -133427,7 +133606,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133442,8 +133624,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᏄᎾᏍ ᎤᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏄᎾ →ᎠᏂᏴᏫᏯᎢ [Ꭱ] ᏄᎾ ᎤᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏄᎾ →ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾ ᎤᏂᎭ.
 \end_layout
 
 \end_deeper
@@ -133458,7 +133654,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏐᏈᎵ ᎤᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133473,8 +133672,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏅᏯ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᏅᏯᏍ ᎤᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏅᏯ →ᎠᏂᎩᎵᏏ [Ꭱ] ᏅᏯ ᎤᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏅᏯ →ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯ ᎤᏂᎭ.
 \end_layout
 
 \end_deeper
@@ -133489,7 +133702,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏫ ᎤᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133504,8 +133720,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏩᎭᏯ ᏥᏯᏚᎵᎭ.
- [Ꭱ] ᏩᎭᏯᏍ ᎯᏯᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏩᎭᏯ →[Ꭰ] [Ꭱ] ᏩᎭᏯ ᎯᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏩᎭᏯᏍ ᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏩᎭᏯ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏩᎭᏯ ᎯᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133563,7 +133793,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏲᎾ ᎤᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133578,8 +133811,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏴᏫ ᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏴᏫᏍ ᎯᏯᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎠᏴᏫ →[Ꭰ] [Ꭱ] ᎠᏴᏫ ᎯᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫᏍ ᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏴᏫ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏴᏫ ᎯᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133594,8 +133841,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏗᎦᏍᎩᎶ ᏚᏚᎵᎭ.
- [Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏚᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ →ᎠᏴᏫᏯᎢ [Ꭱ] ᏗᎦᏍᎩᎶ ᏚᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ →ᎠᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶ ᏚᎭ.
 \end_layout
 
 \end_deeper
@@ -133610,8 +133871,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏪᏌ ᏥᏯᏚᎵᎭ.
- [Ꭱ] ᏪᏌᏍ ᎯᏯᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏪᏌ →[Ꭰ] [Ꭱ] ᏪᏌ ᎯᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌᏍ ᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏪᏌ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌ ᎯᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133626,8 +133901,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᏚᏚᎵᎭ.
- [Ꭱ] ᎫᎴᏍ ᏚᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎫᎴ →ᎠᏣᎳᎩ [Ꭱ] ᎫᎴ ᏚᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎫᎴ →ᎠᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴ ᏚᎭ.
 \end_layout
 
 \end_deeper
@@ -133642,7 +133931,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏴᏫ ᏚᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏂᏴᏫ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏂᏴᏫ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133657,8 +133949,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏗᎦᏍᎩᎶ ᏚᏚᎵᎭ.
- [Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏚᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ →ᎠᏣᎳᎩ [Ꭱ] ᏗᎦᏍᎩᎶ ᏚᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏗᎦᏍᎩᎶ →ᎠᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏗᎦᏍᎩᎶ ᏚᎭ.
 \end_layout
 
 \end_deeper
@@ -133673,7 +133979,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏐᏈᎵ ᏚᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133731,8 +134040,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏫ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏫᏍ ᏚᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎠᏫ →ᎠᏂᎩᎵᏏ [Ꭱ] ᎠᏫ ᏚᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏫᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏫ →ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏫ ᏚᏂᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133747,7 +134070,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏫ ᏚᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏫ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133762,8 +134088,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏪᏌ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᏪᏌᏍ ᏚᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏪᏌ →ᎠᏂᏣᎳᎩ [Ꭱ] ᏪᏌ ᏚᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏪᏌ →ᎠᏂᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏪᏌ ᏚᏂᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133778,7 +134118,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᎠᏆᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133793,8 +134136,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏐᏈᎵ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᏐᏈᎵᏍ ᏚᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏐᏈᎵ →ᎠᏂᏴᏫᏯᎢ [Ꭱ] ᏐᏈᎵ ᏚᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏐᏈᎵ →ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵ ᏚᏂᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133809,7 +134166,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᎠᏆᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133824,8 +134184,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏴᏫ ᏚᏚᎵᎭ.
- [Ꭱ] ᎠᏂᏴᏫᏍ ᏚᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎠᏂᏴᏫ →ᎠᏴᏫᏯᎢ [Ꭱ] ᎠᏂᏴᏫ ᏚᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏂᏴᏫᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏂᏴᏫ →ᎠᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏂᏴᏫ ᏚᏩᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133840,7 +134214,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᎠᏆᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133898,8 +134275,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᎶᎵ ᏚᏚᎵᎭ.
- [Ꭱ] ᏌᎶᎵᏍ ᏚᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏌᎶᎵ →ᎠᏣᎳᎩ [Ꭱ] ᏌᎶᎵ ᏚᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏌᎶᎵ →ᎠᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏌᎶᎵ ᏚᏩᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133914,7 +134305,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133929,8 +134323,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎩᏟ ᏚᏚᎵᎭ.
- [Ꭱ] ᎩᏟᏍ ᏚᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎩᏟ →ᎠᎩᎵᏏ [Ꭱ] ᎩᏟ ᏚᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎩᏟᏍ ᏚᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎩᏟ →ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎩᏟ ᏚᏩᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133945,7 +134353,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133960,7 +134371,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏐᏈᎵ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏐᏈᎵ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -133975,7 +134389,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -133990,7 +134407,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏴᏫ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏂᏴᏫ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎠᏂᏴᏫ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134005,8 +134425,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏫ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏫᏍ ᎤᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎠᏫ →ᎠᏂᏴᏫᏯᎢ [Ꭱ] ᎠᏫ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏫᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏫ →ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏫ ᎤᏂᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134064,7 +134498,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏲᎾ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᎦᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏲᎾ ᏱᎦᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134079,8 +134516,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏐᏈᎵ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᏐᏈᎵᏍ ᎤᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏐᏈᎵ →ᎠᏂᏣᎳᎩ [Ꭱ] ᏐᏈᎵ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏐᏈᎵ →ᎠᏂᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵ ᎤᏂᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134095,8 +134546,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏅᏯ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᏅᏯᏍ ᏚᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏅᏯ →ᎠᏂᎩᎵᏏ [Ꭱ] ᏅᏯ ᏚᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏅᏯ →ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏅᏯ ᏚᏂᎭ.
 \end_layout
 
 \end_deeper
@@ -134111,8 +134576,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎩᏟ ᎤᎾᏚᎵᎭ.
- [Ꭱ] ᎩᏟᏍ ᎤᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎩᏟ →ᎠᏂᎩᎵᏏ [Ꭱ] ᎩᏟ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎩᏟᏍ ᎤᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎩᏟ →ᎠᏂᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎩᏟ ᎤᏂᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134127,8 +134606,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᏄᎾᏍ ᏚᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏄᎾ →ᎠᏂᏴᏫᏯᎢ [Ꭱ] ᏄᎾ ᏚᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏄᎾ →ᎠᏂᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾ ᏚᏂᎭ.
 \end_layout
 
 \end_deeper
@@ -134143,7 +134636,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᎤᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -134158,8 +134654,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᏚᎾᏚᎵᎭ.
- [Ꭱ] ᏚᏯᏍ ᏚᎾᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏚᏯ →ᎠᏂᏣᎳᎩ [Ꭱ] ᏚᏯ ᏚᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯᏍ ᏚᎾᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏚᏯ →ᎠᏂᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏚᏯ ᏚᏂᎭ.
 \end_layout
 
 \end_deeper
@@ -134174,7 +134684,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᎤᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -134232,8 +134745,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎦᏍᎩᎶ ᎤᏚᎵᎭ.
- [Ꭱ] ᎦᏍᎩᎶᏍ ᎤᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎦᏍᎩᎶ →ᎠᎩᎵᏏ [Ꭱ] ᎦᏍᎩᎶ ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎦᏍᎩᎶ →ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎦᏍᎩᎶ ᎤᎭ.
 \end_layout
 
 \end_deeper
@@ -134248,7 +134775,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᎤᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏯᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -134263,8 +134793,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᎤᏚᎵᎭ.
- [Ꭱ] ᏄᎾᏍ ᎤᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏄᎾ →ᎠᎩᎵᏏ [Ꭱ] ᏄᎾ ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏄᎾ →ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏄᎾ ᎤᎭ.
 \end_layout
 
 \end_deeper
@@ -134279,7 +134823,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏄᎾ ᏚᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏄᎾ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -134294,8 +134841,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᎤᏚᎵᎭ.
- [Ꭱ] ᎫᎴᏍ ᎤᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎫᎴ →ᎠᎩᎵᏏ [Ꭱ] ᎫᎴ ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎫᎴ →ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎫᎴ ᎤᎭ.
 \end_layout
 
 \end_deeper
@@ -134310,7 +134871,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎫᎴ ᏚᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᎫᎴ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -134325,8 +134889,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏥᏍᏚ ᎦᏥᏯᏚᎵᎭ.
- [Ꭱ] ᏥᏍᏚᏍ ᎦᎯᏯᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏥᏍᏚ →[Ꭰ] [Ꭱ] ᏥᏍᏚ ᎦᎯᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏥᏍᏚᏍ ᎦᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏥᏍᏚ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏥᏍᏚ ᎦᎯᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134341,7 +134919,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏚᏯ ᏚᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏚᏯ ᏱᏓᎩᎭ.
 \end_layout
 
 \end_deeper
@@ -134399,8 +134980,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏴᏫ ᎦᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏂᏴᏫᏍ ᎦᎯᏯᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎠᏂᏴᏫ →[Ꭰ] [Ꭱ] ᎠᏂᏴᏫ ᎦᎯᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏂᏴᏫᏍ ᎦᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏂᏴᏫ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏂᏴᏫ ᎦᎯᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134415,8 +135010,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎩᏟ ᎤᏚᎵᎭ.
- [Ꭱ] ᎩᏟᏍ ᎤᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎩᏟ →ᎠᎩᎵᏏ [Ꭱ] ᎩᏟ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎩᏟᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎩᏟ →ᎠᎩᎵᏏ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎩᏟ ᎤᏩᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134431,8 +135040,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏐᏈᎵ ᎦᏥᏯᏚᎵᎭ.
- [Ꭱ] ᏐᏈᎵᏍ ᎦᎯᏯᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏐᏈᎵ →[Ꭰ] [Ꭱ] ᏐᏈᎵ ᎦᎯᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵᏍ ᎦᎯᏯᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏐᏈᎵ →[Ꭰ]
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏐᏈᎵ ᎦᎯᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134447,8 +135070,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏲᎾ ᎤᏚᎵᎭ.
- [Ꭱ] ᏲᎾᏍ ᎤᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᏲᎾ →ᎠᏣᎳᎩ [Ꭱ] ᏲᎾ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᏲᎾ →ᎠᏣᎳᎩ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᏲᎾ ᎤᏩᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134463,7 +135100,10 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᎶᎵ ᏥᏯᏚᎵᎭ.
- [Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᏥᏯᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏎᏃ Ꮭ ᏌᎶᎵ ᏱᏥᏯᎧᎭ.
 \end_layout
 
 \end_deeper
@@ -134478,8 +135118,22 @@ raggedcolumns
 \begin_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏫ ᎤᏚᎵᎭ.
- [Ꭱ] ᎠᏫᏍ ᎤᏚᎵᎭ? [Ꭰ] ᎥᎥ.
- [Ꭱ] ᎰᏩ, ᎠᏫ →ᎠᏴᏫᏯᎢ [Ꭱ] ᎠᏫ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏫᏍ ᎤᏚᎵᎭ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭰ] ᎥᎥ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎰᏩ, ᎠᏫ →ᎠᏴᏫᏯᎢ
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎠᏫ ᎤᏩᎧᎭ.
 \end_layout
 
 \end_deeper
