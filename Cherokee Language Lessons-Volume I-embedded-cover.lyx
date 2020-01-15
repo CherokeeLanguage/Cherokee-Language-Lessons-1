@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -7,6 +7,7 @@
 \textclass extbook
 \begin_preamble
 %\usepackage{wallpaper}
+\usepackage{graphicx}
 \usepackage{multicol}
 \widowpenalty=10000
 \clubpenalty=10000 
@@ -32,6 +33,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics none
 \default_output_format pdf4
 \output_sync 1
@@ -75,6 +78,7 @@
 \suppress_date true
 \justification true
 \use_refstyle 0
+\use_minted 0
 \branch smashwords
 \selected 0
 \filename_suffix 0
@@ -94,7 +98,10 @@
 \tocdepth 1
 \paragraph_separation skip
 \defskip smallskip
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle plain
