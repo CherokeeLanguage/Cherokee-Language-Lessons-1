@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -29,6 +29,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics none
 \default_output_format pdf4
 \output_sync 1
@@ -72,6 +74,7 @@
 \suppress_date true
 \justification true
 \use_refstyle 0
+\use_minted 0
 \branch smashwords
 \selected 0
 \filename_suffix 0
@@ -91,7 +94,10 @@
 \tocdepth 1
 \paragraph_separation skip
 \defskip smallskip
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle plain
@@ -245,6 +251,7 @@ Cherokee Language Lessons 1, 2nd Edition
 
 \begin_layout Standard
 \begin_inset Branch smashwords
+inverted 0
 status collapsed
 
 \begin_layout Standard
@@ -265,11 +272,11 @@ ISBN: 978-1-365-92880-2
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.002 $
+$Revision: 2.003 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/04/18 23:55:40 $ UTC
+$Date: 2017/04/30 20:47:51 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -668,7 +675,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 2.002 $
+$Revision: 2.003 $
 \noun default
 .
 \end_layout
@@ -3864,6 +3871,7 @@ Cherokee Phoenix (ᏣᎳᎩ ᏧᎴᎯᏌᏅᎯ)
 \begin_inset CommandInset href
 LatexCommand href
 target "http://en.wikipedia.org/wiki/Cherokee_alphabet"
+literal "false"
 
 \end_inset
 
@@ -3876,6 +3884,7 @@ target "http://en.wikipedia.org/wiki/Cherokee_alphabet"
 \begin_inset CommandInset href
 LatexCommand href
 target "http://en.wikipedia.org/wiki/Cherokee_Phoenix"
+literal "false"
 
 \end_inset
 
@@ -4055,7 +4064,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -8778,7 +8786,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -13507,7 +13514,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -18225,7 +18231,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -22954,7 +22959,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -27672,7 +27676,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -32434,7 +32437,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -37207,7 +37209,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -41936,7 +41937,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -46654,7 +46654,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -51383,7 +51382,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -56101,7 +56099,6 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -60833,7 +60830,6 @@ Refer to the following figure as needed.
 	lyxscale 40
 	width 90col%
 	height 20pheight%
-	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
