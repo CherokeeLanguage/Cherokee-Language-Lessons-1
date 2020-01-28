@@ -7,6 +7,7 @@
 \textclass extbook
 \begin_preamble
 %\usepackage{wallpaper}
+\usepackage{graphicx}
 \usepackage{multicol}
 \widowpenalty=10000
 \clubpenalty=10000 
@@ -15,8 +16,8 @@
 \end_preamble
 \use_default_options false
 \maintain_unincluded_children false
-\language american
-\language_package default
+\language english
+\language_package auto
 \inputencoding utf8-plain
 \fontencoding global
 \font_roman "default" "FreeSerif"
@@ -160,8 +161,6 @@ begin{sloppy}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -178,8 +177,6 @@ frontmatter{}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -217,7 +214,7 @@ Cherokee Language Lessons 1
 \end_layout
 
 \begin_layout Author
-Michael W S Joyner
+Michael Conrad
 \end_layout
 
 \begin_layout Date
@@ -255,7 +252,7 @@ inverted 0
 status collapsed
 
 \begin_layout Standard
-Published by Michael Joyner at Smashwords
+Published by Michael Conrad at Smashwords
 \end_layout
 
 \end_inset
@@ -264,7 +261,7 @@ Published by Michael Joyner at Smashwords
 \end_layout
 
 \begin_layout Standard
-Copyright 2016, Michael Joyner
+Copyright 2016, Michael Conrad
 \end_layout
 
 \begin_layout Standard
@@ -272,11 +269,11 @@ ISBN: 978-1-365-92880-2
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.003 $
+$Revision: 2.004 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/04/30 20:47:51 $ UTC
+$Date: 2020/01/15 02:38:51 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -505,8 +502,6 @@ mainmatter{}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -675,7 +670,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 2.003 $
+$Revision: 2.004 $
 \noun default
 .
 \end_layout
@@ -960,13 +955,6 @@ https://en.wikipedia.org/wiki/Total_physical_response
 \emph on
 The core concept of TPR is physical activity in response to the language
  being learned.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Separator parbreak
-\end_inset
-
-
 \end_layout
 
 \begin_layout Quote
@@ -2417,8 +2405,6 @@ Example pronunciation guide entries, including entries that change meaning
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -2663,8 +2649,6 @@ w
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -2789,8 +2773,6 @@ y
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3134,8 +3116,6 @@ For each of the following identify long vs short vowels as found in the
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3280,8 +3260,6 @@ Questions
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3346,8 +3324,6 @@ What Cherokee dialect is being taught in this material?
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3368,8 +3344,6 @@ Answers
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3654,8 +3628,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3770,8 +3742,6 @@ Otali.
 
 \end_deeper
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3809,9 +3779,9 @@ The Syllabary
 \noindent
 \align center
 \begin_inset Graphics
-	filename artwork/syllabary chart.jpg
+	filename artwork/syllabary_chart.jpg
 	lyxscale 20
-	width 85col%
+	width 85page%
 	height 30pheight%
 	keepAspectRatio
 
@@ -4064,6 +4034,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -8786,6 +8757,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -13514,6 +13486,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -18231,6 +18204,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -22959,6 +22933,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -27676,6 +27651,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -32437,6 +32413,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -37209,6 +37186,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -41937,6 +41915,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -46654,6 +46633,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -51382,6 +51362,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -56099,6 +56080,7 @@ Do not write out the English pronunciation next to each letter
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -60830,6 +60812,7 @@ Refer to the following figure as needed.
 	lyxscale 40
 	width 90col%
 	height 20pheight%
+	keepAspectRatio
 	groupId sample-lettering
 
 \end_inset
@@ -72901,8 +72884,6 @@ Review the following vocabulary then do the exercises.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -73984,8 +73965,6 @@ Reminder: Animacy refers to whether a thing is alive or not.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -74356,8 +74335,6 @@ For the the ordering numbers
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -74792,13 +74769,6 @@ Each challenge-response is structured in one of the following two ways:
 \end_layout
 
 \end_deeper
-\begin_layout Standard
-\begin_inset Separator parbreak
-\end_inset
-
-
-\end_layout
-
 \begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
@@ -75696,8 +75666,6 @@ Review the following vocabulary then do the exercises.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -77194,8 +77162,6 @@ Review the following vocabulary then do the exercises.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -80568,8 +80534,6 @@ Review the following vocabulary then do the exercises.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -83319,8 +83283,6 @@ When we combine these special endings with our existing vocabulary, we greatly
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -83698,8 +83660,6 @@ Review the following vocabulary.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -83830,8 +83790,6 @@ A wolf.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -83848,8 +83806,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 The following special phrase is introduced in the ᏂᏔᏛᎦ exercise:
 \end_layout
 
@@ -84010,8 +83966,6 @@ You will need the following props:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -87303,8 +87257,6 @@ Tenth Lesson
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -90610,8 +90562,6 @@ Eleventh Lesson
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -90827,8 +90777,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -91263,8 +91211,6 @@ For the numbers twenty one, twenty two, etc., in Cherokee, you drop the
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -93895,8 +93841,6 @@ All of the following words should only be used when asking a question.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -94185,8 +94129,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -94641,8 +94583,6 @@ true and pure
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -96859,8 +96799,6 @@ Thirteenth Lesson
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -96981,8 +96919,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-
-\lang english
 ᎤᏬᎵᏗ ᎪᏪᎵ (Funny Paper)
 \end_layout
 
@@ -97009,6 +96945,7 @@ If you have partners, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -97023,6 +96960,7 @@ If you have partners, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -97037,6 +96975,7 @@ If you have partners, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -97051,6 +96990,7 @@ If you have partners, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -97065,6 +97005,7 @@ If you have partners, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -97079,6 +97020,7 @@ If you have partners, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -97093,6 +97035,7 @@ If you have partners, have one person read aloud all the ᏕᏫᏗ ᏥᏍᏚ and
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -97126,8 +97069,6 @@ Refer back to the comic as needed to be sure your translation fits the scene
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -97490,8 +97431,6 @@ Your answers are not expected to exactly match the answers provided here.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -98154,8 +98093,6 @@ The following color names are used when talking about single inanimate things:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -98345,8 +98282,6 @@ When talking about single animate things, the prefix Ꭰ̣- is added if the
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -98612,8 +98547,6 @@ The colors you will be using are:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -98764,8 +98697,6 @@ If anyone is red-green color blind, add a drawing of a leaf to each card
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -98828,8 +98759,6 @@ Alive ᎩᏟ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -98892,8 +98821,6 @@ Alive ᏪᏌ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -98952,8 +98879,6 @@ Dead ᎩᏟ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -99016,8 +98941,6 @@ Dead ᏪᏌ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -101188,8 +101111,6 @@ When talking about multiple animate things, the prefix ᎠᏂ- is added if the
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -101322,8 +101243,6 @@ For
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -101531,8 +101450,6 @@ When talking about multiple inanimate things, the prefix
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -101781,8 +101698,6 @@ Alive ᏌᏊ ᎩᏟ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -101845,8 +101760,6 @@ Alive ᎠᏂᏔᎵ ᏪᏌ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -101909,8 +101822,6 @@ Dead ᏌᏊ ᎩᏟ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -101973,8 +101884,6 @@ Dead ᏔᎵ ᏪᏌ cards:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -106086,8 +105995,6 @@ her
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -106651,8 +106558,6 @@ Examples:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -106981,8 +106886,6 @@ Examples:
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -107372,8 +107275,6 @@ Many of these you have already practiced.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -107456,200 +107357,55 @@ New.
 
 \end_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 He \SpecialChar ldots
  me.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Set A: 
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-) 
-\family default
-\series default
-\shape default
-\size default
-\emph default
-\bar default
-\strikeout default
-\uuline default
-\uwave default
-\noun default
-\color inherit
-\lang american
-☞ 
+Set A: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-) ☞ 
 \emph on
 New.
 \end_layout
 
 \begin_layout Itemize
-Set B: 
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-) 
-\family default
-\series default
-\shape default
-\size default
-\emph default
-\bar default
-\strikeout default
-\uuline default
-\uwave default
-\noun default
-\color inherit
-\lang american
-☞ 
+Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-) ☞ 
 \emph on
 New.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 He \SpecialChar ldots
  he or it (an.+in.)
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꭰ̣-, Ꭶ̣- (ạ-, gạ-)
+Set A: Ꭰ̣-, Ꭶ̣- (ạ-, gạ-)
 \end_layout
 
 \begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-)
+Set B: Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-)
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 He \SpecialChar ldots
  them (an.+in.)
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮣ̣-, ᏕᎦ̣- (dạ-, de²gạ-)
+Set A: Ꮣ̣-, ᏕᎦ̣- (dạ-, de²gạ-)
 \end_layout
 
 \begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-)
+Set B: Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-)
 \end_layout
 
 \end_deeper
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -107730,194 +107486,51 @@ New.
 
 \end_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 He \SpecialChar ldots
  you.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Set A: 
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꮳ̣ (jạ-) 
-\family default
-\series default
-\shape default
-\size default
-\emph default
-\bar default
-\strikeout default
-\uuline default
-\uwave default
-\noun default
-\color inherit
-\lang american
-☞ 
+Set A: Ꮳ̣ (jạ-) ☞ 
 \emph on
 New.
 \end_layout
 
 \begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮳ̣ (jạ-) 
-\family default
-\series default
-\shape default
-\size default
-\emph default
-\bar default
-\strikeout default
-\uuline default
-\uwave default
-\noun default
-\color inherit
-\lang american
-☞ 
+Set B: Ꮳ̣ (jạ-) ☞ 
 \emph on
 New.
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 They \SpecialChar ldots
  he or it (an.+in.)
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꭰ̣Ꮒ- (ạ²ni-)
+Set A: Ꭰ̣Ꮒ- (ạ²ni-)
 \end_layout
 
 \begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- ᎤᏂ- (u¹ni-)
+Set B: ᎤᏂ- (u¹ni-)
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 They \SpecialChar ldots
  them (an.+in.)
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮣ̣Ꮒ- (dạ²ni-)
+Set A: Ꮣ̣Ꮒ- (dạ²ni-)
 \end_layout
 
 \begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- ᏚᏂ- (du¹ni-)
+Set B: ᏚᏂ- (du¹ni-)
 \end_layout
 
 \end_deeper
@@ -108060,8 +107673,6 @@ solid or other (neutral)
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -108215,8 +107826,6 @@ For review:
 \end_layout
 
 \begin_layout Plain Layout
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -112020,8 +111629,6 @@ Maybe I see wolf or maybe I see a dog.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -116214,75 +115821,23 @@ The following two new bound pronouns are used in this lesson.
 \end_layout
 
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 They \SpecialChar ldots
  me.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 ᎬᎩ̣-, ᎬᏆ͓- (gv²gị-, gv²gw-)
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 They \SpecialChar ldots
  you.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
 ᎨᏣ̣- (ge²jạ-)
 \end_layout
 
@@ -116292,8 +115847,6 @@ They \SpecialChar ldots
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -116384,8 +115937,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -116516,8 +116067,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -121577,8 +121126,6 @@ the copula
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -121951,8 +121498,6 @@ is
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -126446,8 +125991,6 @@ He wants him, it.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -126562,8 +126105,6 @@ He wants them.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -126696,8 +126237,6 @@ Additional vocabulary used in the following exercises.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -129839,8 +129378,6 @@ Twenty Second Lesson
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -129917,8 +129454,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -130044,8 +129579,6 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-
-\lang english
 ᎤᏬᎵᏗ ᎪᏪᎵ (Funny Paper)
 \end_layout
 
@@ -130067,6 +129600,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130081,6 +129615,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130095,6 +129630,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130109,6 +129645,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130123,6 +129660,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130137,6 +129675,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130151,6 +129690,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130165,6 +129705,7 @@ Read the following comic.
 	lyxscale 25
 	width 95col%
 	height 86pheight%
+	keepAspectRatio
 	groupId comic-full-page
 
 \end_inset
@@ -130198,8 +129739,6 @@ Refer back to the comic as needed to be sure your translation fits the scene
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
@@ -130546,8 +130085,6 @@ Your answers are not expected to exactly match the answers provided here.
 \end_layout
 
 \begin_layout Standard
-
-\lang english
 \begin_inset ERT
 status collapsed
 
