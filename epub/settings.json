@@ -1,0 +1,33 @@
+{
+	"ISBN_formatted": "ISBN: 978-0-463-63953-5",
+	"authors": [
+		"Michael Conrad"
+	],
+	"copyright": "Michael Conrad, All Rights Reserved. (CC BY 3.0 US)",
+	"coverImage": "artwork/cover/paperbook/pngs/epub-cover.png",
+	"description": "You are about to embark on a journey of learning the Cherokee Language. One of the keys to acquiring a new language is to learn the patterns that make up the language. Simply learning phrases so you can speak 'pidgin' Cherokee is not learning Cherokee. The goal of this material is to provide you a solid structural foundation on how Cherokee works. This lesson material uses many of the concepts from both the TPR and the TPRS language learning approaches. The core concept of TPR is physical activity in response to the language being learned. The core concept of TPRS is listening to the language as it is used to describe a series of connected events. Many activities involve TPR by participants performing physical actions in response to commands. As the activities are carried out, TPRS is used to enhance the learning experience by having the participants perform a very simplified form of storytelling by providing different verbal responses based on what is happening or has happened.",
+	"dest_epub": "epub/cherokee-lessons-1.epub",
+	"dest_epub_kindle": "epub/cherokee-lessons-1-Kindle.epub",
+	"image_tmp": "epub/image-tmp",
+	"sourcedir": "./",
+	"sourcelyx": "Cherokee Language Lessons-Volume I.lyx",
+	"subjects": [
+		"FOR005000",
+		"Foreign Language Study, Multi-Language Dictionaries",
+		"FOR031000",
+		"Foreign Language Study, Native American Languages",
+		"LAN021000",
+		"Language Arts and Disciplines, Vocabulary",
+		"Native American Languages",
+		"Cherokee",
+		"Cherokee Language",
+		"Cherokee Indians",
+		"ᏣᎳᎩ",
+		"ᎦᏬᏂᎯᏍᏗ",
+		"ᏗᏕᎶᏆᏍᏙᏗ",
+		"ᏗᏕᏠᏆᏍᏙᏗ"
+	],
+	"svg_mode": false,
+	"title": "Cherokee Language Lessons 1 - ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ ᏗᏕᎶᏆᏍᏗ 1",
+	"url": "http://www.CherokeeLessons.com/"
+}
