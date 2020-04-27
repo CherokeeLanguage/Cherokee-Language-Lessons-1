@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4013"
+   sodipodi:docname="stick-person-base.svg"
+   viewBox="0 0 168.38 357.72"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   width="179.60533"
+   height="381.56799">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="base"
+     fit-margin-left="10"
+     inkscape:zoom="1.9588235"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="84.187496"
+     inkscape:cy="177.73157"
+     inkscape:window-width="1600"
+     inkscape:window-maximized="1"
+     showgrid="false"
+     fit-margin-right="10"
+     inkscape:document-units="px"
+     bordercolor="#666666"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     fit-margin-bottom="10"
+     inkscape:snap-page="false"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     inkscape:window-height="847"
+     fit-margin-top="10" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-165.46,-71.804)">
+    <g
+       id="g3982"
+       transform="translate(15.143,-322.57)">
+      <circle
+         id="path2985"
+         style="fill:none;stroke:#000000;stroke-width:10"
+         cx="234"
+         cy="450.36218"
+         r="41" />
+      <path
+         id="path3755"
+         d="M 234,511.91 V 650.82 Z"
+         style="fill:none;stroke:#000000;stroke-width:8.41870022;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3937"
+         d="m 244,667.36 47,72 z"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3937-6"
+         d="m 222.5,666.36 -47,72 z"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3937-6-8"
+         d="m 211.5,520.36 -47,72 z"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3937-6-7"
+         d="m 257.5,514.36 47,72 z"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Stick Figure</dc:title>
+        <dc:date>2013-03-13T07:31:33</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/176288/stick-figure-by-joshbressers-176288</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>joshbressers</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>figure</rdf:li>
+            <rdf:li>person</rdf:li>
+            <rdf:li>stick</rdf:li>
+            <rdf:li>stick figure</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
