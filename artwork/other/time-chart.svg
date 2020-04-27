@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1178.6666"
+   height="536.53333"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="time-chart.svg"
+   viewBox="0 0 1105 503"
+   inkscape:export-filename="time-chart.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6725"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6727"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6643"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6645"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6567"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6569"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6497"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart"
+       inkscape:collect="always">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path6499"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4228"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4222"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4225"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4219"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4216"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4213"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86305847"
+     inkscape:cx="738.10413"
+     inkscape:cy="267.85803"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(61.076031,-234.83675)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3411"
+       width="1105"
+       height="503"
+       x="-61.076027"
+       y="234.83676" />
+    <g
+       id="g6191"
+       transform="translate(96.002899,-39.118692)">
+      <rect
+         y="277.44116"
+         x="324.04132"
+         height="110.63802"
+         width="142.47881"
+         id="rect3333"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3357"
+         y="310.01678"
+         x="395.72772"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="310.01678"
+           x="395.72772"
+           id="tspan3359"
+           sodipodi:role="line">Timeless</tspan><tspan
+           id="tspan6123"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="340.01678"
+           x="395.72772"
+           sodipodi:role="line">... to be</tspan><tspan
+           id="tspan6135"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="370.01678"
+           x="395.72772"
+           sodipodi:role="line">... to do</tspan></text>
+    </g>
+    <g
+       id="g6198"
+       transform="translate(20.803532,-91.532703)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3335"
+         width="191.83896"
+         height="116.33078"
+         x="100.12886"
+         y="402.86777" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="195.68575"
+         y="437.37994"
+         id="text3361"><tspan
+           id="tspan3365"
+           sodipodi:role="line"
+           x="195.68575"
+           y="437.37994"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle">Past</tspan><tspan
+           id="tspan6109"
+           sodipodi:role="line"
+           x="195.68575"
+           y="467.37994"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle">... was being</tspan><tspan
+           id="tspan6137"
+           sodipodi:role="line"
+           x="195.68575"
+           y="497.37994"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle">... was doing</tspan></text>
+    </g>
+    <g
+       id="g6205"
+       transform="translate(91.416529,-87.916636)">
+      <rect
+         y="400.4097"
+         x="545.26135"
+         height="110.33007"
+         width="224.95697"
+         id="rect3337"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3367"
+         y="433.741"
+         x="658.49646"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="433.741"
+           x="658.49646"
+           id="tspan3369"
+           sodipodi:role="line">Future</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="463.741"
+           x="658.49646"
+           sodipodi:role="line"
+           id="tspan3371">... will be being</tspan><tspan
+           id="tspan6139"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="493.741"
+           x="658.49646"
+           sodipodi:role="line">... will be doing</tspan></text>
+    </g>
+    <g
+       id="g6212"
+       transform="translate(133.44347,-197.48733)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3339"
+         width="107.38869"
+         height="104.65946"
+         x="-191.5195"
+         y="586.10205" />
+      <text
+         id="text3373"
+         y="615.68842"
+         x="-136.92583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6075"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="615.68842"
+           x="-136.92583"
+           sodipodi:role="line">Past</tspan><tspan
+           id="tspan6095"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="645.68842"
+           x="-136.92583"
+           sodipodi:role="line">... was</tspan><tspan
+           id="tspan6141"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="675.68842"
+           x="-136.92583"
+           sodipodi:role="line">... did</tspan></text>
+    </g>
+    <rect
+       y="382.2811"
+       x="905.52875"
+       height="110.71117"
+       width="135.27406"
+       id="rect3347"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.68096638;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text3379"
+       y="416.71265"
+       x="971.33588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+         y="416.71265"
+         x="971.33588"
+         id="tspan3381"
+         sodipodi:role="line">Future</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+         y="446.71265"
+         x="971.33588"
+         sodipodi:role="line"
+         id="tspan6097">... will be</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+         y="476.71265"
+         x="971.33588"
+         sodipodi:role="line"
+         id="tspan6133">... will do</tspan></text>
+    <g
+       id="g6219"
+       transform="translate(26.826863,-114.50406)">
+      <rect
+         y="576.08789"
+         x="82.304176"
+         height="111.04194"
+         width="232.03696"
+         id="rect3341"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="198.37968"
+         y="610.22998"
+         id="text3385"><tspan
+           id="tspan3389"
+           sodipodi:role="line"
+           x="198.37968"
+           y="610.22998"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle">Immediate Past</tspan><tspan
+           id="tspan6079"
+           sodipodi:role="line"
+           x="198.37968"
+           y="640.22998"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle">... just now was</tspan><tspan
+           id="tspan6125"
+           sodipodi:role="line"
+           x="198.37968"
+           y="670.22998"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle">... just now did</tspan></text>
+    </g>
+    <g
+       id="g6233"
+       transform="translate(-70.951887,-127.36968)">
+      <rect
+         y="580.12762"
+         x="684.95087"
+         height="114.78905"
+         width="259.43723"
+         id="rect3345"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text3391"
+         y="619.32739"
+         x="817.00092"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6085"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="619.32739"
+           x="817.00092"
+           sodipodi:role="line">Immediate Future</tspan><tspan
+           id="tspan6117"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="649.32739"
+           x="817.00092"
+           sodipodi:role="line">... is about to be</tspan><tspan
+           id="tspan6131"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="679.32739"
+           x="817.00092"
+           sodipodi:role="line">... is about to do</tspan></text>
+    </g>
+    <g
+       id="g6226"
+       transform="translate(-24.08236,-28.304374)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3343"
+         width="218.5314"
+         height="114.82138"
+         x="406.10028"
+         y="571.46893" />
+      <text
+         id="text3397"
+         y="604.77161"
+         x="513.85358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan3405"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="604.77161"
+           x="513.85358"
+           sodipodi:role="line">Now</tspan><tspan
+           id="tspan6127"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="634.77161"
+           x="513.85358"
+           sodipodi:role="line">.. is now being</tspan><tspan
+           id="tspan6129"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold';text-align:center;text-anchor:middle"
+           y="664.77161"
+           x="513.85358"
+           sodipodi:role="line">... is now doing</tspan></text>
+    </g>
+    <g
+       id="g7090">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3407"
+         d="m 143.02201,693.62931 h 696.52323 v 0"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2.18580198;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:8.74320863, 8.74320863;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10.800756"
+         y="703.06567"
+         id="text5649"><tspan
+           id="tspan5653"
+           sodipodi:role="line"
+           x="10.800756"
+           y="703.06567"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold'">The Past</tspan></text>
+      <text
+         id="text5657"
+         y="701.02545"
+         x="856.49304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold'"
+           y="701.02545"
+           x="856.49304"
+           sodipodi:role="line"
+           id="tspan5659">The Future</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSerif;-inkscape-font-specification:FreeSerif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="443.4144"
+         y="737.29675"
+         id="text5661"><tspan
+           id="tspan5663"
+           sodipodi:role="line"
+           x="443.4144"
+           y="737.29675"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1;font-family:FreeSerif;-inkscape-font-specification:'FreeSerif Bold'">Now</tspan></text>
+    </g>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart);marker-end:url(#Arrow1Send)"
+       d="M 312.77135,369.16847 636.67788,368.0474"
+       id="path6247"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g6198"
+       inkscape:connection-end="#g6205" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6497);marker-end:url(#marker6567)"
+       d="M 49.312656,440.76276 905.52875,437.86555"
+       id="path6253"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g6212"
+       inkscape:connection-end="#rect3347" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker6643);marker-end:url(#marker6725)"
+       d="m 341.168,515.54936 272.83098,-3.65778"
+       id="path6257"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g6219"
+       inkscape:connection-end="#g6233" />
+  </g>
+</svg>

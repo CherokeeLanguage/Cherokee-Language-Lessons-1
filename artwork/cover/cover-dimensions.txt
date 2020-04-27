@@ -1,0 +1,4 @@
+Spine width: 36 Postscript points wide (0.500") (150 px)
+Spine begins 621 Postscript points (8.625") (2588 px) from the left.
+Total cover width: 1278 X 810 Postscript points (17.750" X 11.250") (5325px X 3375px)
+If using an image, its resolution should be set to 300dpi

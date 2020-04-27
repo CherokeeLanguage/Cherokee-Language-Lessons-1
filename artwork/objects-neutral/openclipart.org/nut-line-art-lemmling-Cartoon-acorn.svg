@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg6778"
+   sodipodi:docname="nut-line-art-lemmling-Cartoon-acorn.svg"
+   viewBox="0 0 742.93 596.79"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   width="792.45868"
+   height="636.57599">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview6782"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="174"
+     pagecolor="#ffffff"
+     inkscape:window-height="483"
+     inkscape:window-maximized="0"
+     inkscape:zoom="0.18"
+     inkscape:window-x="839"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="209.46552"
+     inkscape:cy="422.48178"
+     inkscape:window-width="648"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="in" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-3.5325,-388.46)">
+    <path
+       id="path2383"
+       style="fill:none;stroke:#000000;stroke-width:16.34399986;stroke-linecap:round;stroke-linejoin:round"
+       d="M 556.7,562.28 C 489.65,445.88 327.86,397.36 207.83,457.66 123.53,499.23 71.7,584.02 39.48,668.85 16.36,730.06 2.093,798.5 19.322,863.19 c 21.175,50.294 75.133,74.2 123.89,89.958 97.304,30.862 207.74,35.025 303.2,-6.282 116.66,-56.076 179.33,-202.03 137.49,-324.8 -6.5908,-20.855 -15.943,-40.93 -27.215,-59.785 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3239"
+       style="fill:none;stroke:#000000;stroke-width:16.34399986"
+       d="m 565.31,539.85 c 33.058,-51.328 138.09,-78.829 159.85,-51.989 21.766,26.84 11.393,74.027 4.78,79.636 -6.6132,5.6093 -49.673,-28.64 -87.212,-11.445 -37.539,17.195 -58.722,34.799 -58.722,34.799 L 565.308,539.85 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3201"
+       style="fill:#ffffff;stroke:#000000;stroke-width:16.34399986;stroke-linecap:round;stroke-linejoin:round"
+       d="M 586.21,545.8 C 520.12,432.43 377.19,369.29 254.42,408.09 c -27.224,6.6943 -28.787,41.5 -28.433,41.012 48.018,-20.728 79.841,24.848 123.46,78.152 53.351,65.192 106.48,157.47 140.86,242.58 24.056,59.554 37.77,115.38 7.3087,143.64 1.0086,0.6379 29.721,17.752 51.625,-7.4078 107.59,-115.85 101.83,-256.4 36.97,-360.26 z"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Nut Line Art</dc:title>
+        <dc:date>2010-07-30T18:35:23</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/75529/nut-line-art-by-gammillian</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>gammillian</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>acorn</rdf:li>
+            <rdf:li>black and white</rdf:li>
+            <rdf:li>coloring book</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>nature</rdf:li>
+            <rdf:li>nut</rdf:li>
+            <rdf:li>outline</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
