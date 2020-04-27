@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6in"
+   height="9in"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="p020.svg"
+   inkscape:export-filename="p020.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5014">
+      <feFlood
+         flood-opacity="0.752941"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5016" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5018" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2"
+         result="blur"
+         id="feGaussianBlur5020" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="offset"
+         id="feOffset5022" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5024" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#00ff66"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9358025"
+     inkscape:cx="434.58216"
+     inkscape:cy="223.96305"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1909"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     borderlayer="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-258.51947)">
+    <g
+       id="g3384"
+       transform="matrix(0.22067838,0,0,0.22067838,2.208e-6,278.4688)">
+      <rect
+         height="864"
+         width="576"
+         y="258.51947"
+         x="0"
+         id="rect3382"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.26666689;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <image
+         sodipodi:absref="/home/muksihs/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1/comics/mi-ma-ale-mo-uniyo-wesa/src.svg/020.png"
+         xlink:href="020.png"
+         height="3734.3999"
+         width="2610.1333"
+         y="0"
+         x="0"
+         id="image3379"
+         style="image-rendering:optimizeSpeed"
+         preserveAspectRatio="none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:CherokeeHandone;-inkscape-font-specification:'CherokeeHandone Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.53333336;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="96.078163"
+       y="581.09467"
+       id="text4779"><tspan
+         sodipodi:role="line"
+         x="96.078163"
+         y="581.09467"
+         id="tspan3369"
+         style="font-size:14.9333334px;line-height:1;stroke-width:0.53333336">ᎠᏲ! ᎯᎠ ᎤᏲ!</tspan></text>
+    <text
+       id="text4997"
+       y="583.84973"
+       x="358.36386"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:CherokeeHandone;-inkscape-font-specification:'CherokeeHandone Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.53333336;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4999"
+         y="583.84973"
+         x="358.36386"
+         sodipodi:role="line"
+         style="font-size:14.9333334px;line-height:1;stroke-width:0.53333336">Ꮎ ᎤᏲ ᎨᏒᎩ!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:CherokeeHandone;-inkscape-font-specification:'CherokeeHandone Medium';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.53333336;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="516.50671"
+       y="576.13544"
+       id="text5001"><tspan
+         sodipodi:role="line"
+         x="516.50671"
+         y="576.13544"
+         id="tspan5003"
+         style="font-size:14.9333334px;line-height:1;stroke-width:0.53333336">Ꮌ! ᎰᏍᏓᏍ?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:64px;line-height:0%;font-family:DANISVDANVSGV;-inkscape-font-specification:'DANISVDANVSGV Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5014)"
+       id="text5005"
+       x="-4.4081635"
+       y="-68.773407"
+       transform="translate(-12.940869,1.8029817)"><textPath
+         xlink:href="#path5009"
+         id="textPath5011"
+         style="stroke-width:1.06666672px"><tspan
+   id="tspan5007"
+   style="font-size:64px;fill:#ff0000;stroke:#000000;stroke-width:1.06666672px">ᎠᏲ! ᎠᏲ!</tspan></textPath></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:0.97294885px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 123.72877,946.83786 1.07446,-41.43669 30.80205,-24.86202 51.03821,-9.16897 38.14437,2.6449 19.69898,10.22693 14.50558,21.86446"
+       id="path5009"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Gageda;-inkscape-font-specification:'Gageda , Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.12925029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="426.13773"
+       y="859.2934"
+       id="text5026"><tspan
+         sodipodi:role="line"
+         x="426.13773"
+         y="859.2934"
+         id="tspan5028"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:31.61943436px;line-height:100%;font-family:Gageda;-inkscape-font-specification:'Gageda , Ultra-Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;stroke-width:1.12925029">Ꭷ!</tspan></text>
+  </g>
+</svg>
