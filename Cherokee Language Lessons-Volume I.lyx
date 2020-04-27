@@ -243,7 +243,7 @@ If our language and culture die, as a people, so do we.
 \end_layout
 
 \begin_layout Standard
-Cherokee Language Lessons 1, 2nd Edition
+Cherokee Language Lessons 1, 3rd Edition
 \end_layout
 
 \begin_layout Standard
@@ -261,19 +261,19 @@ Published by Michael Conrad at Smashwords
 \end_layout
 
 \begin_layout Standard
-Copyright 2016, Michael Conrad
+Copyright 2020, Michael Conrad
 \end_layout
 
 \begin_layout Standard
-ISBN: 978-1-365-92880-2
+ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.004 $
+$Revision: 2.005 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/01/15 02:38:51 $ UTC
+$Date: 2020/01/28 00:27:25 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -288,171 +288,6 @@ Creative Commons Attribution-Share Alike 3.0 United States License
  
 \emph on
 Commercial use is permitted.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage cleardoublepage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Section*
-Dedication
-\end_layout
-
-\begin_layout Standard
-To Ray Cochran - without his inspiration in working to keep the Cherokee
- culture and language alive this work would probably not have come about.
-\end_layout
-
-\begin_layout Subsection*
-Contributors
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-Being listed as a contributor does not indicate endorsement.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-All the students who participated in the 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://jalagigawoni.gnomio.com/
-\end_layout
-
-\end_inset
-
- Cherokee Language Moodle LMS.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection*
-Additional Sources
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-The Cherokee-English Dictionary 1975 - 
-\emph on
-Durbin Feeling.
-\end_layout
-
-\begin_layout Itemize
-A Reference Grammar of Oklahoma Cherokee 2008 - 
-\emph on
-Brad Montgomery-Anderson
-\end_layout
-
-\begin_layout Itemize
-A Learner’s Guide to the Cherokee-English Dictionary (CED)
-\emph on
- - Christian Koops
-\end_layout
-
-\begin_layout Itemize
-Verb Reference Book : Didehloqwasgi 2012 - 
-\emph on
-Wyman Kirk
-\end_layout
-
-\begin_layout Itemize
-Classroom immersion materials produced by the Cherokee Nation of Oklahoma.
-\end_layout
-
-\begin_layout Itemize
-The public domain comic book site: 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://digitalcomicmuseum.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Help by e-mail and discussion groups from various much appreciated individuals,
- not all of whom wished to be listed as contributors.
-\end_layout
-
-\begin_layout Itemize
-Other materials too numerous to mention.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -515,6 +350,15 @@ pagestyle{plain}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section*
+Dedication
+\end_layout
+
+\begin_layout Standard
+To Ray Cochran - without his inspiration in working to keep the Cherokee
+ culture and language alive this work would probably not have come about.
 \end_layout
 
 \begin_layout Chapter*
@@ -670,7 +514,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document revision
  tag: 
 \noun on
-$Revision: 2.004 $
+$Revision: 2.005 $
 \noun default
 .
 \end_layout
@@ -3760,7 +3604,7 @@ end{multicols}
 \begin_layout Chapter
 ᏦᎢᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Third Lesson
@@ -3938,10 +3782,10 @@ After studying Dr.
 \end_layout
 
 \begin_layout Standard
-The writing exercises have been broken out into four sessions.
+The writing exercises have been broken out into seven sessions.
  One session per day.
- The first three sessions are learning new letters.
- The fourth session is a comprehensive review exercise.
+ The first sessions are learning new letters.
+ The final session is a comprehensive review exercise.
 \end_layout
 
 \begin_layout Standard
@@ -130679,10 +130523,28 @@ Congratulations! You are ready to move on to the next book.
 
 \begin_layout Chapter
 \start_of_appendix
-Additional Resources
+
+\lang american
+ᏗᏕᏠᏆᏍᏗ
+\lang english
+
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+Dictionary
 \end_layout
 
-\begin_layout Section
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+x
+\end_layout
+
+\begin_layout Chapter
 The Leitner System
 \begin_inset CommandInset label
 LatexCommand label
@@ -130719,7 +130581,7 @@ The Leitner system is a widely used method to efficiently use flashcards
  cards are reviewed at increasing interval.
 \end_layout
 
-\begin_layout Paragraph*
+\begin_layout Subsection*
 Method
 \end_layout
 
@@ -130733,7 +130595,7 @@ In this method flashcards are sorted into groups according to how well you
  to revisit the cards.
 \end_layout
 
-\begin_layout Paragraph*
+\begin_layout Subsection*
 Example
 \end_layout
 
@@ -130997,6 +130859,155 @@ rating from English to Cherokee.
 \begin_layout Quotation
 I hope this helps! Good luck, transliterators! Feel free to ask me (Knave)
  if you have any questions!
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Contributors
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Being listed as a contributor does not indicate endorsement.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+All the students who participated in the 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://jalagigawoni.gnomio.com/
+\end_layout
+
+\end_inset
+
+ Cherokee Language Moodle LMS.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Sources and Acknowledgments.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The Cherokee-English Dictionary 1975 - 
+\emph on
+Durbin Feeling.
+\end_layout
+
+\begin_layout Itemize
+A Reference Grammar of Oklahoma Cherokee 2008 - 
+\emph on
+Brad Montgomery-Anderson
+\end_layout
+
+\begin_layout Itemize
+A Learner’s Guide to the Cherokee-English Dictionary (CED)
+\emph on
+ - Christian Koops
+\end_layout
+
+\begin_layout Itemize
+Verb Reference Book : Didehloqwasgi 2012 - 
+\emph on
+Wyman Kirk
+\end_layout
+
+\begin_layout Itemize
+Classroom immersion materials produced by the Cherokee Nation of Oklahoma.
+\end_layout
+
+\begin_layout Itemize
+The public domain comic book site: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://digitalcomicmuseum.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Help by e-mail and discussion groups from various much appreciated individuals,
+ not all of whom wished to be listed as contributors.
+\end_layout
+
+\begin_layout Itemize
+Other materials too numerous to mention.
 \end_layout
 
 \begin_layout Standard
