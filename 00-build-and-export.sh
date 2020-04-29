@@ -14,11 +14,11 @@ function die(){
 }
 trap die ERR
 
-wrkFile="Cherokee Language Lessons-Volume I"
+wrkFile="Cherokee Language Lessons-Volume 1"
 lyxFile="${wrkFile}.lyx"
 lyxWithCoverFile="${wrkFile}-embedded-cover.lyx"
 cd "$(dirname "$0")" || exit 1
-DEST="/home/muksihs/Sync/Cherokee/CherokeeLanguageLessons/Volume-01B/MASTER/"
+DEST="/home/muksihs/Sync/Cherokee/CherokeeLanguageLessons/Volume-01-3rd-edition/MASTER/"
 mkdir -p "$DEST"
 cp scripts/autosplit-answers.sh "$DEST"
 
