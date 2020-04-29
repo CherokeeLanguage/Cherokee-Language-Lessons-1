@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass extbook
 \begin_preamble
 \usepackage{multicol}
@@ -33,16 +35,18 @@ fixltx2e
 \language_package default
 \inputencoding utf8-plain
 \fontencoding global
-\font_roman FreeSerif
-\font_sans FreeSans
-\font_typewriter FreeMono
-\font_math auto
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics none
 \default_output_format pdf4
 \output_sync 1
@@ -85,6 +89,7 @@ fixltx2e
 \suppress_date true
 \justification true
 \use_refstyle 0
+\use_minted 0
 \branch smashwords
 \selected 0
 \filename_suffix 0
@@ -104,7 +109,10 @@ fixltx2e
 \tocdepth 1
 \paragraph_separation skip
 \defskip smallskip
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle plain
@@ -773,6 +781,10 @@ A woman.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -796,6 +808,10 @@ Women.
 
 A man.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1165,6 +1181,10 @@ He.
 \end_inset
 
  
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -1304,6 +1324,10 @@ A deer.
 
 A sheet of paper.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1785,6 +1809,10 @@ A girl.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -1808,6 +1836,10 @@ Girls.
 
 A boy.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1838,6 +1870,10 @@ Boys.
 
 What is he/she doing?
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1884,6 +1920,10 @@ A trap.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -1920,6 +1960,10 @@ A horse.
 
 A tree.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -2397,7 +2441,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what I am called.
 \begin_inset Quotes erd
 \end_inset
@@ -2410,7 +2454,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what we two are called.
 \begin_inset Quotes erd
 \end_inset
@@ -2423,7 +2467,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what we all are called.
 \begin_inset Quotes erd
 \end_inset
@@ -2436,7 +2480,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what you are called.
 \begin_inset Quotes erd
 \end_inset
@@ -2449,7 +2493,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what you two are called.
 \begin_inset Quotes erd
 \end_inset
@@ -2462,7 +2506,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what you all are called.
 \begin_inset Quotes erd
 \end_inset
@@ -2475,7 +2519,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what he or she is called.
 \begin_inset Quotes erd
 \end_inset
@@ -2488,7 +2532,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
  is what they are called.
 \begin_inset Quotes erd
 \end_inset
@@ -2543,6 +2587,10 @@ Good.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -2566,6 +2614,10 @@ Good (them).
 
 Bad.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -2620,6 +2672,10 @@ An English person.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -2643,6 +2699,10 @@ English people.
 
 A Cherokee person.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -2672,6 +2732,10 @@ An English person.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -2698,6 +2762,10 @@ A person.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -2721,6 +2789,10 @@ People.
 
 A Native American.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -2899,6 +2971,10 @@ still)
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -2941,6 +3017,10 @@ Something.
  A thing.
  Things.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -4052,6 +4132,814 @@ Will be being.
 \end_layout
 
 \begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎩ [hla yi⁴gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎦ [hla yi⁴ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏐᎢ [hla yi²ge¹so³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't usually.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏒᎢ [hla yi²ge¹sv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Not being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏎᎢ [hla yi²ge¹se³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't being.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowledge, or consciousness.
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᎲᎢ [hla yi²ge¹hv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Had not been (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᎮᎢ [hla yi²ge¹he³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowledge, or consciousness.
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᎨᏎᏍᏗ [hla yi²ge¹se³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Will not be being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Chapter 21
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏥᏯᏚᎵᎭ [ji²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎦᏥᏯᏚᎵᎭ [ga²ji²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏓᏆᏚᎵᎭ [da¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎬᏆᏚᎵᎭ [gv¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎤᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants him, it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏚᏚᎵᎭ [du¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎯᏯᏚᎵᎭ [hi²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏣᏚᎵᎭ [jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎦᎯᏯᏚᎵᎭ [ga²hi²ya²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want them-animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏕᏣᏚᎵᎭ [de²jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+You want them-inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏣᏚᎵᎭ [jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎨᏣᏚᎵᎭ [ge²jạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎤᎾᏚᎵᎭ [u¹na²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want him, it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏚᎾᏚᎵᎭ [du¹na²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They want them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Additional vocabulary used in the following exercises.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏎᏃ,
+\begin_inset space ~
+\end_inset
+
+ᎠᏎᏅ [a²se³hno, a²se³hnv] 
+\begin_inset Quotes eld
+\end_inset
+
+But.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎦᎪ [ga³go²] 
+\begin_inset Quotes eld
+\end_inset
+
+Who?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎦᏍᎩᎶ [ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+A table or a chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᏗᎦᏍᎩᎶ [dị²ga²sgị²lo] 
+\begin_inset Quotes eld
+\end_inset
+
+Tables.
+ Chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Chapter 21
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꭷ [ka] 
+\begin_inset Quotes eld
+\end_inset
+
+Hey now! Enough already! Hey!
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Also used as a greeting to indicate a 
+\begin_inset Quotes eld
+\end_inset
+
+Hey!
+\begin_inset Quotes erd
+\end_inset
+
+ kind of 
+\begin_inset Quotes eld
+\end_inset
+
+Hi!
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏄᎳ [nu⁴la] 
+\begin_inset Quotes eld
+\end_inset
+
+Hurry.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎢᏯᏂ [ị²yạ³ni] 
+\begin_inset Quotes eld
+\end_inset
+
+Count of animate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎢᎦ [i²³ga⁴] 
+\begin_inset Quotes eld
+\end_inset
+
+Count of inanimate.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎦᏍᎩᎸᎢ [ga²sgị²lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+On a chair or on a table.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏂᎦᏓ,
+\begin_inset space ~
+\end_inset
+
+ᏂᎦᏛ [nị²ga⁴da, nị²ga⁴dv] 
+\begin_inset Quotes eld
+\end_inset
+
+All.
+ Everyone.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎤᎵᏑᏫᏓ [ul²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎤᎾᎵᏑᏫᏓ [u²nal²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color (them-animate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏧᎵᏑᏫᏓ [jul²su²³hwị²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Color (them-inanimate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
