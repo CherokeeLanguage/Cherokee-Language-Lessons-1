@@ -5,7 +5,7 @@ set -e
 set -o pipefail
 trap 'echo error; read a' ERR
 
-FILE="Cherokee Language Lessons-Volume I"
+FILE="Cherokee Language Lessons-Volume 1"
 
 cp "$FILE".tex "$FILE".tex.tmp
 perl -p -i -e 's/\\uline\{/\\emph\{/g' "$FILE".tex.tmp
