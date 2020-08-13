@@ -269,14 +269,6 @@ ISBN: 978-1-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.006 $
-\end_layout
-
-\begin_layout Standard
-$Date: 2020/04/27 17:41:58 $ UTC
-\end_layout
-
-\begin_layout Standard
 This work is licensed under the 
 \noun on
 Creative Commons Attribution-Share Alike 4.0 International License
@@ -348,6 +340,50 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Section*
+3rd Edition Notes
+\end_layout
+
+\begin_layout Standard
+This, the 3rd edition, incorporates two new important changes in material
+ presentation.
+\end_layout
+
+\begin_layout Enumerate
+The pronunciation 
+\begin_inset Quotes eld
+\end_inset
+
+keys
+\begin_inset Quotes erd
+\end_inset
+
+ have been updated to use the 
+\begin_inset Quotes eld
+\end_inset
+
+Modified Community Standard
+\begin_inset Quotes erd
+\end_inset
+
+ (MCS) instead of using the older 
+\begin_inset Quotes eld
+\end_inset
+
+Cherokee-English Dictionary Standard
+\begin_inset Quotes erd
+\end_inset
+
+ (CEDS).
+ The MCS is generally considered easier to read and the use of diacrits
+ enables easier visualation of Cherokee tones.
+\end_layout
+
+\begin_layout Enumerate
+Each chapter now contains a link to audio pre-exercise material that should
+ be completed before starting the chapter.
+\end_layout
+
+\begin_layout Section*
 Dedication
 \end_layout
 
@@ -357,46 +393,32 @@ To Ray Cochran - without his inspiration in working to keep the Cherokee
 \end_layout
 
 \begin_layout Chapter*
-
-\lang american
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 \end_layout
 
 \begin_layout Section*
-
-\lang american
 You are free to:
 \end_layout
 
 \begin_layout Description
-
-\lang american
 Share — copy and redistribute the material in any medium or format
 \end_layout
 
 \begin_layout Description
-
-\lang american
 Adapt — remix, transform, and build upon the material for any purpose, even
  commercially.
 \end_layout
 
 \begin_layout Standard
-
-\lang american
 The licensor cannot revoke these freedoms as long as you follow the license
  terms.
 \end_layout
 
 \begin_layout Section*
-
-\lang american
 Under the following terms:
 \end_layout
 
 \begin_layout Description
-
-\lang american
 Attribution — You must give appropriate credit, provide a link to the license,
  and indicate if changes were made.
  You may do so in any reasonable manner, but not in any way that suggests
@@ -404,15 +426,11 @@ Attribution — You must give appropriate credit, provide a link to the license,
 \end_layout
 
 \begin_layout Description
-
-\lang american
 ShareAlike — If you remix, transform, or build upon the material, you must
  distribute your contributions under the same license as the original.
 \end_layout
 
 \begin_layout Description
-
-\lang american
 No
 \begin_inset space ~
 \end_inset
@@ -426,22 +444,16 @@ restrictions — You may not apply legal terms or technological measures that
 \end_layout
 
 \begin_layout Section*
-
-\lang american
 Notices:
 \end_layout
 
 \begin_layout Standard
-
-\lang american
 You do not have to comply with the license for elements of the material
  in the public domain or where your use is permitted by an applicable exception
  or limitation.
 \end_layout
 
 \begin_layout Standard
-
-\lang american
 No warranties are given.
  The license may not give you all of the permissions necessary for your
  intended use.
@@ -452,7 +464,6 @@ No warranties are given.
 \begin_layout Standard
 
 \emph on
-\lang american
 Commercial use is permitted.
 \end_layout
 
@@ -952,6 +963,12 @@ In addition to the TPR and TPRS approaches, there are also sections explaining
  exercises.
 \end_layout
 
+\begin_layout Standard
+At the start of each chapter will be a reference to a set of audio only
+ lessons hosted by the Voice Republic™ platform that should be completed
+ before starting the chapter.
+\end_layout
+
 \begin_layout Chapter
 ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
@@ -966,8 +983,51 @@ Second Lesson
 
 \end_layout
 
+\begin_layout Standard
+There are two different styles of pronunciation markings which show tone
+ and cadence used when teaching Cherokee:
+\end_layout
+
+\begin_layout Itemize
+The Cherokee-English Dictionary Standard (CEDS).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This standard uses a combination of underdots and superscripted numbers
+ to indicate pronunciation.
+\end_layout
+
+\begin_layout Itemize
+It is easy to miss the underdot for short vowel markings and the superscripted
+ numbers for the tones don't help one visualize the pitch and tone of a
+ vowel.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+The Modified Community Standard (MCS).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This one uses standard diactrics and has a clear vowel length marker to
+ indicate cadence.
+\end_layout
+
+\begin_layout Itemize
+The diactrics chosen, by their shape, help one visualize the pitch and tone
+ of a vowel.
+\end_layout
+
+\begin_layout Itemize
+Other styles, such as ones preferred by linguists, are usually very similar
+ to this style.
+\end_layout
+
+\end_deeper
 \begin_layout Section
-Pronunciation
+Modified Community Standard Pronunciation
 \end_layout
 
 \begin_layout Subsection
@@ -1039,26 +1099,18 @@ They are generally pronounced as follows:
 \end_layout
 
 \begin_layout Itemize
-a: as (a) in f
-\bar under
-a
-\bar default
-ther.
+a - as (ā) in fāther.
 \end_layout
 
 \begin_layout Itemize
-e: as (a) in c
-\bar under
-a
-\bar default
-ke.
+e - as (ā) in cāke.
  
 \emph on
 Some speakers shift this letter to sound more like the 
 \begin_inset Quotes eld
 \end_inset
 
-e
+ē
 \begin_inset Quotes erd
 \end_inset
 
@@ -1066,11 +1118,7 @@ e
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-e
-\bar default
-cho
+ēcho
 \begin_inset Quotes erd
 \end_inset
 
@@ -1078,18 +1126,14 @@ cho
 \end_layout
 
 \begin_layout Itemize
-i: as (e) in P
-\bar under
-e
-\bar default
-te.
+i - as (ē) in Pēte.
  
 \emph on
 Some speakers shift this letter to sound more like the 
 \begin_inset Quotes eld
 \end_inset
 
-i
+ī
 \begin_inset Quotes erd
 \end_inset
 
@@ -1097,11 +1141,7 @@ i
 \begin_inset Quotes eld
 \end_inset
 
-p
-\bar under
-i
-\bar default
-t
+pīt
 \begin_inset Quotes erd
 \end_inset
 
@@ -1109,27 +1149,15 @@ t
 \end_layout
 
 \begin_layout Itemize
-o: as (o) in hell
-\bar under
-o
-\bar default
-.
+o - as (ō) in hellō.
 \end_layout
 
 \begin_layout Itemize
-u: as (u) in t
-\bar under
-u
-\bar default
-ba.
+u - as (ū) in tūba.
 \end_layout
 
 \begin_layout Itemize
-v: as (u) in r
-\bar under
-u
-\bar default
-ng and is always nasalized (sounded through the nose).
+v - as (ū) in rūng and is always nasalized (sounded through the nose).
 \end_layout
 
 \begin_layout Paragraph
@@ -1155,34 +1183,18 @@ short
 
 .
  A long vowel is a vowel held for a normal length of time.
- A short vowel is a vowel spoken for a very brief length of time.
+ A short vowel is a vowel sound out about half as long as a long vowel.
  Other than for the amount of time a vowel is spoken, the long and short
  vowels sound the same.
- Short vowels will be marked in the pronunciation guide with an 
-\begin_inset Quotes eld
-\end_inset
-
-underdot
-\begin_inset Quotes erd
-\end_inset
-
-.
+ Long vowels will be marked in the pronunciation guide with a colon.
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-Any vowels that are not followed immediately by a number and vowels that
- appear at the end of words in the pronunciation guide are always short
- and will not be displayed with an underdot.
-\end_layout
-
-\begin_layout Standard
-Examples (the numbers will be explained shortly):
+Examples (the diacritics will be explained shortly):
 \end_layout
 
 \begin_layout Description
-nị²ga⁴da short 
+niga̋:da short 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1224,7 +1236,7 @@ all
 \end_layout
 
 \begin_layout Description
-ạ²hwi short 
+ahwi short 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1258,7 +1270,7 @@ deer
 \end_layout
 
 \begin_layout Description
-noh²ji short 
+nohji short 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1321,11 +1333,7 @@ g
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-g
-\bar default
-aff
+gaff
 \begin_inset Quotes erd
 \end_inset
 
@@ -1341,11 +1349,7 @@ k
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-k
-\bar default
-ite
+kite
 \begin_inset Quotes erd
 \end_inset
 
@@ -1391,11 +1395,7 @@ qu
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-qu
-\bar default
-estion
+question
 \begin_inset Quotes erd
 \end_inset
 
@@ -1411,11 +1411,7 @@ gw
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-Gw
-\bar default
-en
+Gwen
 \begin_inset Quotes erd
 \end_inset
 
@@ -1461,11 +1457,7 @@ s
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-s
-\bar default
-ight
+sight
 \begin_inset Quotes erd
 \end_inset
 
@@ -1481,11 +1473,7 @@ sh
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-sh
-\bar default
-ell
+shell
 \begin_inset Quotes erd
 \end_inset
 
@@ -1540,11 +1528,7 @@ cl
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-cl
-\bar default
-ack
+clack
 \begin_inset Quotes erd
 \end_inset
 
@@ -1552,11 +1536,7 @@ ack
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-cl
-\bar default
-ock
+clock
 \begin_inset Quotes erd
 \end_inset
 
@@ -1627,11 +1607,7 @@ j
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-J
-\bar default
-ohn
+John
 \begin_inset Quotes erd
 \end_inset
 
@@ -1647,11 +1623,7 @@ ch
 \begin_inset Quotes eld
 \end_inset
 
-
-\bar under
-ch
-\bar default
-air
+chair
 \begin_inset Quotes erd
 \end_inset
 
@@ -1667,11 +1639,7 @@ ds
 \begin_inset Quotes eld
 \end_inset
 
-best bu
-\bar under
-ds
-\bar default
-
+best buds
 \begin_inset Quotes erd
 \end_inset
 
@@ -1687,11 +1655,7 @@ tz
 \begin_inset Quotes eld
 \end_inset
 
-spri
-\bar under
-tz
-\bar default
-er
+spritzer
 \begin_inset Quotes erd
 \end_inset
 
@@ -1838,7 +1802,7 @@ name "subsec:Pronunciation-Guide"
 
 \begin_layout Standard
 Each new Cherokee word will be presented with its Cherokee Syllabary spelling,
- an English pronunciation guide in brackets (
+ an MCS pronunciation guide in brackets (
 \begin_inset Quotes eld
 \end_inset
 
@@ -1867,6 +1831,30 @@ Vowels
 \end_layout
 
 \begin_layout Description
+a:,
+\begin_inset space ~
+\end_inset
+
+e:,
+\begin_inset space ~
+\end_inset
+
+i:,
+\begin_inset space ~
+\end_inset
+
+o:,
+\begin_inset space ~
+\end_inset
+
+u:,
+\begin_inset space ~
+\end_inset
+
+v: - These are long vowels.
+\end_layout
+
+\begin_layout Description
 a,
 \begin_inset space ~
 \end_inset
@@ -1887,38 +1875,7 @@ u,
 \begin_inset space ~
 \end_inset
 
-v - Usually these are long vowels.
-\begin_inset Newline newline
-\end_inset
-
-☞ 
-\emph on
-Remember that when they are not immediately followed by a tone mark or when
- they appear at the end of a word they are short vowels.
-\end_layout
-
-\begin_layout Description
-ạ,
-\begin_inset space ~
-\end_inset
-
-ẹ,
-\begin_inset space ~
-\end_inset
-
-ị,
-\begin_inset space ~
-\end_inset
-
-ọ,
-\begin_inset space ~
-\end_inset
-
-ụ,
-\begin_inset space ~
-\end_inset
-
-ṿ - These are always short vowels.
+v - These are short vowels.
 \end_layout
 
 \begin_layout Paragraph
@@ -1937,6 +1894,22 @@ glottal stop
 
 Examples of this brief pause can be found in the middle of the English words:
  
+\begin_inset Quotes eld
+\end_inset
+
+kitten
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+mitten
+\begin_inset Quotes erd
+\end_inset
+
+, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2022,7 +1995,7 @@ hla
 \begin_inset space ~
 \end_inset
 
-ᎪᏍᏗ [go²hu⁴sdi, go⁴sdi] 
+ᎪᏍᏗ [go:hű:sdi, gő:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2077,19 +2050,15 @@ lly.
 \end_layout
 
 \begin_layout Standard
-In this material, the CED numbering system is being used, where:
+In this material, the MCS diacritic system is being used, where:
 \end_layout
 
 \begin_layout Itemize
-A 
-\begin_inset Quotes eld
-\end_inset
-
-²
-\begin_inset Quotes erd
-\end_inset
-
- indicates a tone with a normal pitch.
+No marking (a, e, i, o, u, v) or a 
+\emph on
+macron
+\emph default
+ marking (ā, ē, ī, ō, ū, v̄) indicates a tone with a normal pitch.
  ☞ 
 \emph on
 This tone is commonly referred to as the 
@@ -2120,15 +2089,8 @@ neutral
 \end_layout
 
 \begin_layout Itemize
-A 
-\begin_inset Quotes eld
-\end_inset
-
-³
-\begin_inset Quotes erd
-\end_inset
-
- indicates a tone with a higher pitch.
+An acute accent marking (á, é, í, ó, ú, v́) indicates a tone with a higher
+ pitch.
  ☞ 
 \emph on
 This tone is commonly referred to as the 
@@ -2142,90 +2104,13 @@ high
  tone.
 \end_layout
 
-\begin_layout Standard
-Many words have parts with 
-\begin_inset Quotes eld
-\end_inset
-
-contour
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-gliding
-\begin_inset Quotes erd
-\end_inset
-
- tones.
- These will be indicated by combining together the starting and ending pitches:
-\end_layout
-
 \begin_layout Itemize
 A 
-\begin_inset Quotes eld
-\end_inset
-
-²³
-\begin_inset Quotes erd
-\end_inset
-
- indicates a tone that starts out at a normal pitch and then is glided higher
- in pitch.
- ☞ 
 \emph on
-This tone is commonly referred to as the 
-\begin_inset Quotes eld
-\end_inset
-
-rising
-\begin_inset Quotes erd
-\end_inset
-
- tone.
-\end_layout
-
-\begin_layout Itemize
-A 
-\begin_inset Quotes eld
-\end_inset
-
-³²
-\begin_inset Quotes erd
-\end_inset
-
- indicates a tone that starts out at a higher pitch and then is glided down
- to a normal pitch.
- ☞ 
-\emph on
-This tone is commonly referred to as the 
-\begin_inset Quotes eld
-\end_inset
-
-falling
-\begin_inset Quotes erd
-\end_inset
-
- tone.
-\end_layout
-
-\begin_layout Standard
-There are two more tones which will be only marked with single numbers and
- one special gliding tone that has no marking at all:
-\end_layout
-
-\begin_layout Itemize
-A 
-\begin_inset Quotes eld
-\end_inset
-
-¹
-\begin_inset Quotes erd
-\end_inset
-
- indicates a tone that starts with a normal pitch and then is glided downwards.
+grave accent
+\emph default
+ marking (à, è, ì, ò, ù, v̀) indicates a tone that starts with a normal
+ pitch and then is glided downwards.
  ☞ 
 \emph on
 This tone is commonly referred to as the 
@@ -2249,14 +2134,51 @@ low fall
 
 \begin_layout Itemize
 A 
+\emph on
+caron
+\emph default
+ marking (ǎ, ě, ǐ, ǒ, ǔ, v̌) indicates a tone that starts out at a
+ normal pitch and then is glided higher in pitch.
+ ☞ 
+\emph on
+This tone is commonly referred to as the 
 \begin_inset Quotes eld
 \end_inset
 
-⁴
+rising
 \begin_inset Quotes erd
 \end_inset
 
- indicates a tone that starts out usually at either 
+ tone.
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+circumflex accent
+\emph default
+ marking (â, ê, î, ô, û, v̂) indicates a tone that starts out at a higher
+ pitch and then is glided down to a normal pitch.
+ ☞ 
+\emph on
+This tone is commonly referred to as the 
+\begin_inset Quotes eld
+\end_inset
+
+falling
+\begin_inset Quotes erd
+\end_inset
+
+ tone.
+\end_layout
+
+\begin_layout Itemize
+A 
+\emph on
+double accute accent
+\emph default
+ marking (a̋, e̋, i̋, ő, ű, v̋) indicates a tone that starts out usually
+ at either 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2303,19 +2225,15 @@ high rise
  tone.
 \end_layout
 
+\begin_layout Standard
+There is one special gliding tone that has no marking at all:
+\end_layout
+
 \begin_layout Itemize
-At the end of every word, unless otherwise indicated, there is always a
- 
-\begin_inset Quotes eld
-\end_inset
-
-⁴³
-\begin_inset Quotes erd
-\end_inset
-
- gliding tone which starts out with an very high pitch and then is glided
+At the end of every word, unless otherwise marked, there is always a special
+ gliding tone which starts out with a very high pitch and then is glided
  down very far.
- Because this is at the end of every word, it is not marked.
+ Because this is at the end of most words it is never marked.
  ☞ 
 \emph on
 This tone is commonly referred to as the 
@@ -2340,7 +2258,7 @@ high fall
 
 \begin_layout Standard
 Example pronunciation guide entries, including entries that change meaning
- based on tone:
+ based on tone or cadence:
 \end_layout
 
 \begin_layout Standard
@@ -2362,27 +2280,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏓ [ạ²da] Wood.
+ᎠᏓ [ada] Wood.
 \end_layout
 
 \begin_layout Description
-ᎠᏓ [ạ⁴ɂda] Young animal.
+ᎠᏓ [a̋ɂda] Young animal.
 \end_layout
 
 \begin_layout Description
-ᎠᎹ [ạ²ma] Water.
+ᎠᎹ [ama] Water.
 \end_layout
 
 \begin_layout Description
-ᎠᎹ [a³ma] Salt.
+ᎠᎹ [á:ma] Salt.
 \end_layout
 
 \begin_layout Description
-ᎬᏍᎦᎳᏗᎠ [gv²sgạ²lạ³dị³ɂa] He is hiding a long object.
+ᎬᏍᎦᎳᏗᎠ [gv:sgaládíɂa] He is hiding a long object.
 \end_layout
 
 \begin_layout Description
-ᎬᏍᎦᎳᏗᎠ [gv¹sgạ²lạ³dị³ɂa] I am hiding a long object.
+ᎬᏍᎦᎳᏗᎠ [gv̀:sgaládíɂa] I am hiding a long object.
 \end_layout
 
 \begin_layout Standard
@@ -2408,10 +2326,6 @@ end{multicols}
  Only real dictionary entries, such as those found in the CED, will provide
  you with correct meaning and pronunciation so that you do not end up speaking
  gibberish or saying very bad things about yourself.
- 
-\emph on
-Don't embarrass yourself and don't propagate false information about the
- language.
 \end_layout
 
 \begin_layout Subsection
@@ -2453,15 +2367,7 @@ v
 \begin_inset Quotes erd
 \end_inset
 
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ṿ
-\begin_inset Quotes erd
-\end_inset
-
- vowels are 
+ vowel is 
 \emph on
 always
 \emph default
@@ -3044,157 +2950,6 @@ Written
 \end_layout
 
 \begin_layout Subsection
-Long vs Short
-\end_layout
-
-\begin_layout Standard
-For each of the following identify long vs short vowels as found in the
- pronunciation guide.
- The first one has been completed as an example.
- Compare you answers to the answers in the next section.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-sọ³hne²³la
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-chạ²ne²³la
-\end_layout
-
-\begin_layout Enumerate
-jọ²ɂi
-\end_layout
-
-\begin_layout Enumerate
-sa²ɂdu
-\end_layout
-
-\begin_layout Enumerate
-tạ²ɂldu
-\end_layout
-
-\begin_layout Enumerate
-sa¹gwu⁴
-\end_layout
-
-\begin_layout Enumerate
-ị²gv²yi⁴ɂi
-\end_layout
-
-\begin_layout Enumerate
-hị²ɂahị²ɂa
-\end_layout
-
-\begin_layout Enumerate
-u¹hna⁴
-\end_layout
-
-\begin_layout Enumerate
-ạ³hạ²ni
-\end_layout
-
-\begin_layout Enumerate
-gahl²gwo²³gi
-\end_layout
-
-\begin_layout Enumerate
-jọ²ɂi²ne⁴ɂi
-\end_layout
-
-\begin_layout Enumerate
-na
-\end_layout
-
-\begin_layout Enumerate
-nvh²gi
-\end_layout
-
-\begin_layout Enumerate
-tạɂ³li
-\end_layout
-
-\begin_layout Enumerate
-nị²ga²ɂdu
-\end_layout
-
-\begin_layout Enumerate
-jọ²ɂga²ɂdu
-\end_layout
-
-\begin_layout Enumerate
-su²³dạ³li²ne⁴ɂi
-\end_layout
-
-\begin_layout Enumerate
-gahl²gwo²³gi²ne⁴ɂi
-\end_layout
-
-\begin_layout Enumerate
-tạɂ²li²ne⁴ɂi
-\end_layout
-
-\begin_layout Enumerate
-nị²hi
-\end_layout
-
-\begin_layout Enumerate
-hị²sgi
-\end_layout
-
-\begin_layout Enumerate
-chụ²ne²³la
-\end_layout
-
-\begin_layout Enumerate
-ạ³hni
-\end_layout
-
-\begin_layout Enumerate
-nvh²gi²ne⁴ɂi
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
 Questions
 \end_layout
 
@@ -3233,31 +2988,9 @@ What tone do most Cherokee words end with?
 \end_layout
 
 \begin_layout Enumerate
-What do each of the following pronunciation marks stand for?
+What does the ɂ mark stand for?
 \end_layout
 
-\begin_deeper
-\begin_layout Enumerate
-¹
-\end_layout
-
-\begin_layout Enumerate
-²
-\end_layout
-
-\begin_layout Enumerate
-ɂ
-\end_layout
-
-\begin_layout Enumerate
-²³
-\end_layout
-
-\begin_layout Enumerate
-⁴
-\end_layout
-
-\end_deeper
 \begin_layout Enumerate
 What Cherokee dialect is being taught in this material?
 \end_layout
@@ -3280,290 +3013,6 @@ end{multicols}
 
 \begin_layout Subsection
 Answers
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-sọ³hne²³la
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-chạ²ne²³la
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-jọ²ɂi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-sa²ɂdu
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-tạ²ɂldu
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-sa¹gwu⁴
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ị²gv²yi⁴ɂi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-hị²ɂa
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-u¹hna⁴
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ạ³hạ²ni
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-gahl²gwo²³gi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-jọ²ɂi²ne⁴ɂi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-na
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-nvh²gi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-tạɂ³li
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-nị²ga²ɂdu
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-jọ²ɂga²ɂdu
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-su²³dạ³li²ne⁴ɂi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-long, short, long, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-gahl²gwo²³gi²ne⁴ɂi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, long, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-tạɂ²li²ne⁴ɂi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-nị²hi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-hị²sgi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-chụ²ne²³la
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ạ³hni
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, short
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-nvh²gi²ne⁴ɂi
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-short, long, long, short
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -3630,43 +3079,19 @@ high-fall
 \begin_inset Quotes erd
 \end_inset
 
- or ⁴³ tone.
+ tone.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-What do each of the following pronunciation marks stand for?
+What does the ɂ mark stand for?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-¹ 
-\emph on
-A low tone that falls.
-\end_layout
 
-\begin_layout Enumerate
-² 
-\emph on
-A normal even speaking tone.
-\end_layout
-
-\begin_layout Enumerate
-ɂ 
 \emph on
 A very brief pause in speech.
-\end_layout
-
-\begin_layout Enumerate
-²³ 
-\emph on
-A normal speaking tone that rises some in tone.
-\end_layout
-
-\begin_layout Enumerate
-⁴ 
-\emph on
-A high and rising tone.
 \end_layout
 
 \end_deeper
@@ -3699,7 +3124,7 @@ end{multicols}
 \begin_layout Chapter
 ᏦᎢᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \begin_inset Argument 1
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Third Lesson
@@ -72814,6 +72239,20 @@ Remember that if you are having problems recognizing any of the Syllabary
 \end_layout
 
 \begin_layout Section
+ᏔᏛᏓᏍ (Listen to them)
+\end_layout
+
+\begin_layout Standard
+Listen to the audio exercises at: {URL}
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Be sure to listen to all chapter exercises before continuing.
+\end_layout
+
+\begin_layout Section
 ᏘᎪᎵᏯ (Read them)
 \end_layout
 
@@ -72841,7 +72280,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏲ! [ạ²yo] 
+ᎠᏲ! [ayo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72857,7 +72296,7 @@ Ouch!
 \begin_inset space ~
 \end_inset
 
-ᎣᏍᏛ [o⁴sda, o⁴sdv] 
+ᎣᏍᏛ [ő:sda, ő:sdv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72874,7 +72313,7 @@ Good.
 \begin_inset space ~
 \end_inset
 
-ᏏᏲ [o²sị³yo, sị³yo] 
+ᏏᏲ [o:síyo, síyo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72896,7 +72335,7 @@ all is just fine
 \end_layout
 
 \begin_layout Description
-ᎤᏲᎢ [u²yo⁴ɂi] 
+ᎤᏲᎢ [u:yő:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72908,7 +72347,7 @@ Bad.
 \end_layout
 
 \begin_layout Description
-ᎥᎥ [v²v] 
+ᎥᎥ [v:v] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72920,7 +72359,7 @@ Yes.
 \end_layout
 
 \begin_layout Description
-ᎥᏍᎩᎩ? [v¹sgị²gi?] 
+ᎥᏍᎩᎩ? [v̀:sgigi?] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72936,7 +72375,7 @@ Really?
 \begin_inset space ~
 \end_inset
 
-Ꮭ [ṿ²tla, ṿ²hla, tla, hla] 
+Ꮭ [vtla, vhla, tla, hla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72948,7 +72387,7 @@ No.
 \end_layout
 
 \begin_layout Description
-ᎰᏩ [họ²wa] 
+ᎰᏩ [howa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72974,7 +72413,7 @@ Look at that!
 \end_layout
 
 \begin_layout Description
-ᏣᎳᎩ [jạ²lạ²gi] 
+ᏣᎳᎩ [jalagi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72986,7 +72425,7 @@ Cherokee.
 \end_layout
 
 \begin_layout Description
-ᏩᏙ [wạ²do] 
+ᏩᏙ [wado] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73002,7 +72441,7 @@ Thanks.
 \begin_inset space ~
 \end_inset
 
-ᏴᏭᏁᎦ [yo³ne²ga, yv³wụ³ne²ga] 
+ᏴᏭᏁᎦ [yó:ne:ga, yv́:wúne:ga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73926,7 +73365,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᏗ [gạ²do² u⁴sdi] 
+ᎤᏍᏗ [gadō ű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73942,7 +73381,7 @@ Which one?
 \begin_inset space ~
 \end_inset
 
-ᎢᎦ [hị²la⁴ i²³ga⁴] 
+ᎢᎦ [hila̋ ǐ:ga̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73968,7 +73407,7 @@ How many?
 \begin_inset space ~
 \end_inset
 
-ᎢᏯᏂ [hị²la⁴ ị²yạ³ni] 
+ᎢᏯᏂ [hila̋ iyáni] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73994,7 +73433,7 @@ How many?
 \end_layout
 
 \begin_layout Description
-ᏌᏊ [sa¹gwu⁴] 
+ᏌᏊ [sà:gwű] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74006,7 +73445,7 @@ One.
 \end_layout
 
 \begin_layout Description
-ᏔᎵ [tạɂ³li] 
+ᏔᎵ [táɂli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74018,7 +73457,7 @@ Two.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏔᎵ [a²nị²tạɂ³li] 
+ᎠᏂᏔᎵ [a:nitáɂli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74032,7 +73471,7 @@ This is a special form of ᏔᎵ used when referring to anything animate.
 \end_layout
 
 \begin_layout Description
-ᏦᎢ [jọ²ɂi] 
+ᏦᎢ [joɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74044,7 +73483,7 @@ Three.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏦᎢ [a²nị²jọ²ɂi] 
+ᎠᏂᏦᎢ [a:nijoɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74058,7 +73497,7 @@ This is a special form of ᏦᎢ used when referring to anything animate.
 \end_layout
 
 \begin_layout Description
-ᏅᎩ [nvh²gi] 
+ᏅᎩ [nvhgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74070,7 +73509,7 @@ Four.
 \end_layout
 
 \begin_layout Description
-ᎯᏍᎩ [hị²sgi] 
+ᎯᏍᎩ [hisgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74082,7 +73521,7 @@ Five.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵ [su²³dạ³li] 
+ᏑᏓᎵ [sǔ:dáli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74094,7 +73533,7 @@ Six.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏉᎩ [gahl²gwo²³gi] 
+ᎦᎵᏉᎩ [gahlgwǒ:gi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74292,7 +73731,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎬᏱᎢ [ị²gv²yi⁴ɂi] 
+ᎢᎬᏱᎢ [igv:yi̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74304,7 +73743,7 @@ First.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏁᎢ [tạɂ²li²ne⁴ɂi] 
+ᏔᎵᏁᎢ [taɂli:ne̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74316,7 +73755,7 @@ Second.
 \end_layout
 
 \begin_layout Description
-ᏦᎢᏁᎢ [jọ²ɂi²ne⁴ɂi] 
+ᏦᎢᏁᎢ [joɂi:ne̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74328,7 +73767,7 @@ Third.
 \end_layout
 
 \begin_layout Description
-ᏅᎩᏁᎢ [nvh²gi²ne⁴ɂi] 
+ᏅᎩᏁᎢ [nvhgi:ne̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74340,7 +73779,7 @@ Fourth.
 \end_layout
 
 \begin_layout Description
-ᎯᏍᎩᏁᎢ [hị²sgi²ne⁴ɂi] 
+ᎯᏍᎩᏁᎢ [hisgi:ne̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74352,7 +73791,7 @@ Fifth.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵᏁᎢ [su²³dạ³li²ne⁴ɂi] 
+ᏑᏓᎵᏁᎢ [sǔ:dáli:ne̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74364,7 +73803,7 @@ Sixth.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏉᎩᏁᎢ [gahl²gwo²³gi²ne⁴ɂi] 
+ᎦᎵᏉᎩᏁᎢ [gahlgwǒ:gi:ne̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75623,7 +75062,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
+ᎠᎪᏩᏘᎭ [à:gowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75635,7 +75074,7 @@ He sees him or it.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎪᏩᏘᎭ [a¹nị²gowh²tị³ha] 
+ᎠᏂᎪᏩᏘᎭ [à:nigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75647,7 +75086,7 @@ They see him or it.
 \end_layout
 
 \begin_layout Description
-ᏓᎪᏩᏘᎭ [da¹gowh²tị³ha] 
+ᏓᎪᏩᏘᎭ [dà:gowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75659,7 +75098,7 @@ He sees them.
 \end_layout
 
 \begin_layout Description
-ᏓᏂᎪᏩᏘᎭ [da¹nị²gowh²tị³ha] 
+ᏓᏂᎪᏩᏘᎭ [dà:nigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75675,7 +75114,7 @@ They see them.
 \begin_inset space ~
 \end_inset
 
-ᏃᎴ [ạ²le, nọ²le] 
+ᏃᎴ [ale, nole] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75688,7 +75127,7 @@ And.
 \end_layout
 
 \begin_layout Description
-ᎠᎨᏯ [ạ²ge²³hya] 
+ᎠᎨᏯ [agě:hya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75701,7 +75140,7 @@ A woman.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎨᏯ [ạ²ni²ge²³hya] 
+ᎠᏂᎨᏯ [ani:gě:hya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75714,7 +75153,7 @@ Women.
 
 \end_deeper
 \begin_layout Description
-ᎠᏍᎦᏯ [ạ²sgạ²ya] 
+ᎠᏍᎦᏯ [asgaya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75727,7 +75166,7 @@ A man.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏍᎦᏯ [ạ²ni²sgạ²ya] 
+ᎠᏂᏍᎦᏯ [ani:sgaya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75744,7 +75183,7 @@ Men.
 \begin_inset space ~
 \end_inset
 
-ᏧᏍᏗ [gạ²do² ju⁴sdi] 
+ᏧᏍᏗ [gadō jű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75763,7 +75202,7 @@ Used when the person asking a question is expecting a response about two
 \begin_inset space ~
 \end_inset
 
-ᎤᎾᏍᏗ [gạ²do² un⁴sdi] 
+ᎤᎾᏍᏗ [gadō űnsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75778,7 +75217,7 @@ Used when the person asking a question is expecting a response about two
 \end_layout
 
 \begin_layout Description
-ᎩᏟ [gi²hli] 
+ᎩᏟ [gi:hli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75791,7 +75230,7 @@ A dog.
 \end_layout
 
 \begin_layout Description
-ᏄᎾ [nu²³na] 
+ᏄᎾ [nǔ:na] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75804,7 +75243,7 @@ A potato.
 \end_layout
 
 \begin_layout Description
-ᏅᏯ [nv¹ya] 
+ᏅᏯ [nv̀:ya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75817,7 +75256,7 @@ A rock.
 \end_layout
 
 \begin_layout Description
-ᏪᏌ [we²³sa] 
+ᏪᏌ [wě:sa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77119,7 +76558,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏥᎪᏩᏘᎭ [ji²gowh²tị³ha] 
+ᏥᎪᏩᏘᎭ [ji:gowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77131,7 +76570,7 @@ I see him.
 \end_layout
 
 \begin_layout Description
-Ꮵ̣ᎪᏩᏘᎭ [jị²gowh²tị³ha] 
+ᏥᎪᏩᏘᎭ [jigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77143,7 +76582,7 @@ I see it.
 \end_layout
 
 \begin_layout Description
-ᎦᏥᎪᏩᏘᎭ [ga²ji²gowh²tị³ha] 
+ᎦᏥᎪᏩᏘᎭ [ga:ji:gowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77155,7 +76594,7 @@ I see them-animate.
 \end_layout
 
 \begin_layout Description
-ᏕᏥ̣ᎪᏩᏘᎭ [de²jị²gowh²tị³ha] 
+ᏕᏥᎪᏩᏘᎭ [de:jigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77167,7 +76606,7 @@ I see them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᎯᎪᏩᏘᎭ [hi²gowh²tị³ha] 
+ᎯᎪᏩᏘᎭ [hi:gowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77179,7 +76618,7 @@ You see him.
 \end_layout
 
 \begin_layout Description
-Ꭿ̣ᎪᏩᏘᎭ [hị²gowh²tị³ha] 
+ᎯᎪᏩᏘᎭ [higowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77191,7 +76630,7 @@ You see it.
 \end_layout
 
 \begin_layout Description
-ᎦᎯᎪᏩᏘᎭ [ga²hi²gowh²tị³ha] 
+ᎦᎯᎪᏩᏘᎭ [ga:hi:gowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77203,7 +76642,7 @@ You see them-animate.
 \end_layout
 
 \begin_layout Description
-ᏕᎯ̣ᎪᏩᏘᎭ [de²hị²gowh²tị³ha] 
+ᏕᎯᎪᏩᏘᎭ [de:higowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77219,7 +76658,7 @@ You see them-inanimate.
 \begin_inset space ~
 \end_inset
 
-ᎠᏂ [ạ³hạ²ni, ạ³hni] 
+ᎠᏂ [áhani, áhni] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77231,7 +76670,7 @@ Here.
 \end_layout
 
 \begin_layout Description
-ᎢᎾ [i⁴na] 
+ᎢᎾ [i̋:na] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77243,7 +76682,7 @@ Far.
 \end_layout
 
 \begin_layout Description
-ᎤᎿ [u¹hna⁴] 
+ᎤᎿ [ù:hna̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77255,7 +76694,7 @@ There.
 \end_layout
 
 \begin_layout Description
-ᎾᎥ [nạ²ɂv] 
+ᎾᎥ [naɂv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -79620,14 +79059,6 @@ The first one has been done as an example.
  When done, compare your answers to the answers at the end of this section.
 \end_layout
 
-\begin_layout Standard
-☞ 
-\emph on
-The challenges and answers show some pronunciation marks.
- They have been added to help you with remembering critical pronunciations.
- You should not write them out.
-\end_layout
-
 \begin_layout Subsection
 Challenges
 \end_layout
@@ -79662,7 +79093,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏍᎩ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᎯᏍᎩ ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -79680,7 +79111,7 @@ I see five rocks.
 \end_layout
 
 \begin_layout Enumerate
-ᏑᏓᎵ ᏄᎾ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᏑᏓᎵ ᏄᎾ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -79765,11 +79196,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯ Ꭿ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -79826,7 +79257,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -79911,7 +79342,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -79980,7 +79411,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏍᎩ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᎯᏍᎩ ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -80010,7 +79441,7 @@ The man sees dogs.
 
 \end_deeper
 \begin_layout Enumerate
-ᏑᏓᎵ ᏄᎾ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᏑᏓᎵ ᏄᎾ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -80155,7 +79586,7 @@ The men see rocks.
 
 \end_deeper
 \begin_layout Enumerate
-ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -80165,7 +79596,7 @@ I see rocks.
 
 \end_deeper
 \begin_layout Enumerate
-ᏅᏯ Ꭿ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -80240,7 +79671,7 @@ The woman sees three potatoes.
 
 \end_deeper
 \begin_layout Enumerate
-ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -80385,7 +79816,7 @@ The dog sees a woman.
 
 \end_deeper
 \begin_layout Enumerate
-ᏅᏯ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -130618,11 +130049,7 @@ Congratulations! You are ready to move on to the next book.
 
 \begin_layout Chapter
 \start_of_appendix
-
-\lang american
 ᏗᏕᏠᏆᏍᏗ
-\lang english
-
 \begin_inset Argument 1
 status collapsed
 
