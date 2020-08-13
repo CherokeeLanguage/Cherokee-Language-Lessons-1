@@ -78856,6 +78856,20 @@ Set 8
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+In the following exercise, where you see a 
+\begin_inset Quotes eld
+\end_inset
+
+:
+\begin_inset Quotes erd
+\end_inset
+
+ indicates that it is a long vowel and not a short vowel.
+\end_layout
+
+\begin_layout Standard
 \begin_inset ERT
 status collapsed
 
@@ -78885,11 +78899,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78897,7 +78911,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏪᏌ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78908,11 +78922,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78920,7 +78934,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78930,15 +78944,15 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ Ꮵ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎠᎭᏂ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏄᎾ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78948,11 +78962,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ:ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ ᏥᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ Ꮵ:ᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78967,11 +78981,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78979,7 +78993,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78990,11 +79004,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -79002,7 +79016,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79926,7 +79940,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎠᏯ [ạ²yv, ạ²ya] 
+ᎠᏯ [ayv, aya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -79939,7 +79953,7 @@ I.
 \end_layout
 
 \begin_layout Description
-ᎥᏍᎩᎾ [v¹sgị²na] 
+ᎥᏍᎩᎾ [v̀:sgina] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -79956,19 +79970,19 @@ He.
 
 \begin_deeper
 \begin_layout Description
-ᎥᏍᎩ [v¹sgị] - 
+ᎥᏍᎩ [v̀:sgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
-ᏍᎩᎾ [sgị²na] - 
+ᏍᎩᎾ [sgina] - 
 \emph on
 Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
-ᎾᏍᎩ [na¹sgi] - 
+ᎾᏍᎩ [nà:sgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
@@ -79979,7 +79993,7 @@ Alternate pronunciation.
 \begin_inset space ~
 \end_inset
 
-ᎯᎢ [hị²ɂa, hị²ɂi] 
+ᎯᎢ [hiɂa, hiɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -80007,7 +80021,7 @@ That, Those
 \end_layout
 
 \begin_layout Description
-ᏂᎯ [nị²hi] 
+ᏂᎯ [nihi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -80079,7 +80093,7 @@ The word
 
 This him.
  This her.
- This them.
+ These them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -82671,7 +82685,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-Ayv.
+ᎠᏴ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82685,7 +82699,7 @@ I.
 
 \begin_deeper
 \begin_layout Enumerate
-Ayvju? 
+ᎠᏴᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82697,7 +82711,7 @@ It is me, right?
 \end_layout
 
 \begin_layout Enumerate
-Ayvgwu.
+ᎠᏴᏊ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82710,7 +82724,7 @@ It is just me.
 \end_layout
 
 \begin_layout Enumerate
-Ayvna? 
+ᎠᏴᎾ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82722,7 +82736,7 @@ What about me?
 \end_layout
 
 \begin_layout Enumerate
-Ayvhv? 
+ᎠᏴᎲ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82734,7 +82748,7 @@ But for me?
 \end_layout
 
 \begin_layout Enumerate
-Ayvnahv? 
+ᎠᏴᎾᎲ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82746,7 +82760,7 @@ But what about me?
 \end_layout
 
 \begin_layout Enumerate
-Ayvgwuju? 
+ᎠᏴᏊᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82759,7 +82773,7 @@ It is just me, right?
 
 \end_deeper
 \begin_layout Enumerate
-Nihi.
+ᏂᎯ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82773,7 +82787,7 @@ You.
 
 \begin_deeper
 \begin_layout Enumerate
-Nihiju? 
+ᏂᏥᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82785,7 +82799,7 @@ It is you, right?
 \end_layout
 
 \begin_layout Enumerate
-Nihigwu.
+ᏂᎯᏊ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82798,7 +82812,7 @@ It is just you.
 \end_layout
 
 \begin_layout Enumerate
-Nihina? 
+ᏂᎯᎾ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82810,7 +82824,7 @@ What about you?
 \end_layout
 
 \begin_layout Enumerate
-Nihihv? 
+ᏂᎯᎲ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82822,7 +82836,7 @@ But for you?
 \end_layout
 
 \begin_layout Enumerate
-Nihinahv? 
+ᏂᎯᎾᎲ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82834,7 +82848,7 @@ But what about you?
 \end_layout
 
 \begin_layout Enumerate
-Nihigwuju? 
+ᏂᎯᏊᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82847,7 +82861,7 @@ It is just you, right?
 
 \end_deeper
 \begin_layout Enumerate
-Howa.
+ᎰᏩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82861,7 +82875,7 @@ Okay.
 
 \begin_deeper
 \begin_layout Enumerate
-Howaju? 
+ᎰᏩᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82874,7 +82888,7 @@ It is okay, right?
 
 \end_deeper
 \begin_layout Enumerate
-Osda.
+ᎣᏍᏓ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82888,7 +82902,7 @@ Good.
 
 \begin_deeper
 \begin_layout Enumerate
-Osdaju? 
+ᎣᏍᏓᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82900,7 +82914,7 @@ It is good, right?
 \end_layout
 
 \begin_layout Enumerate
-Osdagwu.
+ᎣᏍᏓᏊ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82914,7 +82928,7 @@ It is only good.
 
 \end_deeper
 \begin_layout Enumerate
-Uyoi.
+ᎤᏲᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82928,7 +82942,7 @@ Bad.
 
 \begin_deeper
 \begin_layout Enumerate
-Uyoiju? 
+ᎤᏲᎢᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82940,7 +82954,7 @@ It is bad, right?
 \end_layout
 
 \begin_layout Enumerate
-Uyoigwu.
+ᎤᏲᎢᏊ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82954,7 +82968,7 @@ It is only bad.
 
 \end_deeper
 \begin_layout Enumerate
-Jalagi.
+ᏣᎳᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82968,7 +82982,7 @@ Cherokee.
 
 \begin_deeper
 \begin_layout Enumerate
-Jalagiju? 
+ᏣᎳᎩᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -82980,7 +82994,7 @@ It is Cherokee, right?
 \end_layout
 
 \begin_layout Enumerate
-Jalagigwu.
+ᏣᎳᎩᏊ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -82993,7 +83007,7 @@ It is only Cherokee.
 \end_layout
 
 \begin_layout Enumerate
-Jalagigwuju? 
+ᏣᎳᎩᏊᏧ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83052,7 +83066,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎠᏫ [ạ²hạ²wi, ạ²hwi] 
+ᎠᏫ [ahawi, ahwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83065,7 +83079,7 @@ A deer.
 \end_layout
 
 \begin_layout Description
-ᎪᏪᎵ [go²hwe²li] 
+ᎪᏪᎵ [go:hwe:li] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83078,7 +83092,7 @@ A sheet of paper.
 
 \begin_deeper
 \begin_layout Description
-ᏗᎪᏪᎵ [dị²go²hwe²li] 
+ᏗᎪᏪᎵ [digo:hwe:li] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83091,7 +83105,7 @@ Sheets of paper.
 
 \end_deeper
 \begin_layout Description
-ᎫᎴ [gu²le] 
+ᎫᎴ [gu:le] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83104,7 +83118,7 @@ An acorn.
 \end_layout
 
 \begin_layout Description
-ᏙᏯ [do²ya] 
+ᏙᏯ [do:ya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83117,7 +83131,7 @@ A beaver.
 \end_layout
 
 \begin_layout Description
-ᏚᏯ [tu²³ya] 
+ᏚᏯ [tǔ:ya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83130,7 +83144,7 @@ A bean.
 \end_layout
 
 \begin_layout Description
-ᏥᏍᏚ [ji²sdu] 
+ᏥᏍᏚ [ji:sdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -83147,7 +83161,7 @@ A rabbit.
 \begin_inset space ~
 \end_inset
 
-ᏩᏯ [wạ²hạ²ya, wạ²hya] 
+ᏩᏯ [wahaya, wahya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86645,7 +86659,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎠᏫ [a¹ni²ɂạ²hwi] 
+ᎠᏂᎠᏫ [à:ni:ɂahwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86657,7 +86671,7 @@ The deer people.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎩᏟ [a¹ni²gi²hli] 
+ᎠᏂᎩᏟ [à:ni:gi:hli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86669,7 +86683,7 @@ The dog people.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏥᏍᏚ [a¹ni²ji²sdu] 
+ᎠᏂᏥᏍᏚ [à:ni:ji:sdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86681,7 +86695,7 @@ The rabbit people.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏩᎭᏯ [a¹ni²wạ²hạ²ya] 
+ᎠᏂᏩᎭᏯ [à:ni:wahaya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86693,7 +86707,7 @@ The wolf people.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏪᏌ [a¹ni²we²³sa] 
+ᎠᏂᏪᏌ [à:ni:wě:sa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86705,7 +86719,7 @@ The cat people.
 \end_layout
 
 \begin_layout Description
-ᏙᎯ [to¹hi⁴] 
+ᏙᎯ [tò:hi̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86718,7 +86732,7 @@ Peaceful.
 \end_layout
 
 \begin_layout Description
-ᏙᎯᏧ [to¹hi⁴ju] 
+ᏙᎯᏧ? [tò:hi̋:ju?] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86742,7 +86756,7 @@ Things are well, aren't they?
 \end_layout
 
 \begin_layout Description
-ᏙᎯᏊ [to¹hi⁴gwu] 
+ᏙᎯᏊ [tò:hi̋:gwu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86766,7 +86780,7 @@ Things are just well.
 \end_layout
 
 \begin_layout Description
-ᏛᎬᎪᎯ [dv²gv²go²hi] 
+ᏛᎬᎪᎯ [dv:gv:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86778,7 +86792,7 @@ I will see you one again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᎩᎪᎯ [dv²sgi²go²hi] 
+ᏛᏍᎩᎪᎯ [dv:sgi:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86790,7 +86804,7 @@ You one will see me again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᏛᎪᎯ [dv²sdv²go²hi] 
+ᏛᏍᏛᎪᎯ [dv:sdv:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86826,7 +86840,7 @@ We two will see you two again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᎩᏂᎪᎯ [dv²sgị²ni²go²hi] 
+ᏛᏍᎩᏂᎪᎯ [dv:sgini:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86850,7 +86864,7 @@ You two will see me or us two again.
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏨᎪᎯ [dv²ɂi¹jv²go²hi] 
+ᏛᎢᏨᎪᎯ [dv:ɂì:jv:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86886,7 +86900,7 @@ We all will see you one or you two or you all again.
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏍᎩᎪᎯ [dv²ɂi¹sgi²go²hi] 
+ᏛᎢᏍᎩᎪᎯ [dv:ɂì:sgi:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86922,7 +86936,7 @@ You all will see me or us two or us all again.
 \end_layout
 
 \begin_layout Description
-ᏙᎾᏓᎪᎲᎢ [dọ²nạ²da²go²hv²ɂi] 
+ᏙᎾᏓᎪᎲᎢ [donada:go:hv:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86934,7 +86948,7 @@ Later let us two see each other again.
 \end_layout
 
 \begin_layout Description
-ᏙᏓᏓᎪᎲᎢ [dọ²dạ²da²go²hv²ɂi] 
+ᏙᏓᏓᎪᎲᎢ [dodada:go:hv:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -86969,7 +86983,7 @@ end{multicols}
 \emph default
  ⚠ 
 \emph on
-This is incorrectly translated by a lot of materials as 
+This is translated by a lot of materials as 
 \begin_inset Quotes eld
 \end_inset
 
@@ -87006,7 +87020,7 @@ How are you?
 \emph default
  ⚠ 
 \emph on
-This is incorrectly translated by a lot of materials as 
+This is translated by a lot of materials as 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89950,7 +89964,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎨᏳᏣ [ạ²ge²hyu⁴ja] 
+ᎠᎨᏳᏣ [age:hyű:ja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89963,7 +89977,7 @@ A girl.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎨᏳᏣ [ạ²ni²ge²hyu⁴ja] 
+ᎠᏂᎨᏳᏣ [ani:ge:hyű:ja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89976,7 +89990,7 @@ Girls.
 
 \end_deeper
 \begin_layout Description
-ᎠᏧᏣ [ạ²chu⁴ja] 
+ᎠᏧᏣ [achű:ja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89989,7 +90003,7 @@ A boy.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏧᏣ [ạ²ni²chu⁴ja] 
+ᎠᏂᏧᏣ [ani:chű:ja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90006,7 +90020,7 @@ Boys.
 \begin_inset space ~
 \end_inset
 
-ᎠᏛᏁᎭ [gạ²do² a¹dv³nẹ²ha] 
+ᎠᏛᏁᎭ [gadō à:dv́:neha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90023,7 +90037,7 @@ What is he doing?
 \begin_inset space ~
 \end_inset
 
-ᎠᎾᏛᏁᎭ [gạ²do² a¹na²dv³nẹ²ha] 
+ᎠᎾᏛᏁᎭ [gadō à:na:dv́:neha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90036,7 +90050,7 @@ What are they doing?
 
 \end_deeper
 \begin_layout Description
-ᏌᎶᎵ [sạ²lo²³li] 
+ᏌᎶᎵ [salǒ:li] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90049,7 +90063,7 @@ A squirrel.
 \end_layout
 
 \begin_layout Description
-ᏌᏛᏗ [sạ²dv³di] 
+ᏌᏛᏗ [sadv́:di] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90062,7 +90076,7 @@ A trap.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏌᏛᏗ [di²sạ²dv³di] 
+ᏗᏌᏛᏗ [di:sadv́:di] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90075,7 +90089,7 @@ Traps.
 
 \end_deeper
 \begin_layout Description
-ᏐᏈᎵ [so²³gwị³li] 
+ᏐᏈᎵ [sǒ:gwíli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90088,7 +90102,7 @@ A horse.
 \end_layout
 
 \begin_layout Description
-ᏡᎬᎢ [hlgv⁴ɂi] 
+ᏡᎬᎢ [hlgv̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90101,7 +90115,7 @@ A tree.
 
 \begin_deeper
 \begin_layout Description
-ᏕᏡᎬᎢ [de²³hlgv⁴ɂi] 
+ᏕᏡᎬᎢ [dě:hlgv̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90114,7 +90128,7 @@ Trees.
 
 \end_deeper
 \begin_layout Description
-ᏲᎾ [yo²³na] 
+ᏲᎾ [yǒ:na] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90165,7 +90179,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏃᏘ [not², nọ²ti] 
+ᏃᏘ [not, noti] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90178,7 +90192,7 @@ Naught.
 \end_layout
 
 \begin_layout Description
-ᎧᏂᎩᏓ [ka²nị²³gị³²da] 
+ᎧᏂᎩᏓ [ka:nǐgîda] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90196,7 +90210,7 @@ None.
 \begin_inset space ~
 \end_inset
 
-ᏧᏁᎳ [chạ²ne²³la, chụ²ne²³la] 
+ᏧᏁᎳ [chaně:la, chuně:la] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90208,7 +90222,7 @@ Eight.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳ [sọ³hne²³la] 
+ᏐᏁᎳ [sóhně:la] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90220,7 +90234,7 @@ Nine.
 \end_layout
 
 \begin_layout Description
-ᏍᎪᎯ [sgo²³hi] 
+ᏍᎪᎯ [sgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90232,7 +90246,7 @@ Ten.
 \end_layout
 
 \begin_layout Description
-ᏌᏚ [sa²ɂdu] 
+ᏌᏚ [sa:ɂdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90244,7 +90258,7 @@ Eleven.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏚ [tạ²ɂldu] 
+ᏔᎵᏚ [taɂldu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90256,7 +90270,7 @@ Twelve.
 \end_layout
 
 \begin_layout Description
-ᏦᎦᏚ [jọ²ɂga²ɂdu] 
+ᏦᎦᏚ [joɂga:ɂdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90268,7 +90282,7 @@ Thirteen.
 \end_layout
 
 \begin_layout Description
-ᏂᎦᏚ [nị²ga²ɂdu] 
+ᏂᎦᏚ [niga:ɂdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90280,7 +90294,7 @@ Fourteen.
 \end_layout
 
 \begin_layout Description
-ᏍᎩᎦᏚ [sgị²ga²ɂdu] 
+ᏍᎩᎦᏚ [sgiga:ɂdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90292,7 +90306,7 @@ Fifteen.
 \end_layout
 
 \begin_layout Description
-ᏓᎳᏚ [da²la²du] 
+ᏓᎳᏚ [da:la:du] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90304,7 +90318,7 @@ Sixteen.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏆᏚ [gahl²gwa²³du] 
+ᎦᎵᏆᏚ [gahlgwǎ:du] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90316,7 +90330,7 @@ Seventeen.
 \end_layout
 
 \begin_layout Description
-ᏁᎳᏚ [ne²³la²du] 
+ᏁᎳᏚ [ně:la:du] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90328,7 +90342,7 @@ Eighteen.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳᏚ [soh³nẹ²³la²du] 
+ᏐᏁᎳᏚ [sóhněla:du] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90340,7 +90354,7 @@ Nineteen.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏍᎪᎯ [tạ³ɂlsgo²³hi] 
+ᏔᎵᏍᎪᎯ [táɂlsgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90353,7 +90367,7 @@ Twenty.
 \end_layout
 
 \begin_layout Description
-ᏦᏍᎪᎯ [jọ²ɂsgo²³hi] 
+ᏦᏍᎪᎯ [joɂsgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90366,7 +90380,7 @@ Thirty.
 \end_layout
 
 \begin_layout Description
-ᏅᎩᏍᎪᎯ [nvk²sgo²³hi] 
+ᏅᎩᏍᎪᎯ [nvksgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90379,7 +90393,7 @@ Forty.
 \end_layout
 
 \begin_layout Description
-ᎯᎩᏍᎪᎯ [hik²sgo²³hi] 
+ᎯᎩᏍᎪᎯ [hiksgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90392,7 +90406,7 @@ Fifty.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵᏍᎪᎯ [su²³dal³sgo²³hi] 
+ᏑᏓᎵᏍᎪᎯ [sǔ:dálsgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90405,7 +90419,7 @@ Sixty.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏆᏍᎪᎯ [gahl²gwa²³sgo²³hi] 
+ᎦᎵᏆᏍᎪᎯ [ggahlgwǎ:sgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90418,7 +90432,7 @@ Seventy.
 \end_layout
 
 \begin_layout Description
-ᏁᎳᏍᎪᎯ [nel³sgo²³hi] 
+ᏁᎳᏍᎪᎯ [nélsgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90431,7 +90445,7 @@ Eighty.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳᏍᎪᎯ [sọ³hnel³sgo²³hi] 
+ᏐᏁᎳᏍᎪᎯ [sóhnélsgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90444,7 +90458,7 @@ Ninety.
 \end_layout
 
 \begin_layout Description
-ᏍᎪᎯᏥᏆ [sgo²³hị³tsgwa] 
+ᏍᎪᎯᏥᏆ [sgǒ:hítsgwa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93140,7 +93154,7 @@ Cherokee is also a language of description.
 \begin_inset Quotes eld
 \end_inset
 
-ᏗᏘᏲᎯᎯ (di²tị²yo²³hị²hi)
+ᏗᏘᏲᎯᎯ (di:tiyǒ:hihi)
 \begin_inset Quotes erd
 \end_inset
 
@@ -93150,7 +93164,7 @@ Cherokee is also a language of description.
 \begin_inset Quotes eld
 \end_inset
 
-ᏗᏓᏂᏱᏍᎩ (di²da²ni²³yi⁴sgi)
+ᏗᏓᏂᏱᏍᎩ (di:da:nǐ:yi̋:sgi)
 \begin_inset Quotes erd
 \end_inset
 
@@ -93229,7 +93243,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎭᏢ [ha²dlv] 
+ᎭᏢ [ha:dlv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93245,7 +93259,7 @@ Where?
 \begin_inset space ~
 \end_inset
 
-ᎢᎦ [hị²la⁴ i²³ga⁴] 
+ᎢᎦ [hila̋ ǐ:ga̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93271,7 +93285,7 @@ How many inanimate things?
 \begin_inset space ~
 \end_inset
 
-ᎢᏯᏂ [hị²la⁴ ị²yạ³ni] 
+ᎢᏯᏂ [hila̋ iyáni] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93293,7 +93307,7 @@ How many animate things?
 \end_layout
 
 \begin_layout Description
-ᎯᎳᏴᎢ [hị²la³²yv⁴ɂi] 
+ᎯᎳᏴᎢ [hilâ:yv̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93305,7 +93319,7 @@ When?
 \end_layout
 
 \begin_layout Description
-ᎦᎪ [ga³go²] 
+ᎦᎪ [gá:gō] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93317,7 +93331,7 @@ Who?
 \end_layout
 
 \begin_layout Description
-ᎦᎩ [ga³²gi³] 
+ᎦᎩ [gâ:gí] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93329,7 +93343,7 @@ Who again?
 \end_layout
 
 \begin_layout Description
-ᎦᏙ [gạ²do¹] 
+ᎦᏙ [gadò] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93348,7 +93362,7 @@ For when the question is about some doing or happening.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᏗ [gạ²do² u²sdi] 
+ᎤᏍᏗ [gadō u:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93374,7 +93388,7 @@ What thing?
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᏗ [gạ²do² u⁴sdi] 
+ᎤᏍᏗ [gadō ű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93391,7 +93405,7 @@ Which one?
 \begin_inset space ~
 \end_inset
 
-ᎤᎾᏍᏗ [gạ²do² un⁴sdi] 
+ᎤᎾᏍᏗ [gadō űnsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93417,7 +93431,7 @@ Which animate things?
 \begin_inset space ~
 \end_inset
 
-ᏧᏍᏗ [gạ²do² ju⁴sdi] 
+ᏧᏍᏗ [gadō jű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93440,7 +93454,7 @@ Which inanimate things?
 
 \end_deeper
 \begin_layout Description
-ᎦᏙᎲ [gạ²do¹hv⁴] 
+ᎦᏙᎲ [gadò:hv̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93517,7 +93531,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏓᏆᏙᎠ [da¹gwạ²do³a] 
+ᏓᏆᏙᎠ [dà:gwadó:a] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93530,7 +93544,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎩᎾᏙᎠ [do¹gi²nạ²do³a] 
+ᏙᎩᎾᏙᎠ [dò:gi:nadó:a] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93543,7 +93557,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎦᏙᎠ [do¹gạ²do³a] 
+ᏙᎦᏙᎠ [dò:gadó:a] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93556,7 +93570,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [de²³jạ³do³ɂa] 
+ᏕᏣᏙᎠ? [dě:jádó:ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93569,7 +93583,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏍᏓᏙᎠ? [de²³sdạ³do³ɂa] 
+ᏕᏍᏓᏙᎠ? [dě:sdádó:ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93582,7 +93596,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [de¹jạ³do³ɂa] 
+ᏕᏣᏙᎠ? [dè:jádó:ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93595,7 +93609,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᏙᎠ [du¹do³ɂa] 
+ᏚᏙᎠ [dù:dó:ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93608,7 +93622,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᎾᏙᎠ [du¹nạ²do³ɂa] 
+ᏚᎾᏙᎠ [dù:nadó:ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93621,7 +93635,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎮᏙᎸᎢ [ị³he²³do³²lv²ɂi] 
+ᎢᎮᏙᎸᎢ [íhě:dô:lv:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93633,7 +93647,7 @@ You come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᏍᏕᏙᎸᎢ [ị³sde²³do³²lv²ɂi] 
+ᎢᏍᏕᏙᎸᎢ [ísdě:dô:lv:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93645,7 +93659,7 @@ You two come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᎢᏤᏙᎸᎢ [ị³ɂi¹je²³do³²lv²ɂi] 
+ᎢᎢᏤᏙᎸᎢ [íɂì:jě:dô:lv:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93657,7 +93671,7 @@ You all come around again.
 \end_layout
 
 \begin_layout Description
-ᎣᏍᏓ [o⁴sda] 
+ᎣᏍᏓ [ő:sda] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93671,7 +93685,7 @@ Good.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏃᏍᏓ [a¹no⁴sda] 
+ᎠᏃᏍᏓ [à:nő:sda] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93684,7 +93698,7 @@ Good (them).
 
 \end_deeper
 \begin_layout Description
-ᎤᏲᎢ [u²yo⁴ɂi] 
+ᎤᏲᎢ [u:yő:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93697,7 +93711,7 @@ Bad.
 
 \begin_deeper
 \begin_layout Description
-ᎤᏂᏲᎢ [u²nị²yo⁴ɂi] 
+ᎤᏂᏲᎢ [u:niyő:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93710,7 +93724,7 @@ Bad (them).
 
 \end_deeper
 \begin_layout Description
-ᎩᎵᏏ [gị²li²si] 
+ᎩᎵᏏ [gili:si] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93722,7 +93736,7 @@ English.
 \end_layout
 
 \begin_layout Description
-ᏴᏫ [yv²wi] 
+ᏴᏫ [yv:wi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93735,7 +93749,7 @@ A person.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎵᏏ [ạ²gị²li²si] 
+ᎠᎩᎵᏏ [agili:si] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93748,7 +93762,7 @@ An English person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎩᎵᏏ [ạ²ni²gị²li²si] 
+ᎠᏂᎩᎵᏏ [ani:gili:si] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93761,7 +93775,7 @@ English people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏣᎳᎩ [ạ²jạ²lạ²gi] 
+ᎠᏣᎳᎩ [ajalagi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93774,7 +93788,7 @@ A Cherokee person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏣᎳᎩ [ạ²ni²jạ²lạ²gi] 
+ᎠᏂᏣᎳᎩ [ani:jalagi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93787,7 +93801,7 @@ Cherokee people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏲᏁᎦ [ạ²yo³ne²ga] 
+ᎠᏲᏁᎦ [ayó:ne:ga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93800,7 +93814,7 @@ An English person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏲᏁᎦ [ạ²ni²yo³ne²ga] 
+ᎠᏂᏲᏁᎦ [ani:yó:ne:ga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93813,7 +93827,7 @@ English people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏴᏫ [ạ²yv²wi] 
+ᎠᏴᏫ [ayv:wi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93826,7 +93840,7 @@ A person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏴᏫ [ạ²ni²yv²wi] 
+ᎠᏂᏴᏫ [ani:yv:wi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93839,7 +93853,7 @@ People.
 
 \end_deeper
 \begin_layout Description
-ᎠᏴᏫᏯᎢ [ạ²yv²wi²ya⁴ɂi] 
+ᎠᏴᏫᏯᎢ [ayv:wi:ya̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93852,7 +93866,7 @@ A Native American.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏴᏫᏯᎢ [ạ²ni²yv²wi²ya⁴ɂi] 
+ᎠᏂᏴᏫᏯᎢ [ani:yv:wi:ya̋:ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93971,11 +93985,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎵᏌᏇᏘ [a²li³sa²gwe²ti] “Elizabeth”
+ᎠᎵᏌᏇᏘ [a:lí:sa:gwe:ti] “Elizabeth”
 \end_layout
 
 \begin_layout Description
-ᎡᏂᏙᏂ [en³to²ni] 
+ᎡᏂᏙᏂ [énto:ni] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93987,23 +94001,23 @@ Anthony.
 \end_layout
 
 \begin_layout Description
-ᎵᏂᏓ [li³nị²da] “Linda”
+ᎵᏂᏓ [lí:nida] “Linda”
 \end_layout
 
 \begin_layout Description
-ᎹᎦᎵ [ma²ga³li] “Michael”
+ᎹᎦᎵ [ma:gá:li] “Michael”
 \end_layout
 
 \begin_layout Description
-ᎹᎦᏰᏘ [ma³gạ²ye²tị] “Margaret”
+ᎹᎦᏰᏘ [má:gaye:ti] “Margaret”
 \end_layout
 
 \begin_layout Description
-ᎺᎵ [me³li] “Mary”
+ᎺᎵ [mé:li] “Mary”
 \end_layout
 
 \begin_layout Description
-ᏆᏆᎠ [gwa²gwạ²ɂa] 
+ᏆᏆᎠ [gwa:gwaɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94015,23 +94029,23 @@ Barbara.
 \end_layout
 
 \begin_layout Description
-ᏑᏌᏃ [su³sạ²no] “Susan”
+ᏑᏌᏃ [sú:sano] “Susan”
 \end_layout
 
 \begin_layout Description
-ᏙᎹᏏ [to³mạ²si] “Thomas”
+ᏙᎹᏏ [tó:masi] “Thomas”
 \end_layout
 
 \begin_layout Description
-ᏕᏫᏗ [de³wị²di] “David”
+ᏕᏫᏗ [dé:widi] “David”
 \end_layout
 
 \begin_layout Description
-ᏣᎵ [cha³li] “Charles”
+ᏣᎵ [chá:li] “Charles”
 \end_layout
 
 \begin_layout Description
-ᏣᏂ [ja³ni] “John”
+ᏣᏂ [já:ni] “John”
 \end_layout
 
 \begin_layout Standard
@@ -96213,7 +96227,7 @@ still)
 \begin_inset space ~
 \end_inset
 
-ᎥᏝᏏ [hlạ³si, vhlạ³si] 
+ᎥᏝᏏ [hlási, vhlási] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96239,7 +96253,7 @@ no longer still)
 \begin_inset space ~
 \end_inset
 
-ᎪᏍᏗ [go²hu⁴sdi, go⁴sdi] 
+ᎪᏍᏗ [go:hű:sdi, gő:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96258,7 +96272,7 @@ Something.
 \begin_inset space ~
 \end_inset
 
-ᎪᎱᏍᏗ [hla go²hu⁴sdi] 
+ᎪᎱᏍᏗ [hla go:hű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
