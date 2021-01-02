@@ -361,11 +361,11 @@ keys
 \begin_inset Quotes eld
 \end_inset
 
-Modified Community Standard
+Modified Community Orthography
 \begin_inset Quotes erd
 \end_inset
 
- (MCS) instead of using the older 
+ (MCO) instead of using the older 
 \begin_inset Quotes eld
 \end_inset
 
@@ -374,7 +374,7 @@ Cherokee-English Dictionary Standard
 \end_inset
 
  (CEDS).
- The MCS is generally considered easier to read and the use of diacrits
+ The MCO is generally considered easier to read and the use of diacrits
  enables easier visualation of Cherokee tones.
 \end_layout
 
@@ -1006,7 +1006,7 @@ It is easy to miss the underdot for short vowel markings and the superscripted
 
 \end_deeper
 \begin_layout Itemize
-The Modified Community Standard (MCS).
+The Modified Community Orthography (MCO).
 \end_layout
 
 \begin_deeper
@@ -1802,7 +1802,7 @@ name "subsec:Pronunciation-Guide"
 
 \begin_layout Standard
 Each new Cherokee word will be presented with its Cherokee Syllabary spelling,
- an MCS pronunciation guide in brackets (
+ an MCO pronunciation guide in brackets (
 \begin_inset Quotes eld
 \end_inset
 
@@ -2050,7 +2050,7 @@ lly.
 \end_layout
 
 \begin_layout Standard
-In this material, the MCS diacritic system is being used, where:
+In this material, the MCO diacritic system is being used, where:
 \end_layout
 
 \begin_layout Itemize
@@ -2089,8 +2089,11 @@ neutral
 \end_layout
 
 \begin_layout Itemize
-An acute accent marking (á, é, í, ó, ú, v́) indicates a tone with a higher
- pitch.
+An 
+\emph on
+acute accent
+\emph default
+ marking (á, é, í, ó, ú, v́) indicates a tone with a higher pitch.
  ☞ 
 \emph on
 This tone is commonly referred to as the 
