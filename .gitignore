@@ -9,3 +9,9 @@ RCS/
 settings.sample.json
 /reports/
 /ref/
+/used-vocabulary.txt
+/vocabulary.lyx
+/vocabulary.txt.bak
+/vocabulary.txt.tmp
+/vocabulary-unmatched.txt
+*.zip

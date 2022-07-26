@@ -1,0 +1,137 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass book
+\begin_preamble
+\usepackage{multicol}%
+\usepackage{wallpaper}%
+%
+\end_preamble
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Ꮎ ᎤᏍᏗ ᎠᎩᎦᎨ ᏥᏔᎦ ᎠᎩᏏ"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,hypertexnames=false"
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification false
+\use_refstyle 0
+\use_minted 0
+\branch smashwords
+\selected 0
+\filename_suffix 0
+\color #faf0e6
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.7in
+\topmargin 0.7in
+\rightmargin 0.6in
+\bottommargin 0.7in
+\secnumdepth -1
+\tocdepth 1
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Chapter
+Vocabulary
+\end_layout
+
+\begin_layout Section*
+Ꭰ
+\end_layout
+
+\begin_layout Description
+Ꭰ 
+\begin_inset Quotes eld
+\end_inset
+
+Ah!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
