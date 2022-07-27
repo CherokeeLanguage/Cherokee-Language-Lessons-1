@@ -15,3 +15,4 @@ settings.sample.json
 /vocabulary.txt.tmp
 /vocabulary-unmatched.txt
 *.zip
+nohup.out
