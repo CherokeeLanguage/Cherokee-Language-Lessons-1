@@ -1022,6 +1022,18 @@ Be sure to listen to all audio the exercises until the audio instructs you
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 Visit the following URL or scan the QR code or search YouTube for 
 \begin_inset Quotes eld
 \end_inset
@@ -1054,6 +1066,18 @@ status collapsed
 
 https://bit.ly/3osnKOO
 \end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
 
 \end_inset
 
@@ -1103,10 +1127,29 @@ https://bit.ly/3z1IpOK
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 ☞
 \emph on
  Start listening to the audio now and do not proceed to the next section
  until instructed to do so in the audio.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -2013,7 +2056,7 @@ Pausing
 \end_layout
 
 \begin_layout Description
-ɂ - A dotless question mark indicates a brief pause in speaking.
+ʔ - A dotless question mark indicates a brief pause in speaking.
  This is called a 
 \emph on
 glottal stop
@@ -2417,7 +2460,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏓ [a̋ɂda] Young animal.
+ᎠᏓ [a̋ʔda] Young animal.
 \end_layout
 
 \begin_layout Description
@@ -2429,11 +2472,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎬᏍᎦᎳᏗᎠ [gv:sgaládíɂa] He is hiding a long object.
+ᎬᏍᎦᎳᏗᎠ [gv:sgaládíʔa] He is hiding a long object.
 \end_layout
 
 \begin_layout Description
-ᎬᏍᎦᎳᏗᎠ [gv̀:sgaládíɂa] I am hiding a long object.
+ᎬᏍᎦᎳᏗᎠ [gv̀:sgaládíʔa] I am hiding a long object.
 \end_layout
 
 \begin_layout Standard
@@ -3130,7 +3173,7 @@ What tone do most Cherokee words end with?
 \end_layout
 
 \begin_layout Enumerate
-What does the ɂ mark stand for?
+What does the ʔ mark stand for?
 \end_layout
 
 \begin_layout Enumerate
@@ -3226,7 +3269,7 @@ high-fall
 
 \end_deeper
 \begin_layout Enumerate
-What does the ɂ mark stand for?
+What does the ʔ mark stand for?
 \end_layout
 
 \begin_deeper
@@ -72474,7 +72517,7 @@ Hello.
 \end_layout
 
 \begin_layout Description
-ᎤᏲᎢ [u:yő:ɂi] 
+ᎤᏲᎢ [u:yő:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72589,6 +72632,7 @@ Thanks.
 \end_inset
 
 English.
+ Of white people.
 \begin_inset Quotes erd
 \end_inset
 
@@ -72700,19 +72744,15 @@ Create flash cards from the vocabulary list with the Cherokee words in Syllabary
 \begin_layout Standard
 ☞ 
 \emph on
-You will occasionally see Syllabary with an 
+You will occasionally see Syllabary with a 
 \begin_inset Quotes eld
 \end_inset
 
-ogonek
+vowel length modifier
 \begin_inset Quotes erd
 \end_inset
 
- (
-\begin_inset space ~
-\end_inset
-
-̨) or 
+ (ː), a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72725,10 +72765,10 @@ combining x below
 \end_inset
 
 ͓) added.
- The ogonek indicates a vowel is long.
+ The vowel length modifier indicates a vowel is long.
  The combining x below indicates a vowel is silent.
  You will only see these marks in case of ambiguity.
- Examples: Ꮵ̨ᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
+ Examples: ᏥːᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
  understands.)
 \end_layout
 
@@ -73681,7 +73721,7 @@ One.
 \end_layout
 
 \begin_layout Description
-ᏔᎵ [táɂli] 
+ᏔᎵ [táʔli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73693,7 +73733,7 @@ Two.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏔᎵ [a:nitáɂli] 
+ᎠᏂᏔᎵ [a:nitáʔli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73707,7 +73747,7 @@ This is a special form of ᏔᎵ used when referring to anything animate.
 \end_layout
 
 \begin_layout Description
-ᏦᎢ [joɂi] 
+ᏦᎢ [joʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73719,7 +73759,7 @@ Three.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏦᎢ [a:nijoɂi] 
+ᎠᏂᏦᎢ [a:nijoʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73967,7 +74007,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎬᏱᎢ [igv:yi̋:ɂi] 
+ᎢᎬᏱᎢ [igv:yi̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73979,7 +74019,7 @@ First.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏁᎢ [taɂli:ne̋:ɂi] 
+ᏔᎵᏁᎢ [taʔli:ne̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73991,7 +74031,7 @@ Second.
 \end_layout
 
 \begin_layout Description
-ᏦᎢᏁᎢ [joɂi:ne̋:ɂi] 
+ᏦᎢᏁᎢ [joʔi:ne̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74003,7 +74043,7 @@ Third.
 \end_layout
 
 \begin_layout Description
-ᏅᎩᏁᎢ [nvhgi:ne̋:ɂi] 
+ᏅᎩᏁᎢ [nvhgi:ne̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74015,7 +74055,7 @@ Fourth.
 \end_layout
 
 \begin_layout Description
-ᎯᏍᎩᏁᎢ [hisgi:ne̋:ɂi] 
+ᎯᏍᎩᏁᎢ [hisgi:ne̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74027,7 +74067,7 @@ Fifth.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵᏁᎢ [sǔ:dáli:ne̋:ɂi] 
+ᏑᏓᎵᏁᎢ [sǔ:dáli:ne̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74039,7 +74079,7 @@ Sixth.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏉᎩᏁᎢ [gahlgwǒ:gi:ne̋:ɂi] 
+ᎦᎵᏉᎩᏁᎢ [gahlgwǒ:gi:ne̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74082,19 +74122,15 @@ on, and definition.
 \begin_layout Standard
 ☞ 
 \emph on
-You will occasionally see Syllabary with an 
+You will occasionally see Syllabary with a 
 \begin_inset Quotes eld
 \end_inset
 
-ogonek
+vowel length modifier
 \begin_inset Quotes erd
 \end_inset
 
- (
-\begin_inset space ~
-\end_inset
-
-̨) or 
+ (ː), a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74107,10 +74143,10 @@ combining x below
 \end_inset
 
 ͓) added.
- The ogonek indicates a vowel is long.
+ The vowel length modifier indicates a vowel is long.
  The combining x below indicates a vowel is silent.
  You will only see these marks in case of ambiguity.
- Examples: Ꮵ̨ᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
+ Examples: ᏥːᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
  understands.)
 \end_layout
 
@@ -75601,19 +75637,15 @@ on, and definition.
 \begin_layout Standard
 ☞ 
 \emph on
-You will occasionally see Syllabary with an 
+You will occasionally see Syllabary with a 
 \begin_inset Quotes eld
 \end_inset
 
-ogonek
+vowel length modifier
 \begin_inset Quotes erd
 \end_inset
 
- (
-\begin_inset space ~
-\end_inset
-
-̨) or 
+ (ː), a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75626,10 +75658,10 @@ combining x below
 \end_inset
 
 ͓) added.
- The ogonek indicates a vowel is long.
+ The vowel length modifier indicates a vowel is long.
  The combining x below indicates a vowel is silent.
  You will only see these marks in case of ambiguity.
- Examples: Ꮵ̨ᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
+ Examples: ᏥːᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
  understands.)
 \end_layout
 
@@ -77060,7 +77092,7 @@ There.
 \end_layout
 
 \begin_layout Description
-ᎾᎥ [naɂv] 
+ᎾᎥ [naʔv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77104,19 +77136,15 @@ on, and definition.
 \begin_layout Standard
 ☞ 
 \emph on
-You will occasionally see Syllabary with an 
+You will occasionally see Syllabary with a 
 \begin_inset Quotes eld
 \end_inset
 
-ogonek
+vowel length modifier
 \begin_inset Quotes erd
 \end_inset
 
- (
-\begin_inset space ~
-\end_inset
-
-̨) or 
+ (ː), a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77129,10 +77157,10 @@ combining x below
 \end_inset
 
 ͓) added.
- The ogonek indicates a vowel is long.
+ The vowel length modifier indicates a vowel is long.
  The combining x below indicates a vowel is silent.
  You will only see these marks in case of ambiguity.
- Examples: Ꮵ̨ᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
+ Examples: ᏥːᎪᏩᏘᎭ (I see him.) ᏥᎪᏩᏘᎭ (I see it.) ᎪᎵᎦ (I understand.) ᎪᎵ͓Ꭶ (He
  understands.)
 \end_layout
 
@@ -77924,11 +77952,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̨ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ Ꮵ̨ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -77983,11 +78011,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̨ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ Ꮵ̨ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78010,11 +78038,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ Ꮵ̨ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ Ꮵ̨ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78149,7 +78177,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᎨᏯ Ꮵ̨ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78404,11 +78432,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̨ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ Ꮵ̨ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78616,7 +78644,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ Ꮵ̨ᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78728,7 +78756,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎩᏟ Ꮵ̨ᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏥᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78739,11 +78767,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78751,7 +78779,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78762,11 +78790,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78774,7 +78802,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78785,11 +78813,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78797,7 +78825,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78808,11 +78836,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78820,7 +78848,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78897,11 +78925,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78909,7 +78937,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78920,11 +78948,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78932,7 +78960,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᏍᎦᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78943,11 +78971,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78955,7 +78983,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᏥᎪᏩᏘᎭ ᎠᎴ ᏄᎾ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78966,11 +78994,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -78978,7 +79006,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎩᏟ ᎦᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -78988,15 +79016,15 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ Ꮵ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎠᎭᏂ ᏄᎾ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎠᎭᏂ ᏄᎾ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79025,11 +79053,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -79037,7 +79065,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79114,11 +79142,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -79126,7 +79154,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79183,11 +79211,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -79195,7 +79223,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᏄᎾ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᏄᎾ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79229,11 +79257,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -79241,7 +79269,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᎤᎿ ᎠᎨᏯ ᏥᎪᏩᏘᎭ ᎠᎴ ᏅᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -79372,11 +79400,11 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̨ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ Ꮵ̨ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -80436,7 +80464,7 @@ Where?
 \begin_inset space ~
 \end_inset
 
-ᎯᎢ [hiɂa, hiɂi] 
+ᎯᎢ [hiʔa, hiʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -80901,7 +80929,7 @@ Each challenge-response comes in one of three forms and should be done as
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᏍᎩᎾ ᎢᎾ Ꭿ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᏍᎩᎾ ᎢᎾ ᎯᎪᏩᏘᎭ.
 \begin_inset Newline newline
 \end_inset
 
@@ -80925,7 +80953,7 @@ Each challenge-response comes in one of three forms and should be done as
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏙ ᎤᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \begin_inset Newline newline
 \end_inset
 
@@ -80949,7 +80977,7 @@ Each challenge-response comes in one of three forms and should be done as
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ ᏥᎪᏩᏘᎭ?
 \begin_inset Newline newline
 \end_inset
 
@@ -80965,7 +80993,7 @@ Each challenge-response comes in one of three forms and should be done as
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏄᎾ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏄᎾ ᎤᎿ ᏥᎪᏩᏘᎭ.
 \begin_inset Newline newline
 \end_inset
 
@@ -81472,19 +81500,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᏍᎩ ᎢᎾ Ꭿ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᎥᏍᎩ ᎢᎾ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏄᎾ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏄᎾ ᎤᎿ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -81506,19 +81534,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᏍᎩᎾ ᎢᎾ Ꭿ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᏍᎩᎾ ᎢᎾ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏅᏯ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏅᏯ ᎤᎿ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -81663,19 +81691,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᏍᎩᎾ ᎢᎾ Ꭿ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᎥᏍᎩᎾ ᎢᎾ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏅᏯ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏅᏯ ᎤᎿ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -82069,19 +82097,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᏍᎩᎾ ᎢᎾ Ꭿ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᎥᏍᎩᎾ ᎢᎾ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᎤᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᎤᏍᏗ ᎤᎿ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏅᏯ ᎤᎿ Ꮵ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏅᏯ ᎤᎿ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -82365,19 +82393,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎾᏍᎩ ᎢᎾ ᏕᎯ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᎾᏍᎩ ᎢᎾ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏄᎾ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏄᎾ ᎤᎿ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -82411,19 +82439,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᏍᎩᎾ ᎢᎾ ᏕᎯ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᏍᎩᎾ ᎢᎾ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏅᏯ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏅᏯ ᎤᎿ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -82523,19 +82551,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᏍᎩ ᎢᎾ ᏕᎯ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᎥᏍᎩ ᎢᎾ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏅᏯ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏅᏯ ᎤᎿ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -82615,19 +82643,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎥᏍᎩ ᎢᎾ ᏕᎯ̣ᎪᏩᏘᎭ.
+[Ꭰ→Ꭱ] ᎥᏍᎩ ᎢᎾ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯ̣ᎪᏩᏘᎭ?
+[Ꭰ→Ꭱ] ᎦᏙ ᏧᏍᏗ ᏕᎯᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ?
+[Ꭱ] ᎦᏙ ᏧᏍᏗ ᎤᎿ ᏕᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᏄᎾ ᎤᎿ ᏕᏥ̣ᎪᏩᏘᎭ.
+[Ꭱ] ᏄᎾ ᎤᎿ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -85632,11 +85660,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭᏍᎪ?
+ᏕᏥᎪᏩᏘᎭᏍᎪ?
 \end_layout
 
 \begin_layout Enumerate
-ᏕᎯ̣ᎪᏩᏘᎭᏍ?
+ᏕᎯᎪᏩᏘᎭᏍ?
 \end_layout
 
 \begin_layout Enumerate
@@ -85703,7 +85731,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏄᎾᏍ Ꮵ̣ᎪᏩᏘᎭ?
+ᏄᎾᏍ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_layout Enumerate
@@ -85727,7 +85755,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏕᎯ̣ᎪᏩᏘᎭ.
+ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -85802,7 +85830,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯᏊ Ꮵ̣ᎪᏩᏘᎭ.
+ᏅᏯᏊ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -85857,7 +85885,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-Ꮵ̣ᎪᏩᏘᎭ.
+ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -85881,7 +85909,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -85944,7 +85972,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎫᎴ Ꮵ̣ᎪᏩᏘᎭ.
+ᎫᎴ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -86027,11 +86055,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎪᏪᎵ Ꮵ̣ᎪᏩᏘᎭᏊ.
+ᎪᏪᎵ ᏥᎪᏩᏘᎭᏊ.
 \end_layout
 
 \begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -86290,7 +86318,7 @@ You see them.
 
 \end_deeper
 \begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭᏍᎪ?
+ᏕᏥᎪᏩᏘᎭᏍᎪ?
 \end_layout
 
 \begin_deeper
@@ -86300,7 +86328,7 @@ Do I see them?
 
 \end_deeper
 \begin_layout Enumerate
-ᏕᎯ̣ᎪᏩᏘᎭᏍ?
+ᏕᎯᎪᏩᏘᎭᏍ?
 \end_layout
 
 \begin_deeper
@@ -86403,7 +86431,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏄᎾᏍ Ꮵ̣ᎪᏩᏘᎭ?
+ᏄᎾᏍ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \begin_deeper
@@ -86463,7 +86491,7 @@ Is only the man seeing the papers?
 
 \end_deeper
 \begin_layout Enumerate
-ᏕᎯ̣ᎪᏩᏘᎭ.
+ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -86586,7 +86614,7 @@ The women see them.
 
 \end_deeper
 \begin_layout Enumerate
-ᏅᏯᏊ Ꮵ̣ᎪᏩᏘᎭ.
+ᏅᏯᏊ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -86659,7 +86687,7 @@ The men are only seeing the deer.
 
 \end_deeper
 \begin_layout Enumerate
-Ꮵ̣ᎪᏩᏘᎭ.
+ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -86719,7 +86747,7 @@ Do you see the beavers?
 
 \end_deeper
 \begin_layout Enumerate
-ᏅᏯ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -86812,7 +86840,7 @@ Only the woman sees the rabbits.
 
 \end_deeper
 \begin_layout Enumerate
-ᎫᎴ Ꮵ̣ᎪᏩᏘᎭ.
+ᎫᎴ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -86955,7 +86983,7 @@ Does the man see them?
 
 \end_deeper
 \begin_layout Enumerate
-ᎪᏪᎵ Ꮵ̣ᎪᏩᏘᎭᏊ.
+ᎪᏪᎵ ᏥᎪᏩᏘᎭᏊ.
 \end_layout
 
 \begin_deeper
@@ -86965,7 +86993,7 @@ I am only seeing the paper.
 
 \end_deeper
 \begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -87171,7 +87199,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎠᏫ [à:ni:ɂahwi] 
+ᎠᏂᎠᏫ [à:ni:ʔahwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -87376,7 +87404,7 @@ You two will see me or us two again.
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏨᎪᎯ [dv:ɂì:jv:go:hi] 
+ᏛᎢᏨᎪᎯ [dv:ʔì:jv:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -87412,7 +87440,7 @@ We all will see you one or you two or you all again.
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏍᎩᎪᎯ [dv:ɂì:sgi:go:hi] 
+ᏛᎢᏍᎩᎪᎯ [dv:ʔì:sgi:go:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -87448,7 +87476,7 @@ You all will see me or us two or us all again.
 \end_layout
 
 \begin_layout Description
-ᏙᎾᏓᎪᎲᎢ [donada:go:hv:ɂi] 
+ᏙᎾᏓᎪᎲᎢ [donada:go:hv:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -87460,7 +87488,7 @@ Later let us two see each other again.
 \end_layout
 
 \begin_layout Description
-ᏙᏓᏓᎪᎲᎢ [dodada:go:hv:ɂi] 
+ᏙᏓᏓᎪᎲᎢ [dodada:go:hv:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90644,7 +90672,7 @@ A horse.
 \end_layout
 
 \begin_layout Description
-ᏡᎬᎢ [hlgv̋:ɂi] 
+ᏡᎬᎢ [hlgv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90657,7 +90685,7 @@ A tree.
 
 \begin_deeper
 \begin_layout Description
-ᏕᏡᎬᎢ [dě:hlgv̋:ɂi] 
+ᏕᏡᎬᎢ [dě:hlgv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90788,7 +90816,7 @@ Ten.
 \end_layout
 
 \begin_layout Description
-ᏌᏚ [sa:ɂdu] 
+ᏌᏚ [sa:ʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90800,7 +90828,7 @@ Eleven.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏚ [taɂldu] 
+ᏔᎵᏚ [taʔldu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90812,7 +90840,7 @@ Twelve.
 \end_layout
 
 \begin_layout Description
-ᏦᎦᏚ [joɂga:ɂdu] 
+ᏦᎦᏚ [joʔga:ʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90824,7 +90852,7 @@ Thirteen.
 \end_layout
 
 \begin_layout Description
-ᏂᎦᏚ [niga:ɂdu] 
+ᏂᎦᏚ [niga:ʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90836,7 +90864,7 @@ Fourteen.
 \end_layout
 
 \begin_layout Description
-ᏍᎩᎦᏚ [sgiga:ɂdu] 
+ᏍᎩᎦᏚ [sgiga:ʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90896,7 +90924,7 @@ Nineteen.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏍᎪᎯ [táɂlsgǒ:hi] 
+ᏔᎵᏍᎪᎯ [táʔlsgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90909,7 +90937,7 @@ Twenty.
 \end_layout
 
 \begin_layout Description
-ᏦᏍᎪᎯ [joɂsgǒ:hi] 
+ᏦᏍᎪᎯ [joʔsgǒ:hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -93867,7 +93895,7 @@ How many animate things?
 \end_layout
 
 \begin_layout Description
-ᎯᎳᏴᎢ [hilâ:yv̋:ɂi] 
+ᎯᎳᏴᎢ [hilâ:yv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94060,7 +94088,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [dě:jádó:ɂa] 
+ᏕᏣᏙᎠ? [dě:jádó:ʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94073,7 +94101,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏍᏓᏙᎠ? [dě:sdádó:ɂa] 
+ᏕᏍᏓᏙᎠ? [dě:sdádó:ʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94086,7 +94114,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [dè:jádó:ɂa] 
+ᏕᏣᏙᎠ? [dè:jádó:ʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94099,7 +94127,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᏙᎠ [dù:dó:ɂa] 
+ᏚᏙᎠ [dù:dó:ʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94112,7 +94140,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᎾᏙᎠ [dù:nadó:ɂa] 
+ᏚᎾᏙᎠ [dù:nadó:ʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94125,7 +94153,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎮᏙᎸᎢ [íhě:dô:lv:ɂi] 
+ᎢᎮᏙᎸᎢ [íhě:dô:lv:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94137,7 +94165,7 @@ You come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᏍᏕᏙᎸᎢ [ísdě:dô:lv:ɂi] 
+ᎢᏍᏕᏙᎸᎢ [ísdě:dô:lv:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94149,7 +94177,7 @@ You two come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᎢᏤᏙᎸᎢ [íɂì:jě:dô:lv:ɂi] 
+ᎢᎢᏤᏙᎸᎢ [íʔì:jě:dô:lv:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94188,7 +94216,7 @@ Good (them).
 
 \end_deeper
 \begin_layout Description
-ᎤᏲᎢ [u:yő:ɂi] 
+ᎤᏲᎢ [u:yő:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94201,7 +94229,7 @@ Bad.
 
 \begin_deeper
 \begin_layout Description
-ᎤᏂᏲᎢ [u:niyő:ɂi] 
+ᎤᏂᏲᎢ [u:niyő:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94343,7 +94371,7 @@ People.
 
 \end_deeper
 \begin_layout Description
-ᎠᏴᏫᏯᎢ [ayv:wi:ya̋:ɂi] 
+ᎠᏴᏫᏯᎢ [ayv:wi:ya̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94356,7 +94384,7 @@ A Native American.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏴᏫᏯᎢ [ani:yv:wi:ya̋:ɂi] 
+ᎠᏂᏴᏫᏯᎢ [ani:yv:wi:ya̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -94438,7 +94466,7 @@ a true person
 \begin_inset Quotes eld
 \end_inset
 
--ya⁴ɂi
+-ya⁴ʔi
 \begin_inset Quotes erd
 \end_inset
 
@@ -94507,7 +94535,7 @@ Anthony.
 \end_layout
 
 \begin_layout Description
-ᏆᏆᎠ [gwa:gwaɂa] 
+ᏆᏆᎠ [gwa:gwaʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98045,7 +98073,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᏤᎢ [ìje̋:ɂi] 
+ᎢᏤᎢ [ìje̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98057,7 +98085,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᎢᏤᎢᏳᏍᏗ [ijé:ɂiyű:sdi] 
+ᎢᏤᎢᏳᏍᏗ [ijé:ʔiyű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98081,7 +98109,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᎤᏍᎪᎸᎢ [ù:sgǒ:lv̋:ɂi] 
+ᎤᏍᎪᎸᎢ [ù:sgǒ:lv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98094,7 +98122,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᎤᏬᏗᎨᎢ [uwǒ:díge̋:ɂi] 
+ᎤᏬᏗᎨᎢ [uwǒ:díge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98110,7 +98138,7 @@ Brown.
 \begin_inset space ~
 \end_inset
 
-ᎩᎨᎢ [gǐ:gáge̋:ɂi, gǐ:ge̋:ɂi] 
+ᎩᎨᎢ [gǐ:gáge̋:ʔi, gǐ:ge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98126,7 +98154,7 @@ Red.
 \begin_inset space ~
 \end_inset
 
-ᎬᏂᎨᎢ [gv̌:hnáge̋:ɂi, gv̌:níge̋:ɂi] 
+ᎬᏂᎨᎢ [gv̌:hnáge̋:ʔi, gv̌:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98138,7 +98166,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᏌᎪᏂᎨᎢ [sakǒ:níge̋:ɂi] 
+ᏌᎪᏂᎨᎢ [sakǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98150,7 +98178,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᏓᎭᎵᎨᎢ [daha:lige̋:ɂi] 
+ᏓᎭᎵᎨᎢ [daha:lige̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98162,7 +98190,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᏓᎶᏂᎨᎢ [dalǒ:níge̋:ɂi] 
+ᏓᎶᏂᎨᎢ [dalǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98211,7 +98239,7 @@ like a new fruit or vegetable
 \end_layout
 
 \begin_layout Standard
-When talking about single animate things, the prefix Ꭰ̣- is added if the
+When talking about single animate things, the prefix Ꭰ- is added if the
  word doesn't start with any of the vowels Ꭰ, Ꭱ, Ꭲ, Ꭳ, Ꭴ, or Ꭵ:
 \end_layout
 
@@ -98238,7 +98266,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎠᎩᎨᎢ [agǐ:gáge̋:ɂi, agǐ:ge̋:ɂi] 
+ᎠᎩᎨᎢ [agǐ:gáge̋:ʔi, agǐ:ge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98254,7 +98282,7 @@ Red.
 \begin_inset space ~
 \end_inset
 
-ᎠᎬᏂᎨᎢ [agv̌:hnáge̋:ɂi, agv̌:níge̋:ɂi] 
+ᎠᎬᏂᎨᎢ [agv̌:hnáge̋:ʔi, agv̌:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98266,7 +98294,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᎠᏌᎪᏂᎨᎢ [asakǒ:níge̋:ɂi] 
+ᎠᏌᎪᏂᎨᎢ [asakǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98278,7 +98306,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎭᎵᎨᎢ [adaha:lige̋:ɂi] 
+ᎠᏓᎭᎵᎨᎢ [adaha:lige̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98290,7 +98318,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎶᏂᎨᎢ [adalǒ:níge̋:ɂi] 
+ᎠᏓᎶᏂᎨᎢ [adalǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98327,7 +98355,7 @@ Some colors are described with word combinations.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [gǐ:gáge ù:sgǒ:lv̋:ɂi] 
+ᎤᏍᎪᎸᎢ [gǐ:gáge ù:sgǒ:lv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98344,7 +98372,7 @@ Pink.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [gv̌:hnáge ù:sgǒ:lv̋:ɂi] 
+ᎤᏍᎪᎸᎢ [gv̌:hnáge ù:sgǒ:lv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98361,7 +98389,7 @@ Grey.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [sakǒ:níge̋ ù:sgǒ:lv̋:ɂi] 
+ᎤᏍᎪᎸᎢ [sakǒ:níge̋ ù:sgǒ:lv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -98378,7 +98406,7 @@ Grey.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [dalǒ:níge ù:sgǒ:lv̋:ɂi] 
+ᎤᏍᎪᎸᎢ [dalǒ:níge ù:sgǒ:lv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101102,7 +101130,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏤᎢ [ani:je̋:ɂi] 
+ᎠᏂᏤᎢ [ani:je̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101114,7 +101142,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏤᎢᏳᏍᏗ [ani:jé:ɂiyű:sdi] 
+ᎠᏂᏤᎢᏳᏍᏗ [ani:jé:ʔiyű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101126,7 +101154,7 @@ Green colored.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎩᎦᎨᎢ [ani:gǐ:gáge̋:ɂi] 
+ᎠᏂᎩᎦᎨᎢ [ani:gǐ:gáge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101138,7 +101166,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏓᎭᎵᎨᎢ [ani:daha:lige̋:ɂi] 
+ᎠᏂᏓᎭᎵᎨᎢ [ani:daha:lige̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101150,7 +101178,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎬᎿᎨᎢ [ani:gv̌:hnáge̋:ɂi] 
+ᎠᏂᎬᎿᎨᎢ [ani:gv̌:hnáge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101162,7 +101190,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏌᎪᏂᎨᎢ [ani:sakǒ:níge̋:ɂi] 
+ᎠᏂᏌᎪᏂᎨᎢ [ani:sakǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101174,7 +101202,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏓᎶᏂᎨᎢ [ani:dalǒ:níge̋:ɂi] 
+ᎠᏂᏓᎶᏂᎨᎢ [ani:dalǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101246,7 +101274,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᎤᏂᏍᎪᎸᎢ [ù:nisgǒ:lv̋:ɂi] 
+ᎤᏂᏍᎪᎸᎢ [ù:nisgǒ:lv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101259,7 +101287,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᏧᏃᏗᎨᎢ [ju:nǒ:díge̋:ɂi] 
+ᏧᏃᏗᎨᎢ [ju:nǒ:díge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101291,7 +101319,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -101302,7 +101330,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -101375,7 +101403,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -101415,7 +101443,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -101441,7 +101469,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏗᏤᎢ [dije̋:ɂi] 
+ᏗᏤᎢ [dije̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101453,7 +101481,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᏗᏤᎢᏳᏍᏗ [dijé:ɂiyű:sdi] 
+ᏗᏤᎢᏳᏍᏗ [dijé:ʔiyű:sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101477,7 +101505,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᏧᏍᎪᎸᎢ [ju:sgǒ:lv̋:ɂi] 
+ᏧᏍᎪᎸᎢ [ju:sgǒ:lv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101490,7 +101518,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᏧᏬᏗᎨᎢ [juwǒ:díge̋:ɂi] 
+ᏧᏬᏗᎨᎢ [juwǒ:díge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101502,7 +101530,7 @@ Brown.
 \end_layout
 
 \begin_layout Description
-ᏗᎩᎦᎨᎢ [digǐ:gáge̋:ɂi] 
+ᏗᎩᎦᎨᎢ [digǐ:gáge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101514,7 +101542,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᏗᎬᎿᎨᎢ [digv̌:hnáge̋:ɂi] 
+ᏗᎬᎿᎨᎢ [digv̌:hnáge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101526,7 +101554,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᏗᏌᎪᏂᎨᎢ [disakǒ:níge̋:ɂi] 
+ᏗᏌᎪᏂᎨᎢ [disakǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101538,7 +101566,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᏗᏓᎭᎵᎨᎢ [didaha:lige̋:ɂi] 
+ᏗᏓᎭᎵᎨᎢ [didaha:lige̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101550,7 +101578,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᏗᏓᎶᏂᎨᎢ [didalǒ:níge̋:ɂi] 
+ᏗᏓᎶᏂᎨᎢ [didalǒ:níge̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -103287,7 +103315,7 @@ it-animate
 \end_layout
 
 \begin_layout Standard
-When talking about single animate things, the prefix Ꭰ̣- is added if the
+When talking about single animate things, the prefix Ꭰ- is added if the
  word doesn't start with any of the vowels Ꭰ, Ꭱ, Ꭲ, Ꭳ, Ꭴ, or Ꭵ.
 \end_layout
 
@@ -103377,7 +103405,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -103388,7 +103416,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -103461,7 +103489,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -103501,7 +103529,7 @@ When talking about multiple inanimate things, the prefix
 \begin_inset Quotes eld
 \end_inset
 
-Ꮧ̣-
+Ꮧ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -104078,7 +104106,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏗᎩᎦᎨ ᏗᎪᏪᎵ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏗᎩᎦᎨ ᏗᎪᏪᎵ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -104098,7 +104126,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
- ᎬᏂᎨ ᏌᏛᏗ Ꭿ̣ᎪᏩᏘᎭ.
+ ᎬᏂᎨ ᏌᏛᏗ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -104240,7 +104268,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏬᏗᎨ ᏄᎾᏊ Ꭿ̣ᎪᏩᏘᎭ.
+ᎤᏬᏗᎨ ᏄᎾᏊ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -104687,7 +104715,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎿᎨ ᎪᏪᎵ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᎬᎿᎨ ᎪᏪᎵ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -104742,7 +104770,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᏂᎨ ᏅᏯ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᎬᏂᎨ ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -104837,7 +104865,7 @@ The Native American sees a good deer.
 
 \end_deeper
 \begin_layout Enumerate
-ᏗᎩᎦᎨ ᏗᎪᏪᎵ ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏗᎩᎦᎨ ᏗᎪᏪᎵ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -104887,7 +104915,7 @@ You see a good person.
 
 \end_deeper
 \begin_layout Enumerate
- ᎬᏂᎨ ᏌᏛᏗ Ꭿ̣ᎪᏩᏘᎭ.
+ ᎬᏂᎨ ᏌᏛᏗ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -105113,7 +105141,7 @@ The boy sees good white people.
 
 \end_deeper
 \begin_layout Enumerate
-ᎤᏬᏗᎨ ᏄᎾᏊ Ꭿ̣ᎪᏩᏘᎭ.
+ᎤᏬᏗᎨ ᏄᎾᏊ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -105225,7 +105253,7 @@ Do you see something green?
 
 \begin_deeper
 \begin_layout Enumerate
-ᎪᎱᏍᏗᏍ ᎢᏤᎢᏳᏍᏗ Ꭿ̣ᎪᏩᏘᎭ?
+ᎪᎱᏍᏗᏍ ᎢᏤᎢᏳᏍᏗ ᎯᎪᏩᏘᎭ?
 \end_layout
 
 \end_deeper
@@ -105245,7 +105273,7 @@ You see something brown.
 
 \begin_deeper
 \begin_layout Enumerate
-ᎪᏍᏗ ᎤᏬᏗᎨ Ꭿ̣ᎪᏩᏘᎭ.
+ᎪᏍᏗ ᎤᏬᏗᎨ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -105255,7 +105283,7 @@ You see just a yellow tree.
 
 \begin_deeper
 \begin_layout Enumerate
-ᏓᎶᏂᎨ ᏡᎬᏊ Ꭿ̣ᎪᏩᏘᎭ.
+ᏓᎶᏂᎨ ᏡᎬᏊ ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -105388,7 +105416,7 @@ I see just a blue paper.
 
 \begin_deeper
 \begin_layout Enumerate
-ᏌᎪᏂᎨ ᎪᏪᎵᏊ Ꮵ̣ᎪᏩᏘᎭ.
+ᏌᎪᏂᎨ ᎪᏪᎵᏊ ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -105501,7 +105529,7 @@ Do I see something white?
 
 \begin_deeper
 \begin_layout Enumerate
-ᎪᎱᏍᏗᏍ ᎤᏁᎦ Ꮵ̣ᎪᏩᏘᎭ?
+ᎪᎱᏍᏗᏍ ᎤᏁᎦ ᏥᎪᏩᏘᎭ?
 \end_layout
 
 \end_deeper
@@ -105756,12 +105784,12 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎬᎿᎨ ᎪᏪᎵ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᎬᎿᎨ ᎪᏪᎵ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-ᏗᎬᎿᎨ ᏗᎪᏪᎵ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᏗᎬᎿᎨ ᏗᎪᏪᎵ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -105829,12 +105857,12 @@ raggedcolumns
 
 \end_deeper
 \begin_layout Enumerate
-ᎬᏂᎨ ᏅᏯ ᏕᎯ̣ᎪᏩᏘᎭ.
+ᎬᏂᎨ ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
- ᏗᎬᏂᎨ ᏅᏯ ᏕᎯ̣ᎪᏩᏘᎭ.
+ ᏗᎬᏂᎨ ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \end_deeper
@@ -106251,7 +106279,7 @@ is seeing
 
 \end_deeper
 \begin_layout Itemize
-Ꮵ̣ᎪᏩᏘᎭ [Ꮵ̣ + ᎪᏩᏘᎭ] 
+ᏥᎪᏩᏘᎭ [Ꮵ + ᎪᏩᏘᎭ] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106264,7 +106292,7 @@ I see it.
 
 \begin_deeper
 \begin_layout Itemize
-Ꮵ̣: 
+Ꮵ: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106327,7 +106355,7 @@ is seeing
 
 \end_deeper
 \begin_layout Itemize
-ᏕᏥ̣ᎪᏩᏘᎭ [Ꮥ + Ꮵ̣ + ᎪᏩᏘᎭ] 
+ᏕᏥᎪᏩᏘᎭ [Ꮥ + Ꮵ + ᎪᏩᏘᎭ] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106352,7 +106380,7 @@ More than one or once.
 \end_layout
 
 \begin_layout Itemize
-Ꮵ̣: 
+Ꮵ: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106415,7 +106443,7 @@ is seeing
 
 \end_deeper
 \begin_layout Itemize
-Ꭿ̣ᎪᏩᏘᎭ [Ꭿ̣ + ᎪᏩᏘᎭ] 
+ᎯᎪᏩᏘᎭ [Ꭿ + ᎪᏩᏘᎭ] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106428,7 +106456,7 @@ You see it.
 
 \begin_deeper
 \begin_layout Itemize
-Ꭿ̣: 
+Ꭿ: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106491,7 +106519,7 @@ is seeing
 
 \end_deeper
 \begin_layout Itemize
-ᏕᎯ̣ᎪᏩᏘᎭ [Ꮥ + Ꭿ̣ + ᎪᏩᏘᎭ] 
+ᏕᎯᎪᏩᏘᎭ [Ꮥ + Ꭿ + ᎪᏩᏘᎭ] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -106516,7 +106544,7 @@ More than one or once.
 \end_layout
 
 \begin_layout Itemize
-Ꭿ̣: 
+Ꭿ: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -107338,11 +107366,11 @@ I \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꮵ̣-, Ꭶ͓- (ji-, g-) 
+Set A: Ꮵ-, Ꭶ͓- (ji-, g-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (agi-, agw-) ☞ 
+Set B: ᎠᎩ-, ᎠᏆ͓- (agi-, agw-) ☞ 
 \emph on
 New.
 \end_layout
@@ -107374,7 +107402,7 @@ Set A: ᏕᏥ-, ᏕᎦ͓- (de:ji-, g-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dagi-, dagw-) ☞ 
+Set B: ᏓᎩ-, ᏓᏆ͓- (dagi-, dagw-) ☞ 
 \emph on
 New.
 \end_layout
@@ -107387,13 +107415,13 @@ He \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (agi-, agw-) ☞ 
+Set A: ᎠᎩ-, ᎠᏆ͓- (agi-, agw-) ☞ 
 \emph on
 New.
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (agi-, agw-) ☞ 
+Set B: ᎠᎩ-, ᎠᏆ͓-​ (agi-, agw-) ☞ 
 \emph on
 New.
 \end_layout
@@ -107406,11 +107434,11 @@ He \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꭰ̣-, Ꭶ̣- (a-, ga-)
+Set A: Ꭰ-, Ꭶ- (a-, ga-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꭴ-, Ꭴ̣Ꮹ͓- (u-, uw-)
+Set B: Ꭴ-, ᎤᏩ͓- (u-, uw-)
 \end_layout
 
 \end_deeper
@@ -107421,11 +107449,11 @@ He \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꮣ̣-, ᏕᎦ̣- (da-, de:ga-)
+Set A: Ꮣ-, ᏕᎦ- (da-, de:ga-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮪ-, Ꮪ̣Ꮹ͓- (du-, duw-)
+Set B: Ꮪ-, ᏚᏩ͓- (du-, duw-)
 \end_layout
 
 \end_deeper
@@ -107467,11 +107495,11 @@ You \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꭿ̣- (hi-) 
+Set A: Ꭿ- (hi-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮳ̣- (ja-) ☞ 
+Set B: Ꮳ- (ja-) ☞ 
 \emph on
 New.
 \end_layout
@@ -107499,11 +107527,11 @@ You \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᏕᎯ̣- (de:hi-) 
+Set A: ᏕᎯ- (de:hi-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: ᏕᏣ̣- (de:ja-) ☞ 
+Set B: ᏕᏣ- (de:ja-) ☞ 
 \emph on
 New.
 \end_layout
@@ -107516,13 +107544,13 @@ He \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꮳ̣ (ja-) ☞ 
+Set A: Ꮳ (ja-) ☞ 
 \emph on
 New.
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮳ̣ (ja-) ☞ 
+Set B: Ꮳ (ja-) ☞ 
 \emph on
 New.
 \end_layout
@@ -107535,7 +107563,7 @@ They \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꭰ̣Ꮒ- (ani-)
+Set A: ᎠᏂ- (ani-)
 \end_layout
 
 \begin_layout Itemize
@@ -107550,7 +107578,7 @@ They \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꮣ̣Ꮒ- (dani-)
+Set A: ᏓᏂ- (dani-)
 \end_layout
 
 \begin_layout Itemize
@@ -115939,7 +115967,7 @@ They \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-ᎨᏣ̣- (ge:ja-)
+ᎨᏣ- (ge:ja-)
 \end_layout
 
 \end_deeper
@@ -121319,7 +121347,7 @@ Now and ongoing.
 \end_layout
 
 \begin_layout Description
-ᎨᏐᎢ [gè:só:ɂi] 
+ᎨᏐᎢ [gè:só:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121333,7 +121361,7 @@ Usually, habitually, or on certain occasions.
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎢ [gè:sv̌:ɂi] 
+ᎨᏒᎢ [gè:sv̌:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121359,7 +121387,7 @@ With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᏎᎢ [gè:sé:ɂi] 
+ᎨᏎᎢ [gè:sé:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121373,7 +121401,7 @@ Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᎲᎢ [gè:hv̌:ɂi] 
+ᎨᎲᎢ [gè:hv̌:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121399,7 +121427,7 @@ With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᎮᎢ [gè:hé:ɂi] 
+ᎨᎮᎢ [gè:hé:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121457,7 +121485,7 @@ Being
 \begin_inset Quotes erd
 \end_inset
 
- is indicated by the -ᎥᎢ (-v̌:ɂi) ending.
+ is indicated by the -ᎥᎢ (-v̌:ʔi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -121525,7 +121553,7 @@ Without personal knowledge
 
 
 \emph default
- is indicated by the -ᎡᎢ (-é:ɂi) ending.
+ is indicated by the -ᎡᎢ (-é:ʔi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -121559,7 +121587,7 @@ Usually
 \begin_inset Quotes erd
 \end_inset
 
- is indicated by the -ᎣᎢ (-ó:ɂi) ending.
+ is indicated by the -ᎣᎢ (-ó:ʔi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -121699,7 +121727,7 @@ Isn't.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏐᎢ [hla yi:gè:só:ɂi] 
+ᏱᎨᏐᎢ [hla yi:gè:só:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121715,7 +121743,7 @@ Isn't usually.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏒᎢ [hla yi:gè:sv̌:ɂi] 
+ᏱᎨᏒᎢ [hla yi:gè:sv̌:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121731,7 +121759,7 @@ Not being.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏎᎢ [hla yi:gè:sé:ɂi] 
+ᏱᎨᏎᎢ [hla yi:gè:sé:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121749,7 +121777,7 @@ Without personal knowledge, or consciousness.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᎲᎢ [hla yi:gè:hv̌:ɂi] 
+ᏱᎨᎲᎢ [hla yi:gè:hv̌:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -121765,7 +121793,7 @@ Had not been (a while ago).
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᎮᎢ [hla yi:gè:hé:ɂi] 
+ᏱᎨᎮᎢ [hla yi:gè:hé:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -129703,7 +129731,7 @@ Count of inanimate.
 \end_layout
 
 \begin_layout Description
-ᎦᏍᎩᎸᎢ [ga:sgilv̋:ɂi] 
+ᎦᏍᎩᎸᎢ [ga:sgilv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
