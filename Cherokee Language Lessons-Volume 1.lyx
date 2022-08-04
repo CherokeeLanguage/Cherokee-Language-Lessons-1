@@ -82700,7 +82700,7 @@ Write out the Syllabary for each of the following sets.
 \end_layout
 
 \begin_layout Subsection*
-Exercises
+Challenges
 \end_layout
 
 \begin_layout Subsubsection*
@@ -85330,8 +85330,15 @@ on, and definition.
 \end_layout
 
 \begin_layout Enumerate
-Write out each example in Syllabary, add a pronunciation, and then it's
- translation.
+Write out each of the Ꮭ
+\begin_inset space ~
+\end_inset
+
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎩ examples in Syllabary alone with it's translation.
 \end_layout
 
 \begin_layout Section
@@ -87360,6 +87367,7 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᏥᎪᏩᏘᎭ.
+ ᏥːᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -87458,7 +87466,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏲᏁᎦᎲ?
+ᏣᎳᎩᎾᎲ?
 \end_layout
 
 \begin_layout Standard
@@ -87509,7 +87517,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏴᏭᏁᎦᏊᏧ?
+ᏙᏯᏊᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -87517,7 +87525,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏥᎪᏩᏘᎭᏍ?
+ᏥːᎪᏩᏘᎭᏍ? ᏥᎪᏩᏘᎭᏍ?
 \end_layout
 
 \begin_layout Enumerate
@@ -87694,7 +87702,7 @@ The man is only seeing the wolves.
 
 \begin_deeper
 \begin_layout Enumerate
-Do the men see it?
+Do the men see him, her, or it?
 \end_layout
 
 \end_deeper
@@ -87734,7 +87742,8 @@ Only I am seeing the dog.
 
 \begin_deeper
 \begin_layout Enumerate
-The women see the wolf, right?
+The women see the wolf.
+ Right?
 \end_layout
 
 \end_deeper
@@ -87817,7 +87826,8 @@ Do you see them?
 
 \begin_deeper
 \begin_layout Enumerate
-The man sees the cats, right?
+The man sees the cats.
+ Right?
 \end_layout
 
 \end_deeper
@@ -87910,7 +87920,7 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-Do I see the potato?
+Do I see a potato?
 \end_layout
 
 \end_deeper
@@ -87920,7 +87930,7 @@ Do I see the potato?
 
 \begin_deeper
 \begin_layout Enumerate
-Are the men only seeing the deer?
+Are the men only seeing deer?
 \end_layout
 
 \end_deeper
@@ -87930,7 +87940,7 @@ Are the men only seeing the deer?
 
 \begin_deeper
 \begin_layout Enumerate
-Are the men seeing only the potatoes?
+Are the men seeing only potatoes?
 \end_layout
 
 \end_deeper
@@ -88033,7 +88043,7 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-I see the rabbit.
+I see a rabbit.
 \end_layout
 
 \end_deeper
@@ -88043,7 +88053,7 @@ I see the rabbit.
 
 \begin_deeper
 \begin_layout Enumerate
-Is the man seeing only the rock?
+Does the man see just the rock?
 \end_layout
 
 \end_deeper
@@ -88093,7 +88103,7 @@ The women see them.
 
 \begin_deeper
 \begin_layout Enumerate
-I see only the rock.
+I see only a rock.
 \end_layout
 
 \end_deeper
@@ -88156,17 +88166,19 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-The men are only seeing the deer.
+The men only see deer.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 ᏥᎪᏩᏘᎭ.
+ ᏥːᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
 I see it.
+ I see him or her.
 \end_layout
 
 \end_deeper
@@ -88186,7 +88198,7 @@ The men see the dog.
 
 \begin_deeper
 \begin_layout Enumerate
-Is the woman seeing only the beans?
+Does the woman see only the beans?
 \end_layout
 
 \end_deeper
@@ -88206,7 +88218,7 @@ Do the women see the deer?
 
 \begin_deeper
 \begin_layout Enumerate
-The man sees the beaver.
+The man sees the beavers.
 \end_layout
 
 \end_deeper
@@ -88226,7 +88238,7 @@ Do you see the beavers?
 
 \begin_deeper
 \begin_layout Enumerate
-I see the rocks.
+I see rocks.
 \end_layout
 
 \end_deeper
@@ -88279,7 +88291,7 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-The men see it.
+The men see him, her, or it.
 \end_layout
 
 \end_deeper
@@ -88319,7 +88331,7 @@ Only the woman sees the rabbits.
 
 \begin_deeper
 \begin_layout Enumerate
-I see the acorn.
+I see an acorn.
 \end_layout
 
 \end_deeper
@@ -88344,12 +88356,12 @@ Are the women seeing only the bean?
 
 \end_deeper
 \begin_layout Enumerate
-ᏲᏁᎦᎲ?
+ᏣᎳᎩᎾᎲ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-But for it being English?
+But what about it being Cherokee?
 \end_layout
 
 \end_deeper
@@ -88402,17 +88414,18 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-The men see the wolves.
+The men see wolves.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᏴᏭᏁᎦᏊᏧ?
+ᏙᏯᏊᏧ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-It is just English, right?
+It's just a beaver or beavers.
+ Right?
 \end_layout
 
 \end_deeper
@@ -88422,17 +88435,17 @@ It is just English, right?
 
 \begin_deeper
 \begin_layout Enumerate
-You see the beaver.
+You see a beaver.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-ᏥᎪᏩᏘᎭᏍ?
+ᏥːᎪᏩᏘᎭᏍ? ᏥᎪᏩᏘᎭᏍ?
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-Do I see him/her?
+Do I see him or her? Do I see it?
 \end_layout
 
 \end_deeper
@@ -88462,7 +88475,7 @@ Does the man see them?
 
 \begin_deeper
 \begin_layout Enumerate
-I am only seeing the paper.
+I am only see the paper.
 \end_layout
 
 \end_deeper
@@ -88525,7 +88538,7 @@ raggedcolumns
 
 \begin_deeper
 \begin_layout Enumerate
-The woman sees only the deer.
+The woman sees only a deer.
 \end_layout
 
 \end_deeper
@@ -88545,7 +88558,7 @@ Only the man sees the potato.
 
 \begin_deeper
 \begin_layout Enumerate
-It is just good, right?
+It is just well, right?
 \end_layout
 
 \end_deeper
@@ -88575,7 +88588,8 @@ Do you see them?
 
 \begin_deeper
 \begin_layout Enumerate
-The men see the papers, right?
+The men see the papers.
+ Right?
 \end_layout
 
 \end_deeper
@@ -88585,7 +88599,7 @@ The men see the papers, right?
 
 \begin_deeper
 \begin_layout Enumerate
-Is only the woman seeing the rabbit?
+Does only the woman see the rabbit?
 \end_layout
 
 \end_deeper
