@@ -88682,6 +88682,20 @@ The deer people.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Description
+ᎠᎠᏫ [aʔahwi] 
+\begin_inset Quotes eld
+\end_inset
+
+One of the deer people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Description
 ᎠᏂᎩᏟ [à:ni:gi:hli] 
 \begin_inset Quotes eld
@@ -88694,6 +88708,20 @@ The dog people.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Description
+ᎠᎩᏟ [agi:hli] 
+\begin_inset Quotes eld
+\end_inset
+
+One of the dog people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Description
 ᎠᏂᏥᏍᏚ [à:ni:ji:sdu] 
 \begin_inset Quotes eld
@@ -88706,6 +88734,20 @@ The rabbit people.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Description
+ᎠᏥᏍᏚ [aji:sdu] 
+\begin_inset Quotes eld
+\end_inset
+
+A member of the rabbit people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Description
 ᎠᏂᏩᎭᏯ [à:ni:wahaya] 
 \begin_inset Quotes eld
@@ -88718,6 +88760,20 @@ The wolf people.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Description
+ᎠᏩᎭᏯ [awahaya] 
+\begin_inset Quotes eld
+\end_inset
+
+A member of the wolf people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Description
 ᎠᏂᏪᏌ [à:ni:wě:sa] 
 \begin_inset Quotes eld
@@ -88730,6 +88786,20 @@ The cat people.
 
 \end_layout
 
+\begin_deeper
+\begin_layout Description
+ᎠᏪᏌ [awě:sa] 
+\begin_inset Quotes eld
+\end_inset
+
+A member of the cat people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Description
 ᏙᎯ [tò:hi̋] 
 \begin_inset Quotes eld
@@ -89095,13 +89165,62 @@ on, and definition.
 \begin_layout Standard
 ☞ 
 \emph on
-The challenges and answers show some pronunciation marks.
+The challenges and responses may show some pronunciation marks.
  They have been added to help you with remembering critical pronunciations.
- You should not write them out.
 \end_layout
 
 \begin_layout Standard
 You will need to create three each of the following index cards:
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename artwork/flags/aahwi-flag.jpg
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/agihli-flag.jpg
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/ajisdu-flag.jpg
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/awahaya-flag.jpg
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+ 
+\begin_inset Graphics
+	filename artwork/flags/awesa-flag.jpg
+	lyxscale 15
+	width 15col%
+	groupId index-card-fronts
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -89155,7 +89274,25 @@ You will need to create three each of the following index cards:
 \end_layout
 
 \begin_layout Standard
-Label each card on the reverse as follows: ᎠᏂᎠᏫ, ᎠᏂᎩᏟ, ᎠᏂᏥᏍᏚ, ᎠᏂᏩᎭᏯ, ᎠᏂᏪᏌ.
+Label each card on the reverse as follows:
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Set
+\begin_inset space ~
+\end_inset
+
+1: ᎠᎠᏫ, ᎠᎩᏟ, ᎠᏥᏍᏚ, ᎠᏩᎭᏯ, ᎠᏪᏌ.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Set
+\begin_inset space ~
+\end_inset
+
+2: ᎠᏂᎠᏫ, ᎠᏂᎩᏟ, ᎠᏂᏥᏍᏚ, ᎠᏂᏩᎭᏯ, ᎠᏂᏪᏌ.
 \end_layout
 
 \begin_layout Standard
@@ -89296,7 +89433,7 @@ Each challenge-response should be done as in the following examples:
 
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᎩᏟ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᎩᏟ↺, ᎠᏥᏍᏚ→)
 \begin_inset Newline newline
 \end_inset
 
@@ -89360,7 +89497,7 @@ There is only one
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᏂᏥᏍᏚ
+ᎠᏥᏍᏚ
 \begin_inset Quotes erd
 \end_inset
 
@@ -89368,7 +89505,7 @@ There is only one
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᏂᎩᏟ
+ᎠᎩᏟ
 \begin_inset Quotes erd
 \end_inset
 
@@ -89377,7 +89514,7 @@ There is only one
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \begin_inset Newline newline
 \end_inset
 
@@ -89401,7 +89538,7 @@ There is only one
 \begin_inset Quotes eld
 \end_inset
 
-the rabbit people
+rabbit person
 \begin_inset Quotes erd
 \end_inset
 
@@ -89409,7 +89546,7 @@ the rabbit people
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᎩᏟ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᎩᏟ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \begin_inset Newline newline
 \end_inset
@@ -89426,12 +89563,12 @@ the rabbit people
 \begin_inset Quotes eld
 \end_inset
 
-the dog people
+dog person
 \begin_inset Quotes erd
 \end_inset
 
 , things are just fine.
- But what about you?
+ But what about all of you?
 \end_layout
 
 \begin_layout Enumerate
@@ -89501,7 +89638,7 @@ the dog people
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᏙᎾᏓᎪᎲ ̱Ꭲ.
+[Ꭱ→Ꭰ] ᏙᎾᏓᎪᎲ̱Ꭲ.
 \begin_inset Newline newline
 \end_inset
 
@@ -89519,7 +89656,7 @@ the dog people
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏂᏩᏯ↺, ᎠᏥᏍᏚ→)
 \begin_inset Newline newline
 \end_inset
 
@@ -89603,7 +89740,7 @@ There are two
 \begin_inset Quotes eld
 \end_inset
 
-ᎠᏂᏥᏍᏚ
+ᎠᏥᏍᏚ
 \begin_inset Quotes erd
 \end_inset
 
@@ -89649,11 +89786,7 @@ There are two
 \begin_inset Quotes erd
 \end_inset
 
-: Hello 
-\begin_inset Quotes eld
-\end_inset
-
-the rabbit people
+: Hello rabbit person
 \begin_inset Quotes erd
 \end_inset
 
@@ -90233,7 +90366,7 @@ Sets
 \begin_layout Standard
 ☞ 
 \emph on
-Repeat these until everyone can do the 
+Repeat these until you can do the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -90273,16 +90406,16 @@ raggedcolumns
 
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᎩᏟ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᎩᏟ↺, ᎠᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᎩᏟ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᎩᏟ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90306,12 +90439,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏂᏩᎭᏯ↺, ᎠᏪᏌ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏪᏌ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏪᏌ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -90339,16 +90472,16 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᎠᏫ→)
+ (ᎠᏩᏯ↺, ᎠᎠᏫ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᎠᏫ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᎠᏫ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90372,12 +90505,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏦᎢ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᎩᏟ↺, ᎠᏂᎠᏫ→)
+ (ᎠᏂᎩᏟ↺, ᎠᎠᏫ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᎠᏫ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᎠᏫ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -90405,12 +90538,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏂᏩᏯ↺, ᎠᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -90438,12 +90571,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏦᎢ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏂᏩᎭᏯ↺, ᎠᏪᏌ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏪᏌ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏪᏌ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -90471,7 +90604,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏔᎵ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᎠᏫ→)
+ (ᎠᏩᎭᏯ↺, ᎠᏂᎠᏫ→)
 \end_layout
 
 \begin_deeper
@@ -90480,7 +90613,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᎭᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᎭᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90504,12 +90637,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏦᎢ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᎩᏟ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏂᎩᏟ↺, ᎠᏪᏌ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏪᏌ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏪᏌ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -90537,7 +90670,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏦᎢ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
@@ -90546,7 +90679,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90613,7 +90746,7 @@ raggedcolumns
 
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏔᎵ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᎠᏫ→)
+ (ᎠᏩᏯ↺, ᎠᏂᎠᏫ→)
 \end_layout
 
 \begin_deeper
@@ -90622,7 +90755,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90646,7 +90779,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏦᎢ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
 \end_layout
 
 \begin_deeper
@@ -90655,7 +90788,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᎭᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᎭᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90712,7 +90845,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏦᎢ→.
- (ᎠᏂᎩᏟ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᎩᏟ↺, ᎠᏂᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
@@ -90721,7 +90854,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᎩᏟ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᎩᏟ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90844,16 +90977,16 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏩᏯ↺, ᎠᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -90953,12 +91086,12 @@ raggedcolumns
 
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏂᏩᎭᏯ↺, ᎠᏪᏌ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏪᏌ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏪᏌ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -91085,12 +91218,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏦᎢ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏂᏩᎭᏯ↺, ᎠᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -91151,7 +91284,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏔᎵ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
 \end_layout
 
 \begin_deeper
@@ -91160,7 +91293,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᎭᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᎭᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -91217,7 +91350,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏦᎢ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
@@ -91226,7 +91359,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -91458,16 +91591,16 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᎠᏫ→)
+ (ᎠᏩᎭᏯ↺, ᎠᎠᏫ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᎠᏫ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᎠᏫ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᎭᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᎭᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -91491,12 +91624,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᎩᏟ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏂᎩᏟ↺, ᎠᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -91524,12 +91657,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏦᎢ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᎠᏫ→)
+ (ᎠᏂᏩᏯ↺, ᎠᎠᏫ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᎠᏫ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᎠᏫ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -91557,7 +91690,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏔᎵ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏩᎭᏯ↺, ᎠᏂᏪᏌ→)
 \end_layout
 
 \begin_deeper
@@ -91566,7 +91699,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᎭᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᎭᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -91633,7 +91766,7 @@ raggedcolumns
 
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏦᎢ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᏪᏌ→)
+ (ᎠᏩᏯ↺, ᎠᏂᏪᏌ→)
 \end_layout
 
 \begin_deeper
@@ -91642,7 +91775,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -91798,16 +91931,16 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᎭᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏩᎭᏯ↺, ᎠᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᏩᎭᏯ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏩᎭᏯ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
@@ -91831,12 +91964,12 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎠᏂᏔᎵ↺ ᎠᎴ ᏌᏊ→.
- (ᎠᏂᏩᏯ↺, ᎠᏂᏥᏍᏚ→)
+ (ᎠᏂᏩᏯ↺, ᎠᏥᏍᏚ→)
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏂᏥᏍᏚ, ᏙᎯᏧ?
+[Ꭰ→Ꭱ] ᎣᏏᏲ ᎠᏥᏍᏚ, ᏙᎯᏧ?
 \end_layout
 
 \begin_layout Enumerate
@@ -91864,7 +91997,7 @@ raggedcolumns
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᏊ↺ ᎠᎴ ᎠᏂᏔᎵ→.
- (ᎠᏂᎩᏟ↺, ᎠᏂᏪᏌ→)
+ (ᎠᎩᏟ↺, ᎠᏂᏪᏌ→)
 \end_layout
 
 \begin_deeper
@@ -91873,7 +92006,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᏂᎩᏟ, ᏙᎯᏊ.
+[Ꭱ→Ꭰ] ᎣᏏᏲ ᎠᎩᏟ, ᏙᎯᏊ.
  ᏂᎯᎾᎲ?
 \end_layout
 
