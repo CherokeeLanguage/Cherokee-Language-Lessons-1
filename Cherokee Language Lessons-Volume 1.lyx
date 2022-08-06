@@ -955,9 +955,8 @@ In addition to the TPR and TPRS approaches, there are also sections explaining
 \end_layout
 
 \begin_layout Standard
-At the start of each chapter will be a reference to a set of audio only
- lessons hosted by the Voice Republic™ platform that should be completed
- before starting the chapter.
+Before the start of each chapter you should do the matching set of online
+ audio lessons.
 \end_layout
 
 \begin_layout Chapter
@@ -88671,19 +88670,6 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎠᏫ [à:ni:ʔahwi] 
-\begin_inset Quotes eld
-\end_inset
-
-The deer people.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
 ᎠᎠᏫ [aʔahwi] 
 \begin_inset Quotes eld
 \end_inset
@@ -88695,20 +88681,20 @@ One of the deer people.
 
 \end_layout
 
-\end_deeper
+\begin_deeper
 \begin_layout Description
-ᎠᏂᎩᏟ [à:ni:gi:hli] 
+ᎠᏂᎠᏫ [à:ni:ʔahwi] 
 \begin_inset Quotes eld
 \end_inset
 
-The dog people.
+The deer people.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_deeper
+\end_deeper
 \begin_layout Description
 ᎠᎩᏟ [agi:hli] 
 \begin_inset Quotes eld
@@ -88721,20 +88707,20 @@ One of the dog people.
 
 \end_layout
 
-\end_deeper
+\begin_deeper
 \begin_layout Description
-ᎠᏂᏥᏍᏚ [à:ni:ji:sdu] 
+ᎠᏂᎩᏟ [à:ni:gi:hli] 
 \begin_inset Quotes eld
 \end_inset
 
-The rabbit people.
+The dog people.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_deeper
+\end_deeper
 \begin_layout Description
 ᎠᏥᏍᏚ [aji:sdu] 
 \begin_inset Quotes eld
@@ -88747,20 +88733,20 @@ A member of the rabbit people.
 
 \end_layout
 
-\end_deeper
+\begin_deeper
 \begin_layout Description
-ᎠᏂᏩᎭᏯ [à:ni:wahaya] 
+ᎠᏂᏥᏍᏚ [à:ni:ji:sdu] 
 \begin_inset Quotes eld
 \end_inset
 
-The wolf people.
+The rabbit people.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_deeper
+\end_deeper
 \begin_layout Description
 ᎠᏩᎭᏯ [awahaya] 
 \begin_inset Quotes eld
@@ -88773,13 +88759,26 @@ A member of the wolf people.
 
 \end_layout
 
-\end_deeper
+\begin_deeper
 \begin_layout Description
-ᎠᏂᏪᏌ [à:ni:wě:sa] 
+ᎠᏂᏩᎭᏯ [à:ni:wahaya] 
 \begin_inset Quotes eld
 \end_inset
 
-The cat people.
+The wolf people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᏪᏌ [awě:sa] 
+\begin_inset Quotes eld
+\end_inset
+
+A member of the cat people.
 \begin_inset Quotes erd
 \end_inset
 
@@ -88788,11 +88787,11 @@ The cat people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏪᏌ [awě:sa] 
+ᎠᏂᏪᏌ [à:ni:wě:sa] 
 \begin_inset Quotes eld
 \end_inset
 
-A member of the cat people.
+The cat people.
 \begin_inset Quotes erd
 \end_inset
 
