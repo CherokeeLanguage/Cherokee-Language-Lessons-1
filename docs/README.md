@@ -13,3 +13,8 @@ Visit the following URL or search YouTube for “Cherokee Language CLL 1” and 
 Matching audio is also provided in downloadable MP3 format at CherokeeLessons.com. Visit the following URL.
 
 * URL: https://bit.ly/3z1IpOK
+
+To report an issue with the book, the audio, or other materials:
+
+* URL: https://github.com/CherokeeLanguage/Cherokee-Language-Lessons-1/issues
+
