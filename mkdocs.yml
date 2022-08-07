@@ -14,9 +14,9 @@ plugins:
   - print-site
 
 #Copyright (shown at the footer)
-copyright: 'Creative Commons Share-Alike Attribution (CC-BY)'
+copyright: 'Creative Commons Share-Alike Attribution (CC-SA-BY) unless otherwise noted.'
 
-# Meterial theme
+# Material theme
 theme:
   name: 'material'
   palette:
