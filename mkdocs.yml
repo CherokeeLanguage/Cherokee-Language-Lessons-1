@@ -14,7 +14,7 @@ plugins:
   - print-site
 
 #Copyright (shown at the footer)
-copyright: 'Creative Commons Share-Alike Attribution (CC-SA-BY) unless otherwise noted.'
+copyright: "All material is Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted."
 
 # Material theme
 theme:
