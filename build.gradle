@@ -1,0 +1,35 @@
+plugins {
+	id "idea"
+    id 'ru.vyarus.mkdocs'
+    id 'ru.vyarus.use-python'
+}
+
+repositories {
+	mavenCentral()
+	google()
+	maven { url 'https://jitpack.io' }
+}
+
+idea.module.name = "CLL-1"
+
+python {
+    pip 'pip:22.2.1'
+
+    pip "mkdocs-awesome-pages-plugin:2.8.0"
+    pip 'mkdocs-semiliterate:0.5.0' // used to pull in documentation from submodules and include in repo documentation
+
+    pip 'mkdocs-print-site-plugin:2.3.4' // To enable download of documentation as a PDF
+    pip 'mkdocs-graphviz:1.4.4' // for inline graphs using graphviz
+    pip 'mkdocs-video:1.3.0' // for video embedding
+    pip 'mkdocs-autorefs:0.4.1'
+
+    pip 'mkdocs:1.3.1'
+    pip 'mkdocs-material:8.3.9'
+    pip 'pygments:2.12.0'
+    pip 'pymdown-extensions:9.5'
+}
+
+mkdocs.sourcesDir = "."
+mkdocs.publish.docPath = ''
+mkdocs.strict = true
+

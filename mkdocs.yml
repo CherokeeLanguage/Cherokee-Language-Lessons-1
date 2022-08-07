@@ -1,0 +1,74 @@
+
+site_name: "Cherokee Language Lessons 1"
+docs_dir: "docs"
+
+plugins:
+  - awesome-pages:
+      collapse_single_pages: true
+#  - semiliterate:
+#      include_folders: [ "./src/**", "./*/src/**", "./docs/**", "./*/docs/**", "./database/**", "./JavaPrograms/**" ]
+#      ignore_folders: [ "**/build", "build" ]
+  - search
+  - autorefs
+  - mkdocs-video
+  - print-site
+
+#Copyright (shown at the footer)
+copyright: 'Creative Commons Share-Alike Attribution (CC-BY)'
+
+# Meterial theme
+theme:
+  name: 'material'
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    #- navigation.instant
+    - navigation.tracking
+    - navigation.top
+
+# Extensions
+markdown_extensions:
+  - mkdocs_graphviz
+  - abbr
+  - admonition
+  - attr_list
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
