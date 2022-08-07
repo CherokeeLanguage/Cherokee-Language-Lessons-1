@@ -261,7 +261,7 @@ Published by Michael Conrad at Smashwords
 \end_layout
 
 \begin_layout Standard
-Copyright 2021, Michael Conrad
+Copyright 2022, Michael Conrad
 \end_layout
 
 \begin_layout Standard
@@ -602,13 +602,32 @@ Cherokee is a language of description and of relationship.
 
 \begin_layout Standard
 To report an issue with the book, the audio, or other materials or would
- like to make a suggestion or comment, please visit us on the web at: 
+ like to make a suggestion or comment, please use the online issue tracker.
+\end_layout
+
+\begin_layout Standard
+Visit the following URL or scan the QR code.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/qr/cherokeelessons-com-audio.png
+	width 1in
+	height 1in
+	groupId qr
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
-https://github.com/CherokeeLanguage/Cherokee-Language-Lessons-1/issues
+https://bit.ly/3zB1O9z
 \end_layout
 
 \end_inset
@@ -621,7 +640,7 @@ If reporting an issue please check for any already submitted issues that
  address what you are reporting and add your comment there if there is one
  available.
  If there isn't an issue that matches the issue you are reporting, hit the
- "[New issue]" button instead.
+ "[New issue]" button.
 \end_layout
 
 \begin_layout Chapter
