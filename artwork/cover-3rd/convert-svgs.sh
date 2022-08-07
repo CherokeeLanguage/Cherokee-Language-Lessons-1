@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 cd "$(dirname "$0")" || exit 1
 
 export OMP_NUM_THREADS=4
@@ -27,8 +27,9 @@ for D in *; do
 		if [ ! -f "$svg" ]; then continue; fi
 		pdf="$(echo "$svg"|sed 's/.svg$/.pdf/')"
 		if [ -f "pdfs/$pdf" ]; then rm "pdfs/$pdf"; fi
-		inkscape -T -z -b=white -y=1.0 -A "pdfs/${pdf}" --export-pdf-version="1.5" \
-			-d ${RES} --export-area-page "${svg}"
+		inkscape -T -z -b white -y 1.0 --batch-process \
+			-o "pdfs/${pdf}" --export-overwrite --export-type=PDF \
+			-d ${RES} --export-area-page --export-png-color-mode=RGB_16 "${svg}"
 	done
 
 	echo "Creating pngs"
@@ -37,8 +38,9 @@ for D in *; do
 	for svg in *.svg; do
 		if [ ! -f "$svg" ]; then continue; fi
 		png="$(echo "$svg"|sed 's/.svg$/.png/')"
-		rm "pngs/$png"
-		inkscape -o "pngs/${png}" -C --export-background=white --export-background-opacity=1.0 --export-png-color-mode=RGB_16 -d ${RES} --export-area-page "${svg}"
+		if [ -f "pngs/$png" ]; then rm "pngs/$png"; fi
+		inkscape -o "pngs/${png}" -C --export-background=white --export-background-opacity=1.0 \
+		 --export-png-color-mode=RGB_16 -d ${RES} --export-area-page "${svg}"
 		convert "pngs/${png}" -scale "50%" "pngs/half-${png}"
 	done
 
