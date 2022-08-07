@@ -601,19 +601,27 @@ Cherokee is a language of description and of relationship.
 \end_layout
 
 \begin_layout Standard
-If you find what you believe to be an error in this material or would like
- to make a suggestion or comment, please visit us on the web at: 
+To report an issue with the book, the audio, or other materials or would
+ like to make a suggestion or comment, please visit us on the web at: 
 \begin_inset Flex URL
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
-https://github.com/CherokeeLanguage/CherokeeLessons.com/issues
+https://github.com/CherokeeLanguage/Cherokee-Language-Lessons-1/issues
 \end_layout
 
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+If reporting an issue please check for any already submitted issues that
+ address what you are reporting and add your comment there if there is one
+ available.
+ If there isn't an issue that matches the issue you are reporting, hit the
+ "[New issue]" button instead.
 \end_layout
 
 \begin_layout Chapter
