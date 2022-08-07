@@ -25,7 +25,7 @@ cd "$(dirname "$0")" || exit 1
 
 pdftotext -r 300 -layout -nopgbrk -enc "UTF-8" "$Source"
 
-export T="/tmp/pdfsam-$$"
+export T="$(mktemp -d -t pdfsam-XXXXXXXXX)" # "/tmp/pdfsam-$$"
 mkdir -p "$T"
 
 #split PDF up into parts that should maintain UNICODE properly instead of doing it via print to pdf

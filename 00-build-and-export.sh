@@ -18,7 +18,7 @@ wrkFile="Cherokee Language Lessons-Volume 1"
 lyxFile="${wrkFile}.lyx"
 lyxWithCoverFile="${wrkFile}-embedded-cover.lyx"
 cd "$(dirname "$0")" || exit 1
-DEST="/home/muksihs/Sync/Cherokee/CherokeeLanguageLessons/Volume-01-3rd-edition/MASTER/"
+DEST="${HOME}/Sync/Cherokee/CherokeeLanguageLessons/Volume-01-3rd-edition/MASTER/"
 mkdir -p "$DEST"
 cp scripts/autosplit-answers.sh "$DEST"
 
