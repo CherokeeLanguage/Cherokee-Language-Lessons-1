@@ -1,3 +1,4 @@
+import pathlib
 import sys
 from dataclasses import asdict, dataclass
 import os
@@ -13,6 +14,7 @@ ENTRY_REGEX: str = "-?[Ꭰ-Ᏼ]+-?"
 @dataclass
 class Config:
     already_used: list[str] = field(default_factory=list)
+    vocabulary_dir: str = "vocabulary"
     entries_file: str = "vocabulary.txt"
     unmatched_file: str = "vocabulary-unmatched.txt"
     vocab_template: str = "vocabulary-template.lyx"
@@ -39,16 +41,18 @@ def main() -> None:
     config: Config = Config()
     config.load()
 
+    pathlib.Path(config.vocabulary_dir).mkdir(exist_ok=True)
+
     already_used: list[str]
     if config.already_used:
         already_used = config.already_used
     else:
         already_used = []
 
-    entries_file = config.entries_file
-    unmatched_file = config.unmatched_file
+    entries_file = os.path.join(config.vocabulary_dir, config.entries_file)
+    unmatched_file = os.path.join(config.vocabulary_dir, config.unmatched_file)
     vocab_template = config.vocab_template
-    vocab_lyx = config.vocab_lyx
+    vocab_lyx = os.path.join(config.vocabulary_dir, config.vocab_lyx)
     source_file = config.source_file
     terms: list[str] = extract_terms(source_file)
     entries: dict[str] = dict()
