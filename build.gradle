@@ -10,7 +10,7 @@ repositories {
 	maven { url 'https://jitpack.io' }
 }
 
-idea.module.name = "CLL-1"
+idea.module.name = "Cherokee Language Lessons 1"
 
 python {
     pip 'pip:22.2.1'
