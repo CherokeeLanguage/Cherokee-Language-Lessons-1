@@ -10,6 +10,7 @@
 * [cll1-10-people-cards.pdf](cll1-10-people-cards.pdf)
 * [cll1-11-cards.pdf](cll1-11-cards.pdf)
 * [cll1-12-cards.pdf](cll1-12-cards.pdf)
+* [cll1-14-cards-color.pdf](cll1-14-cards-color.pdf)
 * [cll1-14-cards.pdf](cll1-14-cards.pdf)
 * [cll1-15-cards-for-coloring.pdf](cll1-15-cards-for-coloring.pdf)
 * [cll1-17-cards.pdf](cll1-17-cards.pdf)
