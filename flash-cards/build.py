@@ -1,48 +1,59 @@
-#!/bin/bash
-FLD="cll1-flashcards"
-
+#!/usr/bin/env bash
+"""true" '''\'
 set -e
-set -o pipefail
+eval "$(${CONDA_EXE:-conda} shell.bash hook)"
+conda activate cherokee-lessons
+exec python "$0" "$@"
+exit $?
+''"""
+import os
+import pathlib
+import shutil
+import subprocess
 
-trap 'echo; echo ERROR; echo; read a;' ERR
 
-#run from the dir I am stored in
-cd "$(dirname "$0")" 
+def main() -> None:
 
-rm -rfv "$FLD" || true
-mkdir "$FLD" || true
+    output_folder: pathlib.Path = pathlib.Path("cll1-flashcards")
+    os.chdir(pathlib.Path(__file__).resolve().parent)
+    shutil.rmtree(output_folder, ignore_errors=True)
+    output_folder.mkdir()
 
-#uses xelatex from the "texlive" (mostly unicode compliant) latex distribution
-for x in *tex; do
-	xelatex "$x" 
-	rm *.aux
-	rm *.log
-	PDF="$(echo "$x"|sed 's/.tex$/.pdf/')"
-	mv -v "$PDF" "$FLD"/.
-done
+    for tex_file in pathlib.Path(".").glob("*.tex"):
+        subprocess.run(["xelatex", tex_file], check=True)
+        pdf_file: pathlib.Path = tex_file.with_suffix(".pdf")
+        shutil.move(pdf_file, output_folder)
+        pdf_file.with_suffix(".aux").unlink()
+        pdf_file.with_suffix(".log").unlink()
 
-zip "$FLD".zip -r "$FLD"/
+    zip_file = output_folder.with_suffix(".zip")
+    docs_folder = pathlib.Path("..", "docs", "Flash Cards")
+    subprocess.run(["zip", zip_file, "-r", output_folder])
+    shutil.copy(zip_file, docs_folder)
+    for pdf_file in docs_folder.glob("*.pdf"):
+        pdf_file.unlink()
 
-cp -v "$FLD".zip "../docs/Flash Cards/."
+    index_md: str = """
+    # Flash Cards
+    
+    ## ZIP Archive
+    
+    * Zip of all flashcards: [${FLD}.zip](${FLD}.zip).
+    
+    ## Individual PDFs
+    
+    """
 
-rm -v "../docs/Flash Cards/"*.pdf
+    for pdf_file in output_folder.resolve().glob("*.pdf"):
+        shutil.copy(pdf_file, docs_folder)
+        pdf_name = pdf_file.name
+        index_md += f"* [{pdf_name}]({pdf_name})\n"
 
-dest_dir="../docs/Flash Cards"
-md="$dest_dir/index.md"
-(
-  echo "# Flash Cards"
-  echo
-  echo "## ZIP Archive"
-  echo
-  echo "* Zip of all flashcards: [${FLD}.zip](${FLD}.zip)."
-  echo
-  echo "## Individual PDFs"
-  echo
+    index_md += "\n"
 
-  for pdf in "$FLD"/*.pdf; do
-    cp "$pdf" "$dest_dir"
-    pdf_name=$(basename "$pdf")
-    echo "* [$pdf_name]($pdf_name)"
-  done
-  echo
-) > "$md"
+    with open(docs_folder.resolve("index.md"), "w") as w:
+        w.write(index_md)
+
+
+if __name__ == '__main__':
+    main()
