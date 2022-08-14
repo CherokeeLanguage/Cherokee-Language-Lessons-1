@@ -105691,8 +105691,13 @@ Fix the bad grammar
 \end_layout
 
 \begin_layout Standard
-Write out each of the following Cherokee sentences with the correct word
- forms substituted for the incorrect word forms.
+Write out the following Cherokee sentences with the correct word forms substitut
+ed for the incorrect word forms.
+ 
+\emph on
+Do not write out the incorrect sentences.
+
+\emph default
  Compare your answers to the answers in the next section.
  The first three have been done as examples.
  ☞ 
@@ -106748,85 +106753,37 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎦᏯ ᎠᏃᏍᏓ ᎩᏟ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
 ᎠᏂᏍᎦᏯ ᎠᏃᏍᏓ ᎩᏟ ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᏣᎳᎩ ᏌᎪᏂᎨ ᏄᎾ ᎠᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᏣᎳᎩ ᏌᎪᏂᎨ ᏄᎾ ᎠᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᏲᏁᎦ ᎤᏂᏲ ᎠᎭᏫ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᏲᏁᎦ ᎤᏂᏲ ᎠᎭᏫ ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏳᏣ ᎠᏃᏍᏓ ᎠᎩᎵᏏ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᎨᏳᏣ ᎠᏃᏍᏓ ᎠᏂᎩᎵᏏ ᏓᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏳᏣ ᎤᏁᎦ ᏚᏯ ᎠᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᎨᏳᏣ ᎤᏁᎦ ᏚᏯ ᎠᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏯ ᎤᏂᏲ ᎠᏴᏫ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᎨᏯ ᎤᏂᏲ ᎠᏂᏴᏫ ᏓᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᎩᎦᎨ ᏩᎭᏯ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏍᎦᏯ ᎠᏂᎩᎦᎨ ᏩᎭᏯ ᏓᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᏌᎪᏂᎨ ᏩᎭᏯ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏌᎪᏂᎨ ᏩᎭᏯ ᏥᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -106871,85 +106828,37 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏣᎳᎩ ᎤᏂᏲ ᎠᎩᎵᏏ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
 ᎠᏣᎳᎩ ᎤᏂᏲ ᎠᏂᎩᎵᏏ ᏓᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎩᎨ ᏐᏈᎵ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
  ᎠᎩᎨ ᏐᏈᎵ ᏥᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᏧᏣ ᎤᏬᏗᎨ ᏩᏯ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏧᏣ ᏧᏃᏗᎨ ᏩᏯ ᏓᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎣᏍᏓ ᎠᏂᏧᏣ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏃᏍᏓ ᎠᏂᏧᏣ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
 \begin_layout Enumerate
 ᎤᏬᏗᎨ ᏥᏍᏚ ᏥᎪᏩᏘᎭ.
 \end_layout
 
-\begin_deeper
-\begin_layout Enumerate
-ᎤᏬᏗᎨ ᏥᏍᏚ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎤᏲᎢ ᎠᎨᏳᏣ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎤᏲ ᎠᎨᏳᏣ ᏥᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎣᏍᏓ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏃᏍᏓ ᎠᏂᎨᏯ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎬᎿᎨ ᎪᏪᎵ ᏕᎯᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᏗᎬᎿᎨ ᏗᎪᏪᎵ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -106997,82 +106906,34 @@ raggedcolumns
 ᎣᏍᏓ ᎠᏣᎳᎩ ᏥᎪᏩᏘᎭ.
 \end_layout
 
-\begin_deeper
-\begin_layout Enumerate
-ᎣᏍᏓ ᎠᏣᎳᎩ ᏥᎪᏩᏘᎭ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-ᎠᏂᏲᏁᎦ ᏌᎪᏂᎨ ᏪᏌ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᏲᏁᎦ ᎠᏂᏌᎪᏂᎨ ᏪᏌ ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎬᏂᎨ ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
  ᏗᎬᏂᎨ ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᏍᎦᏯ ᎤᏁᎦ ᏗᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᏍᎦᏯ ᏧᏁᎦ ᏗᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏲᎾ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᏲᎾ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᏂᎩᎵᏏ ᎩᎨ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᎩᎵᏏ  ᎠᏂᎩᎨ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎠᎨᏯ ᎤᏬᏗᎨ ᏚᏯ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᎨᏯ ᏧᏬᏗᎨ ᏚᏯ ᏓᏂᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-ᎢᏤᎢᏳᏍᏗ ᎠᏫ ᎦᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
 \begin_layout Enumerate
 ᎠᏂᏤᎢᏳᏍᏗ ᎠᏫ ᎦᏥᎪᏩᏘᎭ.
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
