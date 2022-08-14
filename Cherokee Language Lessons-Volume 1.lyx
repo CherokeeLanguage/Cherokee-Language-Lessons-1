@@ -101545,9 +101545,9 @@ Each challenge-response should be done as in the following example:
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ] ᎤᏁᎦ ᎩᏟ.
-  ᎤᏬᏗᎨ ᏪᏌ.
-  ᎬᎿᎨ ᎩᏟ.
+[Ꭰ] ᎤᏁᎦ ᎩᏟ [i].
+ ᎤᏬᏗᎨ ᏪᏌ [a].
+ ᎬᎿᎨ ᎩᏟ.
   ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
 \end_layout
 
@@ -101572,6 +101572,31 @@ Each challenge-response should be done as in the following example:
 .
 \end_layout
 
+\begin_layout Standard
+☞ 
+\emph on
+Some forms match up to multiple cards.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+[i]
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+[a]
+\begin_inset Quotes erd
+\end_inset
+
+ represent inanimate (dead) and animate (alive) to indicate which card to
+ use.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎦᏙ ᎤᏍᏗ ᎬᎿᎨ?
 \end_layout
@@ -101596,7 +101621,6 @@ Which one is black?
 
 \end_layout
 
-\end_deeper
 \begin_layout Enumerate
 [Ꭱ] ⇒ ᎬᎿᎨ ᎩᏟ.
 \end_layout
@@ -101756,9 +101780,9 @@ Set 1
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎤᏁᎦ ᎩᏟ.
-  ᎤᏬᏗᎨ ᏪᏌ.
-  ᎬᎿᎨ ᎩᏟ.
+[Ꭰ] ᎤᏁᎦ ᎩᏟ [i].
+ ᎤᏬᏗᎨ ᏪᏌ [i].
+ ᎬᎿᎨ ᎩᏟ.
   ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
   
 \end_layout
@@ -101800,8 +101824,8 @@ Set 1
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎤᏬᏗᎨ ᏪᏌ.
-  ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
+[Ꭰ] ᎤᏬᏗᎨ ᏪᏌ [a].
+ ᎢᏤᎢᏳᏍᏗ ᏪᏌ [i].
   ᎬᎿᎨ ᎩᏟ.
   ᏓᎶᏂᎨ ᏪᏌ.
   
@@ -101870,11 +101894,11 @@ Set 2
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
+[Ꭰ] ᎢᏤᎢᏳᏍᏗ ᏪᏌ [i].
   ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
   ᎬᎿᎨ ᏅᏯ.
-  ᎤᏁᎦ ᎩᏟ.
-  
+  ᎤᏁᎦ ᎩᏟ [i].
+ 
 \end_layout
 
 \begin_deeper
@@ -101893,7 +101917,7 @@ Set 2
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᏌᎪᏂᎨ ᎩᏟ.
-  ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
+  ᎢᏤᎢᏳᏍᏗ ᏪᏌ [i].
   ᎬᎿᎨ ᏅᏯ.
   ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ.
   
@@ -101901,7 +101925,7 @@ Set 2
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ?
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ?
 \end_layout
 
 \begin_layout Enumerate
@@ -101916,9 +101940,8 @@ Set 2
 \begin_layout Enumerate
 [Ꭰ] ᎠᏓᎶᏂᎨ ᎩᏟ.
   ᏓᎶᏂᎨ ᏅᏯ.
-  ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
-  ᎤᏁᎦ ᎩᏟ.
-  
+  ᎢᏤᎢᏳᏍᏗ ᏪᏌ [i].
+ ᎤᏁᎦ ᎩᏟ [i].
 \end_layout
 
 \begin_deeper
@@ -101939,8 +101962,8 @@ Set 2
 [Ꭰ] ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
   ᎠᏌᎪᏂᎨ ᏪᏌ.
   ᎩᎦᎨ ᏪᏌ.
-  ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
-  
+  ᎢᏤᎢᏳᏍᏗ ᏪᏌ [a].
+ 
 \end_layout
 
 \begin_deeper
@@ -101962,9 +101985,9 @@ Set 3
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ] ᎤᏁᎦ ᎩᏟ.
-  ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
-  ᎤᏬᏗᎨ ᏅᏯ.
+[Ꭰ] ᎤᏁᎦ ᎩᏟ [a].
+ ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
+ ᎤᏬᏗᎨ ᏅᏯ.
   ᎩᎦᎨ ᏪᏌ.
   
 \end_layout
@@ -101984,16 +102007,16 @@ Set 3
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎬᎿᎨ ᏅᏯ.
-  ᎤᏬᏗᎨ ᏅᏯ.
+[Ꭰ] ᎤᏬᏗᎨ ᏅᏯ.
+  ᎬᎿᎨ ᏅᏯ.
+  ᏓᎶᏂᎨ ᎩᏟ.
   ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ.
-  ᎠᏌᎪᏂᎨ ᏪᏌ.
   
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ?
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ?
 \end_layout
 
 \begin_layout Enumerate
@@ -102006,33 +102029,33 @@ Set 3
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
-  ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ.
-  ᎠᏓᎭᎵᎨ ᏪᏌ.
-  ᎬᎿᎨ ᎩᏟ.
+[Ꭰ] ᎠᎩᎦᎨ ᎩᏟ.
+  ᎤᏁᎦ ᎩᏟ [a].
+ ᏓᎶᏂᎨ ᏪᏌ.
+  ᏌᎪᏂᎨ ᎩᏟ.
   
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ?
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ⇒ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
+[Ꭱ] ⇒ ᏌᎪᏂᎨ ᎩᏟ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᎤᏍᎪᎸ ᎩᏟ ᏓᎶᏂᎨ.
+[Ꭱ] ᎯᎠ ᎩᏟ ᏌᎪᏂᎨ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
 [Ꭰ] ᎬᎿᎨ ᏪᏌ.
-  ᎤᏁᎦ ᎩᏟ.
-  ᎠᎩᎦᎨ ᎩᏟ.
-  ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
-  
+  ᎩᎦᎨ ᏪᏌ.
+  ᎢᏤᎢᏳᏍᏗ ᏪᏌ [a].
+  ᎤᏬᏗᎨ ᏪᏌ [i].
+ 
 \end_layout
 
 \begin_deeper
@@ -102050,10 +102073,10 @@ Set 3
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
-  ᎠᏓᎭᎵᎨ ᏪᏌ.
+[Ꭰ] ᏓᎶᏂᎨ ᏅᏯ.
+  ᎤᏁᎦ ᏅᏯ.
   ᎠᎩᎦᎨ ᎩᏟ.
-  ᎤᏬᏗᎨ ᏪᏌ.
+  ᎠᏓᎭᎵᎨ ᎩᏟ.
   
 \end_layout
 
@@ -102076,29 +102099,51 @@ Set 4
 \end_layout
 
 \begin_layout Enumerate
-[Ꭰ] ᎬᎿᎨ ᏪᏌ.
-  ᎩᎦᎨ ᏪᏌ.
+[Ꭰ] ᏓᎶᏂᎨ ᏅᏯ.
+  ᎠᏓᎭᎵᎨ ᏪᏌ.
+  ᎠᎩᎦᎨ ᎩᏟ.
   ᎤᏬᏗᎨ ᏅᏯ.
-  ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
   
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ?
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ⇒ ᎤᏬᏗᎨ ᏅᏯ.
+[Ꭱ] ⇒ ᎠᏓᎭᎵᎨ ᏪᏌ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᏅᏯ ᎤᏬᏗᎨ.
+[Ꭱ] ᎯᎠ ᏪᏌ ᎠᏓᎭᎵᎨ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎤᏬᏗᎨ ᏪᏌ.
+[Ꭰ] ᎩᎦᎨ ᏪᏌ.
+  ᎤᏁᎦ ᏅᏯ.
+  ᎬᎿᎨ ᏪᏌ.
+  ᏓᎶᏂᎨ ᏅᏯ.
+  
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎤᏁᎦ ᏅᏯ.
+\end_layout
+
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏅᏯ ᎤᏁᎦ.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎤᏬᏗᎨ ᏪᏌ [a].
   ᎤᏁᎦ ᏅᏯ.
   ᏓᎶᏂᎨ ᏅᏯ.
   ᎩᎦᎨ ᏪᏌ.
@@ -102120,68 +102165,46 @@ Set 4
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎩᎦᎨ ᏪᏌ.
+[Ꭰ] ᎠᏓᎭᎵᎨ ᏪᏌ.
+  ᎤᏬᏗᎨ ᏅᏯ.
   ᎤᏁᎦ ᏅᏯ.
-  ᎠᏓᎭᎵᎨ ᏪᏌ.
-  ᏓᎶᏂᎨ ᎩᏟ.
+  ᏓᎶᏂᎨ ᏪᏌ.
   
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ⇒ ᎤᏁᎦ ᏅᏯ.
+[Ꭱ] ⇒ ᎤᏬᏗᎨ ᏅᏯ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᏅᏯ ᎤᏁᎦ.
+[Ꭱ] ᎯᎠ ᏅᏯ ᎤᏬᏗᎨ.
 \end_layout
 
 \end_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎤᏬᏗᎨ ᏅᏯ.
-  ᏌᎪᏂᎨ ᎩᏟ.
+[Ꭰ] ᏌᎪᏂᎨ ᎩᏟ.
   ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
-  ᎠᏓᎭᎵᎨ ᏪᏌ.
+  ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ.
+  ᎤᏬᏗᎨ ᏅᏯ.
   
 \end_layout
 
 \begin_deeper
 \begin_layout Enumerate
-[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ?
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ⇒ ᎠᏓᎭᎵᎨ ᏪᏌ.
+[Ꭱ] ⇒ ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
 \end_layout
 
 \begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᏪᏌ ᎠᏓᎭᎵᎨ.
-\end_layout
-
-\end_deeper
-\begin_layout Enumerate
-[Ꭰ] ᎠᏓᎭᎵᎨ ᎩᏟ.
-  ᎤᏬᏗᎨ ᏪᏌ.
-  ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
-  ᎬᎿᎨ ᎩᏟ.
-  
-\end_layout
-
-\begin_deeper
-\begin_layout Enumerate
-[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ?
-\end_layout
-
-\begin_layout Enumerate
-[Ꭱ] ⇒ ᎠᏓᎭᎵᎨ ᎩᏟ.
-\end_layout
-
-\begin_layout Enumerate
-[Ꭱ] ᎯᎠ ᎩᏟ ᎠᏓᎭᎵᎨ.
+[Ꭱ] ᎯᎠ ᎩᏟ ᎢᏤᎢᏳᏍᏗ.
 \end_layout
 
 \end_deeper
