@@ -6,16 +6,16 @@
 
 ## Individual PDFs
 
-* [cll1-06-cards.pdf](cll1-06-cards.pdf)
-* [cll1-10-people-cards.pdf](cll1-10-people-cards.pdf)
-* [cll1-11-cards.pdf](cll1-11-cards.pdf)
-* [cll1-12-cards.pdf](cll1-12-cards.pdf)
-* [cll1-14-cards-color.pdf](cll1-14-cards-color.pdf)
-* [cll1-14-cards.pdf](cll1-14-cards.pdf)
-* [cll1-15-cards-for-coloring.pdf](cll1-15-cards-for-coloring.pdf)
-* [cll1-17-cards.pdf](cll1-17-cards.pdf)
-* [cll1-18-cards.pdf](cll1-18-cards.pdf)
-* [cll1-19-cards.pdf](cll1-19-cards.pdf)
-* [cll1-20-cards.pdf](cll1-20-cards.pdf)
-* [cll1-21-cards.pdf](cll1-21-cards.pdf)
+* [cll1-chapter-cll1-chapter-06-do-them-cards.pdf](cll1-chapter-cll1-chapter-06-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-10-do-them-cards.pdf](cll1-chapter-cll1-chapter-10-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-11-do-them-cards.pdf](cll1-chapter-cll1-chapter-11-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-12-do-them-cards.pdf](cll1-chapter-cll1-chapter-12-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-14-do-them-cards-colored.pdf](cll1-chapter-cll1-chapter-14-do-them-cards-colored.pdf)
+* [cll1-chapter-cll1-chapter-14-do-them-cards.pdf](cll1-chapter-cll1-chapter-14-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-15-do-them-cards-not-colored.pdf](cll1-chapter-cll1-chapter-15-do-them-cards-not-colored.pdf)
+* [cll1-chapter-cll1-chapter-17-do-them-cards.pdf](cll1-chapter-cll1-chapter-17-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-18-do-them-cards.pdf](cll1-chapter-cll1-chapter-18-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-19-do-them-cards.pdf](cll1-chapter-cll1-chapter-19-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-20-do-them-cards.pdf](cll1-chapter-cll1-chapter-20-do-them-cards.pdf)
+* [cll1-chapter-cll1-chapter-21-do-them-cards.pdf](cll1-chapter-cll1-chapter-21-do-them-cards.pdf)
 

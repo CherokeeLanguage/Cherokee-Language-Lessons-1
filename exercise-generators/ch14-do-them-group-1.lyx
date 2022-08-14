@@ -1,0 +1,597 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extbook
+\begin_preamble
+%\usepackage{wallpaper}
+\usepackage{graphicx}
+\usepackage{multicol}
+\widowpenalty=10000
+\clubpenalty=10000 
+\raggedbottom
+\usepackage{pdflscape}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Subsection*
+ᏣᎳᎩ
+\end_layout
+
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎠᏓᎭᎵᎨ ᏪᏌ. 
+ 
+ᏌᎪᏂᎨ ᎩᏟ. 
+ 
+ᎤᏬᏗᎨ ᏅᏯ. 
+ 
+ᎠᏌᎪᏂᎨ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏌᎪᏂᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎠᏌᎪᏂᎨ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏪᏌ ᎠᏌᎪᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎤᏁᎦ ᎩᏟ. 
+ 
+ᎤᏬᏗᎨ ᏪᏌ. 
+ 
+ᎬᎿᎨ ᎩᏟ. 
+ 
+ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎬᎿᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎬᎿᎨ ᎩᏟ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎩᏟ ᎬᎿᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎠᏓᎭᎵᎨ ᎩᏟ. 
+ 
+ᏓᎶᏂᎨ ᏅᏯ. 
+ 
+ᎠᏓᎶᏂᎨ ᎩᏟ. 
+ 
+ᎩᎦᎨ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᏓᎶᏂᎨ ᏅᏯ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏅᏯ ᏓᎶᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎤᏬᏗᎨ ᏪᏌ. 
+ 
+ᎢᏤᎢᏳᏍᏗ ᏪᏌ. 
+ 
+ᎬᎿᎨ ᎩᏟ. 
+ 
+ᏓᎶᏂᎨ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᏓᎶᏂᎨ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏪᏌ ᏓᎶᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ. 
+ 
+ᏓᎶᏂᎨ ᎩᏟ. 
+ 
+ᎬᎿᎨ ᎩᏟ. 
+ 
+ᏌᎪᏂᎨ ᎩᏟ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎩᏟ ᏓᎶᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎤᏁᎦ ᏅᏯ. 
+ 
+ᎠᏌᎪᏂᎨ ᏪᏌ. 
+ 
+ᏓᎶᏂᎨ ᏪᏌ. 
+ 
+ᎬᎿᎨ ᏅᏯ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎬᎿᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎬᎿᎨ ᏅᏯ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏅᏯ ᎬᎿᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎢᏤᎢᏳᏍᏗ ᏪᏌ. 
+ 
+ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ. 
+ 
+ᎬᎿᎨ ᏅᏯ. 
+ 
+ᎤᏁᎦ ᎩᏟ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎢᏤᎢᏳᏍᏗ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏪᏌ ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᏌᎪᏂᎨ ᎩᏟ. 
+ 
+ᎢᏤᎢᏳᏍᏗ ᏪᏌ. 
+ 
+ᎬᎿᎨ ᏅᏯ. 
+ 
+ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎤᏍᎪᎸ ᏪᏌ ᎠᏓᎶᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎠᏓᎶᏂᎨ ᎩᏟ. 
+ 
+ᏓᎶᏂᎨ ᏅᏯ. 
+ 
+ᎢᏤᎢᏳᏍᏗ ᏪᏌ. 
+ 
+ᎤᏁᎦ ᎩᏟ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎶᏂᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎠᏓᎶᏂᎨ ᎩᏟ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎩᏟ ᎠᏓᎶᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ. 
+ 
+ᎠᏌᎪᏂᎨ ᏪᏌ. 
+ 
+ᎩᎦᎨ ᏪᏌ. 
+ 
+ᎢᏤᎢᏳᏍᏗ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎩᎦᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎩᎦᎨ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏪᏌ ᎩᎦᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎤᏁᎦ ᎩᏟ. 
+ 
+ᎢᏤᎢᏳᏍᏗ ᎩᏟ. 
+ 
+ᎤᏬᏗᎨ ᏅᏯ. 
+ 
+ᎩᎦᎨ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎤᏁᎦ ᎩᏟ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎩᏟ ᎤᏁᎦ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎤᏬᏗᎨ ᏅᏯ. 
+ 
+ᎬᎿᎨ ᏅᏯ. 
+ 
+ᏓᎶᏂᎨ ᎩᏟ. 
+ 
+ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏓᎶᏂᎨ ᎤᏍᎪᎸ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎤᏍᎪᎸ ᏅᏯ ᏓᎶᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎠᎩᎦᎨ ᎩᏟ. 
+ 
+ᎤᏁᎦ ᎩᏟ. 
+ 
+ᏓᎶᏂᎨ ᏪᏌ. 
+ 
+ᏌᎪᏂᎨ ᎩᏟ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᏌᎪᏂᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᏌᎪᏂᎨ ᎩᏟ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎩᏟ ᏌᎪᏂᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎬᎿᎨ ᏪᏌ. 
+ 
+ᎩᎦᎨ ᏪᏌ. 
+ 
+ᎢᏤᎢᏳᏍᏗ ᏪᏌ. 
+ 
+ᎤᏬᏗᎨ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎬᎿᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎬᎿᎨ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏪᏌ ᎬᎿᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᏓᎶᏂᎨ ᏅᏯ. 
+ 
+ᎤᏁᎦ ᏅᏯ. 
+ 
+ᎠᎩᎦᎨ ᎩᏟ. 
+ 
+ᎠᏓᎭᎵᎨ ᎩᏟ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᎩᎦᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎠᎩᎦᎨ ᎩᏟ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎩᏟ ᎠᎩᎦᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᏓᎶᏂᎨ ᏅᏯ. 
+ 
+ᎠᏓᎭᎵᎨ ᏪᏌ. 
+ 
+ᎠᎩᎦᎨ ᎩᏟ. 
+ 
+ᎤᏬᏗᎨ ᏅᏯ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎠᏓᎭᎵᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎠᏓᎭᎵᎨ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏪᏌ ᎠᏓᎭᎵᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎩᎦᎨ ᏪᏌ. 
+ 
+ᎤᏁᎦ ᏅᏯ. 
+ 
+ᎬᎿᎨ ᏪᏌ. 
+ 
+ᏓᎶᏂᎨ ᏅᏯ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏁᎦ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎤᏁᎦ ᏅᏯ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏅᏯ ᎤᏁᎦ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎤᏬᏗᎨ ᏪᏌ. 
+ 
+ᎤᏁᎦ ᏅᏯ. 
+ 
+ᏓᎶᏂᎨ ᏅᏯ. 
+ 
+ᎩᎦᎨ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎤᏬᏗᎨ ᏪᏌ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏪᏌ ᎤᏬᏗᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᎠᏓᎭᎵᎨ ᏪᏌ. 
+ 
+ᎤᏬᏗᎨ ᏅᏯ. 
+ 
+ᎤᏁᎦ ᏅᏯ. 
+ 
+ᏓᎶᏂᎨ ᏪᏌ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎤᏬᏗᎨ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎤᏬᏗᎨ ᏅᏯ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᏅᏯ ᎤᏬᏗᎨ.
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+[Ꭰ] ᏌᎪᏂᎨ ᎩᏟ. 
+ 
+ᎢᏤᎢᏳᏍᏗ ᎩᏟ. 
+ 
+ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ. 
+ 
+ᎤᏬᏗᎨ ᏅᏯ. 
+ 
+\begin_deeper
+\begin_layout Enumerate
+[Ꭰ] ᎦᏙ ᎤᏍᏗ ᎢᏤᎢᏳᏍᏗ?
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ⇒ ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
+\end_layout
+\begin_layout Enumerate
+[Ꭱ] ᎯᎠ ᎩᏟ ᎢᏤᎢᏳᏍᏗ.
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ᎩᎵᏏ
+\end_layout
+
+\begin_layout Standard
+gilisi
+\end_layout
+
+\end_body
+\end_document
