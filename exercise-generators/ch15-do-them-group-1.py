@@ -12,34 +12,33 @@ import random
 import re
 import textwrap
 
-output_lyx: str = "ch14-do-them-group-1.lyx"
+output_lyx: str = "ch15-do-them-group-1.lyx"
 
 raw_text: str = """
-ᎤᏁᎦ ᏅᏯ.
-ᎤᏬᏗᎨ ᏅᏯ.
-ᎬᎿᎨ ᏅᏯ.
-ᏓᎶᏂᎨ ᏅᏯ.
-ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏅᏯ.
-ᎢᏤᎢᏳᏍᏗ ᎩᏟ.
+ᎢᏤᎢᏳᏍᏗ ᎩᏟ [a].
 ᎤᏁᎦ ᎩᏟ [a].
-ᎠᎩᎦᎨ ᎩᏟ.
-ᎠᏓᎭᎵᎨ ᎩᏟ.
+ᎤᏬᏗᎨ ᎩᏟ [a].
+ᎠᎬᎿᎨ ᎩᏟ.
 ᎠᏓᎶᏂᎨ ᎩᏟ.
-ᎢᏤᎢᏳᏍᏗ ᏪᏌ [a].
-ᎤᏬᏗᎨ ᏪᏌ [a].
-ᎠᏌᎪᏂᎨ ᏪᏌ.
-ᎠᏓᎭᎵᎨ ᏪᏌ.
-ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ.
+ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
+ᎠᏂᏤᎢᏳᏍᏗ ᏪᏌ.
+ᎤᏂᏁᎦ ᏪᏌ.
+ᏧᏃᏗᎨ ᏪᏌ.
+ᎠᏂᎬᎿᎨ ᏪᏌ.
+ᎠᏂᏓᎶᏂᎨ ᏪᏌ.
+ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᏪᏌ.
+ᎢᏤᎢᏳᏍᏗ ᎩᏟ [i].
 ᎤᏁᎦ ᎩᏟ [i].
+ᎤᏬᏗᎨ ᎩᏟ [i].
 ᎬᎿᎨ ᎩᏟ.
-ᏌᎪᏂᎨ ᎩᏟ.
 ᏓᎶᏂᎨ ᎩᏟ.
 ᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎩᏟ.
-ᎢᏤᎢᏳᏍᏗ ᏪᏌ [i].
-ᎤᏬᏗᎨ ᏪᏌ [i].
-ᎩᎦᎨ ᏪᏌ.
-ᎬᎿᎨ ᏪᏌ.
-ᏓᎶᏂᎨ ᏪᏌ.
+ᏗᏤᎢᏳᏍᏗ ᏪᏌ.
+ᏧᏁᎦ ᏪᏌ.
+ᏧᏬᏗᎨ ᏪᏌ.
+ᏗᎬᎿᎨ ᏪᏌ.
+ᏗᏓᎶᏂᎨ ᏪᏌ.
+ᏗᏓᎶᏂᎨ ᏧᏍᎪᎸ ᏪᏌ.
 """
 
 plural_forms: set[str] = set()
@@ -174,7 +173,7 @@ def main() -> None:
         jalagi_content += question_text
         jalagi_content += "\\end_layout\n"
 
-        this_is_form = correct_answer[correct_answer.index(" ") + 1:]
+        this_is_form = correct_answer[correct_answer.rindex(" ")+1:]
         if this_is_form[-1] in ".!?,":
             this_is_form = this_is_form[:-1]
 
@@ -198,6 +197,7 @@ def main() -> None:
     jalagi_content += "\n"
     jalagi_content += multicolumn_end
     jalagi_content += "\n"
+
 
     with open("written-jalagi-gilisi-template.lyx") as r:
         lyx_content = r.read()
