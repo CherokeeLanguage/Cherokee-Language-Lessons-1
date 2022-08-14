@@ -100969,7 +100969,7 @@ You will need the following:
 \end_layout
 
 \begin_layout Itemize
-40
+25
 \emph on
  white
 \emph default
@@ -100992,131 +100992,7 @@ boxes of 8
 \end_layout
 
 \begin_layout Standard
-The exercise has been split up into two grouped sets.
-\end_layout
-
-\begin_layout Standard
-For the first group you will need to create nine index cards.
-\end_layout
-
-\begin_layout Standard
-On each card's front draw a black square then color it in with the specificed
- color.
- On the reverse side write the color's name.
-\end_layout
-
-\begin_layout Standard
-Example:
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Graphics
-	filename artwork/for-colors/square-black.jpg
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
- 
-\begin_inset Graphics
-	filename artwork/for-colors/square-black-name.jpg
-	lyxscale 15
-	width 15col%
-	groupId index-card-fronts
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The colors you will be using are:
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Green / ᎢᏤᎢᏳᏍᏗ.
- ☞ 
-\emph on
-If anyone is red-green color blind, add a drawing of a leaf.
-\end_layout
-
-\begin_layout Itemize
-White / ᎤᏁᎦ.
- ☞ 
-\emph on
-Don't color in the square.
-\end_layout
-
-\begin_layout Itemize
-Brown / ᎤᏬᏗᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Red / ᎩᎦᎨᎢ.
- (ᎩᎨᎢ.)
-\end_layout
-
-\begin_layout Itemize
-Black / ᎬᎿᎨᎢ.
- (ᎬᏂᎨᎢ.)
-\end_layout
-
-\begin_layout Itemize
-Blue / ᏌᎪᏂᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Purple / ᏓᎭᎵᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Yellow / ᏓᎶᏂᎨᎢ.
-\end_layout
-
-\begin_layout Itemize
-Orange / ᏓᎶᏂᎨ ᎤᏍᎪᎸᎢ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-For the second set you will need to create five copies of each the following
- index cards:
+You will need to create five copies of each of the following index cards:
 \end_layout
 
 \begin_layout Standard
