@@ -1,0 +1,830 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extbook
+\begin_preamble
+%\usepackage{wallpaper}
+\usepackage{graphicx}
+\usepackage{multicol}
+\widowpenalty=10000
+\clubpenalty=10000 
+\raggedbottom
+\usepackage{pdflscape}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Subsection*
+ᏣᎳᎩ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏚᏯ ᎤᏂᎭ Ꮎ ᎠᏂᏴᏫ.\begin_deeper
+\begin_layout Enumerate
+The people have a brown bean.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎠᎩᎦᎨ ᏲᎾ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The person has a red bear.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫᏯᎢ ᎤᏁᎦ ᏌᏛᏗ ᎤᎭ.\begin_deeper
+\begin_layout Enumerate
+The Native American has a white trap.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎩᎦᎨ ᏄᎾ ᎤᎭ Ꮎ ᎠᏴᏫᏯᎢ.\begin_deeper
+\begin_layout Enumerate
+The Native American has a red potato.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏬᏗᎨ ᏲᎾ ᎤᏂᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a brown bear.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᏌᏛᏗ ᏣᎭ.\begin_deeper
+\begin_layout Enumerate
+You have a red trap.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏁᎦ ᏄᎾ ᎠᎩᎭ.\begin_deeper
+\begin_layout Enumerate
+I have a white potato.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫ.\begin_deeper
+\begin_layout Enumerate
+The people have a brown squirrel.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎤᏁᎦ ᏄᎾ ᎤᎭ.\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a white potato.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᏛᏗ ᎠᎩᎭ.\begin_deeper
+\begin_layout Enumerate
+I have a brown trap.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎠᎩᎦᎨ ᎠᏫ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red deer.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏄᎾ ᎤᎭ Ꮎ ᎠᎩᎵᏏ.\begin_deeper
+\begin_layout Enumerate
+The English person has a brown potato.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᏩᎭᏯ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫᏯᎢ.\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a red wolf.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᎩᎵᏏ ᎤᏬᏗᎨ ᏚᏯ ᎤᏂᎭ.\begin_deeper
+\begin_layout Enumerate
+The English people have a brown bean.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᎩᎵᏏ ᎠᎩᎦᎨ ᏌᎶᎵ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The English person has a red squirrel.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎩᎦᎨ ᏄᎾ ᎤᎭ.\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red potato.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏁᎦ ᏥᏍᏚ ᎤᏩᎧᎭ Ꮎ ᎠᏴᏫ.\begin_deeper
+\begin_layout Enumerate
+The person has a white rabbit.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎩᎦᎨ ᏚᏯ ᎠᎩᎭ.\begin_deeper
+\begin_layout Enumerate
+I have a red bean.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏩᎧᎭ Ꮎ ᎠᏴᏫᏯᎢ.\begin_deeper
+\begin_layout Enumerate
+The Native American has a brown squirrel.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏁᎦ ᏌᏛᏗ ᏣᎭ.\begin_deeper
+\begin_layout Enumerate
+You have a white trap.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᎫᎴ ᎤᏂᎭ Ꮎ ᎠᏂᎩᎵᏏ.\begin_deeper
+\begin_layout Enumerate
+The English people have a red acorn.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏅᏯ ᎠᎩᎭ.\begin_deeper
+\begin_layout Enumerate
+I have a brown rock.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏁᎦ ᏩᎭᏯ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫ.\begin_deeper
+\begin_layout Enumerate
+The people have a white wolf.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᎠᏫ ᎠᎩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+I have a red deer.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᎩᎵᏏ ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The English person has a brown squirrel.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᎫᎴ ᎤᎭ Ꮎ ᎠᏴᏫ.\begin_deeper
+\begin_layout Enumerate
+The person has a white acorn.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎩᎦᎨ ᏌᏛᏗ ᎤᎭ Ꮎ ᎠᏣᎳᎩ.\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red trap.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏚᏯ ᎠᎩᎭ.\begin_deeper
+\begin_layout Enumerate
+I have a brown bean.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+ᎤᏁᎦ ᏲᎾ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏣᎳᎩ.\begin_deeper
+\begin_layout Enumerate
+The Cherokee people have a white bear.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏣᎳᎩ ᎩᎦᎨ ᎫᎴ ᎤᏂᎭ.\begin_deeper
+\begin_layout Enumerate
+The Cherokee people have a red acorn.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏁᎦ ᏥᏍᏚ ᎤᏂᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a white rabbit.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎠᎩᎦᎨ ᎠᏫ ᎤᏂᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The people have a red deer.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᎩᎵᏏ ᎤᏬᏗᎨ ᏥᏍᏚ ᎤᏂᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The English people have a brown rabbit.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏩᎭᏯ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The person has a white wolf.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎤᏬᏗᎨ ᏄᎾ ᎤᏂᎭ.\begin_deeper
+\begin_layout Enumerate
+The people have a brown potato.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏲᎾ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The person has a white bear.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎩᎦᎨ ᏅᏯ ᎤᏂᎭ.\begin_deeper
+\begin_layout Enumerate
+The people have a red rock.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏁᎦ ᏌᎶᎵ ᎤᏂᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a white squirrel.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎠᎩᎦᎨ ᏲᎾ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red bear.
+
+\end_layout
+\end_deeper
+
+\end_layout
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏌᎶᎵ ᎤᏩᎧᎭ.\begin_deeper
+\begin_layout Enumerate
+The person has a white squirrel.
+
+\end_layout
+\end_deeper
+
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ᎩᎵᏏ
+\end_layout
+
+\begin_layout Standard
+gilisi
+\end_layout
+
+\end_body
+\end_document
