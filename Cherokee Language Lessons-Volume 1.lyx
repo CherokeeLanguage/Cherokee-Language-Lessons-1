@@ -98705,7 +98705,7 @@ The challenges and answers may show some pronunciation marks.
 \end_layout
 
 \begin_layout Subsection
-Challenges
+ᏣᎳᎩ
 \end_layout
 
 \begin_layout Enumerate
@@ -98879,7 +98879,7 @@ Bear is his or her name.
 
 \end_deeper
 \begin_layout Subsection
-Answers
+ᎩᎵᏏ
 \end_layout
 
 \begin_layout Enumerate
@@ -107974,6 +107974,7 @@ Black.
 \end_inset
 
 He's black.
+ A black person.
 \begin_inset Quotes erd
 \end_inset
 
@@ -108162,7 +108163,7 @@ Bound Pronouns:
 
 \begin_layout Itemize
 Provide the same information that the English pronouns such as “I”, “he”,
- “she” do.
+ and “she” do.
 \end_layout
 
 \begin_layout Itemize
@@ -109307,6 +109308,11 @@ You will need to reuse the following people index cards:
 \end_layout
 
 \begin_layout Standard
+They should be labeled on the reverse, in order: ᎠᏴᏫᏯᎢ, ᎠᏣᎳᎩ, ᎠᎩᎵᏏ, ᎠᏲᏁᎦ,
+ and ᎠᏴᏫ.
+\end_layout
+
+\begin_layout Standard
 Divide up into groups of four to seven.
 \end_layout
 
@@ -109944,7 +109950,7 @@ You will need to add the following people index cards:
 
 \begin_layout Standard
 Label each card on the reverse as follows: ᎠᏂᏴᏫᏯᎢ, ᎠᏂᏣᎳᎩ, ᎠᏂᎩᎵᏏ, ᎠᏂᏲᏁᎦ,
- ᎠᏂᏴᏫ.
+ and ᎠᏂᏴᏫ.
 \end_layout
 
 \begin_layout Standard
@@ -112464,6 +112470,1275 @@ raggedcolumns
 \begin_layout Enumerate
 ᎠᏲᏁᎦ ᏩᎭᏯ ᎤᏩᎧᎭ.
  ᎥᏍᎩ ᏩᎭᏯ ᎤᏩᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏙᏪᎸᎦ (Write them)
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee sentences followed by an English
+ translation.
+\end_layout
+
+\begin_layout Standard
+When done, compare your answers to the answers at the end of this section.
+\end_layout
+
+\begin_layout Subsection
+ᏣᎳᎩ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏚᏯ ᎤᏂᎭ Ꮎ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎠᎩᎦᎨ ᏲᎾ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫᏯᎢ ᎤᏁᎦ ᏌᏛᏗ ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᏄᎾ ᎤᎭ Ꮎ ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏬᏗᎨ ᏲᎾ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᏌᏛᏗ ᏣᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᏄᎾ ᎠᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎤᏁᎦ ᏄᎾ ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᏛᏗ ᎠᎩᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎠᎩᎦᎨ ᎠᏫ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏄᎾ ᎤᎭ Ꮎ ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᏩᎭᏯ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᎩᎵᏏ ᎤᏬᏗᎨ ᏚᏯ ᎤᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᎩᎵᏏ ᎠᎩᎦᎨ ᏌᎶᎵ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎩᎦᎨ ᏄᎾ ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᏥᏍᏚ ᎤᏩᎧᎭ Ꮎ ᎠᏴᏫ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᏚᏯ ᎠᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏩᎧᎭ Ꮎ ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᏌᏛᏗ ᏣᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᎫᎴ ᎤᏂᎭ Ꮎ ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏅᏯ ᎠᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᏩᎭᏯ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᎠᏫ ᎠᎩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᎩᎵᏏ ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᎫᎴ ᎤᎭ Ꮎ ᎠᏴᏫ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᏌᏛᏗ ᎤᎭ Ꮎ ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏚᏯ ᎠᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᏲᎾ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏣᎳᎩ ᎩᎦᎨ ᎫᎴ ᎤᏂᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏁᎦ ᏥᏍᏚ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎠᎩᎦᎨ ᎠᏫ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᎩᎵᏏ ᎤᏬᏗᎨ ᏥᏍᏚ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏩᎭᏯ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎤᏬᏗᎨ ᏄᎾ ᎤᏂᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏲᎾ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎩᎦᎨ ᏅᏯ ᎤᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏁᎦ ᏌᎶᎵ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎠᎩᎦᎨ ᏲᎾ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏌᎶᎵ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+ᎩᎵᏏ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏚᏯ ᎤᏂᎭ Ꮎ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people have a brown bean.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎠᎩᎦᎨ ᏲᎾ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The person has a red bear.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫᏯᎢ ᎤᏁᎦ ᏌᏛᏗ ᎤᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Native American has a white trap.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᎦᎨ ᏄᎾ ᎤᎭ Ꮎ ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Native American has a red potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏬᏗᎨ ᏲᎾ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a brown bear.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᏌᏛᏗ ᏣᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You have a red trap.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏁᎦ ᏄᎾ ᎠᎩᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I have a white potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people have a brown squirrel.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎤᏁᎦ ᏄᎾ ᎤᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a white potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᏛᏗ ᎠᎩᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I have a brown trap.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎠᎩᎦᎨ ᎠᏫ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏄᎾ ᎤᎭ Ꮎ ᎠᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The English person has a brown potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᏩᎭᏯ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a red wolf.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᎩᎵᏏ ᎤᏬᏗᎨ ᏚᏯ ᎤᏂᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The English people have a brown bean.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᎩᎵᏏ ᎠᎩᎦᎨ ᏌᎶᎵ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The English person has a red squirrel.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎩᎦᎨ ᏄᎾ ᎤᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏁᎦ ᏥᏍᏚ ᎤᏩᎧᎭ Ꮎ ᎠᏴᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The person has a white rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᎦᎨ ᏚᏯ ᎠᎩᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I have a red bean.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏩᎧᎭ Ꮎ ᎠᏴᏫᏯᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Native American has a brown squirrel.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏁᎦ ᏌᏛᏗ ᏣᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You have a white trap.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎩᎦᎨ ᎫᎴ ᎤᏂᎭ Ꮎ ᎠᏂᎩᎵᏏ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The English people have a red acorn.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏅᏯ ᎠᎩᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I have a brown rock.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏁᎦ ᏩᎭᏯ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏴᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people have a white wolf.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᎠᏫ ᎠᎩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I have a red deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᎩᎵᏏ ᎤᏬᏗᎨ ᏌᎶᎵ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The English person has a brown squirrel.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎦ ᎫᎴ ᎤᎭ Ꮎ ᎠᏴᏫ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The person has a white acorn.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᎦᎨ ᏌᏛᏗ ᎤᎭ Ꮎ ᎠᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red trap.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏬᏗᎨ ᏚᏯ ᎠᎩᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I have a brown bean.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏁᎦ ᏲᎾ ᎤᏂᎧᎭ Ꮎ ᎠᏂᏣᎳᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cherokee people have a white bear.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏣᎳᎩ ᎩᎦᎨ ᎫᎴ ᎤᏂᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cherokee people have a red acorn.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏁᎦ ᏥᏍᏚ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a white rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎠᎩᎦᎨ ᎠᏫ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people have a red deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᎩᎵᏏ ᎤᏬᏗᎨ ᏥᏍᏚ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The English people have a brown rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏩᎭᏯ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The person has a white wolf.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎤᏬᏗᎨ ᏄᎾ ᎤᏂᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people have a brown potato.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏲᎾ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The person has a white bear.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫ ᎩᎦᎨ ᏅᏯ ᎤᏂᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people have a red rock.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏂᏴᏫᏯᎢ ᎤᏁᎦ ᏌᎶᎵ ᎤᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Native Americans have a white squirrel.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏣᎳᎩ ᎠᎩᎦᎨ ᏲᎾ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The Cherokee person has a red bear.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮎ ᎠᏴᏫ ᎤᏁᎦ ᏌᎶᎵ ᎤᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The person has a white squirrel.
 \end_layout
 
 \end_deeper
