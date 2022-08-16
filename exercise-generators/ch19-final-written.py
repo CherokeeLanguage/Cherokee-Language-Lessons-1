@@ -464,7 +464,28 @@ def main() -> None:
             sentence = sentence.replace("Ᏹ-Ꭳ", "Ᏺ")
             sentence = sentence.replace("Ᏹ-Ꭴ", "Ᏻ")
             sentence = sentence.replace("Ᏹ-Ꭵ", "Ᏼ")
+            sentence = sentence.replace("Ᏹ-Ꭽ", "Ꮿ")
+            sentence = sentence.replace("Ᏹ-Ꭾ", "Ᏸ")
+            sentence = sentence.replace("Ᏹ-Ꭿ", "Ᏹ")
+            sentence = sentence.replace("Ᏹ-Ꮀ", "Ᏺ")
+            sentence = sentence.replace("Ᏹ-Ꮁ", "Ᏻ")
+            sentence = sentence.replace("Ᏹ-Ꮂ", "Ᏼ")
             sentence = sentence.replace("Ᏹ-", "Ᏹ")
+
+        if "Ꮻ-" in sentence:
+            sentence = sentence.replace("Ꮻ-Ꭰ", "Ꮹ")
+            sentence = sentence.replace("Ꮻ-Ꭱ", "Ꮺ")
+            sentence = sentence.replace("Ꮻ-Ꭲ", "Ꮻ")
+            sentence = sentence.replace("Ꮻ-Ꭳ", "Ꮼ")
+            sentence = sentence.replace("Ꮻ-Ꭴ", "Ꮽ")
+            sentence = sentence.replace("Ꮻ-Ꭵ", "Ꮢ")
+            sentence = sentence.replace("Ꮻ-Ꭽ", "Ꮹ")
+            sentence = sentence.replace("Ꮻ-Ꭾ", "Ꮺ")
+            sentence = sentence.replace("Ꮻ-Ꭿ", "Ꮻ")
+            sentence = sentence.replace("Ꮻ-Ꮀ", "Ꮼ")
+            sentence = sentence.replace("Ꮻ-Ꮁ", "Ꮽ")
+            sentence = sentence.replace("Ꮻ-Ꮂ", "Ꮾ")
+            sentence = sentence.replace("Ꮻ-", "Ꮻ")
 
         if re.search("\\bᎥ?Ꮭ [Ꭰ-Ᏼ]+ ᏱᎩ\\b", sentence):
             continue
