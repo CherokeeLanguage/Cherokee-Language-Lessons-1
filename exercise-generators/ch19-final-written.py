@@ -14,7 +14,8 @@ import re
 
 from dataclasses import field
 
-output_lyx: str = "ch18-final-written.lyx"
+output_lyx: str = "ch19-final-written.lyx"
+prev_already: pathlib.Path = pathlib.Path("ch18-final-written-already.txt")
 
 multicolumn_begin: str = """
 \\begin_layout Standard
@@ -112,6 +113,20 @@ def verb_objects() -> list[VerbObject]:
 
     vo_list.append(VerbObject("ᎠᎩᎪᏩᏘᎭ", "3s", "1s", {"a"}))
     vo_list.append(VerbObject("ᏣᎪᏩᏘᎭ", "3s", "2s", {"a"}))
+
+    vo_list.append(VerbObject("ᎬᎩᎪᏩᏘᎭ", "3p", "1s", {"a"}))
+    vo_list.append(VerbObject("ᎨᏣᎪᏩᏘᎭ", "3p", "2s", {"a"}))
+
+    vo_list.append(VerbObject("ᏚᎭ", "3s", "3p", {"i", "neutral"}))
+    vo_list.append(VerbObject("ᏚᏂᎭ", "3p", "3p", {"i", "neutral"}))
+    vo_list.append(VerbObject("ᏓᎩᎭ", "1s", "3p", {"i", "neutral"}))
+    vo_list.append(VerbObject("ᏕᏣᎭ", "2s", "3p", {"i", "neutral"}))
+
+    vo_list.append(VerbObject("ᏚᏩᎧᎭ", "3s", "3p", {"a"}))
+    vo_list.append(VerbObject("ᏚᏂᎧᎭ", "3p", "3p", {"a"}))
+    vo_list.append(VerbObject("ᏓᎩᎧᎭ", "1s", "3p", {"a"}))
+    vo_list.append(VerbObject("ᏕᏣᎧᎭ", "2s", "3p", {"a"}))
+
     return vo_list
 
 
@@ -296,6 +311,21 @@ def alt_words(sentence: str) -> str:
     sentence = re.sub("\\bᎦᏙ\\b", random.choice(["ᎦᏙ", "Ꮩ"]), sentence)
     return sentence
 
+
+def load_previous_already():
+    already: set[str] = set()
+    with prev_already.open() as r:
+        for line in r:
+            line = line.strip()
+            if not line:
+                continue
+            if line.startswith("#"):
+                continue
+            line = re.sub("\\s+", " ", line).strip()
+            already.add(line)
+    return already
+
+
 def main() -> None:
     wanted_sets: int = 5
     wanted_per_set: int = 10
@@ -321,7 +351,7 @@ def main() -> None:
     prev_adj: str = ""
     prev_obj: str = ""
     prev_template: str = ""
-    already: set[str] = set()
+    already: set[str] = load_previous_already()
     templates: list[str] = sentence_templates()
     sentences: list[str] = list()
     while len(sentences) < wanted:
@@ -487,7 +517,7 @@ def main() -> None:
             w.write(sentence)
             w.write("\n")
     already_file = pathlib.Path(output_lyx)
-    already_file = already_file.with_stem(already_file.stem+"-already").with_suffix(".txt")
+    already_file = already_file.with_name(already_file.stem + "-already").with_suffix(".txt")
     with already_file.open("w") as w:
         for already_item in already:
             w.write(already_item)
