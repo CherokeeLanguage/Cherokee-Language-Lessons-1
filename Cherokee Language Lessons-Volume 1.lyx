@@ -30,7 +30,7 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
-\use_microtype false
+\use_microtype true
 \use_dash_ligatures false
 \graphics none
 \default_output_format pdf4
@@ -84625,7 +84625,7 @@ Good.
 \begin_inset Quotes eld
 \end_inset
 
-It is, isn't it? Right?
+It is, isn't it? Right? It does, doesn't it?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84659,7 +84659,7 @@ It is, isn't it?
 \end_inset
 
 Okay.
- It's okay, right?
+ Isn't it okay?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84673,7 +84673,7 @@ Okay.
 \end_inset
 
 One.
- It is one, right?
+ Isn't it one?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84723,7 +84723,7 @@ I.
 \begin_inset Quotes eld
 \end_inset
 
-It is me, right?
+Isn't it me?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84784,7 +84784,7 @@ But what about me?
 \begin_inset Quotes eld
 \end_inset
 
-It is just me, right?
+Isn't it just me?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84811,7 +84811,7 @@ You.
 \begin_inset Quotes eld
 \end_inset
 
-It is you, right?
+Isn't it you?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84872,7 +84872,7 @@ But what about you?
 \begin_inset Quotes eld
 \end_inset
 
-It is just you, right?
+Isn't it just you?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84899,7 +84899,7 @@ Okay.
 \begin_inset Quotes eld
 \end_inset
 
-It is okay, right?
+Isn't it okay?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84926,7 +84926,7 @@ Good.
 \begin_inset Quotes eld
 \end_inset
 
-It is good, right?
+Isn't it good?
 \begin_inset Quotes erd
 \end_inset
 
@@ -84966,7 +84966,7 @@ Bad.
 \begin_inset Quotes eld
 \end_inset
 
-It is bad, right?
+Isn't it bad?
 \begin_inset Quotes erd
 \end_inset
 
@@ -85006,7 +85006,7 @@ Cherokee.
 \begin_inset Quotes eld
 \end_inset
 
-It is Cherokee, right?
+Isn't it Cherokee?
 \begin_inset Quotes erd
 \end_inset
 
@@ -85031,7 +85031,7 @@ It is only Cherokee.
 \begin_inset Quotes eld
 \end_inset
 
-It is only Cherokee, right?
+Isn't it is only Cherokee?
 \begin_inset Quotes erd
 \end_inset
 
@@ -85926,7 +85926,7 @@ Each challenge-response comes in one of five main forms and should be done
 \begin_inset Quotes erd
 \end_inset
 
-: Yes, the deer is bad, right?
+: Yes, isn't the deer bad?
 \end_layout
 
 \begin_layout Enumerate
@@ -86093,7 +86093,7 @@ Each challenge-response comes in one of five main forms and should be done
 \begin_inset Quotes erd
 \end_inset
 
-: Yes, just the rabbit is bad, right?
+: Yes, isn't just the rabbit bad?
 \end_layout
 
 \begin_layout Enumerate
@@ -87787,8 +87787,7 @@ Only I am seeing the dog.
 
 \begin_deeper
 \begin_layout Enumerate
-The women see the wolf.
- Right?
+Don't the women see the wolf?
 \end_layout
 
 \end_deeper
@@ -87871,8 +87870,7 @@ Do you see them?
 
 \begin_deeper
 \begin_layout Enumerate
-The man sees the cats.
- Right?
+Doesn't the man see the cats.
 \end_layout
 
 \end_deeper
@@ -87912,7 +87910,7 @@ Do I see a deer?
 
 \begin_deeper
 \begin_layout Enumerate
-It is Cherokee, right?
+Isn't it Cherokee?
 \end_layout
 
 \end_deeper
@@ -88469,8 +88467,7 @@ The men see wolves.
 
 \begin_deeper
 \begin_layout Enumerate
-It's just a beaver or beavers.
- Right?
+Isn't it just a beaver or beavers?
 \end_layout
 
 \end_deeper
@@ -88603,7 +88600,7 @@ Only the man sees the potato.
 
 \begin_deeper
 \begin_layout Enumerate
-It is just well, right?
+Isn't it just well?
 \end_layout
 
 \end_deeper
@@ -88633,8 +88630,7 @@ Do you see them?
 
 \begin_deeper
 \begin_layout Enumerate
-The men see the papers.
- Right?
+Don't the men see the papers?
 \end_layout
 
 \end_deeper
@@ -89603,7 +89599,7 @@ rabbit person
 \begin_inset Quotes erd
 \end_inset
 
-, things are well, right?
+, aren't things well?
 \end_layout
 
 \begin_layout Enumerate
@@ -89851,7 +89847,7 @@ There are two
 \begin_inset Quotes erd
 \end_inset
 
-, things are well, right?
+, aren't things well?
 \end_layout
 
 \begin_layout Enumerate
@@ -90103,7 +90099,7 @@ the cat people
 \begin_inset Quotes erd
 \end_inset
 
-, things are well, right?
+, aren't things well?
 \end_layout
 
 \begin_layout Enumerate
@@ -97202,7 +97198,7 @@ Each person selects a name to be called and shows that name.
 \begin_inset Quotes erd
 \end_inset
 
-: Hello, things are well, right?
+: Hello, aren't things are well?
 \end_layout
 
 \begin_layout Enumerate
@@ -97395,7 +97391,7 @@ Each person selects a name to be called and shows that name.
 \begin_inset Quotes erd
 \end_inset
 
-: Hello, things are well, right?
+: Hello, aren't things are well?
 \end_layout
 
 \begin_layout Enumerate
@@ -98957,7 +98953,7 @@ They are called trees.
 \end_layout
 
 \begin_layout Standard
-Hello, things are well, right?
+Hello, aren't things are well?
 \end_layout
 
 \begin_layout Enumerate
@@ -99087,7 +99083,7 @@ They see a good squirrel.
 \end_layout
 
 \begin_layout Standard
-Hello, it is well, right?
+Hello, isn't it well?
 \end_layout
 
 \begin_layout Enumerate
@@ -100186,7 +100182,7 @@ Page 5
 \end_layout
 
 \begin_layout Description
-Girl David, it's well, right?
+Girl David, isn't it well?
 \end_layout
 
 \begin_layout Description
@@ -100358,7 +100354,7 @@ Bear
 \end_inset
 
 man Oh, hello girl.
- Things are well, right?
+ Aren't things well?
 \end_layout
 
 \begin_layout Description
@@ -118785,7 +118781,7 @@ Do you see papers or a book?
 
 \begin_deeper
 \begin_layout Enumerate
-The person sees me, right?
+Doesn't the person see me?
 \end_layout
 
 \end_deeper
@@ -118865,7 +118861,7 @@ Thomas sees me.
 
 \begin_deeper
 \begin_layout Enumerate
-You have him or her, right?
+Don't you have him or her?
 \end_layout
 
 \end_deeper
@@ -118968,7 +118964,7 @@ Does Charles have a yellow deer?
 
 \begin_deeper
 \begin_layout Enumerate
-I see beavers, right?
+Don't I see beavers?
 \end_layout
 
 \end_deeper
@@ -119111,7 +119107,7 @@ Who doesn't see you?
 
 \begin_deeper
 \begin_layout Enumerate
-The man sees me, right?
+Doesn't the man see me?
 \end_layout
 
 \end_deeper
@@ -119151,7 +119147,7 @@ I have something.
 
 \begin_deeper
 \begin_layout Enumerate
-I see pink dogs, right?
+Don't I see pink dogs?
 \end_layout
 
 \end_deeper
@@ -119214,7 +119210,7 @@ Mary doesn't have a squirrel.
 
 \begin_deeper
 \begin_layout Enumerate
-They have an acorn, right?
+Don't they have an acorn?
 \end_layout
 
 \end_deeper
@@ -119234,7 +119230,7 @@ Who again has an orange wolf?
 
 \begin_deeper
 \begin_layout Enumerate
-You see squirrels, right?
+Don't you see squirrels?
 \end_layout
 
 \end_deeper
@@ -119294,7 +119290,7 @@ They don't have a rock.
 
 \begin_deeper
 \begin_layout Enumerate
-They have orange bears, right?
+Don't they have orange bears?
 \end_layout
 
 \end_deeper
@@ -119427,7 +119423,7 @@ Do the girls have a bear?
 
 \begin_deeper
 \begin_layout Enumerate
-You see a dog, right?
+Don't you see a dog?
 \end_layout
 
 \end_deeper
@@ -124688,6 +124684,1157 @@ raggedcolumns
 \begin_layout Enumerate
 Ꮭ ᎠᏂᎩᎵᏏ ᎩᏟ ᏳᏂᎧᎭ.
  Ꮭ ᎥᏍᎩ ᎩᏟ ᏳᏂᎧᎭ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏙᏪᎸᎦ (Write them)
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee sentences followed by an English
+ translation.
+\end_layout
+
+\begin_layout Standard
+When done, compare your answers to the answers at the end of this section.
+\end_layout
+
+\begin_layout Subsection*
+ᏣᎳᎩ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎧᎭᏍ ᏌᎶᎵ?
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏌᏛᏗ ᏚᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏕᏣᎭᏧ ᏅᏯ?
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏙᎹᏏ ᏩᏯ ᏱᏚᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏩᏯ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏱᏚᏩᎧᎭ ᎠᎨᏳᏣ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏍᎩᎾ ᏱᏕᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Enumerate
+ᏙᏯ ᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Enumerate
+ᏚᎭᏍ ᏅᏯ?
+\end_layout
+
+\begin_layout Enumerate
+ᎬᎩᎪᏩᏘᎭᏧ ᎠᏂᏍᎦᏯ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏪᏌ ᏳᏩᎧᎭ ᏑᏌᏃ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏙᏯ ᏱᏓᎩᎧ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎩ ᎩᏟ ᎤᏩᎧᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏩᏯ ᏱᏚᏩᎧᎭ ᏑᏌᏃ.
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ ᎠᎩᎦᎨ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏥᏍᏚ ᏳᏂᎧ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᏟ ᏚᏩᎧ ᎠᏧᏣ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᎠᏫ ᏳᏂᎧ?
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏍᎩᎾ ᏱᏚᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏳᏩᎧ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏩᎭᏯ ᏱᎦᎯᎪᏩᏘ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎩ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᎠᏫ ᎤᏂᎧ?
+\end_layout
+
+\begin_layout Enumerate
+ᏣᎪᏩᏘᎭᏧ ᎠᎨᏯ?
+\end_layout
+
+\begin_layout Enumerate
+ᎬᎩᎪᏩᏘᏍ ᎠᏂᏧᏣ?
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯ ᎥᏝ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏱᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᏟ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏙᏯ ᏱᏚᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏪᏌ ᏱᎯᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏣᎪᏩᏘ ᏆᏆᎠ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏐᏈᎵ ᏱᏕᏣᎧ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏅᏯ ᏚᏂᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎪᏩᏘ ᎺᎵ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏣᎪᏩᏘ ᎠᏂᏧᏣ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏍᎩ ᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎩ ᏣᎪᏩᏘ?
+\end_layout
+
+\begin_layout Enumerate
+ᏣᎧᏧ ᏌᎶᎵ?
+\end_layout
+
+\begin_layout Enumerate
+ᏆᏆᎠ ᎠᏓᎭᎵᎨ ᏥᏍᏚ ᎤᏩᎧ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎭᏍ ᏌᏛᏗ?
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᏚᏯ ᎤᏂᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏥᏍᏚ ᏱᏓᎩᎧᎭ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏚᏂᎭᏧ ᎪᎱᏍᏗ?
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏩᎭᏯ ᏱᏓᎩᎧ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏪᏌ ᏱᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏌᎶᎵ ᏳᏩᎧ?
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏗᏌᏛᏗ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏣᏂ ᎠᏫ ᏳᏩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏩᎧᏧ ᎠᏫ ᏙᎹᏏ?
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᎠᏂᎨᏯ ᏱᏚᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏐᏈᎵ ᏯᎩᎧ.
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏣᎪᏩᏘᏍ ᎠᏂᎨᏳᏣ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ᎩᎵᏏ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎧᎭᏍ ᏌᎶᎵ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do I have a squirrel?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏗᏌᏛᏗ ᏚᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+He or she has traps.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏕᏣᎭᏧ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't you have rocks?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏙᎹᏏ ᏩᏯ ᏱᏚᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Thomas doesn't have wolves.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏩᏯ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I see gray wolves.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏱᏚᏩᎧᎭ ᎠᎨᏳᏣ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The girl doesn't have them.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏍᎩᎾ ᏱᏕᏥᎪᏩᏘ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I don't see them.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏙᏯ ᏥᎪᏩᏘ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I see a beaver.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏚᎭᏍ ᏅᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Does he or she have rocks?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎬᎩᎪᏩᏘᎭᏧ ᎠᏂᏍᎦᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't the men see me?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏪᏌ ᏳᏩᎧᎭ ᏑᏌᏃ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Susan doesn't have a cat.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏙᏯ ᏱᏓᎩᎧ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I don't have beavers.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎩ ᎩᏟ ᎤᏩᎧᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who again has a dog?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏩᏯ ᏱᏚᏩᎧᎭ ᏑᏌᏃ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Susan doesn't have wolves.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏲᎾ ᎠᎩᎦᎨ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The bear is red.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏥᏍᏚ ᏳᏂᎧ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+They don't have a rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ ᏚᏩᎧ ᎠᏧᏣ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The boy has dogs.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᎠᏫ ᏳᏂᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all doesn't have a deer?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏍᎩᎾ ᏱᏚᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+He or she doesn't have them.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏳᏩᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who doesn't have it?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏩᎭᏯ ᏱᎦᎯᎪᏩᏘ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You don't see wolves.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎩ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᎠᏫ ᎤᏂᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all again have a pink deer?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏣᎪᏩᏘᎭᏧ ᎠᎨᏯ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Doesn't the girl see you?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎬᎩᎪᏩᏘᏍ ᎠᏂᏧᏣ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't the boys see me?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏩᏯ ᎥᏝ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏱᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The wolf isn't pink.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The dog is blue-gray.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏙᏯ ᏱᏚᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+They don't have beavers.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏪᏌ ᏱᎯᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You don't see a cat.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏣᎪᏩᏘ ᏆᏆᎠ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Barbara sees you.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏐᏈᎵ ᏱᏕᏣᎧ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+You don't have horses.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏅᏯ ᏚᏂᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+They have rocks.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎩᎪᏩᏘ ᎺᎵ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Mary sees me.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏣᎪᏩᏘ ᎠᏂᏧᏣ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The boys don't see you.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏍᎩ ᏓᎩᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I have them.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎩ ᏣᎪᏩᏘ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who again sees you?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏣᎧᏧ ᏌᎶᎵ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't you have a squirrel?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏆᏆᎠ ᎠᏓᎭᎵᎨ ᏥᏍᏚ ᎤᏩᎧ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Barbara has a purple rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᎭᏍ ᏌᏛᏗ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Does he or she have a trap?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᏚᏯ ᎤᏂᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all have a bean?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏥᏍᏚ ᏱᏓᎩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I don't have rabbits.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏚᏂᎭᏧ ᎪᎱᏍᏗ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't they have things?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏩᎭᏯ ᏱᏓᎩᎧ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I don't have wolves.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏪᏌ ᏱᏥᎪᏩᏘ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I don't see a cat.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏌᎶᎵ ᏳᏩᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who doesn't have a squirrel?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏗᏌᏛᏗ ᏱᏓᎩᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I don't have traps.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏣᏂ ᎠᏫ ᏳᏩᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+John doesn't have a deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏩᎧᏧ ᎠᏫ ᏙᎹᏏ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Doesn't Thomas have a deer?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᎠᏂᎨᏯ ᏱᏚᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The girls don't have them.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏐᏈᎵ ᏯᎩᎧ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I don't have a horse.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎨᏣᎪᏩᏘᏍ ᎠᏂᎨᏳᏣ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do the girls see you?
 \end_layout
 
 \end_deeper
@@ -134136,7 +135283,7 @@ Mo I don't see that!
 \end_layout
 
 \begin_layout Description
-Mi This is just alright! Just good! Mo, you here, right?
+Mi This is just alright! Just good! Mo, aren't you here?
 \end_layout
 
 \begin_layout Description
@@ -134242,7 +135389,7 @@ and
 \begin_inset space ~
 \end_inset
 
-Ma You're good, right?
+Ma Aren't you good?
 \end_layout
 
 \begin_layout Description
