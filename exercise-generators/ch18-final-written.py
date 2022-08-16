@@ -1,0 +1,452 @@
+#!/usr/bin/env bash
+"""true" '''\'
+set -e
+eval "$(${CONDA_EXE:-conda} shell.bash hook)"
+conda activate cherokee-lessons
+exec python "$0" "$@"
+exit $?
+''"""
+import dataclasses
+import os
+import pathlib
+import random
+import re
+
+from dataclasses import field
+
+output_lyx: str = "ch18-final-written.lyx"
+
+multicolumn_begin: str = """
+\\begin_layout Standard
+\\begin_inset ERT
+status collapsed
+
+\\begin_layout Plain Layout
+
+
+\\backslash
+begin{multicols}{2}
+\\end_layout
+
+\\begin_layout Plain Layout
+
+
+\\backslash
+raggedcolumns
+\\end_layout
+
+\\end_inset
+
+
+\\end_layout
+"""
+
+multicolumn_end: str = """
+\\begin_layout Standard
+\\begin_inset ERT
+status collapsed
+
+\\begin_layout Plain Layout
+
+
+\\backslash
+end{multicols}
+\\end_layout
+
+\\end_inset
+
+
+\\end_layout
+"""
+
+
+@dataclasses.dataclass
+class VerbObject(object):
+    form: str = ""
+    subj: str = ""
+    obj: str = ""
+    classes: set[str] = field(default_factory=set)
+    templates: list[str] = field(default_factory=list)
+
+
+@dataclasses.dataclass
+class SubjectObject:
+    form: str = ""
+    subj: str = ""
+    classes: set[str] = field(default_factory=set)
+    is_person: bool = False
+
+
+@dataclasses.dataclass
+class Adjective:
+    form: str = ""
+    subj: str = ""
+    classes: set[str] = field(default_factory=set)
+    is_person: bool = False
+
+
+def verb_objects() -> list[VerbObject]:
+    vo_list: list[VerbObject] = list()
+    vo_list.append(VerbObject("ᎠᎪᏩᏘᎭ", "3s", "3s", set()))
+    vo_list.append(VerbObject("ᎠᏂᎪᏩᏘᎭ", "3s", "3s", set()))
+    vo_list.append(VerbObject("ᏓᎪᏩᏘᎭ", "3s", "3p", set()))
+    vo_list.append(VerbObject("ᏓᏂᎪᏩᏘᎭ", "3p", "3p", set()))
+    vo_list.append(VerbObject("ᏥᎪᏩᏘᎭ", "1s", "3s", {"a"}))
+    vo_list.append(VerbObject("ᏥᎪᏩᏘᎭ", "1s", "3s", {"i"}))
+    vo_list.append(VerbObject("ᎦᏥᎪᏩᏘᎭ", "1s", "3p", {"a"}))
+    vo_list.append(VerbObject("ᏕᏥᎪᏩᏘᎭ", "1s", "3p", {"i"}))
+    vo_list.append(VerbObject("ᎯᎪᏩᏘᎭ", "2s", "3s", {"a"}))
+    vo_list.append(VerbObject("ᎯᎪᏩᏘᎭ", "2s", "3s", {"i"}))
+    vo_list.append(VerbObject("ᎦᎯᎪᏩᏘᎭ", "2s", "3p", {"a"}))
+    vo_list.append(VerbObject("ᏕᎯᎪᏩᏘᎭ", "2s", "3p", {"i"}))
+
+    vo_list.append(VerbObject("ᎤᎭ", "3s", "3s", {"i", "neutral"}))
+    vo_list.append(VerbObject("ᎤᏂᎭ", "3p", "3s", {"i", "neutral"}))
+    vo_list.append(VerbObject("ᎠᎩᎭ", "1s", "3s", {"i", "neutral"}))
+    vo_list.append(VerbObject("ᏣᎭ", "2s", "3s", {"i", "neutral"}))
+
+    vo_list.append(VerbObject("ᎤᏩᎧᎭ", "3s", "3s", {"a"}))
+    vo_list.append(VerbObject("ᎤᏂᎧᎭ", "3p", "3s", {"a"}))
+    vo_list.append(VerbObject("ᎠᎩᎧᎭ", "1s", "3s", {"a"}))
+    vo_list.append(VerbObject("ᏣᎧᎭ", "2s", "3s", {"a"}))
+
+    vo_list.append(VerbObject("ᎠᎩᎪᏩᏘᎭ", "3s", "1s", {"a"}))
+    vo_list.append(VerbObject("ᏣᎪᏩᏘᎭ", "3s", "2s", {"a"}))
+    return vo_list
+
+
+def adjective_allowed(subject: str) -> bool:
+    if subject.startswith("ᎠᎢ"):
+        return True
+    if subject.startswith("ᎥᏍᎩ"):
+        return True
+    if subject.startswith("Ꭰ"):
+        return True
+    return False
+
+
+def subject_objects() -> list[SubjectObject]:
+    so_list: list[SubjectObject] = list()
+    so_list.append(SubjectObject("ᎠᎨᏯ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏂᎨᏯ", "3p", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏍᎦᏯ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏂᏍᎦᏯ", "3p", {"a"}, True))
+
+    so_list.append(SubjectObject("ᎩᏟ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᎩᏟ", "3p", {"a"}))
+    so_list.append(SubjectObject("ᏅᏯ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏅᏯ", "3p", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏪᏌ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᏪᏌ", "3p", {"a"}))
+
+    so_list.append(SubjectObject("ᎥᏍᎩᎾ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᎥᏍᎩᎾ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᎥᏍᎩᎾ", "3p", {"a", "neutral"}))
+    so_list.append(SubjectObject("ᎥᏍᎩᎾ", "3p", {"i"}))
+
+    so_list.append(SubjectObject("ᎯᎠ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᎯᎠ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᎯᎠ", "3p", {"a"}))
+    so_list.append(SubjectObject("ᎯᎠ", "3p", {"i", "neutral"}))
+
+    so_list.append(SubjectObject("ᎠᎭᏫ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᎠᎭᏫ", "3p", {"a"}))
+    so_list.append(SubjectObject("ᎪᏪᎵ", "3s", {"i"}))
+    so_list.append(SubjectObject("ᏗᎪᏪᎵ", "3p", {"i"}))
+    so_list.append(SubjectObject("ᎫᎴ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᎫᎴ", "3p", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏙᏯ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᏙᏯ", "3p", {"a"}))
+    so_list.append(SubjectObject("ᏚᏯ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏚᏯ", "3p", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏥᏍᏚ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᏥᏍᏚ", "3p", {"a"}))
+    so_list.append(SubjectObject("ᏩᎭᏯ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᏩᎭᏯ", "3p", {"a"}))
+
+    so_list.append(SubjectObject("ᎠᎨᏳᏣ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏂᎨᏳᏣ", "3p", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏧᏣ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏂᏧᏣ", "3p", {"a"}, True))
+
+    so_list.append(SubjectObject("ᏌᎶᎵ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᏌᎶᎵ", "3p", {"a"}))
+    so_list.append(SubjectObject("ᏌᏛᏗ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏗᏌᏛᏗ", "3p", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏐᏈᎵ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᏐᏈᎵ", "3p", {"a"}))
+    so_list.append(SubjectObject("ᏡᎬᎢ", "3s", {"i", "rod"}))
+    so_list.append(SubjectObject("ᏕᏡᎬᎢ", "3p", {"i", "rod"}))
+    so_list.append(SubjectObject("ᏲᎾ", "3s", {"a"}))
+    so_list.append(SubjectObject("ᏲᎾ", "3p", {"a"}))
+
+    so_list.append(SubjectObject("ᏴᏫ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᏴᏫ", "3p", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏴᏫ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᏂᏴᏫ", "3p", {"a"}, True))
+    so_list.append(SubjectObject("ᎠᎵᏌᏇᏘ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎡᏂᏙᏂ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎵᏂᏓ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎹᎦᎵ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎹᎦᏰᏘ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᎺᎵ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᏆᏆᎠ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᏑᏌᏃ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᏙᎹᏏ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᏕᏫᏗ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᏣᎵ", "3s", {"a"}, True))
+    so_list.append(SubjectObject("ᏣᏂ", "3s", {"a"}, True))
+
+    so_list.append(SubjectObject("ᎪᎱᏍᏗ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᎪᎱᏍᏗ", "3p", {"i", "neutral"}))
+    so_list.append(SubjectObject("Ꮭ ᎪᎱᏍᏗ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("Ꮭ ᎪᎱᏍᏗ", "3p", {"i", "neutral"}))
+
+    return so_list
+
+
+def adjectives_list() -> list[Adjective]:
+    a_list: list[Adjective] = list()
+
+    a_list.append(Adjective("ᎤᏁᎦ", "3s", {"i"}))
+    a_list.append(Adjective("ᎤᏁᎦ", "3s", {"a"}))
+    a_list.append(Adjective("ᎤᏬᏗᎨ", "3s", {"i"}))
+    a_list.append(Adjective("ᎤᏬᏗᎨ", "3s", {"a"}))
+
+    a_list.append(Adjective("ᎩᎦᎨ", "3s", {"i"}))
+    a_list.append(Adjective("ᎬᎿᎨ", "3s", {"i"}))
+    a_list.append(Adjective("ᏌᎪᏂᎨ", "3s", {"i"}))
+    a_list.append(Adjective("ᏓᎭᎵᎨ", "3s", {"i"}))
+    a_list.append(Adjective("ᏓᎶᏂᎨ", "3s", {"i"}))
+
+    a_list.append(Adjective("ᎠᎩᎦᎨ", "3s", {"a"}))
+    a_list.append(Adjective("ᎠᎬᎿᎨ", "3s", {"a"}))
+    a_list.append(Adjective("ᎠᏌᎪᏂᎨ", "3s", {"a"}))
+    a_list.append(Adjective("ᎠᏓᎭᎵᎨ", "3s", {"a"}))
+    a_list.append(Adjective("ᎠᏓᎶᏂᎨ", "3s", {"a"}))
+
+    a_list.append(Adjective("ᎩᎦᎨ ᎤᏍᎪᎸ", "3s", {"i"}))
+    a_list.append(Adjective("ᎠᎩᎦᎨ ᎤᏍᎪᎸ", "3s", {"a"}))
+    a_list.append(Adjective("ᎬᎿᎨ ᎤᏍᎪᎸ", "3s", {"i"}))
+    a_list.append(Adjective("ᎠᎬᎿᎨ ᎤᏍᎪᎸ", "3s", {"a"}))
+    a_list.append(Adjective("ᏌᎪᏂᎨ ᎤᏍᎪᎸ", "3s", {"i"}))
+    a_list.append(Adjective("ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ", "3s", {"a"}))
+    a_list.append(Adjective("ᏓᎶᏂᎨ ᎤᏍᎪᎸ", "3s", {"i"}))
+    a_list.append(Adjective("ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ", "3s", {"a"}))
+
+    a_list.append(Adjective("ᏗᎩᎦᎨ ᎤᏂᏍᎪᎸ", "3p", {"i"}))
+    a_list.append(Adjective("ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ", "3p", {"a"}))
+    a_list.append(Adjective("ᏗᎬᎿᎨ ᎤᏂᏍᎪᎸ", "3p", {"i"}))
+    a_list.append(Adjective("ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ", "3p", {"a"}))
+    a_list.append(Adjective("ᏗᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ", "3p", {"i"}))
+    a_list.append(Adjective("ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ", "3p", {"a"}))
+    a_list.append(Adjective("ᏗᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ", "3p", {"i"}))
+    a_list.append(Adjective("ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ", "3p", {"a"}))
+
+    a_list.append(Adjective("ᏧᏁᎦ", "3p", {"i"}))
+    a_list.append(Adjective("ᎤᏂᏁᎦ", "3p", {"a"}))
+    a_list.append(Adjective("ᏧᏬᏗᎨ", "3p", {"i"}))
+    a_list.append(Adjective("ᏧᏃᏗᎨ", "3p", {"a"}))
+
+    return a_list
+
+
+def sentence_templates() -> list[str]:
+    st: list[str] = list()
+    st.append("{subject} {adjective} {object} {verb}")
+    st.append("{adjective} {object} {verb} {subject}")
+    st.append("{verb}-ᏍᎪ {adjective} {object} {subject}")
+    st.append("{verb}-Ꮷ {adjective} {object} {subject}")
+
+    st.append("ᎥᏝ {subject} {object} Ᏹ-{verb}")
+    st.append("ᎥᏝ {object} Ᏹ-{verb} {subject}")
+
+    st.append("{object} {adjective}")
+    st.append("ᎥᏝ {object} {adjective} ᏱᎩ")
+    st.append("{object} ᎥᏝ {adjective} ᏱᎩ")
+
+    st.append("ᎦᎪ {adjective} {object} {verb}")
+    st.append("ᎦᎩ {adjective} {object} {verb}")
+
+    st.append("ᎦᎪ ᎥᏝ {adjective} {object} Ᏹ-{verb}")
+
+    return st
+
+
+def alt_verb(verb: str) -> str:
+    if random.choice([True, False, False, False]):
+        verb = re.sub("ᏘᎭ$", "Ꮨ", verb)
+        verb = re.sub("ᎧᎭ$", "Ꭷ", verb)
+    return verb
+
+def main() -> None:
+    wanted_sets: int = 5
+    wanted_per_set: int = 10
+    random.seed(wanted_sets * wanted_per_set)
+    os.chdir(pathlib.Path(__file__).parent)
+
+    subjects: list[SubjectObject] = subject_objects()
+    verbs: list[VerbObject] = verb_objects()
+    adjectives = adjectives_list()
+
+    random.shuffle(subjects)
+    random.shuffle(verbs)
+    random.shuffle(adjectives)
+
+    jalagi_content: str = ""
+
+    wanted: int = wanted_sets * wanted_per_set
+    print(f"Wanted: {wanted:,}")
+    set_counter: int = 0
+    item_counter: int = wanted_per_set
+    prev_verb: str = ""
+    prev_subj: str = ""
+    prev_adj: str = ""
+    prev_obj: str = ""
+    already: set[str] = set()
+    templates: list[str] = sentence_templates()
+    sentences: list[str] = list()
+    while len(sentences) < wanted:
+        have_parts: int = 1
+        verb: VerbObject = random.choice(verbs)
+        verb_subject: SubjectObject = SubjectObject()
+        if verb.subj.startswith("3"):
+            for _ in range(9):
+                verb_subject = random.choice(subjects)
+                if verb_subject.subj != verb.subj:
+                    verb_subject = SubjectObject()
+                    continue
+                if not verb_subject.classes.issubset(verb.classes):
+                    verb_subject = SubjectObject()
+                    continue
+                if not verb_subject.is_person:
+                    verb_subject = SubjectObject()
+                    continue
+                have_parts += 1
+                break
+
+        verb_object: SubjectObject = SubjectObject()
+        if verb.obj.startswith("3"):
+            for _ in range(9):
+                verb_object = random.choice(subjects)
+                if verb_object.subj != verb.obj:
+                    verb_object = SubjectObject()
+                    continue
+                if not verb_object.classes.issubset(verb.classes):
+                    verb_object = SubjectObject()
+                    continue
+                if verb_object.is_person:
+                    verb_object = SubjectObject()
+                    continue
+                have_parts += 1
+                break
+
+        object_adjective: Adjective = Adjective()
+        for _ in range(9):
+            object_adjective = random.choice(adjectives)
+            if not adjective_allowed(object_adjective.form):
+                object_adjective = Adjective()
+                break
+            if verb_object.subj != object_adjective.subj:
+                object_adjective = Adjective()
+                continue
+            if not object_adjective.classes.issubset(verb_object.classes):
+                object_adjective = Adjective()
+                continue
+            have_parts += 1
+            break
+
+        if have_parts < 2:
+            continue
+        if verb.form == prev_verb:
+            continue
+        if verb_subject.form == prev_subj and prev_subj:
+            continue
+        if verb_object.form == prev_obj and prev_obj:
+            continue
+        if object_adjective.form == prev_adj and prev_adj:
+            continue
+
+        already_text = f"{verb_subject.form} {object_adjective.form} {verb_object.form} {verb.form}"
+        already_text = re.sub("\\s+", " ", already_text).strip()
+        if already_text in already:
+            continue
+        already.add(already_text)
+
+        prev_verb = verb.form
+        prev_subj = verb_subject.form
+        prev_obj = verb_object.form
+        prev_adj = object_adjective.form
+
+        template: str = random.choice(templates)
+        template = template.replace("{subject}", verb_subject.form)
+        template = template.replace("{object}", verb_object.form)
+        template = template.replace("{adjective}", object_adjective.form)
+        template = template.replace("{verb}", alt_verb(verb.form))
+
+        template = re.sub("\\s+", " ", template).strip()
+
+        if not template:
+            continue
+        if not template.count(" "):
+            continue
+
+        if template.startswith("ᎦᎪ") or template.startswith("ᎦᎩ"):
+            template += "?"
+            if not verb.subj.startswith("3"):
+                continue
+        elif "-ᏍᎪ" in template or "-Ꮷ" in template:
+            template += "?"
+        else:
+            template += "."
+
+        if "-ᏍᎪ" in template:
+            template = template.replace("-ᏍᎪ", random.choice(["Ꮝ", "Ꮝ", "ᏍᎪ"]))
+        if "-Ꮷ" in template:
+            template = template.replace("-Ꮷ", "Ꮷ")
+        if "Ᏹ-" in template:
+            template = template.replace("Ᏹ-Ꭰ", "Ꮿ")
+            template = template.replace("Ᏹ-Ꭱ", "Ᏸ")
+            template = template.replace("Ᏹ-Ꭲ", "Ᏹ")
+            template = template.replace("Ᏹ-Ꭳ", "Ᏺ")
+            template = template.replace("Ᏹ-Ꭴ", "Ᏻ")
+            template = template.replace("Ᏹ-Ꭵ", "Ᏼ")
+            template = template.replace("Ᏹ-", "Ᏹ")
+
+        sentences.append(template)
+
+    for sentence in sentences:
+        item_counter += 1
+        if item_counter >= wanted_per_set:
+            item_counter = 0
+            set_counter += 1
+            if set_counter > 1:
+                jalagi_content += "\n"
+                jalagi_content += multicolumn_end
+                jalagi_content += "\n"
+            jalagi_content += "\\begin_layout Subsubsection*\n"
+            jalagi_content += f"Set {set_counter:,}\n"
+            jalagi_content += "\\end_layout\n"
+            jalagi_content += "\n"
+            jalagi_content += multicolumn_begin
+            jalagi_content += "\n"
+
+        jalagi_content += "\\begin_layout Enumerate\n"
+        jalagi_content += f"{sentence}"
+        jalagi_content += "\end_layout\n"
+
+    jalagi_content += "\n"
+    jalagi_content += multicolumn_end
+    jalagi_content += "\n"
+
+    with open("written-jalagi-gilisi-template.lyx") as r:
+        lyx_content = r.read()
+        lyx_content = re.sub("(?s)\\\\begin_layout Standard\\s+jalagi\\s+\\\\end_layout\\s+",
+                             jalagi_content.replace("\\", "\\\\"), lyx_content)
+
+    with open(output_lyx, "w") as w:
+        w.write(lyx_content)
+
+
+if __name__ == '__main__':
+    main()
