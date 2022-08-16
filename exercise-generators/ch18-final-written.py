@@ -144,10 +144,10 @@ def subject_objects() -> list[SubjectObject]:
     so_list.append(SubjectObject("ᎥᏍᎩᎾ", "3p", {"a", "neutral"}))
     so_list.append(SubjectObject("ᎥᏍᎩᎾ", "3p", {"i"}))
 
-    so_list.append(SubjectObject("ᎯᎠ", "3s", {"a"}))
-    so_list.append(SubjectObject("ᎯᎠ", "3s", {"i", "neutral"}))
-    so_list.append(SubjectObject("ᎯᎠ", "3p", {"a"}))
-    so_list.append(SubjectObject("ᎯᎠ", "3p", {"i", "neutral"}))
+    # so_list.append(SubjectObject("ᎯᎠ", "3s", {"a"}))
+    # so_list.append(SubjectObject("ᎯᎠ", "3s", {"i", "neutral"}))
+    # so_list.append(SubjectObject("ᎯᎠ", "3p", {"a"}))
+    # so_list.append(SubjectObject("ᎯᎠ", "3p", {"i", "neutral"}))
 
     so_list.append(SubjectObject("ᎠᎭᏫ", "3s", {"a"}))
     so_list.append(SubjectObject("ᎠᎭᏫ", "3p", {"a"}))
@@ -199,8 +199,6 @@ def subject_objects() -> list[SubjectObject]:
 
     so_list.append(SubjectObject("ᎪᎱᏍᏗ", "3s", {"i", "neutral"}))
     so_list.append(SubjectObject("ᎪᎱᏍᏗ", "3p", {"i", "neutral"}))
-    so_list.append(SubjectObject("Ꮭ ᎪᎱᏍᏗ", "3s", {"i", "neutral"}))
-    so_list.append(SubjectObject("Ꮭ ᎪᎱᏍᏗ", "3p", {"i", "neutral"}))
 
     return so_list
 
@@ -258,6 +256,12 @@ def sentence_templates() -> list[str]:
     st.append("{verb}-ᏍᎪ {adjective} {object} {subject}")
     st.append("{verb}-Ꮷ {adjective} {object} {subject}")
 
+    # st.append("{subject} {adjective} {object} ᎠᎭᏂ ᎾᎥ {verb}")
+    # st.append("{adjective} {object} ᎠᎭᏂ ᎾᎥ {verb} {subject}")
+
+    # st.append("{subject} {adjective} {object} ᎤᎿ ᎾᎥ {verb}")
+    # st.append("{adjective} {object} ᎤᎿ ᎾᎥ {verb} {subject}")
+
     st.append("ᎥᏝ {subject} {object} Ᏹ-{verb}")
     st.append("ᎥᏝ {object} Ᏹ-{verb} {subject}")
 
@@ -265,6 +269,7 @@ def sentence_templates() -> list[str]:
     st.append("ᎥᏝ {object} {adjective} ᏱᎩ")
     st.append("{object} ᎥᏝ {adjective} ᏱᎩ")
 
+    # st.append("ᎦᏙ {adjective} {object} {verb}")
     st.append("ᎦᎪ {adjective} {object} {verb}")
     st.append("ᎦᎩ {adjective} {object} {verb}")
 
@@ -278,6 +283,18 @@ def alt_verb(verb: str) -> str:
         verb = re.sub("ᏘᎭ$", "Ꮨ", verb)
         verb = re.sub("ᎧᎭ$", "Ꭷ", verb)
     return verb
+
+
+def alt_words(sentence: str) -> str:
+    sentence = re.sub("ᎪᏩᏘᎭ\\b", random.choice(["ᎪᏩᏘᎭ", "ᎪᏩᏘ"]), sentence)
+    sentence = re.sub("ᎧᎭ\\b", random.choice(["ᎧᎭ", "Ꭷ"]), sentence)
+    sentence = re.sub("\\bᎥᏍᎩᎾ\\b", random.choice(["ᎥᏍᎩᎾ", "ᏍᎩᎾ", "ᎥᏍᎩ", "ᎾᏍᎩ"]), sentence)
+    sentence = re.sub("\\bᎥᏝ\\b", random.choice(["ᎥᏝ", "Ꮭ"]), sentence)
+    sentence = re.sub("\\bᏩᎭᏯ\\b", random.choice(["ᏩᎭᏯ", "ᏩᏯ"]), sentence)
+    sentence = re.sub("\\bᎠᎭᏫ\\b", random.choice(["ᎠᎭᏫ", "ᎠᏫ"]), sentence)
+    sentence = re.sub("\\bᎠᎭᏂ\\b", random.choice(["ᎠᎭᏂ", "ᎠᏂ"]), sentence)
+    sentence = re.sub("\\bᎦᏙ\\b", random.choice(["ᎦᏙ", "Ꮩ"]), sentence)
+    return sentence
 
 def main() -> None:
     wanted_sets: int = 5
@@ -303,6 +320,7 @@ def main() -> None:
     prev_subj: str = ""
     prev_adj: str = ""
     prev_obj: str = ""
+    prev_template: str = ""
     already: set[str] = set()
     templates: list[str] = sentence_templates()
     sentences: list[str] = list()
@@ -379,41 +397,58 @@ def main() -> None:
         prev_adj = object_adjective.form
 
         template: str = random.choice(templates)
-        template = template.replace("{subject}", verb_subject.form)
-        template = template.replace("{object}", verb_object.form)
-        template = template.replace("{adjective}", object_adjective.form)
-        template = template.replace("{verb}", alt_verb(verb.form))
 
-        template = re.sub("\\s+", " ", template).strip()
+        sentence: str = template
+        sentence = sentence.replace("{subject}", verb_subject.form)
+        sentence = sentence.replace("{object}", verb_object.form)
+        sentence = sentence.replace("{adjective}", object_adjective.form)
+        sentence = sentence.replace("{verb}", alt_verb(verb.form))
 
-        if not template:
+        sentence = alt_words(sentence)
+        sentence = re.sub("\\s+", " ", sentence).strip()
+
+        if not sentence:
             continue
-        if not template.count(" "):
+        if not sentence.count(" "):
             continue
 
-        if template.startswith("ᎦᎪ") or template.startswith("ᎦᎩ"):
-            template += "?"
+        if sentence.startswith("ᎦᎪ ") or sentence.startswith("ᎦᎩ "):
+            sentence += "?"
             if not verb.subj.startswith("3"):
                 continue
-        elif "-ᏍᎪ" in template or "-Ꮷ" in template:
-            template += "?"
+        elif sentence.startswith("Ꮩ ") or sentence.startswith("ᎦᏙ "):
+            sentence += "?"
+        elif "-ᏍᎪ" in sentence or "-Ꮷ" in sentence:
+            sentence += "?"
         else:
-            template += "."
+            sentence += "."
 
-        if "-ᏍᎪ" in template:
-            template = template.replace("-ᏍᎪ", random.choice(["Ꮝ", "Ꮝ", "ᏍᎪ"]))
-        if "-Ꮷ" in template:
-            template = template.replace("-Ꮷ", "Ꮷ")
-        if "Ᏹ-" in template:
-            template = template.replace("Ᏹ-Ꭰ", "Ꮿ")
-            template = template.replace("Ᏹ-Ꭱ", "Ᏸ")
-            template = template.replace("Ᏹ-Ꭲ", "Ᏹ")
-            template = template.replace("Ᏹ-Ꭳ", "Ᏺ")
-            template = template.replace("Ᏹ-Ꭴ", "Ᏻ")
-            template = template.replace("Ᏹ-Ꭵ", "Ᏼ")
-            template = template.replace("Ᏹ-", "Ᏹ")
+        if "-ᏍᎪ" in sentence:
+            sentence = sentence.replace("-ᏍᎪ", random.choice(["Ꮝ", "Ꮝ", "ᏍᎪ"]))
+        if "-Ꮷ" in sentence:
+            sentence = sentence.replace("-Ꮷ", "Ꮷ")
+        if "Ᏹ-" in sentence:
+            sentence = sentence.replace("Ᏹ-Ꭰ", "Ꮿ")
+            sentence = sentence.replace("Ᏹ-Ꭱ", "Ᏸ")
+            sentence = sentence.replace("Ᏹ-Ꭲ", "Ᏹ")
+            sentence = sentence.replace("Ᏹ-Ꭳ", "Ᏺ")
+            sentence = sentence.replace("Ᏹ-Ꭴ", "Ᏻ")
+            sentence = sentence.replace("Ᏹ-Ꭵ", "Ᏼ")
+            sentence = sentence.replace("Ᏹ-", "Ᏹ")
 
-        sentences.append(template)
+        if re.search("\\bᎥ?Ꮭ [Ꭰ-Ᏼ]+ ᏱᎩ\\b", sentence):
+            continue
+        if re.search("\\bᎥ?Ꮭ ᏱᎩ\\b", sentence):
+            continue
+
+        if sentence in sentences:
+            continue
+
+        if template == prev_template:
+            continue
+        prev_template = template
+
+        sentences.append(sentence)
 
     for sentence in sentences:
         item_counter += 1
@@ -446,6 +481,17 @@ def main() -> None:
 
     with open(output_lyx, "w") as w:
         w.write(lyx_content)
+
+    with open(pathlib.Path(output_lyx).with_suffix(".txt"), "w") as w:
+        for sentence in sentences:
+            w.write(sentence)
+            w.write("\n")
+    already_file = pathlib.Path(output_lyx)
+    already_file = already_file.with_name(already_file.stem+"-already").with_suffix(".txt")
+    with already_file.open("w") as w:
+        for already_item in already:
+            w.write(already_item)
+            w.write("\n")
 
 
 if __name__ == '__main__':
