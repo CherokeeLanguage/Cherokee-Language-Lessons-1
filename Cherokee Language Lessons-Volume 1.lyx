@@ -126067,7 +126067,7 @@ Usually, habitually, or on certain occasions.
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎢ [gè:sv̌:ʔi] 
+ᎨᏒᎢ [gè:sv̋:ʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126185,13 +126185,38 @@ When looking at the previous vocabulary, it should be easy to see a pattern
 
 
 \emph on
+With personal knowledge
+\emph default
+
+\begin_inset Quotes erd
+\end_inset
+
+ is indicated by the -ᎥᎩ (-v̌:gi) ending.
+ In English we indicate this by phrases such as 
+\begin_inset Quotes eld
+\end_inset
+
+I know for a fact that \SpecialChar ldots
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+
+\emph on
 Being
 \emph default
 
 \begin_inset Quotes erd
 \end_inset
 
- is indicated by the -ᎥᎢ (-v̌:ʔi) ending.
+ is indicated by the -ᎥᎢ (-v̋:ʔi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -126216,31 +126241,6 @@ His being \SpecialChar ldots
 
 His \SpecialChar ldots
 ness
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-
-\emph on
-With personal knowledge
-\emph default
-
-\begin_inset Quotes erd
-\end_inset
-
- is indicated by the -ᎥᎩ (-v̌:gi) ending.
- In English we indicate this by phrases such as 
-\begin_inset Quotes eld
-\end_inset
-
-I know for a fact that \SpecialChar ldots
-
 \begin_inset Quotes erd
 \end_inset
 
@@ -126336,15 +126336,7 @@ Will be
 In the preceding vocabulary you saw words ending in both -ᎥᎩ (with personal
  knowledge) and -ᎥᎢ (being).
  Some dialects of Cherokee do not use the -ᎥᎩ ending and instead use -ᎥᎢ
- for both 
-\begin_inset Quotes eld
-\end_inset
-
-being
-\begin_inset Quotes erd
-\end_inset
-
- and 
+ (v̌:ʔi) for 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126353,17 +126345,11 @@ was with personal knowledge
 \end_inset
 
 .
- Such dialects use context to keep the two different meanings separate.
- As many historical documents use the -ᎥᎩ ending extensively and its use
- appears in some modern publications such as 
-\begin_inset Quotes eld
-\end_inset
-
-The Cherokee Phoenix
-\begin_inset Quotes erd
-\end_inset
-
-, this material will be teaching the use of both -ᎥᎩ and -ᎥᎢ.
+ Such dialects use context and tone to keep the two different meanings separate.
+ As many historical documents use the -ᎥᎩ ending extensively and is still
+ used by some speakers this material will be using all three forms of -ᎥᎩ
+ (-v̌:gi), -ᎥᎢ (-v̌:ʔi), and -ᎥᎢ (-v̋:ʔi).
+ You will see -Ꭵ̭Ꭲ and -Ꭵ͈Ꭲ with tone marks when needed for disambiguation.
 \end_layout
 
 \begin_layout Standard
@@ -130632,6 +130618,1157 @@ raggedcolumns
 
 \begin_layout Enumerate
 ✗ ᏄᎾ.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏙᏪᎸᎦ (Write them)
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee sentences followed by an English
+ translation.
+\end_layout
+
+\begin_layout Standard
+When done, compare your answers to the answers at the end of this section.
+\end_layout
+
+\begin_layout Subsection*
+ᏣᎳᎩ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᏩᏯ ᎤᏂᎧ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ ᎨᎲᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎭᏫ ᎥᏝ ᎠᏓᎶᏂᎨ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎩ ᏚᏯ ᏚᏂᎭ?
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏲᎾ ᏱᏚᏩᎧ ᎺᎵ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᏫ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏱᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎩ ᏩᏯ ᏚᏂᎧ?
+\end_layout
+
+\begin_layout Enumerate
+ᎩᏟ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᎨᏒᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᏚᏩᎧᏧ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏥᏍᏚ ᎠᎵᏌᏇᏘ?
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎩ ᏌᎶᎵ ᏚᏂᎧᎭ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ ᎥᏝ ᎠᎩᎦᎨ ᏱᎨᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏌᎶᎵ ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᏱᎨᎲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏍᎩᎾ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ.
+\end_layout
+
+\begin_layout Enumerate
+ᏌᎶᎵ Ꮭ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒ.
+\end_layout
+
+\begin_layout Enumerate
+ᎩᏟ ᎠᎩᎦᎨ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᏙᏯ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏲᎾ ᏱᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏲᎾ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᏈᎵ ᎠᎬᎿᎨ ᎤᏍᎪᎸ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏐᏈᎵ ᎨᏒᎩ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏪᏌ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎩᎧᏍ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᏐᏈᎵ?
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᏫ ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏱᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᎥᏍᎩᎾ ᎨᏎ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏐᏈᎵ ᏱᏚᏩᎧᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏫ Ꮭ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏐᏈᎵ ᏱᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏚᏂᎧᏍᎪ ᏥᏍᏚ ᏴᏫ?
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏱᏚᏩᎧ?
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᏂᏴᏫ ᏲᎾ ᏳᏂᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ ᎤᏩᎧᎭ?
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᎠᎩᎦᎨ ᏩᏯ ᏱᎨᏎ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎧᎭᏧ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎥᏍᎩᎾ ᎠᏂᎨᏳᏣ?
+\end_layout
+
+\begin_layout Enumerate
+ᏌᎶᎵ Ꮭ ᎠᏓᎶᏂᎨ ᏱᎨᏒ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏩᎧᎭᏍ ᎠᏓᎭᎵᎨ ᏲᎾ ᏣᎵ?
+\end_layout
+
+\begin_layout Enumerate
+ᏕᏣᎧᏧ ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏫ Ꮭ ᎠᎬᎿᎨ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᎥᏍᎩᎾ ᏳᏩᎧᎭ?
+\end_layout
+
+\begin_layout Enumerate
+ᏐᏈᎵ ᎠᏓᎭᎵᎨ ᎨᏒᎩ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏩᎭᏯ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᎠᎩᎦᎨ ᏥᏍᏚ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎭᏫ ᏚᏂᎧ ᎠᏂᎨᏳᏣ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏂᏴᏫ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᏪᏌ ᎤᏂᎧ.
+\end_layout
+
+\begin_layout Enumerate
+ᎾᏍᎩ Ꮭ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᏱᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᎨᎲᎩ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏙᏯ ᎤᏂᎧ?
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏥᎪᏩᏘᏧ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏪᏌ?
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏙᏯ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏲᎾ ᏱᎨᏎᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ᎩᎵᏏ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᏩᏯ ᎤᏂᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all has a wolf?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ ᎨᎲᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It was blue-gray dogs a while ago.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎭᏫ ᎥᏝ ᎠᏓᎶᏂᎨ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The deer wasn't yellow a while ago.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎩ ᏚᏯ ᏚᏂᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all again have beans?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᏲᎾ ᏱᏚᏩᎧ ᎺᎵ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Mary doesn't have any bears.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᎠᏫ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏱᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The deer isn't pink.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎩ ᏩᏯ ᏚᏂᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all again have wolves?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᎨᏒᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It was pink dogs.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏚᏩᎧᏧ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏥᏍᏚ ᎠᎵᏌᏇᏘ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Doesn't Elizabeth have gray rabbits?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎩ ᏌᎶᎵ ᏚᏂᎧᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all again have squirrels?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ ᎥᏝ ᎠᎩᎦᎨ ᏱᎨᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The rabbit wasn't red.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏌᎶᎵ ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᏱᎨᎲᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The squirrel wasn't orange a while ago.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏍᎩᎾ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+That is orange.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ Ꮭ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The squirrels weren't gray.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ ᎠᎩᎦᎨ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The dog will be red.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᏙᏯ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The beaver wasn't pink.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏲᎾ ᏱᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It isn't an orange bear.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏲᎾ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It will be gray bears.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏐᏈᎵ ᎠᎬᎿᎨ ᎤᏍᎪᎸ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The horse is gray.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏐᏈᎵ ᎨᏒᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It was blue-gray squirrels.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏪᏌ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It will be a pink cat.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏓᎩᎧᏍ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᏐᏈᎵ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do I have pink horses?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᎠᏫ ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏱᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The deer isn't gray.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᏩᎭᏯ ᎨᏎ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It was a blue-gray wolf.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ ᎦᏥᎪᏩᏘ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+I see orange dogs.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏐᏈᎵ ᏱᏚᏩᎧᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who doesn't have horses?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ Ꮭ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The deer wasn't orange a while ago.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏐᏈᎵ ᏱᎨᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It won't be a gray horse.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏚᏂᎧᏍᎪ ᏥᏍᏚ ᏴᏫ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do the people have rabbits?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏱᏚᏩᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who doesn't have them?
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᏂᏴᏫ ᏲᎾ ᏳᏂᎧᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people don't have a bear.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ ᎤᏩᎧᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who has an orange cat?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᎠᎩᎦᎨ ᏩᏯ ᏱᎨᏎ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It wasn't a red wolf.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏂᎧᎭᏧ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏥᏍᏚ ᎠᏂᎨᏳᏣ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't the girls have an orange rabbit?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏌᎶᎵ Ꮭ ᎠᏓᎶᏂᎨ ᏱᎨᏒ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The squirrel wasn't yellow.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏩᎧᎭᏍ ᎠᏓᎭᎵᎨ ᏲᎾ ᏣᎵ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Does Charles have a purple bear?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏕᏣᎧᏧ ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't you have orange dogs?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏫ Ꮭ ᎠᎬᎿᎨ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The deer wasn't black a while ago.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏌᎶᎵ ᏳᏩᎧᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who doesn't have a pink squirrel?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏐᏈᎵ ᎠᏓᎭᎵᎨ ᎨᏒᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The horse was purple.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏩᎭᏯ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The wolves weren't blue-gray.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Ꮭ ᎠᎩᎦᎨ ᏥᏍᏚ ᏱᎨᎲᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It wasn't a red rabbit a while ago.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎭᏫ ᏚᏂᎧ ᎠᏂᎨᏳᏣ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The girls have deer.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᏂᏴᏫ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᏪᏌ ᎤᏂᎧ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The people have a blue-gray cat.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎾᏍᎩ Ꮭ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᏱᎨᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+That won't be blue-gray.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᎨᎲᎩ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The rabbits were blue-gray a while ago.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᎪ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏙᏯ ᎤᏂᎧ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Who all has an orange beaver?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏥᎪᏩᏘᏧ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏪᏌ?
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Don't I see black cats?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏙᏯ ᎨᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It will be a gray beaver.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎥᏝ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏲᎾ ᏱᎨᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+It will not be blue-gray bears.
 \end_layout
 
 \end_deeper
