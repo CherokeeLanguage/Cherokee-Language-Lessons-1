@@ -1,0 +1,451 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass extbook
+\begin_preamble
+%\usepackage{wallpaper}
+\usepackage{graphicx}
+\usepackage{multicol}
+\widowpenalty=10000
+\clubpenalty=10000 
+\raggedbottom
+\usepackage{pdflscape}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 8.25cm
+\paperheight 11cm
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 0.75in
+\secnumdepth 0
+\tocdepth 1
+\paragraph_separation skip
+\defskip smallskip
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 2
+\paperpagestyle plain
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Section
+ᏙᏪᎸᎦ (Write them)
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee sentences followed by an English
+ translation.
+\end_layout
+
+\begin_layout Standard
+When done, compare your answers to the answers at the end of this section.
+\end_layout
+
+\begin_layout Subsection*
+ᏣᎳᎩ
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᎪ ᏩᏯ ᎤᏂᎧ?\end_layout
+\begin_layout Enumerate
+ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ ᎨᎲᎩ.\end_layout
+\begin_layout Enumerate
+ᎠᎭᏫ ᎥᏝ ᎠᏓᎶᏂᎨ ᏱᎨᎲᎩ.\end_layout
+\begin_layout Enumerate
+ᎦᎩ ᏚᏯ ᏚᏂᎭ?\end_layout
+\begin_layout Enumerate
+Ꮭ ᏲᎾ ᏱᏚᏩᎧ ᎺᎵ.\end_layout
+\begin_layout Enumerate
+ᎥᏝ ᎠᏫ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏱᎩ.\end_layout
+\begin_layout Enumerate
+ᎦᎩ ᏩᏯ ᏚᏂᎧ?\end_layout
+\begin_layout Enumerate
+ᎩᏟ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᎨᏒᎩ.\end_layout
+\begin_layout Enumerate
+ᏚᏩᎧᏧ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏥᏍᏚ ᎠᎵᏌᏇᏘ?\end_layout
+\begin_layout Enumerate
+ᎦᎩ ᏌᎶᎵ ᏚᏂᎧᎭ?\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ ᎥᏝ ᎠᎩᎦᎨ ᏱᎨᏎᎢ.\end_layout
+\begin_layout Enumerate
+ᎥᏝ ᏌᎶᎵ ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᏱᎨᎲᎢ.\end_layout
+\begin_layout Enumerate
+ᎥᏍᎩᎾ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ.\end_layout
+\begin_layout Enumerate
+ᏌᎶᎵ Ꮭ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒ.\end_layout
+\begin_layout Enumerate
+ᎩᏟ ᎠᎩᎦᎨ ᎨᏎᏍᏗ.\end_layout
+\begin_layout Enumerate
+ᎥᏝ ᏙᏯ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒᎩ.\end_layout
+\begin_layout Enumerate
+ᎥᏝ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏲᎾ ᏱᎩ.\end_layout
+\begin_layout Enumerate
+ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏲᎾ ᎨᏎᏍᏗ.\end_layout
+\begin_layout Enumerate
+ᏐᏈᎵ ᎠᎬᎿᎨ ᎤᏍᎪᎸ.\end_layout
+\begin_layout Enumerate
+ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏐᏈᎵ ᎨᏒᎩ.\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᏪᏌ ᎨᏎᏍᏗ.\end_layout
+\begin_layout Enumerate
+ᏓᎩᎧᏍ ᎠᏂᎩᎦᎨ ᎤᏂᏍᎪᎸ ᏐᏈᎵ?\end_layout
+\begin_layout Enumerate
+ᎥᏝ ᎠᏫ ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏱᎩ.\end_layout
+\begin_layout Enumerate
+ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᎥᏍᎩᎾ ᎨᏎ.\end_layout
+\begin_layout Enumerate
+ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ ᎦᏥᎪᏩᏘ.\end_layout
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏐᏈᎵ ᏱᏚᏩᎧᎭ?\end_layout
+\begin_layout Enumerate
+ᎠᏫ Ꮭ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏱᎨᎲᎩ.\end_layout
+\begin_layout Enumerate
+ᎥᏝ ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏐᏈᎵ ᏱᎨᏎᏍᏗ.\end_layout
+\begin_layout Enumerate
+ᏚᏂᎧᏍᎪ ᏥᏍᏚ ᏴᏫ?\end_layout
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᏱᏚᏩᎧ?\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎥᏝ ᎠᏂᏴᏫ ᏲᎾ ᏳᏂᎧᎭ.\end_layout
+\begin_layout Enumerate
+ᎦᎪ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏪᏌ ᎤᏩᎧᎭ?\end_layout
+\begin_layout Enumerate
+Ꮭ ᎠᎩᎦᎨ ᏩᏯ ᏱᎨᏎ.\end_layout
+\begin_layout Enumerate
+ᎤᏂᎧᎭᏧ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᎥᏍᎩᎾ ᎠᏂᎨᏳᏣ?\end_layout
+\begin_layout Enumerate
+ᏌᎶᎵ Ꮭ ᎠᏓᎶᏂᎨ ᏱᎨᏒ.\end_layout
+\begin_layout Enumerate
+ᎤᏩᎧᎭᏍ ᎠᏓᎭᎵᎨ ᏲᎾ ᏣᎵ?\end_layout
+\begin_layout Enumerate
+ᏕᏣᎧᏧ ᎠᏂᏓᎶᏂᎨ ᎤᏂᏍᎪᎸ ᎩᏟ?\end_layout
+\begin_layout Enumerate
+ᎠᏫ Ꮭ ᎠᎬᎿᎨ ᏱᎨᎲᎩ.\end_layout
+\begin_layout Enumerate
+ᎦᎪ ᎥᏝ ᎠᎩᎦᎨ ᎤᏍᎪᎸ ᎥᏍᎩᎾ ᏳᏩᎧᎭ?\end_layout
+\begin_layout Enumerate
+ᏐᏈᎵ ᎠᏓᎭᎵᎨ ᎨᏒᎩ.\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏩᎭᏯ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏱᎨᏒᎢ.\end_layout
+\begin_layout Enumerate
+Ꮭ ᎠᎩᎦᎨ ᏥᏍᏚ ᏱᎨᎲᎩ.\end_layout
+\begin_layout Enumerate
+ᎠᎭᏫ ᏚᏂᎧ ᎠᏂᎨᏳᏣ.\end_layout
+\begin_layout Enumerate
+ᎠᏂᏴᏫ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᏪᏌ ᎤᏂᎧ.\end_layout
+\begin_layout Enumerate
+ᎾᏍᎩ Ꮭ ᎠᏌᎪᏂᎨ ᎤᏍᎪᎸ ᏱᎨᏎᏍᏗ.\end_layout
+\begin_layout Enumerate
+ᏥᏍᏚ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᎨᎲᎩ.\end_layout
+\begin_layout Enumerate
+ᎦᎪ ᎠᏓᎶᏂᎨ ᎤᏍᎪᎸ ᏙᏯ ᎤᏂᎧ?\end_layout
+\begin_layout Enumerate
+ᎦᏥᎪᏩᏘᏧ ᎠᏂᎬᎿᎨ ᎤᏂᏍᎪᎸ ᏪᏌ?\end_layout
+\begin_layout Enumerate
+ᎠᎬᎿᎨ ᎤᏍᎪᎸ ᏙᏯ ᎨᏎᏍᏗ.\end_layout
+\begin_layout Enumerate
+ᎥᏝ ᎠᏂᏌᎪᏂᎨ ᎤᏂᏍᎪᎸ ᏲᎾ ᏱᎨᏎᏍᏗ.\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+ᎩᎵᏏ
+\end_layout
+
+\begin_layout Standard
+gilisi
+\end_layout
+
+\end_body
+\end_document
