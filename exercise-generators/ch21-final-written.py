@@ -17,7 +17,7 @@ from dataclasses import field
 from statistics import median
 
 output_lyx: pathlib.Path | None = None
-prev_already: pathlib.Path = pathlib.Path("ch19-final-written-already.txt")
+prev_already: pathlib.Path = pathlib.Path("ch20-final-written-already.txt")
 
 multicolumn_begin: str = """
 \\begin_layout Standard
@@ -90,6 +90,7 @@ class Adjective:
 
 def verb_objects() -> list[VerbObject]:
     vo_list: list[VerbObject] = list()
+
     vo_list.append(VerbObject("ᎠᎪᏩᏘᎭ", "3s", "3s", set()))
     vo_list.append(VerbObject("ᎠᏂᎪᏩᏘᎭ", "3p", "3s", set()))
     vo_list.append(VerbObject("ᏓᎪᏩᏘᎭ", "3s", "3p", set()))
@@ -129,6 +130,23 @@ def verb_objects() -> list[VerbObject]:
     vo_list.append(VerbObject("ᏓᎩᎧᎭ", "1s", "3p", {"a"}))
     vo_list.append(VerbObject("ᏕᏣᎧᎭ", "2s", "3p", {"a"}))
 
+    vo_list.append(VerbObject("ᏥᏯᏚᎵᎭ", "1s", "3s", {"a"}))
+    vo_list.append(VerbObject("ᎠᏆᏚᎵᎭ", "1s", "3s", {"i"}))
+    vo_list.append(VerbObject("ᎦᏥᏯᏚᎵᎭ", "1s", "3p", {"a"}))
+    vo_list.append(VerbObject("ᏓᏆᏚᎵᎭ", "1s", "3p", {"i"}))
+    vo_list.append(VerbObject("ᎠᏆᏚᎵᎭ", "3s", "1s", {"a"}))
+    vo_list.append(VerbObject("ᎬᏆᏚᎵᎭ", "3p", "1s", {"a"}))
+    vo_list.append(VerbObject("ᎤᏚᎵᎭ", "3s", "3s", set()))
+    vo_list.append(VerbObject("ᏚᏚᎵᎭ", "3s", "3p", set()))
+
+    vo_list.append(VerbObject("ᎯᏯᏚᎵᎭ", "2s", "3s", {"a"}))
+    vo_list.append(VerbObject("ᏣᏚᎵᎭ", "2s", "3s", {"i"}))
+    vo_list.append(VerbObject("ᎦᎯᏯᏚᎵᎭ", "2s", "3p", {"a"}))
+    vo_list.append(VerbObject("ᏕᏣᏚᎵᎭ", "2s", "3p", {"i"}))
+    vo_list.append(VerbObject("ᏣᏚᎵᎭ", "3s", "2s", {"a"}))
+    vo_list.append(VerbObject("ᎨᏣᏚᎵᎭ", "3p", "2s", {"a"}))
+    vo_list.append(VerbObject("ᎤᎾᏚᎵᎭ", "3p", "3s", set()))
+    vo_list.append(VerbObject("ᏚᎾᏚᎵᎭ", "3p", "3p", set()))
     return vo_list
 
 
@@ -217,6 +235,9 @@ def subject_objects() -> list[SubjectObject]:
     so_list.append(SubjectObject("ᎪᎱᏍᏗ", "3s", {"i", "neutral"}))
     so_list.append(SubjectObject("ᎪᎱᏍᏗ", "3p", {"i", "neutral"}))
 
+    so_list.append(SubjectObject("ᎦᏍᎩᎶ", "3s", {"i", "neutral"}))
+    so_list.append(SubjectObject("ᏗᎦᏍᎩᎶ", "3p", {"i", "neutral"}))
+
     return so_list
 
 
@@ -282,28 +303,28 @@ def sentence_templates() -> list[str]:
     st.append("ᎥᏝ {subject} {object} Ᏹ-{verb}")
     st.append("ᎥᏝ {object} Ᏹ-{verb} {subject}")
 
-    st.append("{object} {adjective}")
-    st.append("ᎥᏝ {object} {adjective} ᏱᎩ")
-    st.append("ᎥᏝ {adjective} {object} ᏱᎩ")
-    st.append("{object} ᎥᏝ {adjective} ᏱᎩ")
+    # st.append("{object} {adjective}")
+    # st.append("ᎥᏝ {object} {adjective} ᏱᎩ")
+    # st.append("ᎥᏝ {adjective} {object} ᏱᎩ")
+    # st.append("{object} ᎥᏝ {adjective} ᏱᎩ")
 
-    st.append("{object} {adjective} ᎨᏒᎩ")
-    st.append("{adjective} {object} ᎨᏒᎩ")
-    st.append("{object} {adjective} ᎨᏎᏍᏗ")
-    st.append("{adjective} {object} ᎨᏎᏍᏗ")
-    st.append("{object} {adjective} ᎨᎲᎩ")
-    st.append("{adjective} {object} ᎨᎲᎩ")
+    # st.append("{object} {adjective} ᎨᏒᎩ")
+    # st.append("{adjective} {object} ᎨᏒᎩ")
+    # st.append("{object} {adjective} ᎨᏎᏍᏗ")
+    # st.append("{adjective} {object} ᎨᏎᏍᏗ")
+    # st.append("{object} {adjective} ᎨᎲᎩ")
+    # st.append("{adjective} {object} ᎨᎲᎩ")
 
-    st.append("ᎥᏝ {object} {adjective} ᏱᎨᏒᎩ")
-    st.append("ᎥᏝ {adjective} {object} ᏱᎨᏒᎩ")
-    st.append("ᎥᏝ {object} {adjective} ᏱᎨᏎᏍᏗ")
-    st.append("ᎥᏝ {adjective} {object} ᏱᎨᏎᏍᏗ")
-    st.append("ᎥᏝ {object} {adjective} ᏱᎨᎲᎩ")
-    st.append("ᎥᏝ {adjective} {object} ᏱᎨᎲᎩ")
+    # st.append("ᎥᏝ {object} {adjective} ᏱᎨᏒᎩ")
+    # st.append("ᎥᏝ {adjective} {object} ᏱᎨᏒᎩ")
+    # st.append("ᎥᏝ {object} {adjective} ᏱᎨᏎᏍᏗ")
+    # st.append("ᎥᏝ {adjective} {object} ᏱᎨᏎᏍᏗ")
+    # st.append("ᎥᏝ {object} {adjective} ᏱᎨᎲᎩ")
+    # st.append("ᎥᏝ {adjective} {object} ᏱᎨᎲᎩ")
 
-    st.append("{object} ᎥᏝ {adjective} ᏱᎨᏒᎩ")
-    st.append("{object} ᎥᏝ {adjective} ᏱᎨᏎᏍᏗ")
-    st.append("{object} ᎥᏝ {adjective} ᏱᎨᎲᎩ")
+    # st.append("{object} ᎥᏝ {adjective} ᏱᎨᏒᎩ")
+    # st.append("{object} ᎥᏝ {adjective} ᏱᎨᏎᏍᏗ")
+    # st.append("{object} ᎥᏝ {adjective} ᏱᎨᎲᎩ")
 
     # st.append("ᎦᏙ {adjective} {object} {verb}")
     st.append("ᎦᎪ {adjective} {object} {verb}")
@@ -384,6 +405,7 @@ def less_used_words(already_text: str) -> bool:
             less_count += 1
     return less_count > math.ceil(word_count/2)
 
+
 def less_used_add(already_text) -> None:
     global less_used
     for word in already_text.split():
@@ -403,7 +425,7 @@ def main() -> None:
 
     subjects: list[SubjectObject] = subject_objects()
     verbs: list[VerbObject] = verb_objects()
-    adjectives = adjectives_list()
+    adjectives: list[Adjective] = adjectives_list()
 
     random.shuffle(subjects)
     random.shuffle(verbs)
@@ -458,8 +480,6 @@ def main() -> None:
 
         object_adjective: Adjective = Adjective()
         for _ in range(9):
-            if not verb_object.form:
-                break
             object_adjective = random.choice(adjectives)
             if verb_object.is_person:
                 object_adjective = Adjective()
@@ -644,7 +664,7 @@ def main() -> None:
             w.write(sentence)
             w.write("\n")
     already_file = pathlib.Path(output_lyx)
-    already_file = already_file.with_stem(already_file.stem + "-already").with_suffix(".txt")
+    already_file = already_file.with_name(already_file.stem + "-already").with_suffix(".txt")
     with already_file.open("w") as w:
         for already_item in already:
             w.write(already_item)
