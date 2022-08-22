@@ -611,7 +611,8 @@ Visit the following URL or scan the QR code.
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename artwork/qr/cherokeelessons-com-audio.png
+	filename artwork/qr/issue-tracker-bit.ly_3zB1O9z.png
+	lyxscale 50
 	width 1in
 	height 1in
 	groupId qr
@@ -1075,6 +1076,7 @@ Cherokee Language CLL 1
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/qr/youtube-audio.png
+	lyxscale 50
 	width 1in
 	height 1in
 	groupId qr
@@ -1129,6 +1131,7 @@ CherokeeLessons.com
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/qr/cherokeelessons-com-audio.png
+	lyxscale 50
 	width 1in
 	height 1in
 	groupId qr
@@ -3511,6 +3514,90 @@ It works out best if you do each session twice per day.
 \begin_layout Standard
 During your later lessons, if you are having problems recognizing any of
  the Syllabary, simply do the final session as a refresher.
+\end_layout
+
+\begin_layout Standard
+The Syllabary exercises come with a seperate set of matching audio available
+ on 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://YouTube.com/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+It is very important to do the audio exercises in addition to the book and
+ activity exercises.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Be sure to listen to all audio the exercises until the audio instructs you
+ to switch to the book before continuing.
+ After you complete the book up to the point the audio instructs, continue
+ listening to the audio starting with the next session until you are again
+ instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Visit the following URL or scan the QR code or search YouTube for 
+\begin_inset Quotes eld
+\end_inset
+
+Cherokee Language Syllabary Dictation
+\begin_inset Quotes erd
+\end_inset
+
+ and visit the channel to access the audio playlist.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/qr/syllabary-dictation-youtube-audio.png
+	lyxscale 50
+	width 1in
+	height 1in
+	groupId qr
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://bit.ly/3QLfUMM
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -72433,6 +72520,42 @@ Remember that if you are having problems recognizing any of the Syllabary
  you should do the final Syllabary exercise as a refresher.
 \end_layout
 
+\begin_layout Section*
+Printable Flashcards
+\end_layout
+
+\begin_layout Standard
+If you would like printable flashcards designed for printing onto 8.5x11
+ business card stock, visit the following URL or scan the QR code.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/qr/cherokeelessons-github-pages.png
+	lyxscale 50
+	width 1in
+	height 1in
+	groupId qr
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://bit.ly/3oYL3Qy
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 ᏔᏛᏓᏍᏓ (Listen to them)
 \end_layout
@@ -76167,41 +76290,6 @@ Set 1
 \end_inset
 
 .
-\end_layout
-
-\begin_layout Subsection*
-Printable Flashcards
-\end_layout
-
-\begin_layout Standard
-If you would like printable flashcards designed for printing onto 8.5x11
- business card stock, visit the following URL or scan the QR code.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename artwork/qr/cherokeelessons-github-pages.png
-	width 1in
-	height 1in
-	groupId qr
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-https://bit.ly/3oYL3Qy
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Subsection*
