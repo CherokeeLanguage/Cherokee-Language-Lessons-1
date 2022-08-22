@@ -145946,6 +145946,103 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
+All those who volunteered to review the 3rd edition.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Contributors to previous editions
+\end_layout
+
+\begin_layout Standard
+
+\noun on
+Note: The second edition erronously did not list the first edition contributors.
+ My sincerest apologies.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Being listed as a contributor does not indicate endorsement.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Ray Cochran <Hawk's Calls> (Language consultation)
+\end_layout
+
+\begin_layout Itemize
+Charles E.
+ Kauffman (Voice for 1st edition audio disks, Language consultation, Flute
+ player)
+\end_layout
+
+\begin_layout Itemize
+Sagonige Asaladisgi ᏌᎪᏂᎨ ᎠᏌᎳᏗᏍᎩ (Language consultation)
+\end_layout
+
+\begin_layout Itemize
+ᏕᎳᎧᏘᏯ ᏗᎵᏔᏕᎩ, ᎠᏁᏢᏗᏍᎩ (Language consultation)
+\end_layout
+
+\begin_layout Itemize
+Carl B.
+ Mankinen, Ph.D.
+ (Proofing).
+\end_layout
+
+\begin_layout Itemize
+ᏔᎻᎵ ᏫᏝᎧ (Language consultation)
+\end_layout
+
+\begin_layout Itemize
+Tim Orr (Reviewer, Test student)
+\end_layout
+
+\begin_layout Itemize
+Mary Rae (Proofing)
+\end_layout
+
+\begin_layout Itemize
+Tim Nuttle (Proofing)
+\end_layout
+
+\begin_layout Itemize
+Lawrence Panther (Proofing, Language consultation)
+\end_layout
+
+\begin_layout Itemize
 All the students who participated in the 
 \begin_inset Flex URL
 status collapsed
