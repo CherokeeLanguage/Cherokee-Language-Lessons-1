@@ -114,6 +114,53 @@
 \end_header
 
 \begin_body
+
+\begin_layout Chapter
+\start_of_appendix
+ᏗᏕᏠᏆᏍᏗ
+\begin_inset Argument 1
+status collapsed
+\begin_layout Plain Layout
+Dictionary
+\end_layout
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭰ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 Ꭰ- [a-] 
 \begin_inset Quotes eld
@@ -628,6 +675,66 @@ Numbers.
 ᎠᏓ [a̋ʔda] Young animal.
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+ᎠᏓ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎠᏓᎭᎵᎨᎢ [adaha:lige̋:ʔi] 
 \begin_inset Quotes eld
@@ -891,6 +998,66 @@ Native Americans.
 \end_layout
 
 \end_deeper
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭱ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎡᏂᏙᏂ [énto:ni] 
 \begin_inset Quotes eld
@@ -903,6 +1070,66 @@ Anthony.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭲ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎢᎢᏤᏙᎸᎢ [íʔì:jě:dô:lv:ʔi] 
 \begin_inset Quotes eld
@@ -1025,6 +1252,66 @@ Count of animate.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭳ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎣᏍᏓ [ő:sda] 
 \begin_inset Quotes eld
@@ -1085,6 +1372,66 @@ Hello.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭴ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎤᎭ [ǔ:ha]
 \begin_inset Quotes eld
@@ -1311,6 +1658,66 @@ Bad (them).
 \end_layout
 
 \end_deeper
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭵ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎥᎥ [v:ʔv] 
 \begin_inset Quotes eld
@@ -1391,6 +1798,66 @@ No.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭶ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎦᎩ [gâ:gí] 
 \begin_inset Quotes eld
@@ -1715,6 +2182,66 @@ I want them-animate.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭷ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 Ꭷ [ka] 
 \begin_inset Quotes eld
@@ -1759,6 +2286,66 @@ None.
  
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭸ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎨᎮᎢ [gè:hé:ʔi] 
 \begin_inset Quotes eld
@@ -1889,6 +2476,66 @@ They want you.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭹ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎩᎦᎨ
 \begin_inset space ~
@@ -1947,6 +2594,66 @@ A dog.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭺ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎪᎱᏍᏗ,
 \begin_inset space ~
@@ -2011,6 +2718,66 @@ Sheets of paper.
 \end_layout
 
 \end_deeper
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭻ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎫᎴ [gu:le] 
 \begin_inset Quotes eld
@@ -2024,6 +2791,66 @@ An acorn.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭼ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎬᎩᎪᏩᏘᎭ [gv:gigowhtíha] 
 \begin_inset Quotes eld
@@ -2085,6 +2912,66 @@ They want me.
 ᎬᏍᎦᎳᏗᎠ [gv̀:sgaládíʔa] I am hiding a long object.
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭽ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎭᏢ [ha:dlv] 
 \begin_inset Quotes eld
@@ -2097,6 +2984,66 @@ Where?
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꭿ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎯᎠ,
 \begin_inset space ~
@@ -2254,6 +3201,66 @@ You want him.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮀ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎰᏩ [howa] 
 \begin_inset Quotes eld
@@ -2268,10 +3275,130 @@ Okay.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮅ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎵᏂᏓ [lí:nida] “Linda”
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮉ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎹᎦᎵ [ma:gá:li] “Michael”
 \end_layout
@@ -2280,10 +3407,130 @@ Okay.
 ᎹᎦᏰᏘ [má:gaye:ti] “Margaret”
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮊ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᎺᎵ [mé:li] “Mary”
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮎ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 Ꮎ [na] 
 \begin_inset Quotes eld
@@ -2309,6 +3556,66 @@ Near.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮑ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏁᎳᏍᎪᎯ [nélsgǒ:hi] 
 \begin_inset Quotes eld
@@ -2334,6 +3641,66 @@ Eighteen.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮒ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 Ꮒ! [ni!] 
 \begin_inset Quotes eld
@@ -2389,6 +3756,66 @@ You.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮓ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏃᏘ [nó:t] 
 \begin_inset Quotes eld
@@ -2402,6 +3829,66 @@ Naught.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮔ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏄᎳ [nű:la] 
 \begin_inset Quotes eld
@@ -2427,6 +3914,66 @@ A potato.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮕ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏅᎩ [nvhgi] 
 \begin_inset Quotes eld
@@ -2477,6 +4024,66 @@ A rock.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮖ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏆᏆᎠ [gwa:gwaʔa] 
 \begin_inset Quotes eld
@@ -2489,6 +4096,66 @@ Barbara.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮜ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏌᎪᏂᎨ
 \begin_inset space ~
@@ -2581,6 +4248,66 @@ Traps.
 \end_layout
 
 \end_deeper
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮝ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏍᎩᎦᏚ [sgiga:ʔdu] 
 \begin_inset Quotes eld
@@ -2617,6 +4344,66 @@ One hundred.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮟ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 Ꮟ [si] 
 \begin_inset Quotes eld
@@ -2648,6 +4435,66 @@ Not still.
 \end_layout
 
 \end_deeper
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮠ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏐᏁᎳ [sóhně:la] 
 \begin_inset Quotes eld
@@ -2698,6 +4545,66 @@ A horse.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮡ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏑᏌᏃ [sú:sano] “Susan”
 \end_layout
@@ -2739,6 +4646,66 @@ Sixty.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮣ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏓᎩᎧᎭ [dà:gikáha] 
 \begin_inset Quotes eld
@@ -2865,6 +4832,66 @@ I want them-inanimate.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮤ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏔᎵ [táʔli] 
 \begin_inset Quotes eld
@@ -2914,6 +4941,66 @@ Twelve.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮥ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏕᎯᎪᏩᏘᎭ [de:higowhtíha] 
 \begin_inset Quotes eld
@@ -3004,6 +5091,66 @@ I see them-inanimate.
 ᏕᏫᏗ [dé:widi] “David”
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮧ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 Ꮧ- [di-] 
 \begin_inset Quotes eld
@@ -3100,6 +5247,66 @@ Green colored.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮩ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏙᎦᏙᎠ [dò:gadó:ʔa] 
 \begin_inset Quotes eld
@@ -3228,6 +5435,66 @@ A beaver.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮪ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏚᎭ [dǔ:ha] 
 \begin_inset Quotes eld
@@ -3339,6 +5606,66 @@ A bean.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮫ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏛᎢᏍᎩᎪᎯ [dv:ʔì:sgi:go:hi] 
 \begin_inset Quotes eld
@@ -3483,6 +5810,66 @@ Both of us will see you again.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮭ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 Ꮭ
 \begin_inset space ~
@@ -3972,6 +6359,66 @@ He doesn't have it, something alive.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮱ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏡᎬᎢ [hlʔgv̋:ʔi, tluʔgv̋:ʔi, dluhgv̋:ʔi] 
 \begin_inset Quotes eld
@@ -3998,6 +6445,66 @@ Trees.
 \end_layout
 
 \end_deeper
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮳ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏣᎧᎭ [jakáha] 
 \begin_inset Quotes eld
@@ -4099,6 +6606,66 @@ He wants you.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮵ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏥᎪᏩᏘᎭ [jigowhtíha] 
 \begin_inset Quotes eld
@@ -4136,6 +6703,66 @@ I want him.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮶ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏦᎢ [joʔi] 
 \begin_inset Quotes eld
@@ -4185,6 +6812,66 @@ Thirty.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮷ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏧᏁᎦ [ju:ne̋:ga] 
 \begin_inset Quotes eld
@@ -4234,6 +6921,66 @@ Brown.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮹ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏩᎭᏯ,
 \begin_inset space ~
@@ -4263,6 +7010,66 @@ Thanks.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ꮺ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏪᏌ [wě:sa] 
 \begin_inset Quotes eld
@@ -4276,6 +7083,66 @@ A cat.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ᏺ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏲᎾ [yǒ:na] 
 \begin_inset Quotes eld
@@ -4306,6 +7173,66 @@ English.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Section
+Ᏼ
+\end_layout
+
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+\begin_layout Plain Layout
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+\end_inset
+\end_layout
 \begin_layout Description
 ᏴᏫ [yv:wi] 
 \begin_inset Quotes eld
@@ -4319,6 +7246,25 @@ A person.
 
 \end_layout
 
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+\end_layout
 
 \end_body
 \end_document
