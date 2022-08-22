@@ -374,8 +374,8 @@ Cherokee-English Dictionary Standard
 \end_inset
 
  (CEDS).
- The MCO is generally considered easier to read and the use of diacrits
- enables easier visualation of Cherokee tones.
+ The MCO is generally considered easier to read and the use of diacritics
+ enables easier visualization of Cherokee tones.
 \end_layout
 
 \begin_layout Enumerate
@@ -426,8 +426,12 @@ Attribution — You must give appropriate credit, provide a link to the license,
 \end_layout
 
 \begin_layout Description
-ShareAlike — If you remix, transform, or build upon the material, you must
- distribute your contributions under the same license as the original.
+Share
+\begin_inset space ~
+\end_inset
+
+Alike — If you remix, transform, or build upon the material, you must distribute
+ your contributions under the same license as the original.
 \end_layout
 
 \begin_layout Description
@@ -729,9 +733,8 @@ status collapsed
 
 \begin_layout Plain Layout
 
-http://lakotalearners.com/Darrell
-\backslash
-%20Kipp.pdf
+https://www.miinojibwe.org/wp-content/uploads/2022/02/encouragementguidanceinsight
+slessons3-00.pdf
 \end_layout
 
 \end_inset
@@ -954,8 +957,8 @@ https://en.wikipedia.org/wiki/TPR_Storytelling
 \begin_layout Quote
 ☞ 
 \emph on
-The core concept of TPRS is listening to the language as it is used to describe
- a series of connected events.
+The core concept of TPRS is listening to or reading the language as it is
+ used to describe a series of connected events.
 \end_layout
 
 \begin_layout Standard
@@ -973,18 +976,14 @@ One thing both approaches agree on is that students should be listening
  when necessary.
  It usually takes about 30 hours of instruction in a classroom setting before
  students are ready to start speaking simple sentences.
- It is important to not force speaking the language before being ready.
+ 
+\noun on
+It is important to not force speaking the language before being ready.
 \end_layout
 
 \begin_layout Standard
 In addition to the TPR and TPRS approaches, there are also sections explaining
- core grammar concepts in combination with a few traditional translation
- exercises.
-\end_layout
-
-\begin_layout Standard
-Before the start of each chapter you should do the matching set of online
- audio lessons.
+ core grammar concepts in combination with written translation exercises.
 \end_layout
 
 \begin_layout Chapter
@@ -1043,9 +1042,39 @@ It is very important to do the audio exercises in addition to the book and
 \emph on
 Be sure to listen to all audio the exercises until the audio instructs you
  to switch to the book before continuing.
- After you complete the book up to the point the audio instructs, continue
- listening to the audio starting with the next session until you are again
- instructed to switch to the book.
+ After you complete the book up to the point where the audio instructs,
+ continue listening to the audio starting with the next session until you
+ are again instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+For best effect you should only do one audio session per day.
+ To help keep track, the sessions are labeled with 
+\begin_inset Quotes eld
+\end_inset
+
+Day 1
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+Day 2
+\begin_inset Quotes erd
+\end_inset
+
+, and so forth.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+It is perfectly fine to repeat a day's session more than once during the
+ assigned day if you think you need additional practice.
 \end_layout
 
 \begin_layout Standard
@@ -1196,12 +1225,12 @@ The Cherokee-English Dictionary Standard (CEDS).
 
 \begin_deeper
 \begin_layout Itemize
-This standard uses a combination of underdots and superscripted numbers
+This standard uses a combination of under-dots and super-scripted numbers
  to indicate pronunciation.
 \end_layout
 
 \begin_layout Itemize
-It is easy to miss the underdot for short vowel markings and the superscripted
+It is easy to miss the under-dot for short vowel markings and the super-scripted
  numbers for the tones don't help one visualize the pitch and tone of a
  vowel.
 \end_layout
@@ -1213,13 +1242,13 @@ The Modified Community Orthography (MCO).
 
 \begin_deeper
 \begin_layout Itemize
-This one uses standard diactrics and has a clear vowel length marker to
+This one uses standard dielectrics and has a clear vowel length marker to
  indicate cadence.
 \end_layout
 
 \begin_layout Itemize
-The diactrics chosen, by their shape, help one visualize the pitch and tone
- of a vowel.
+The diacritics chosen, by their shape, help one visualize the pitch and
+ tone of a vowel.
 \end_layout
 
 \begin_layout Itemize
@@ -1396,7 +1425,7 @@ Examples (the diacritics will be explained shortly):
 \end_layout
 
 \begin_layout Description
-niga̋:da short 
+niga̋ːda short 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2033,27 +2062,27 @@ Vowels
 \end_layout
 
 \begin_layout Description
-a:,
+aː,
 \begin_inset space ~
 \end_inset
 
-e:,
+eː,
 \begin_inset space ~
 \end_inset
 
-i:,
+iː,
 \begin_inset space ~
 \end_inset
 
-o:,
+oː,
 \begin_inset space ~
 \end_inset
 
-u:,
+uː,
 \begin_inset space ~
 \end_inset
 
-v: - These are long vowels.
+vː - These are long vowels.
 \end_layout
 
 \begin_layout Description
@@ -2085,7 +2114,7 @@ Pausing
 \end_layout
 
 \begin_layout Description
-ʔ - A dotless question mark indicates a brief pause in speaking.
+ʔ - A dot-less question mark indicates a brief pause in speaking.
  This is called a 
 \emph on
 glottal stop
@@ -2197,7 +2226,7 @@ hla
 \begin_inset space ~
 \end_inset
 
-ᎪᏍᏗ [go:hű:sdi, gő:sdi] 
+ᎪᏍᏗ [goːhűːsdi, gőːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2497,15 +2526,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎹ [á:ma] Salt.
+ᎠᎹ [áːma] Salt.
 \end_layout
 
 \begin_layout Description
-ᎬᏍᎦᎳᏗᎠ [gv:sgaládíʔa] He is hiding a long object.
+ᎬᏍᎦᎳᏗᎠ [gvːsgaládíʔa] He is hiding a long object.
 \end_layout
 
 \begin_layout Description
-ᎬᏍᎦᎳᏗᎠ [gv̀:sgaládíʔa] I am hiding a long object.
+ᎬᏍᎦᎳᏗᎠ [gv̀ːsgaládíʔa] I am hiding a long object.
 \end_layout
 
 \begin_layout Standard
@@ -72621,7 +72650,7 @@ Ouch!
 \begin_inset space ~
 \end_inset
 
-ᎣᏍᏛ [ő:sda, ő:sdv] 
+ᎣᏍᏛ [őːsda, őːsdv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72638,7 +72667,7 @@ Good.
 \begin_inset space ~
 \end_inset
 
-ᏏᏲ [o:síyo, síyo] 
+ᏏᏲ [oːsíyo, síyo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72650,7 +72679,7 @@ Hello.
 \end_layout
 
 \begin_layout Description
-ᎤᏲᎢ [u:yő:ʔi] 
+ᎤᏲᎢ [uːyőːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72662,7 +72691,7 @@ Bad.
 \end_layout
 
 \begin_layout Description
-ᎥᎥ [v:ʔv] 
+ᎥᎥ [vːʔv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72674,7 +72703,7 @@ Yes.
 \end_layout
 
 \begin_layout Description
-ᎥᏍᎩᎩ? [v̀:sgigi?] 
+ᎥᏍᎩᎩ? [v̀ːsgigi?] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72694,7 +72723,7 @@ Really?
 \begin_inset space ~
 \end_inset
 
-Ꮭ [v̀:hla, v̀:tla, hlahv, tlahv, hla, tla] 
+Ꮭ [v̀ːhla, v̀ːtla, hlahv, tlahv, hla, tla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72760,7 +72789,7 @@ Thanks.
 \begin_inset space ~
 \end_inset
 
-ᏴᏭᏁᎦ [yó:ne:ga, yv́:wúne:ga] 
+ᏴᏭᏁᎦ [yóːneːga, yv́ːwúneːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72827,7 +72856,7 @@ You are welcome
 \begin_inset Quotes eld
 \end_inset
 
-ᏲᏁᎦ' is a combination of the words ᎠᏴᏫ [ayv:wi] 
+ᏲᏁᎦ' is a combination of the words ᎠᏴᏫ [ayvːwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -72835,7 +72864,7 @@ person
 \begin_inset Quotes erd
 \end_inset
 
- and ᎤᏁᎦ [u:ne̋:ga] 
+ and ᎤᏁᎦ [uːne̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73746,7 +73775,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᏗ [gadō ű:sdi] 
+ᎤᏍᏗ [gadō űːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73762,7 +73791,7 @@ Which one?
 \begin_inset space ~
 \end_inset
 
-ᎢᎦ [hila̋ ǐ:ga̋] 
+ᎢᎦ [hila̋ ǐːga̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73810,7 +73839,7 @@ How many?
 \end_layout
 
 \begin_layout Description
-ᎠᏎᏍᏗ [a:sésdi] 
+ᎠᏎᏍᏗ [aːsésdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73824,7 +73853,7 @@ A number.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏎᏍᏗ [di:sésdi] 
+ᏗᏎᏍᏗ [diːsésdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73842,7 +73871,7 @@ Numbers.
 \end_layout
 
 \begin_layout Description
-ᏌᏊ [sà:gwű] 
+ᏌᏊ [sàːgwű] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73866,7 +73895,7 @@ Two.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏔᎵ [a:nitáʔli] 
+ᎠᏂᏔᎵ [aːnitáʔli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73892,7 +73921,7 @@ Three.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏦᎢ [a:nijoʔi] 
+ᎠᏂᏦᎢ [aːnijoʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73930,7 +73959,7 @@ Five.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵ [sǔ:dáli] 
+ᏑᏓᎵ [sǔːdáli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -73942,7 +73971,7 @@ Six.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏉᎩ [gahlgwǒ:gi] 
+ᎦᎵᏉᎩ [gahlgwǒːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74140,7 +74169,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎬᏱᎢ [igv:yi̋:ʔi] 
+ᎢᎬᏱᎢ [igvːyi̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74152,7 +74181,7 @@ First.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏁᎢ [taʔli:ne̋:ʔi] 
+ᏔᎵᏁᎢ [taʔliːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74164,7 +74193,7 @@ Second.
 \end_layout
 
 \begin_layout Description
-ᏦᎢᏁᎢ [joʔi:ne̋:ʔi] 
+ᏦᎢᏁᎢ [joʔiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74176,7 +74205,7 @@ Third.
 \end_layout
 
 \begin_layout Description
-ᏅᎩᏁᎢ [nvhgi:ne̋:ʔi] 
+ᏅᎩᏁᎢ [nvhgiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74188,7 +74217,7 @@ Fourth.
 \end_layout
 
 \begin_layout Description
-ᎯᏍᎩᏁᎢ [hisgi:ne̋:ʔi] 
+ᎯᏍᎩᏁᎢ [hisgiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74200,7 +74229,7 @@ Fifth.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵᏁᎢ [sǔ:dáli:ne̋:ʔi] 
+ᏑᏓᎵᏁᎢ [sǔːdáliːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -74212,7 +74241,7 @@ Sixth.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏉᎩᏁᎢ [gahlgwǒ:gi:ne̋:ʔi] 
+ᎦᎵᏉᎩᏁᎢ [gahlgwǒːgiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75532,7 +75561,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎪᏩᏘᎭ [à:gowhtíha] 
+ᎠᎪᏩᏘᎭ [àːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75544,7 +75573,7 @@ He sees him or it.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎪᏩᏘᎭ [à:nigowhtíha] 
+ᎠᏂᎪᏩᏘᎭ [àːnigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75556,7 +75585,7 @@ They see him or it.
 \end_layout
 
 \begin_layout Description
-ᏓᎪᏩᏘᎭ [dà:gowhtíha] 
+ᏓᎪᏩᏘᎭ [dàːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75568,7 +75597,7 @@ He sees them.
 \end_layout
 
 \begin_layout Description
-ᏓᏂᎪᏩᏘᎭ [dà:nigowhtíha] 
+ᏓᏂᎪᏩᏘᎭ [dàːnigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75597,7 +75626,7 @@ And.
 \end_layout
 
 \begin_layout Description
-ᎠᎨᏯ [agě:hya] 
+ᎠᎨᏯ [agěːhya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75610,7 +75639,7 @@ A woman.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎨᏯ [ani:gě:hya] 
+ᎠᏂᎨᏯ [aniːgěːhya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75636,7 +75665,7 @@ A man.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏍᎦᏯ [ani:sgaya] 
+ᎠᏂᏍᎦᏯ [aniːsgaya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75653,7 +75682,7 @@ Men.
 \begin_inset space ~
 \end_inset
 
-ᏧᏍᏗ [gadō jű:sdi] 
+ᏧᏍᏗ [gadō jűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75687,7 +75716,7 @@ Used when the person asking a question is expecting a response about two
 \end_layout
 
 \begin_layout Description
-ᎩᏟ [gi:hli] 
+ᎩᏟ [giːhli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75700,7 +75729,7 @@ A dog.
 \end_layout
 
 \begin_layout Description
-ᏄᎾ [nǔ:na] 
+ᏄᎾ [nǔːna] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75713,7 +75742,7 @@ A potato.
 \end_layout
 
 \begin_layout Description
-ᏅᏯ [nv̀:ya] 
+ᏅᏯ [nv̀ːya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75726,7 +75755,7 @@ A rock.
 \end_layout
 
 \begin_layout Description
-ᏪᏌ [wě:sa] 
+ᏪᏌ [wěːsa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77089,7 +77118,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏥᎪᏩᏘᎭ [ji:gowhtíha] 
+ᏥᎪᏩᏘᎭ [jiːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77113,7 +77142,7 @@ I see it.
 \end_layout
 
 \begin_layout Description
-ᎦᏥᎪᏩᏘᎭ [ga:ji:gowhtíha] 
+ᎦᏥᎪᏩᏘᎭ [gaːjiːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77125,7 +77154,7 @@ I see them-animate.
 \end_layout
 
 \begin_layout Description
-ᏕᏥᎪᏩᏘᎭ [de:jigowhtíha] 
+ᏕᏥᎪᏩᏘᎭ [deːjigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77137,7 +77166,7 @@ I see them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᎯᎪᏩᏘᎭ [hi:gowhtíha] 
+ᎯᎪᏩᏘᎭ [hiːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77161,7 +77190,7 @@ You see it.
 \end_layout
 
 \begin_layout Description
-ᎦᎯᎪᏩᏘᎭ [ga:hi:gowhtíha] 
+ᎦᎯᎪᏩᏘᎭ [gaːhiːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77173,7 +77202,7 @@ You see them-animate.
 \end_layout
 
 \begin_layout Description
-ᏕᎯᎪᏩᏘᎭ [de:higowhtíha] 
+ᏕᎯᎪᏩᏘᎭ [deːhigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77201,7 +77230,7 @@ Here.
 \end_layout
 
 \begin_layout Description
-ᎢᎾ [i̋:na] 
+ᎢᎾ [i̋ːna] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -77213,7 +77242,7 @@ Far.
 \end_layout
 
 \begin_layout Description
-ᎤᎿ [ù:hna̋] 
+ᎤᎿ [ùːhna̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -80545,7 +80574,7 @@ I.
 \end_layout
 
 \begin_layout Description
-ᎥᏍᎩᎾ [v̀:sgina] 
+ᎥᏍᎩᎾ [v̀ːsgina] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -80562,7 +80591,7 @@ He.
 
 \begin_deeper
 \begin_layout Description
-ᎥᏍᎩ [v̀:sgi] - 
+ᎥᏍᎩ [v̀ːsgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
@@ -80574,14 +80603,14 @@ Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
-ᎾᏍᎩ [nà:sgi] - 
+ᎾᏍᎩ [nàːsgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
 
 \end_deeper
 \begin_layout Description
-ᎭᏢ [ha:dlv] 
+ᎭᏢ [haːdlv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -85187,7 +85216,7 @@ A deer.
 \end_layout
 
 \begin_layout Description
-ᎪᏪᎵ [go:hwe:li] 
+ᎪᏪᎵ [goːhweːli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -85200,7 +85229,7 @@ A sheet of paper.
 
 \begin_deeper
 \begin_layout Description
-ᏗᎪᏪᎵ [digo:hwe:li] 
+ᏗᎪᏪᎵ [digoːhweːli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -85213,7 +85242,7 @@ Sheets of paper.
 
 \end_deeper
 \begin_layout Description
-ᎫᎴ [gu:le] 
+ᎫᎴ [guːle] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -85226,7 +85255,7 @@ An acorn.
 \end_layout
 
 \begin_layout Description
-ᏙᏯ [do:ya] 
+ᏙᏯ [doːya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -85239,7 +85268,7 @@ A beaver.
 \end_layout
 
 \begin_layout Description
-ᏚᏯ [tǔ:ya] 
+ᏚᏯ [tǔːya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -85252,7 +85281,7 @@ A bean.
 \end_layout
 
 \begin_layout Description
-ᏥᏍᏚ [ji:sdu] 
+ᏥᏍᏚ [jiːsdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -85313,7 +85342,7 @@ _____
 ᏱᎩ.
  [hla _____ 
 \lang american
-yi̋:gi
+yi̋ːgi
 \lang english
 ] 
 \begin_inset Quotes eld
@@ -88829,7 +88858,7 @@ One of the deer people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎠᏫ [a:niʔahwi] 
+ᎠᏂᎠᏫ [aːniʔahwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88842,7 +88871,7 @@ The deer people.
 
 \end_deeper
 \begin_layout Description
-ᎠᎩᏟ [agi:hli] 
+ᎠᎩᏟ [agiːhli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88855,7 +88884,7 @@ One of the dog people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎩᏟ [a:nigi:hli] 
+ᎠᏂᎩᏟ [aːnigiːhli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88868,7 +88897,7 @@ The dog people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏥᏍᏚ [aji:sdu] 
+ᎠᏥᏍᏚ [ajiːsdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88881,7 +88910,7 @@ A member of the rabbit people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏥᏍᏚ [a:niji:sdu] 
+ᎠᏂᏥᏍᏚ [aːnijiːsdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88907,7 +88936,7 @@ A member of the wolf people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏩᎭᏯ [a:niwahaya] 
+ᎠᏂᏩᎭᏯ [aːniwahaya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88920,7 +88949,7 @@ The wolf people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏪᏌ [awě:sa] 
+ᎠᏪᏌ [awěːsa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88933,7 +88962,7 @@ A member of the cat people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏪᏌ [a:niwě:sa] 
+ᎠᏂᏪᏌ [aːniwěːsa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88946,7 +88975,7 @@ The cat people.
 
 \end_deeper
 \begin_layout Description
-ᏙᎯ [tò:hi̋] 
+ᏙᎯ [tòːhi̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88959,7 +88988,7 @@ Peaceful.
 \end_layout
 
 \begin_layout Description
-ᏙᎯᏧ? [tò:hi̋:ju?] 
+ᏙᎯᏧ? [tòːhi̋ːju?] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -88983,7 +89012,7 @@ Things are well, aren't they?
 \end_layout
 
 \begin_layout Description
-ᏙᎯᏊ [tò:hi̋:gwu] 
+ᏙᎯᏊ [tòːhi̋ːgwu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89007,7 +89036,7 @@ Things are just well.
 \end_layout
 
 \begin_layout Description
-ᏛᎬᎪᎯ [dv:gv:go:hi] 
+ᏛᎬᎪᎯ [dvːgvːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89019,7 +89048,7 @@ I will see you again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᎩᎪᎯ [dv:sgi:go:hi] 
+ᏛᏍᎩᎪᎯ [dvːsgiːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89031,7 +89060,7 @@ You will see me again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᏛᎪᎯ [dv:sdv:go:hi] 
+ᏛᏍᏛᎪᎯ [dvːsdvːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89055,7 +89084,7 @@ Both of us will see you again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᎩᏂᎪᎯ [dv:sgini:go:hi] 
+ᏛᏍᎩᏂᎪᎯ [dvːsginiːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89079,7 +89108,7 @@ Both of you will see me or the both of us again.
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏨᎪᎯ [dv:ʔì:jv:go:hi] 
+ᏛᎢᏨᎪᎯ [dvːʔìːjvːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89115,7 +89144,7 @@ All of us will see you or both of you or all of you again.
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏍᎩᎪᎯ [dv:ʔì:sgi:go:hi] 
+ᏛᎢᏍᎩᎪᎯ [dvːʔìːsgiːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89151,7 +89180,7 @@ All of you will see me or both of us or all of us again.
 \end_layout
 
 \begin_layout Description
-ᏙᎾᏓᎪᎲᎢ [do:nada:go:hv:ʔi] 
+ᏙᎾᏓᎪᎲᎢ [doːnadaːgoːhvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -89163,7 +89192,7 @@ Let both of us see each other again later.
 \end_layout
 
 \begin_layout Description
-ᏙᏓᏓᎪᎲᎢ [do:dada:go:hv:ʔi] 
+ᏙᏓᏓᎪᎲᎢ [doːdadaːgoːhvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92280,7 +92309,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎨᏳᏣ [age:hyű:ja] 
+ᎠᎨᏳᏣ [ageːhyűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92293,7 +92322,7 @@ A girl.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎨᏳᏣ [ani:ge:hyű:ja] 
+ᎠᏂᎨᏳᏣ [aniːgeːhyűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92306,7 +92335,7 @@ Girls.
 
 \end_deeper
 \begin_layout Description
-ᎠᏧᏣ [achű:ja] 
+ᎠᏧᏣ [achűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92319,7 +92348,7 @@ A boy.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏧᏣ [ani:chű:ja] 
+ᎠᏂᏧᏣ [aniːchűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92336,7 +92365,7 @@ Boys.
 \begin_inset space ~
 \end_inset
 
-ᎠᏛᏁᎭ [gadō à:dv́:neha] 
+ᎠᏛᏁᎭ [gadō àːdv́ːneha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92353,7 +92382,7 @@ What is he doing?
 \begin_inset space ~
 \end_inset
 
-ᎠᎾᏛᏁᎭ [gadō à:na:dv́:neha] 
+ᎠᎾᏛᏁᎭ [gadō àːnaːdv́ːneha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92366,7 +92395,7 @@ What are they doing?
 
 \end_deeper
 \begin_layout Description
-ᏌᎶᎵ [salǒ:li] 
+ᏌᎶᎵ [salǒːli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92379,7 +92408,7 @@ A squirrel.
 \end_layout
 
 \begin_layout Description
-ᏌᏛᏗ [sadv́:di] 
+ᏌᏛᏗ [sadv́ːdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92392,7 +92421,7 @@ A trap.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏌᏛᏗ [di:sadv́:di] 
+ᏗᏌᏛᏗ [diːsadv́ːdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92405,7 +92434,7 @@ Traps.
 
 \end_deeper
 \begin_layout Description
-ᏐᏈᎵ [sǒ:gwíli] 
+ᏐᏈᎵ [sǒːgwíli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92418,7 +92447,7 @@ A horse.
 \end_layout
 
 \begin_layout Description
-ᏡᎬᎢ [hlʔgv̋:ʔi, tluʔgv̋:ʔi, dluhgv̋:ʔi] 
+ᏡᎬᎢ [hlʔgv̋ːʔi, tluʔgv̋ːʔi, dluhgv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92431,7 +92460,7 @@ A tree.
 
 \begin_deeper
 \begin_layout Description
-ᏕᏡᎬᎢ [dě:hlʔgv̋:ʔi, dě:hluʔgv̋:ʔi, dě:dluhgv̋:ʔi] 
+ᏕᏡᎬᎢ [děːhlʔgv̋ːʔi, děːhluʔgv̋ːʔi, děːdluhgv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92444,7 +92473,7 @@ Trees.
 
 \end_deeper
 \begin_layout Description
-ᏲᎾ [yǒ:na] 
+ᏲᎾ [yǒːna] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92495,7 +92524,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏃᏘ [nó:t] 
+ᏃᏘ [nóːt] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92508,7 +92537,7 @@ Naught.
 \end_layout
 
 \begin_layout Description
-ᎧᏂᎩᏓ [kani:gida] 
+ᎧᏂᎩᏓ [kaniːgida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92526,7 +92555,7 @@ None.
 \begin_inset space ~
 \end_inset
 
-ᏧᏁᎳ [chaně:la, chuně:la] 
+ᏧᏁᎳ [chaněːla, chuněːla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92538,7 +92567,7 @@ Eight.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳ [sóhně:la] 
+ᏐᏁᎳ [sóhněːla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92550,7 +92579,7 @@ Nine.
 \end_layout
 
 \begin_layout Description
-ᏍᎪᎯ [sgǒ:hi] 
+ᏍᎪᎯ [sgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92562,7 +92591,7 @@ Ten.
 \end_layout
 
 \begin_layout Description
-ᏌᏚ [sa:ʔdu] 
+ᏌᏚ [saːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92586,7 +92615,7 @@ Twelve.
 \end_layout
 
 \begin_layout Description
-ᏦᎦᏚ [joʔga:ʔdu] 
+ᏦᎦᏚ [joʔgaːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92598,7 +92627,7 @@ Thirteen.
 \end_layout
 
 \begin_layout Description
-ᏂᎦᏚ [niga:ʔdu] 
+ᏂᎦᏚ [nigaːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92610,7 +92639,7 @@ Fourteen.
 \end_layout
 
 \begin_layout Description
-ᏍᎩᎦᏚ [sgiga:ʔdu] 
+ᏍᎩᎦᏚ [sgigaːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92622,7 +92651,7 @@ Fifteen.
 \end_layout
 
 \begin_layout Description
-ᏓᎳᏚ [da:la:du] 
+ᏓᎳᏚ [daːlaːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92634,7 +92663,7 @@ Sixteen.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏆᏚ [gahlgwǎ:du] 
+ᎦᎵᏆᏚ [gahlgwǎːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92646,7 +92675,7 @@ Seventeen.
 \end_layout
 
 \begin_layout Description
-ᏁᎳᏚ [ně:la:du] 
+ᏁᎳᏚ [něːlaːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92658,7 +92687,7 @@ Eighteen.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳᏚ [sóhněla:du] 
+ᏐᏁᎳᏚ [sóhnělaːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92670,7 +92699,7 @@ Nineteen.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏍᎪᎯ [táʔlsgǒ:hi] 
+ᏔᎵᏍᎪᎯ [táʔlsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92683,7 +92712,7 @@ Twenty.
 \end_layout
 
 \begin_layout Description
-ᏦᏍᎪᎯ [joʔsgǒ:hi] 
+ᏦᏍᎪᎯ [joʔsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92696,7 +92725,7 @@ Thirty.
 \end_layout
 
 \begin_layout Description
-ᏅᎩᏍᎪᎯ [nvksgǒ:hi] 
+ᏅᎩᏍᎪᎯ [nvksgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92709,7 +92738,7 @@ Forty.
 \end_layout
 
 \begin_layout Description
-ᎯᎩᏍᎪᎯ [hiksgǒ:hi] 
+ᎯᎩᏍᎪᎯ [hiksgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92722,7 +92751,7 @@ Fifty.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵᏍᎪᎯ [sǔ:dálsgǒ:hi] 
+ᏑᏓᎵᏍᎪᎯ [sǔːdálsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92735,7 +92764,7 @@ Sixty.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏆᏍᎪᎯ [gahlgwǎ:sgǒ:hi] 
+ᎦᎵᏆᏍᎪᎯ [gahlgwǎːsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92748,7 +92777,7 @@ Seventy.
 \end_layout
 
 \begin_layout Description
-ᏁᎳᏍᎪᎯ [nélsgǒ:hi] 
+ᏁᎳᏍᎪᎯ [nélsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92761,7 +92790,7 @@ Eighty.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳᏍᎪᎯ [sóhnélsgǒ:hi] 
+ᏐᏁᎳᏍᎪᎯ [sóhnélsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -92774,7 +92803,7 @@ Ninety.
 \end_layout
 
 \begin_layout Description
-ᏍᎪᎯᏥᏆ [sgǒ:hítsgwa] 
+ᏍᎪᎯᏥᏆ [sgǒːhítsgwa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -95895,7 +95924,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎢᎦ [hila̋ ǐ:ga̋] 
+ᎢᎦ [hila̋ ǐːga̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -95943,7 +95972,7 @@ How many animate things?
 \end_layout
 
 \begin_layout Description
-ᎯᎳᏴᎢ [hilâ:yv̋:ʔi] 
+ᎯᎳᏴᎢ [hilâːyv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -95960,14 +95989,14 @@ When?
 \begin_inset space ~
 \end_inset
 
-ᎢᏴᎢ [hila̋ iyv̋:ʔi?] - 
+ᎢᏴᎢ [hila̋ iyv̋ːʔi?] - 
 \emph on
 Alternate pronunciation.
 \end_layout
 
 \end_deeper
 \begin_layout Description
-ᎦᎪ [gá:gō] 
+ᎦᎪ [gáːgō] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -95979,7 +96008,7 @@ Who?
 \end_layout
 
 \begin_layout Description
-ᎦᎩ [gâ:gí] 
+ᎦᎩ [gâːgí] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96006,7 +96035,7 @@ For when the question is about some doing or happening.
 \end_layout
 
 \begin_layout Description
-ᎦᏙᎩ [gadò:gí] 
+ᎦᏙᎩ [gadòːgí] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96022,7 +96051,7 @@ What again?
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᏗ [gadō u:sdi] 
+ᎤᏍᏗ [gadō uːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96044,7 +96073,7 @@ What thing?
 \end_layout
 
 \begin_layout Description
-ᎦᏙᎲ [gadò:hv̋] 
+ᎦᏙᎲ [gadòːhv̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96121,7 +96150,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏓᏆᏙᎠ [dà:gwadó:ʔa] 
+ᏓᏆᏙᎠ [dàːgwadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96134,7 +96163,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎩᎾᏙᎠ [dò:gi:nadó:ʔa] 
+ᏙᎩᎾᏙᎠ [dòːgiːnadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96147,7 +96176,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎦᏙᎠ [dò:gadó:ʔa] 
+ᏙᎦᏙᎠ [dòːgadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96160,7 +96189,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [dě:jádó:ʔa] 
+ᏕᏣᏙᎠ? [děːjádóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96173,7 +96202,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏍᏓᏙᎠ? [dě:sdádó:ʔa] 
+ᏕᏍᏓᏙᎠ? [děːsdádóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96186,7 +96215,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [dè:jádó:ʔa] 
+ᏕᏣᏙᎠ? [dèːjádóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96199,7 +96228,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᏙᎠ [dù:dó:ʔa] 
+ᏚᏙᎠ [dùːdóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96212,7 +96241,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᎾᏙᎠ [dù:nadó:ʔa] 
+ᏚᎾᏙᎠ [dùːnadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96225,7 +96254,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎮᏙᎸᎢ [íhě:dô:lv:ʔi] 
+ᎢᎮᏙᎸᎢ [íhěːdôːlvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96237,7 +96266,7 @@ You come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᏍᏕᏙᎸᎢ [ísdě:dô:lv:ʔi] 
+ᎢᏍᏕᏙᎸᎢ [ísděːdôːlvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96249,7 +96278,7 @@ Both of you come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᎢᏤᏙᎸᎢ [íʔì:jě:dô:lv:ʔi] 
+ᎢᎢᏤᏙᎸᎢ [íʔìːjěːdôːlvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96261,7 +96290,7 @@ All of you come around again.
 \end_layout
 
 \begin_layout Description
-ᎣᏍᏓ [ő:sda] 
+ᎣᏍᏓ [őːsda] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96275,7 +96304,7 @@ Good.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏃᏍᏓ [a:nő:sda] 
+ᎠᏃᏍᏓ [aːnőːsda] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96288,7 +96317,7 @@ Good (them).
 
 \end_deeper
 \begin_layout Description
-ᎤᏲᎢ [u:yő:ʔi] 
+ᎤᏲᎢ [uːyőːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96301,7 +96330,7 @@ Bad.
 
 \begin_deeper
 \begin_layout Description
-ᎤᏂᏲᎢ [u:niyő:ʔi] 
+ᎤᏂᏲᎢ [uːniyőːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96314,7 +96343,7 @@ Bad (them).
 
 \end_deeper
 \begin_layout Description
-ᎩᎵᏏ [gili:si] 
+ᎩᎵᏏ [giliːsi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96326,7 +96355,7 @@ English.
 \end_layout
 
 \begin_layout Description
-ᏴᏫ [yv:wi] 
+ᏴᏫ [yvːwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96339,7 +96368,7 @@ A person.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎵᏏ [agili:si] 
+ᎠᎩᎵᏏ [agiliːsi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96352,7 +96381,7 @@ An English person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎩᎵᏏ [ani:gili:si] 
+ᎠᏂᎩᎵᏏ [aniːgiliːsi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96378,7 +96407,7 @@ A Cherokee person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏣᎳᎩ [ani:jalagi] 
+ᎠᏂᏣᎳᎩ [aniːjalagi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96391,7 +96420,7 @@ Cherokee people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏲᏁᎦ [ayó:ne:ga] 
+ᎠᏲᏁᎦ [ayóːneːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96404,7 +96433,7 @@ An English or white person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏲᏁᎦ [ani:yó:ne:ga] 
+ᎠᏂᏲᏁᎦ [aniːyóːneːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96417,7 +96446,7 @@ English or white people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏴᏫ [ayv:wi] 
+ᎠᏴᏫ [ayvːwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96430,7 +96459,7 @@ A person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏴᏫ [ani:yv:wi] 
+ᎠᏂᏴᏫ [aniːyvːwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96443,7 +96472,7 @@ People.
 
 \end_deeper
 \begin_layout Description
-ᎠᏴᏫᏯᎢ [ayv:wi:ya̋:ʔi] 
+ᎠᏴᏫᏯᎢ [ayvːwiːya̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96457,7 +96486,7 @@ A Native American.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏴᏫᏯᎢ [ani:yv:wi:ya̋:ʔi] 
+ᎠᏂᏴᏫᏯᎢ [aniːyvːwiːya̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96540,7 +96569,7 @@ a true person
 \begin_inset Quotes eld
 \end_inset
 
--ya̋:ʔi
+-ya̋ːʔi
 \begin_inset Quotes erd
 \end_inset
 
@@ -96578,11 +96607,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᎵᏌᏇᏘ [a:lí:sa:gwe:ti] “Elizabeth”
+ᎠᎵᏌᏇᏘ [aːlíːsaːgweːti] “Elizabeth”
 \end_layout
 
 \begin_layout Description
-ᎡᏂᏙᏂ [énto:ni] 
+ᎡᏂᏙᏂ [éntoːni] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96594,23 +96623,23 @@ Anthony.
 \end_layout
 
 \begin_layout Description
-ᎵᏂᏓ [lí:nida] “Linda”
+ᎵᏂᏓ [líːnida] “Linda”
 \end_layout
 
 \begin_layout Description
-ᎹᎦᎵ [ma:gá:li] “Michael”
+ᎹᎦᎵ [maːgáːli] “Michael”
 \end_layout
 
 \begin_layout Description
-ᎹᎦᏰᏘ [má:gaye:ti] “Margaret”
+ᎹᎦᏰᏘ [máːgayeːti] “Margaret”
 \end_layout
 
 \begin_layout Description
-ᎺᎵ [mé:li] “Mary”
+ᎺᎵ [méːli] “Mary”
 \end_layout
 
 \begin_layout Description
-ᏆᏆᎠ [gwa:gwaʔa] 
+ᏆᏆᎠ [gwaːgwaʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -96622,23 +96651,23 @@ Barbara.
 \end_layout
 
 \begin_layout Description
-ᏑᏌᏃ [sú:sano] “Susan”
+ᏑᏌᏃ [súːsano] “Susan”
 \end_layout
 
 \begin_layout Description
-ᏙᎹᏏ [tó:masi] “Thomas”
+ᏙᎹᏏ [tóːmasi] “Thomas”
 \end_layout
 
 \begin_layout Description
-ᏕᏫᏗ [dé:widi] “David”
+ᏕᏫᏗ [déːwidi] “David”
 \end_layout
 
 \begin_layout Description
-ᏣᎵ [chá:li] “Charles”
+ᏣᎵ [cháːli] “Charles”
 \end_layout
 
 \begin_layout Description
-ᏣᏂ [já:ni] “John”
+ᏣᏂ [jáːni] “John”
 \end_layout
 
 \begin_layout Standard
@@ -99359,7 +99388,7 @@ Not still.
 \begin_inset space ~
 \end_inset
 
-ᎪᏍᏗ [go:hű:sdi, gő:sdi] 
+ᎪᏍᏗ [goːhűːsdi, gőːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -99378,7 +99407,7 @@ Something.
 \begin_inset space ~
 \end_inset
 
-ᎪᎱᏍᏗ [hla go:hű:sdi] 
+ᎪᎱᏍᏗ [hla goːhűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100667,7 +100696,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᏤᎢ [ìje̋:ʔi] 
+ᎢᏤᎢ [ìje̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100679,7 +100708,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᎢᏤᎢᏳᏍᏗ [ijé:ʔiyű:sdi] 
+ᎢᏤᎢᏳᏍᏗ [ijéːʔiyűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100691,7 +100720,7 @@ Green colored.
 \end_layout
 
 \begin_layout Description
-ᎤᏁᎦ [u:ne̋:ga] 
+ᎤᏁᎦ [uːne̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100703,7 +100732,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᎤᏍᎪᎸᎢ [ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100716,7 +100745,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᎤᏬᏗᎨᎢ [uwǒ:díge̋:ʔi] 
+ᎤᏬᏗᎨᎢ [uwǒːdíge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100732,7 +100761,7 @@ Brown.
 \begin_inset space ~
 \end_inset
 
-ᎩᎨᎢ [gǐ:gáge̋:ʔi, gǐ:ge̋:ʔi] 
+ᎩᎨᎢ [gǐːgáge̋ːʔi, gǐːge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100748,7 +100777,7 @@ Red.
 \begin_inset space ~
 \end_inset
 
-ᎬᏂᎨᎢ [gv̌:hnáge̋:ʔi, gv̌:níge̋:ʔi] 
+ᎬᏂᎨᎢ [gv̌ːhnáge̋ːʔi, gv̌ːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100760,7 +100789,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᏌᎪᏂᎨᎢ [sakǒ:níge̋:ʔi] 
+ᏌᎪᏂᎨᎢ [sakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100772,7 +100801,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᏓᎭᎵᎨᎢ [daha:lige̋:ʔi] 
+ᏓᎭᎵᎨᎢ [dahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100784,7 +100813,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᏓᎶᏂᎨᎢ [dalǒ:níge̋:ʔi] 
+ᏓᎶᏂᎨᎢ [dalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100860,7 +100889,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎠᎩᎨᎢ [agǐ:gáge̋:ʔi, agǐ:ge̋:ʔi] 
+ᎠᎩᎨᎢ [agǐːgáge̋ːʔi, agǐːge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100876,7 +100905,7 @@ Red.
 \begin_inset space ~
 \end_inset
 
-ᎠᎬᏂᎨᎢ [agv̌:hnáge̋:ʔi, agv̌:níge̋:ʔi] 
+ᎠᎬᏂᎨᎢ [agv̌ːhnáge̋ːʔi, agv̌ːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100888,7 +100917,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᎠᏌᎪᏂᎨᎢ [asakǒ:níge̋:ʔi] 
+ᎠᏌᎪᏂᎨᎢ [asakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100900,7 +100929,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎭᎵᎨᎢ [adaha:lige̋:ʔi] 
+ᎠᏓᎭᎵᎨᎢ [adahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100912,7 +100941,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎶᏂᎨᎢ [adalǒ:níge̋:ʔi] 
+ᎠᏓᎶᏂᎨᎢ [adalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100949,7 +100978,7 @@ Some colors are described with word combinations.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [gǐ:gáge ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [gǐːgáge ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100966,7 +100995,7 @@ Pink.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [gv̌:hnáge ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [gv̌ːhnáge ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -100983,7 +101012,7 @@ Grey.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [sakǒ:níge̋ ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [sakǒːníge̋ ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -101000,7 +101029,7 @@ Grey.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [dalǒ:níge ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [dalǒːníge ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102564,7 +102593,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏤᎢ [ani:je̋:ʔi] 
+ᎠᏂᏤᎢ [aniːje̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102576,7 +102605,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏤᎢᏳᏍᏗ [ani:jé:ʔiyű:sdi] 
+ᎠᏂᏤᎢᏳᏍᏗ [aniːjéːʔiyűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102588,7 +102617,7 @@ Green colored.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎩᎦᎨᎢ [ani:gǐ:gáge̋:ʔi] 
+ᎠᏂᎩᎦᎨᎢ [aniːgǐːgáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102600,7 +102629,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏓᎭᎵᎨᎢ [ani:daha:lige̋:ʔi] 
+ᎠᏂᏓᎭᎵᎨᎢ [aniːdahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102612,7 +102641,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎬᎿᎨᎢ [ani:gv̌:hnáge̋:ʔi] 
+ᎠᏂᎬᎿᎨᎢ [aniːgv̌ːhnáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102624,7 +102653,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏌᎪᏂᎨᎢ [ani:sakǒ:níge̋:ʔi] 
+ᎠᏂᏌᎪᏂᎨᎢ [aniːsakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102636,7 +102665,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏓᎶᏂᎨᎢ [ani:dalǒ:níge̋:ʔi] 
+ᎠᏂᏓᎶᏂᎨᎢ [aniːdalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102696,7 +102725,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎤᏂᏁᎦ [u:ni:ne̋:ga] 
+ᎤᏂᏁᎦ [uːniːne̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102708,7 +102737,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᎤᏂᏍᎪᎸᎢ [ù:nisgǒ:lv̋:ʔi] 
+ᎤᏂᏍᎪᎸᎢ [ùːnisgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102721,7 +102750,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᏧᏃᏗᎨᎢ [ju:nǒ:díge̋:ʔi] 
+ᏧᏃᏗᎨᎢ [juːnǒːdíge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102903,7 +102932,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏗᏤᎢ [dije̋:ʔi] 
+ᏗᏤᎢ [dije̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102915,7 +102944,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᏗᏤᎢᏳᏍᏗ [dijé:ʔiyű:sdi] 
+ᏗᏤᎢᏳᏍᏗ [dijéːʔiyűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102927,7 +102956,7 @@ Green colored.
 \end_layout
 
 \begin_layout Description
-ᏧᏁᎦ [ju:ne̋:ga] 
+ᏧᏁᎦ [juːne̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102939,7 +102968,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᏧᏍᎪᎸᎢ [ju:sgǒ:lv̋:ʔi] 
+ᏧᏍᎪᎸᎢ [juːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102952,7 +102981,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᏧᏬᏗᎨᎢ [juwǒ:díge̋:ʔi] 
+ᏧᏬᏗᎨᎢ [juwǒːdíge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102964,7 +102993,7 @@ Brown.
 \end_layout
 
 \begin_layout Description
-ᏗᎩᎦᎨᎢ [digǐ:gáge̋:ʔi] 
+ᏗᎩᎦᎨᎢ [digǐːgáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102976,7 +103005,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᏗᎬᎿᎨᎢ [digv̌:hnáge̋:ʔi] 
+ᏗᎬᎿᎨᎢ [digv̌ːhnáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -102988,7 +103017,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᏗᏌᎪᏂᎨᎢ [disakǒ:níge̋:ʔi] 
+ᏗᏌᎪᏂᎨᎢ [disakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -103000,7 +103029,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᏗᏓᎭᎵᎨᎢ [didaha:lige̋:ʔi] 
+ᏗᏓᎭᎵᎨᎢ [didahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -103012,7 +103041,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᏗᏓᎶᏂᎨᎢ [didalǒ:níge̋:ʔi] 
+ᏗᏓᎶᏂᎨᎢ [didalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -104703,7 +104732,7 @@ i
 \begin_inset space ~
 \end_inset
 
-ᏧᏂ- [u:ni-, ju:ni-] 
+ᏧᏂ- [uːni-, juːni-] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108569,11 +108598,11 @@ I \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꮵ-, ᏥᏯ͓- (ji-, ji:y-) 
+Set A: Ꮵ-, ᏥᏯ͓- (ji-, jiːy-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji:y-)
+Set B: Ꮵ-, ᏥᏯ͓- (ji-, jiːy-)
 \end_layout
 
 \end_deeper
@@ -108601,11 +108630,11 @@ I \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᎦᏥ-, ᎦᏥᏯ͓- (ga:ji-, ga:ji:y-) 
+Set A: ᎦᏥ-, ᎦᏥᏯ͓- (gaːji-, gaːjiːy-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga:ji-, ga:ji:y-)
+Set B: ᎦᏥ-, ᎦᏥᏯ͓- (gaːji-, gaːjiːy-)
 \end_layout
 
 \end_deeper
@@ -108616,7 +108645,7 @@ I \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᏕᏥ-, ᏕᎦ͓- (de:ji-, g-) 
+Set A: ᏕᏥ-, ᏕᎦ͓- (deːji-, g-) 
 \end_layout
 
 \begin_layout Itemize
@@ -108667,7 +108696,7 @@ He \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꮣ-, ᏕᎦ- (da-, de:ga-)
+Set A: Ꮣ-, ᏕᎦ- (da-, deːga-)
 \end_layout
 
 \begin_layout Itemize
@@ -108698,11 +108727,11 @@ You \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: Ꭿ-, ᎯᏯ͓- (hi-, hi:y-) 
+Set A: Ꭿ-, ᎯᏯ͓- (hi-, hiːy-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi:y-) 
+Set B: Ꭿ-, ᎯᏯ͓- (hi-, hiːy-) 
 \end_layout
 
 \end_deeper
@@ -108730,11 +108759,11 @@ You \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᎦᎯ-, ᎦᎯᏯ͓- (ga:hi-, ga:hi:y-) 
+Set A: ᎦᎯ-, ᎦᎯᏯ͓- (gaːhi-, gaːhiːy-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga:hi-, ga:hi:y-) 
+Set B: ᎦᎯ-, ᎦᎯᏯ͓- (gaːhi-, gaːhiːy-) 
 \end_layout
 
 \end_deeper
@@ -108745,11 +108774,11 @@ You \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᏕᎯ- (de:hi-) 
+Set A: ᏕᎯ- (deːhi-) 
 \end_layout
 
 \begin_layout Itemize
-Set B: ᏕᏣ- (de:ja-) ☞ 
+Set B: ᏕᏣ- (deːja-) ☞ 
 \emph on
 New.
 \end_layout
@@ -108785,7 +108814,7 @@ Set A: ᎠᏂ- (ani-)
 \end_layout
 
 \begin_layout Itemize
-Set B: ᎤᏂ- (ù:ni-)
+Set B: ᎤᏂ- (ùːni-)
 \end_layout
 
 \end_deeper
@@ -108800,7 +108829,7 @@ Set A: ᏓᏂ- (dani-)
 \end_layout
 
 \begin_layout Itemize
-Set B: ᏚᏂ- (dù:ni-)
+Set B: ᏚᏂ- (dùːni-)
 \end_layout
 
 \end_deeper
@@ -108961,7 +108990,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎤᎭ [ǔ:ha]
+ᎤᎭ [ǔːha]
 \begin_inset Quotes eld
 \end_inset
 
@@ -108973,7 +109002,7 @@ He has it, something solid.
 \end_layout
 
 \begin_layout Description
-ᎤᏂᎭ [ù:nǐ:ha] 
+ᎤᏂᎭ [ùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -108985,7 +109014,7 @@ They have it, something solid.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎭ [à:giha] 
+ᎠᎩᎭ [àːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -109009,7 +109038,7 @@ You have it, something solid.
 \end_layout
 
 \begin_layout Description
-ᎤᏩᎧᎭ [ù:wa:káha] 
+ᎤᏩᎧᎭ [ùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -109021,7 +109050,7 @@ He has it, something alive.
 \end_layout
 
 \begin_layout Description
-ᎤᏂᎧᎭ [ù:ni:káha] 
+ᎤᏂᎧᎭ [ùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -109033,7 +109062,7 @@ They have it, something alive.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎧᎭ [à:gikáha] 
+ᎠᎩᎧᎭ [àːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -109109,7 +109138,7 @@ backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
-For review:
+For reviewː
 \end_layout
 
 \begin_layout Plain Layout
@@ -109131,7 +109160,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎥᏍᎩᎾ [v̀:sgina] 
+ᎥᏍᎩᎾ [v̀ːsgina] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -109148,7 +109177,7 @@ He.
 
 \begin_deeper
 \begin_layout Description
-ᎥᏍᎩ [v̀:sgi] - 
+ᎥᏍᎩ [v̀ːsgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
@@ -109160,7 +109189,7 @@ Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
-ᎾᏍᎩ [nà:sgi] - 
+ᎾᏍᎩ [nàːsgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
@@ -114304,7 +114333,7 @@ He doesn't see you.
 \begin_inset space ~
 \end_inset
 
-ᏳᎭ [hla yǔ:ha] 
+ᏳᎭ [hla yǔːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -114326,7 +114355,7 @@ He doesn't have it, something solid.
 \begin_inset space ~
 \end_inset
 
-ᏳᏂᎭ [hla yù:nǐ:ha] 
+ᏳᏂᎭ [hla yùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -114342,7 +114371,7 @@ They don't have it, something solid.
 \begin_inset space ~
 \end_inset
 
-ᏯᎩᎭ [hla yà:giha] 
+ᏯᎩᎭ [hla yàːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -114374,7 +114403,7 @@ You don't have it, something solid.
 \begin_inset space ~
 \end_inset
 
-ᏳᏩᎧᎭ [hla yù:wa:káha] 
+ᏳᏩᎧᎭ [hla yùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -114390,7 +114419,7 @@ He doesn't have it, something alive.
 \begin_inset space ~
 \end_inset
 
-ᏳᏂᎧᎭ [hla yù:ni:káha] 
+ᏳᏂᎧᎭ [hla yùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -114406,7 +114435,7 @@ They don't have it, something alive.
 \begin_inset space ~
 \end_inset
 
-ᏯᎩᎧᎭ [hla yà:gikáha] 
+ᏯᎩᎧᎭ [hla yàːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119599,7 +119628,7 @@ They \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-ᎬᎩ-, ᎬᏆ͓- (gv:gi-, gv:gw-)
+ᎬᎩ-, ᎬᏆ͓- (gvːgi-, gvːgw-)
 \end_layout
 
 \end_deeper
@@ -119610,7 +119639,7 @@ They \SpecialChar ldots
 
 \begin_deeper
 \begin_layout Itemize
-ᎨᏣ- (ge:ja-)
+ᎨᏣ- (geːja-)
 \end_layout
 
 \end_deeper
@@ -119637,7 +119666,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎬᎩᎪᏩᏘᎭ [gv:gigowhtíha] 
+ᎬᎩᎪᏩᏘᎭ [gvːgigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119653,7 +119682,7 @@ They see me.
 \begin_inset space ~
 \end_inset
 
-ᏱᎬᎩᎪᏩᏘᎭ [hla yigv:gigowhtíha] 
+ᏱᎬᎩᎪᏩᏘᎭ [hla yigvːgigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119665,7 +119694,7 @@ They don't see me.
 \end_layout
 
 \begin_layout Description
-ᎨᏣᎪᏩᏘᎭ [ge:jagowhtíha] 
+ᎨᏣᎪᏩᏘᎭ [geːjagowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119681,7 +119710,7 @@ They see you.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏣᎪᏩᏘᎭ [hla yige:jagowhtíha] 
+ᏱᎨᏣᎪᏩᏘᎭ [hla yigeːjagowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119727,7 +119756,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᎭ [dǔ:ha] 
+ᏚᎭ [dǔːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119739,7 +119768,7 @@ He has them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏚᏂᎭ [dù:nǐ:ha] 
+ᏚᏂᎭ [dùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119751,7 +119780,7 @@ They have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏓᎩᎭ [dà:giha] 
+ᏓᎩᎭ [dàːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119763,7 +119792,7 @@ I have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏕᏣᎭ [de:jaha] 
+ᏕᏣᎭ [deːjaha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119775,7 +119804,7 @@ You have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏚᏩᎧᎭ [dù:wa:káha] 
+ᏚᏩᎧᎭ [dùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119787,7 +119816,7 @@ He has them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᏚᏂᎧᎭ [dù:ni:káha] 
+ᏚᏂᎧᎭ [dùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119799,7 +119828,7 @@ They have them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᏓᎩᎧᎭ [dà:gikáha] 
+ᏓᎩᎧᎭ [dàːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119811,7 +119840,7 @@ I have them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᏕᏣᎧᎭ [de:jakáha] 
+ᏕᏣᎧᎭ [deːjakáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119877,7 +119906,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᎭ [hla yidǔ:ha] 
+ᏱᏚᎭ [hla yidǔːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119893,7 +119922,7 @@ He doesn't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᏂᎭ [hla yidù:nǐ:ha] 
+ᏱᏚᏂᎭ [hla yidùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119909,7 +119938,7 @@ They don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏓᎩᎭ [hla yida:giha] 
+ᏱᏓᎩᎭ [hla yidaːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119925,7 +119954,7 @@ I don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏗᏣᎭ [hla yidi:jaha] 
+ᏱᏗᏣᎭ [hla yidiːjaha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119941,7 +119970,7 @@ You don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᏩᎧᎭ [hla yidù:wa:káha] 
+ᏱᏚᏩᎧᎭ [hla yidùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119957,7 +119986,7 @@ He doesn't have them, some alive things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᏂᎧᎭ [hla yidù:ni:káha] 
+ᏱᏚᏂᎧᎭ [hla yidùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119973,7 +120002,7 @@ They don't have them, some alive things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏓᎩᎧᎭ [hla yida:gikáha] 
+ᏱᏓᎩᎧᎭ [hla yidaːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -119989,7 +120018,7 @@ I don't have them, some alive things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏗᏣᎧᎭ [hla yidi:jakáha] 
+ᏱᏗᏣᎧᎭ [hla yidiːjakáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126113,7 +126142,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎩ [i̋:gi] 
+ᎢᎩ [i̋ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126127,7 +126156,7 @@ Is now or was just now.
 \end_layout
 
 \begin_layout Description
-ᎢᎦ [i̋:ga] 
+ᎢᎦ [i̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126141,7 +126170,7 @@ Now and ongoing.
 \end_layout
 
 \begin_layout Description
-ᎨᏐᎢ [gè:só:ʔi] 
+ᎨᏐᎢ [gèːsóːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126155,7 +126184,7 @@ Usually, habitually, or on certain occasions.
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎢ [gè:sv̋:ʔi] 
+ᎨᏒᎢ [gèːsv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126167,7 +126196,7 @@ Being.
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎩ [gè:sv̌:gi] 
+ᎨᏒᎩ [gèːsv̌ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126181,7 +126210,7 @@ With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᏎᎢ [gè:sé:ʔi] 
+ᎨᏎᎢ [gèːséːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126195,7 +126224,7 @@ Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᎲᎢ [gè:hv̌:ʔi] 
+ᎨᎲᎢ [gèːhv̌ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126207,7 +126236,7 @@ Been (a while ago).
 \end_layout
 
 \begin_layout Description
-ᎨᎲᎩ [gè:hv̌:gi] 
+ᎨᎲᎩ [gèːhv̌ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126221,7 +126250,7 @@ With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᎮᎢ [gè:hé:ʔi] 
+ᎨᎮᎢ [gèːhéːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126235,7 +126264,7 @@ Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᏎᏍᏗ [gè:sé:sdi] 
+ᎨᏎᏍᏗ [gèːséːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126279,7 +126308,7 @@ With personal knowledge
 \begin_inset Quotes erd
 \end_inset
 
- is indicated by the -ᎥᎩ (-v̌:gi) ending.
+ is indicated by the -ᎥᎩ (-v̌ːgi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -126304,7 +126333,7 @@ Being
 \begin_inset Quotes erd
 \end_inset
 
- is indicated by the -ᎥᎢ (-v̋:ʔi) ending.
+ is indicated by the -ᎥᎢ (-v̋ːʔi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -126347,7 +126376,7 @@ Without personal knowledge
 
 
 \emph default
- is indicated by the -ᎡᎢ (-é:ʔi) ending.
+ is indicated by the -ᎡᎢ (-éːʔi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -126381,7 +126410,7 @@ Usually
 \begin_inset Quotes erd
 \end_inset
 
- is indicated by the -ᎣᎢ (-ó:ʔi) ending.
+ is indicated by the -ᎣᎢ (-óːʔi) ending.
  In English we indicate this by phrases such as 
 \begin_inset Quotes eld
 \end_inset
@@ -126415,7 +126444,7 @@ Will be
 \begin_inset Quotes erd
 \end_inset
 
- is indicated by the -ᎡᏍᏗ (-é:sdi) ending.
+ is indicated by the -ᎡᏍᏗ (-éːsdi) ending.
 \end_layout
 
 \begin_layout Standard
@@ -126424,7 +126453,7 @@ Will be
 In the preceding vocabulary you saw words ending in both -ᎥᎩ (with personal
  knowledge) and -ᎥᎢ (being).
  Some dialects of Cherokee do not use the -ᎥᎩ ending and instead use -ᎥᎢ
- (v̌:ʔi) for 
+ (v̌ːʔi) for 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126436,7 +126465,7 @@ was with personal knowledge
  Such dialects use context and tone to keep the two different meanings separate.
  As many historical documents use the -ᎥᎩ ending extensively and is still
  used by some speakers this material will be using all three forms of -ᎥᎩ
- (-v̌:gi), -ᎥᎢ (-v̌:ʔi), and -ᎥᎢ (-v̋:ʔi).
+ (-v̌ːgi), -ᎥᎢ (-v̌ːʔi), and -ᎥᎢ (-v̋ːʔi).
  You will see -Ꭵ̭Ꭲ and -Ꭵ͈Ꭲ with tone marks when needed for disambiguation.
 \end_layout
 
@@ -126475,7 +126504,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᏱᎩ [hla yi̋:gi] 
+ᏱᎩ [hla yi̋ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126491,7 +126520,7 @@ Isn't.
 \begin_inset space ~
 \end_inset
 
-ᏱᎦ [hla yi̋:ga] 
+ᏱᎦ [hla yi̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126507,7 +126536,7 @@ Isn't.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏐᎢ [hla yi:gè:só:ʔi] 
+ᏱᎨᏐᎢ [hla yiːgèːsóːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126523,7 +126552,7 @@ Isn't usually.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏒᎢ [hla yi:gè:sv̌:ʔi] 
+ᏱᎨᏒᎢ [hla yiːgèːsv̌ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126539,7 +126568,7 @@ Not being.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏎᎢ [hla yi:gè:sé:ʔi] 
+ᏱᎨᏎᎢ [hla yiːgèːséːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126557,7 +126586,7 @@ Without personal knowledge, or consciousness.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᎲᎢ [hla yi:gè:hv̌:ʔi] 
+ᏱᎨᎲᎢ [hla yiːgèːhv̌ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126573,7 +126602,7 @@ Had not been (a while ago).
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᎮᎢ [hla yi:gè:hé:ʔi] 
+ᏱᎨᎮᎢ [hla yiːgèːhéːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126591,7 +126620,7 @@ Without personal knowledge, or consciousness.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏎᏍᏗ [hla yi:gè:sé:sdi] 
+ᏱᎨᏎᏍᏗ [hla yiːgèːséːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132145,7 +132174,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏥᏯᏚᎵᎭ [ji:ya:du:líha] 
+ᏥᏯᏚᎵᎭ [jiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132157,7 +132186,7 @@ I want him.
 \end_layout
 
 \begin_layout Description
-ᎠᏆᏚᎵᎭ [à:gwadu:líha] 
+ᎠᏆᏚᎵᎭ [àːgwaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132169,7 +132198,7 @@ I want it.
 \end_layout
 
 \begin_layout Description
-ᎦᏥᏯᏚᎵᎭ [ga:ji:ya:du:líha] 
+ᎦᏥᏯᏚᎵᎭ [gaːjiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132181,7 +132210,7 @@ I want them-animate.
 \end_layout
 
 \begin_layout Description
-ᏓᏆᏚᎵᎭ [dà:gwadu:líha] 
+ᏓᏆᏚᎵᎭ [dàːgwaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132193,7 +132222,7 @@ I want them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᎠᏆᏚᎵᎭ [à:gwadu:líha] 
+ᎠᏆᏚᎵᎭ [àːgwaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132205,7 +132234,7 @@ He wants me.
 \end_layout
 
 \begin_layout Description
-ᎬᏆᏚᎵᎭ [gv̀:gwadu:líha] 
+ᎬᏆᏚᎵᎭ [gv̀ːgwaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132217,7 +132246,7 @@ They want me.
 \end_layout
 
 \begin_layout Description
-ᎤᏚᎵᎭ [ù:du:líha] 
+ᎤᏚᎵᎭ [ùːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132229,7 +132258,7 @@ He wants him, it.
 \end_layout
 
 \begin_layout Description
-ᏚᏚᎵᎭ [dù:du:líha] 
+ᏚᏚᎵᎭ [dùːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132257,7 +132286,7 @@ columnbreak{}
 \end_layout
 
 \begin_layout Description
-ᎯᏯᏚᎵᎭ [hi:ya:du:líha] 
+ᎯᏯᏚᎵᎭ [hiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132269,7 +132298,7 @@ You want him.
 \end_layout
 
 \begin_layout Description
-ᏣᏚᎵᎭ [jadu:líha] 
+ᏣᏚᎵᎭ [jaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132281,7 +132310,7 @@ You want it.
 \end_layout
 
 \begin_layout Description
-ᎦᎯᏯᏚᎵᎭ [ga:hi:ya:du:líha] 
+ᎦᎯᏯᏚᎵᎭ [gaːhiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132293,7 +132322,7 @@ You want them-animate.
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏚᎵᎭ [de:jadu:líha] 
+ᏕᏣᏚᎵᎭ [deːjaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132305,7 +132334,7 @@ You want them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᏣᏚᎵᎭ [jadu:líha] 
+ᏣᏚᎵᎭ [jaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132317,7 +132346,7 @@ He wants you.
 \end_layout
 
 \begin_layout Description
-ᎨᏣᏚᎵᎭ [ge:jadu:líha] 
+ᎨᏣᏚᎵᎭ [geːjaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132329,7 +132358,7 @@ They want you.
 \end_layout
 
 \begin_layout Description
-ᎤᎾᏚᎵᎭ [ù:na:du:líha] 
+ᎤᎾᏚᎵᎭ [ùːnaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132341,7 +132370,7 @@ They want him, it.
 \end_layout
 
 \begin_layout Description
-ᏚᎾᏚᎵᎭ [dù:na:du:líha] 
+ᏚᎾᏚᎵᎭ [dùːnaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132395,7 +132424,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎠᏎᏅ [a:sé:hno, a:sé:hnv] 
+ᎠᏎᏅ [aːséːhno, aːséːhnv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132407,7 +132436,7 @@ But.
 \end_layout
 
 \begin_layout Description
-ᎦᏍᎩᎶ [ga:sgilo] 
+ᎦᏍᎩᎶ [gaːsgilo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -132420,7 +132449,7 @@ A table or a chair.
 
 \begin_deeper
 \begin_layout Description
-ᏗᎦᏍᎩᎶ [diga:sgilo] 
+ᏗᎦᏍᎩᎶ [digaːsgilo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -136731,7 +136760,7 @@ Hi!
 \end_layout
 
 \begin_layout Description
-ᏄᎳ [nű:la] 
+ᏄᎳ [nűːla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -136789,7 +136818,7 @@ Count of animate.
 \end_layout
 
 \begin_layout Description
-ᎢᎦ [ǐ:ga̋] 
+ᎢᎦ [ǐːga̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -136801,7 +136830,7 @@ Count of inanimate.
 \end_layout
 
 \begin_layout Description
-ᎦᏍᎩᎸᎢ [ga:sgilv̋:ʔi] 
+ᎦᏍᎩᎸᎢ [gaːsgilv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -136817,7 +136846,7 @@ On a chair or on a table.
 \begin_inset space ~
 \end_inset
 
-ᏂᎦᏛ [niga̋:da, niga̋:dv] 
+ᏂᎦᏛ [niga̋ːda, niga̋ːdv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -136830,7 +136859,7 @@ All.
 \end_layout
 
 \begin_layout Description
-ᎤᎵᏑᏫᏓ [ulsǔ:hwida] 
+ᎤᎵᏑᏫᏓ [ulsǔːhwida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -136843,7 +136872,7 @@ Color.
 
 \begin_deeper
 \begin_layout Description
-ᎤᎾᎵᏑᏫᏓ [u:nalsǔ:hwida] 
+ᎤᎾᎵᏑᏫᏓ [uːnalsǔːhwida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -136855,7 +136884,7 @@ Color (them-animate).
 \end_layout
 
 \begin_layout Description
-ᏧᎵᏑᏫᏓ [julsǔ:hwida] 
+ᏧᎵᏑᏫᏓ [julsǔːhwida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138073,7 +138102,7 @@ One of the deer people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎠᏫ [a:niʔahwi] 
+ᎠᏂᎠᏫ [aːniʔahwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138086,7 +138115,7 @@ The deer people.
 
 \end_deeper
 \begin_layout Description
-ᎠᎨᏯ [agě:hya] 
+ᎠᎨᏯ [agěːhya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138099,7 +138128,7 @@ A woman.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎨᏯ [ani:gě:hya] 
+ᎠᏂᎨᏯ [aniːgěːhya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138112,7 +138141,7 @@ Women.
 
 \end_deeper
 \begin_layout Description
-ᎠᎨᏳᏣ [age:hyű:ja] 
+ᎠᎨᏳᏣ [ageːhyűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138125,7 +138154,7 @@ A girl.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎨᏳᏣ [ani:ge:hyű:ja] 
+ᎠᏂᎨᏳᏣ [aniːgeːhyűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138142,7 +138171,7 @@ Girls.
 \begin_inset space ~
 \end_inset
 
-ᎠᎩᎨᎢ [agǐ:gáge̋:ʔi, agǐ:ge̋:ʔi] 
+ᎠᎩᎨᎢ [agǐːgáge̋ːʔi, agǐːge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138154,7 +138183,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎧᎭ [à:gikáha] 
+ᎠᎩᎧᎭ [àːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138178,7 +138207,7 @@ He sees me.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎭ [à:giha] 
+ᎠᎩᎭ [àːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138190,7 +138219,7 @@ I have it, something solid.
 \end_layout
 
 \begin_layout Description
-ᎠᎩᎵᏏ [agili:si] 
+ᎠᎩᎵᏏ [agiliːsi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138203,7 +138232,7 @@ An English person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎩᎵᏏ [ani:gili:si] 
+ᎠᏂᎩᎵᏏ [aniːgiliːsi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138216,7 +138245,7 @@ English people.
 
 \end_deeper
 \begin_layout Description
-ᎠᎩᏟ [agi:hli] 
+ᎠᎩᏟ [agiːhli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138229,7 +138258,7 @@ One of the dog people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᎩᏟ [a:nigi:hli] 
+ᎠᏂᎩᏟ [aːnigiːhli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138242,7 +138271,7 @@ The dog people.
 
 \end_deeper
 \begin_layout Description
-ᎠᎪᏩᏘᎭ [à:gowhtíha] 
+ᎠᎪᏩᏘᎭ [àːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138258,7 +138287,7 @@ He sees him or it.
 \begin_inset space ~
 \end_inset
 
-ᎠᎬᏂᎨᎢ [agv̌:hnáge̋:ʔi, agv̌:níge̋:ʔi] 
+ᎠᎬᏂᎨᎢ [agv̌ːhnáge̋ːʔi, agv̌ːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138320,11 +138349,11 @@ And.
 \end_layout
 
 \begin_layout Description
-ᎠᎵᏌᏇᏘ [a:lí:sa:gwe:ti] “Elizabeth”
+ᎠᎵᏌᏇᏘ [aːlíːsaːgweːti] “Elizabeth”
 \end_layout
 
 \begin_layout Description
-ᎠᎹ [á:ma] Salt.
+ᎠᎹ [áːma] Salt.
 \end_layout
 
 \begin_layout Description
@@ -138340,7 +138369,7 @@ they-animate
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎩᎦᎨᎢ [ani:gǐ:gáge̋:ʔi] 
+ᎠᏂᎩᎦᎨᎢ [aniːgǐːgáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138352,7 +138381,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎪᏩᏘᎭ [à:nigowhtíha] 
+ᎠᏂᎪᏩᏘᎭ [àːnigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138364,7 +138393,7 @@ They see him or it.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᎬᎿᎨᎢ [ani:gv̌:hnáge̋:ʔi] 
+ᎠᏂᎬᎿᎨᎢ [aniːgv̌ːhnáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138376,7 +138405,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏌᎪᏂᎨᎢ [ani:sakǒ:níge̋:ʔi] 
+ᎠᏂᏌᎪᏂᎨᎢ [aniːsakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138388,7 +138417,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏓᎭᎵᎨᎢ [ani:daha:lige̋:ʔi] 
+ᎠᏂᏓᎭᎵᎨᎢ [aniːdahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138400,7 +138429,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏓᎶᏂᎨᎢ [ani:dalǒ:níge̋:ʔi] 
+ᎠᏂᏓᎶᏂᎨᎢ [aniːdalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138412,7 +138441,7 @@ Yellow.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏔᎵ [a:nitáʔli] 
+ᎠᏂᏔᎵ [aːnitáʔli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138426,7 +138455,7 @@ This is a special form of ᏔᎵ used when referring to anything animate.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏤᎢ [ani:je̋:ʔi] 
+ᎠᏂᏤᎢ [aniːje̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138438,7 +138467,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏤᎢᏳᏍᏗ [ani:jé:ʔiyű:sdi] 
+ᎠᏂᏤᎢᏳᏍᏗ [aniːjéːʔiyűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138450,7 +138479,7 @@ Green colored.
 \end_layout
 
 \begin_layout Description
-ᎠᏂᏦᎢ [a:nijoʔi] 
+ᎠᏂᏦᎢ [aːnijoʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138464,7 +138493,7 @@ This is a special form of ᏦᎢ used when referring to anything animate.
 \end_layout
 
 \begin_layout Description
-ᎠᏆᏚᎵᎭ [à:gwadu:líha] 
+ᎠᏆᏚᎵᎭ [àːgwaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138476,7 +138505,7 @@ He wants me.
 \end_layout
 
 \begin_layout Description
-ᎠᏌᎪᏂᎨᎢ [asakǒ:níge̋:ʔi] 
+ᎠᏌᎪᏂᎨᎢ [asakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138501,7 +138530,7 @@ A man.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏍᎦᏯ [ani:sgaya] 
+ᎠᏂᏍᎦᏯ [aniːsgaya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138518,7 +138547,7 @@ Men.
 \begin_inset space ~
 \end_inset
 
-ᎠᏎᏅ [a:sé:hno, a:sé:hnv] 
+ᎠᏎᏅ [aːséːhno, aːséːhnv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138530,7 +138559,7 @@ But.
 \end_layout
 
 \begin_layout Description
-ᎠᏎᏍᏗ [a:sésdi] 
+ᎠᏎᏍᏗ [aːsésdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138544,7 +138573,7 @@ A number.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏎᏍᏗ [di:sésdi] 
+ᏗᏎᏍᏗ [diːsésdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138631,7 +138660,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎭᎵᎨᎢ [adaha:lige̋:ʔi] 
+ᎠᏓᎭᎵᎨᎢ [adahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138643,7 +138672,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎶᏂᎨᎢ [adalǒ:níge̋:ʔi] 
+ᎠᏓᎶᏂᎨᎢ [adalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138668,7 +138697,7 @@ A Cherokee person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏣᎳᎩ [ani:jalagi] 
+ᎠᏂᏣᎳᎩ [aniːjalagi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138681,7 +138710,7 @@ Cherokee people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏥᏍᏚ [aji:sdu] 
+ᎠᏥᏍᏚ [ajiːsdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138694,7 +138723,7 @@ A member of the rabbit people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏥᏍᏚ [a:niji:sdu] 
+ᎠᏂᏥᏍᏚ [aːnijiːsdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138707,7 +138736,7 @@ The rabbit people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏧᏣ [achű:ja] 
+ᎠᏧᏣ [achűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138720,7 +138749,7 @@ A boy.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏧᏣ [ani:chű:ja] 
+ᎠᏂᏧᏣ [aniːchűːja] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138746,7 +138775,7 @@ A member of the wolf people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏩᎭᏯ [a:niwahaya] 
+ᎠᏂᏩᎭᏯ [aːniwahaya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138759,7 +138788,7 @@ The wolf people.
 
 \end_deeper
 \begin_layout Description
-ᎠᏪᏌ [awě:sa] 
+ᎠᏪᏌ [awěːsa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138772,7 +138801,7 @@ A member of the cat people.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏪᏌ [a:niwě:sa] 
+ᎠᏂᏪᏌ [aːniwěːsa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138797,7 +138826,7 @@ Ouch!
 \end_layout
 
 \begin_layout Description
-ᎠᏲᏁᎦ [ayó:ne:ga] 
+ᎠᏲᏁᎦ [ayóːneːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138810,7 +138839,7 @@ An English or white person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏲᏁᎦ [ani:yó:ne:ga] 
+ᎠᏂᏲᏁᎦ [aniːyóːneːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138840,7 +138869,7 @@ I.
 \end_layout
 
 \begin_layout Description
-ᎠᏴᏫ [ayv:wi] 
+ᎠᏴᏫ [ayvːwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138853,7 +138882,7 @@ A person.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏴᏫ [ani:yv:wi] 
+ᎠᏂᏴᏫ [aniːyvːwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138866,7 +138895,7 @@ People.
 
 \end_deeper
 \begin_layout Description
-ᎠᏴᏫᏯᎢ [ayv:wi:ya̋:ʔi] 
+ᎠᏴᏫᏯᎢ [ayvːwiːya̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138880,7 +138909,7 @@ A Native American.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏂᏴᏫᏯᎢ [ani:yv:wi:ya̋:ʔi] 
+ᎠᏂᏴᏫᏯᎢ [aniːyvːwiːya̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -138963,7 +138992,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎡᏂᏙᏂ [énto:ni] 
+ᎡᏂᏙᏂ [éntoːni] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139044,7 +139073,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎢᎢᏤᏙᎸᎢ [íʔì:jě:dô:lv:ʔi] 
+ᎢᎢᏤᏙᎸᎢ [íʔìːjěːdôːlvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139056,7 +139085,7 @@ All of you come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᎦ [ǐ:ga̋] 
+ᎢᎦ [ǐːga̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139068,7 +139097,7 @@ Count of inanimate.
 \end_layout
 
 \begin_layout Description
-ᎢᎩ [i̋:gi] 
+ᎢᎩ [i̋ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139082,7 +139111,7 @@ Is now or was just now.
 \end_layout
 
 \begin_layout Description
-ᎢᎬᏱᎢ [igv:yi̋:ʔi] 
+ᎢᎬᏱᎢ [igvːyi̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139094,7 +139123,7 @@ First.
 \end_layout
 
 \begin_layout Description
-ᎢᎮᏙᎸᎢ [íhě:dô:lv:ʔi] 
+ᎢᎮᏙᎸᎢ [íhěːdôːlvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139106,7 +139135,7 @@ You come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᎾ [i̋:na] 
+ᎢᎾ [i̋ːna] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139118,7 +139147,7 @@ Far.
 \end_layout
 
 \begin_layout Description
-ᎢᏍᏕᏙᎸᎢ [ísdě:dô:lv:ʔi] 
+ᎢᏍᏕᏙᎸᎢ [ísděːdôːlvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139130,7 +139159,7 @@ Both of you come around again.
 \end_layout
 
 \begin_layout Description
-ᎢᏤᎢ [ìje̋:ʔi] 
+ᎢᏤᎢ [ìje̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139142,7 +139171,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᎢᏤᎢᏳᏍᏗ [ijé:ʔiyű:sdi] 
+ᎢᏤᎢᏳᏍᏗ [ijéːʔiyűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139235,7 +139264,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎣᏍᏓ [ő:sda] 
+ᎣᏍᏓ [őːsda] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139249,7 +139278,7 @@ Good.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏃᏍᏓ [a:nő:sda] 
+ᎠᏃᏍᏓ [aːnőːsda] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139266,7 +139295,7 @@ Good (them).
 \begin_inset space ~
 \end_inset
 
-ᎣᏍᏛ [ő:sda, ő:sdv] 
+ᎣᏍᏛ [őːsda, őːsdv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139283,7 +139312,7 @@ Good.
 \begin_inset space ~
 \end_inset
 
-ᏏᏲ [o:síyo, síyo] 
+ᏏᏲ [oːsíyo, síyo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139364,7 +139393,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎤᎭ [ǔ:ha]
+ᎤᎭ [ǔːha]
 \begin_inset Quotes eld
 \end_inset
 
@@ -139376,7 +139405,7 @@ He has it, something solid.
 \end_layout
 
 \begin_layout Description
-ᎤᎵᏑᏫᏓ [ulsǔ:hwida] 
+ᎤᎵᏑᏫᏓ [ulsǔːhwida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139389,7 +139418,7 @@ Color.
 
 \begin_deeper
 \begin_layout Description
-ᎤᎾᎵᏑᏫᏓ [u:nalsǔ:hwida] 
+ᎤᎾᎵᏑᏫᏓ [uːnalsǔːhwida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139401,7 +139430,7 @@ Color (them-animate).
 \end_layout
 
 \begin_layout Description
-ᏧᎵᏑᏫᏓ [julsǔ:hwida] 
+ᏧᎵᏑᏫᏓ [julsǔːhwida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139414,7 +139443,7 @@ Color (them-inanimate).
 
 \end_deeper
 \begin_layout Description
-ᎤᎾᏚᎵᎭ [ù:na:du:líha] 
+ᎤᎾᏚᎵᎭ [ùːnaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139426,7 +139455,7 @@ They want him, it.
 \end_layout
 
 \begin_layout Description
-ᎤᎿ [ù:hna̋] 
+ᎤᎿ [ùːhna̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139438,7 +139467,7 @@ There.
 \end_layout
 
 \begin_layout Description
-ᎤᏁᎦ [u:ne̋:ga] 
+ᎤᏁᎦ [uːne̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139454,7 +139483,7 @@ White.
 \begin_inset space ~
 \end_inset
 
-ᏧᏂ- [u:ni-, ju:ni-] 
+ᏧᏂ- [uːni-, juːni-] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139466,7 +139495,7 @@ they-animate
 \end_layout
 
 \begin_layout Description
-ᎤᏂᎧᎭ [ù:ni:káha] 
+ᎤᏂᎧᎭ [ùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139478,7 +139507,7 @@ They have it, something alive.
 \end_layout
 
 \begin_layout Description
-ᎤᏂᎭ [ù:nǐ:ha] 
+ᎤᏂᎭ [ùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139490,7 +139519,7 @@ They have it, something solid.
 \end_layout
 
 \begin_layout Description
-ᎤᏂᏁᎦ [u:ni:ne̋:ga] 
+ᎤᏂᏁᎦ [uːniːne̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139502,7 +139531,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᎤᏂᏍᎪᎸᎢ [ù:nisgǒ:lv̋:ʔi] 
+ᎤᏂᏍᎪᎸᎢ [ùːnisgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139515,7 +139544,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᎤᏍᎪᎸᎢ [ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139528,7 +139557,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᎤᏚᎵᎭ [ù:du:líha] 
+ᎤᏚᎵᎭ [ùːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139540,7 +139569,7 @@ He wants him, it.
 \end_layout
 
 \begin_layout Description
-ᎤᏩᎧᎭ [ù:wa:káha] 
+ᎤᏩᎧᎭ [ùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139552,7 +139581,7 @@ He has it, something alive.
 \end_layout
 
 \begin_layout Description
-ᎤᏬᏗᎨᎢ [uwǒ:díge̋:ʔi] 
+ᎤᏬᏗᎨᎢ [uwǒːdíge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139564,7 +139593,7 @@ Brown.
 \end_layout
 
 \begin_layout Description
-ᎤᏲᎢ [u:yő:ʔi] 
+ᎤᏲᎢ [uːyőːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139577,7 +139606,7 @@ Bad.
 
 \begin_deeper
 \begin_layout Description
-ᎤᏂᏲᎢ [u:niyő:ʔi] 
+ᎤᏂᏲᎢ [uːniyőːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139659,7 +139688,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎥᎥ [v:ʔv] 
+ᎥᎥ [vːʔv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139671,7 +139700,7 @@ Yes.
 \end_layout
 
 \begin_layout Description
-ᎥᏍᎩᎩ? [v̀:sgigi?] 
+ᎥᏍᎩᎩ? [v̀ːsgigi?] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139683,7 +139712,7 @@ Really?
 \end_layout
 
 \begin_layout Description
-ᎥᏍᎩᎾ [v̀:sgina] 
+ᎥᏍᎩᎾ [v̀ːsgina] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139700,7 +139729,7 @@ He.
 
 \begin_deeper
 \begin_layout Description
-ᎥᏍᎩ [v̀:sgi] - 
+ᎥᏍᎩ [v̀ːsgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
@@ -139712,7 +139741,7 @@ Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
-ᎾᏍᎩ [nà:sgi] - 
+ᎾᏍᎩ [nàːsgi] - 
 \emph on
 Alternate pronunciation.
 \end_layout
@@ -139727,7 +139756,7 @@ Alternate pronunciation.
 \begin_inset space ~
 \end_inset
 
-Ꮭ [v̀:hla, v̀:tla, hlahv, tlahv, hla, tla] 
+Ꮭ [v̀ːhla, v̀ːtla, hlahv, tlahv, hla, tla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139808,7 +139837,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎦᎩ [gâ:gí] 
+ᎦᎩ [gâːgí] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139820,7 +139849,7 @@ Who again?
 \end_layout
 
 \begin_layout Description
-ᎦᎪ [gá:gō] 
+ᎦᎪ [gáːgō] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139832,7 +139861,7 @@ Who?
 \end_layout
 
 \begin_layout Description
-ᎦᎯᎪᏩᏘᎭ [ga:hi:gowhtíha] 
+ᎦᎯᎪᏩᏘᎭ [gaːhiːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139844,7 +139873,7 @@ You see them-animate.
 \end_layout
 
 \begin_layout Description
-ᎦᎯᏯᏚᎵᎭ [ga:hi:ya:du:líha] 
+ᎦᎯᏯᏚᎵᎭ [gaːhiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139856,7 +139885,7 @@ You want them-animate.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏆᏍᎪᎯ [gahlgwǎ:sgǒ:hi] 
+ᎦᎵᏆᏍᎪᎯ [gahlgwǎːsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139869,7 +139898,7 @@ Seventy.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏆᏚ [gahlgwǎ:du] 
+ᎦᎵᏆᏚ [gahlgwǎːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139881,7 +139910,7 @@ Seventeen.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏉᎩ [gahlgwǒ:gi] 
+ᎦᎵᏉᎩ [gahlgwǒːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139893,7 +139922,7 @@ Seven.
 \end_layout
 
 \begin_layout Description
-ᎦᎵᏉᎩᏁᎢ [gahlgwǒ:gi:ne̋:ʔi] 
+ᎦᎵᏉᎩᏁᎢ [gahlgwǒːgiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139905,7 +139934,7 @@ Seventh.
 \end_layout
 
 \begin_layout Description
-ᎦᏍᎩᎶ [ga:sgilo] 
+ᎦᏍᎩᎶ [gaːsgilo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139918,7 +139947,7 @@ A table or a chair.
 
 \begin_deeper
 \begin_layout Description
-ᏗᎦᏍᎩᎶ [diga:sgilo] 
+ᏗᎦᏍᎩᎶ [digaːsgilo] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139932,7 +139961,7 @@ Tables.
 
 \end_deeper
 \begin_layout Description
-ᎦᏍᎩᎸᎢ [ga:sgilv̋:ʔi] 
+ᎦᏍᎩᎸᎢ [gaːsgilv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139962,7 +139991,7 @@ For when the question is about some doing or happening.
 \begin_inset space ~
 \end_inset
 
-ᎠᏛᏁᎭ [gadō à:dv́:neha] 
+ᎠᏛᏁᎭ [gadō àːdv́ːneha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -139979,7 +140008,7 @@ What is he doing?
 \begin_inset space ~
 \end_inset
 
-ᎠᎾᏛᏁᎭ [gadō à:na:dv́:neha] 
+ᎠᎾᏛᏁᎭ [gadō àːnaːdv́ːneha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140015,7 +140044,7 @@ Used when the person asking a question is expecting a response about two
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᏗ [gadō u:sdi] 
+ᎤᏍᏗ [gadō uːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140041,7 +140070,7 @@ What thing?
 \begin_inset space ~
 \end_inset
 
-ᏧᏍᏗ [gadō jű:sdi] 
+ᏧᏍᏗ [gadō jűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140056,7 +140085,7 @@ Used when the person asking a question is expecting a response about two
 \end_layout
 
 \begin_layout Description
-ᎦᏙᎩ [gadò:gí] 
+ᎦᏙᎩ [gadòːgí] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140068,7 +140097,7 @@ What again?
 \end_layout
 
 \begin_layout Description
-ᎦᏙᎲ [gadò:hv̋] 
+ᎦᏙᎲ [gadòːhv̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140107,7 +140136,7 @@ But for what?
 \end_layout
 
 \begin_layout Description
-ᎦᏥᎪᏩᏘᎭ [ga:ji:gowhtíha] 
+ᎦᏥᎪᏩᏘᎭ [gaːjiːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140119,7 +140148,7 @@ I see them-animate.
 \end_layout
 
 \begin_layout Description
-ᎦᏥᏯᏚᎵᎭ [ga:ji:ya:du:líha] 
+ᎦᏥᏯᏚᎵᎭ [gaːjiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140230,7 +140259,7 @@ Hi!
 \end_layout
 
 \begin_layout Description
-ᎧᏂᎩᏓ [kani:gida] 
+ᎧᏂᎩᏓ [kaniːgida] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140313,7 +140342,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎨᎮᎢ [gè:hé:ʔi] 
+ᎨᎮᎢ [gèːhéːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140327,7 +140356,7 @@ Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᎲᎢ [gè:hv̌:ʔi] 
+ᎨᎲᎢ [gèːhv̌ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140339,7 +140368,7 @@ Been (a while ago).
 \end_layout
 
 \begin_layout Description
-ᎨᎲᎩ [gè:hv̌:gi] 
+ᎨᎲᎩ [gèːhv̌ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140353,7 +140382,7 @@ With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᏎᎢ [gè:sé:ʔi] 
+ᎨᏎᎢ [gèːséːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140367,7 +140396,7 @@ Without personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᏎᏍᏗ [gè:sé:sdi] 
+ᎨᏎᏍᏗ [gèːséːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140379,7 +140408,7 @@ Will be being.
 \end_layout
 
 \begin_layout Description
-ᎨᏐᎢ [gè:só:ʔi] 
+ᎨᏐᎢ [gèːsóːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140393,7 +140422,7 @@ Usually, habitually, or on certain occasions.
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎢ [gè:sv̋:ʔi] 
+ᎨᏒᎢ [gèːsv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140405,7 +140434,7 @@ Being.
 \end_layout
 
 \begin_layout Description
-ᎨᏒᎩ [gè:sv̌:gi] 
+ᎨᏒᎩ [gèːsv̌ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140419,7 +140448,7 @@ With personal knowledge, or consciousness.
 \end_layout
 
 \begin_layout Description
-ᎨᏣᎪᏩᏘᎭ [ge:jagowhtíha] 
+ᎨᏣᎪᏩᏘᎭ [geːjagowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140431,7 +140460,7 @@ They see you.
 \end_layout
 
 \begin_layout Description
-ᎨᏣᏚᎵᎭ [ge:jadu:líha] 
+ᎨᏣᏚᎵᎭ [geːjaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140516,7 +140545,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [gǐ:gáge ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [gǐːgáge ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140533,7 +140562,7 @@ Pink.
 \begin_inset space ~
 \end_inset
 
-ᎩᎨᎢ [gǐ:gáge̋:ʔi, gǐ:ge̋:ʔi] 
+ᎩᎨᎢ [gǐːgáge̋ːʔi, gǐːge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140545,7 +140574,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᎩᎵᏏ [gili:si] 
+ᎩᎵᏏ [giliːsi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140557,7 +140586,7 @@ English.
 \end_layout
 
 \begin_layout Description
-ᎩᏟ [gi:hli] 
+ᎩᏟ [giːhli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140643,7 +140672,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎪᏍᏗ [go:hű:sdi, gő:sdi] 
+ᎪᏍᏗ [goːhűːsdi, gőːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140662,7 +140691,7 @@ Something.
 \begin_inset space ~
 \end_inset
 
-ᎪᎱᏍᏗ [hla go:hű:sdi] 
+ᎪᎱᏍᏗ [hla goːhűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140677,7 +140706,7 @@ Nothing.
 
 \end_deeper
 \begin_layout Description
-ᎪᏪᎵ [go:hwe:li] 
+ᎪᏪᎵ [goːhweːli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140690,7 +140719,7 @@ A sheet of paper.
 
 \begin_deeper
 \begin_layout Description
-ᏗᎪᏪᎵ [digo:hwe:li] 
+ᏗᎪᏪᎵ [digoːhweːli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140772,7 +140801,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎫᎴ [gu:le] 
+ᎫᎴ [guːle] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140854,7 +140883,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎬᎩᎪᏩᏘᎭ [gv:gigowhtíha] 
+ᎬᎩᎪᏩᏘᎭ [gvːgigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140870,7 +140899,7 @@ They see me.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [gv̌:hnáge ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [gv̌ːhnáge ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140887,7 +140916,7 @@ Grey.
 \begin_inset space ~
 \end_inset
 
-ᎬᏂᎨᎢ [gv̌:hnáge̋:ʔi, gv̌:níge̋:ʔi] 
+ᎬᏂᎨᎢ [gv̌ːhnáge̋ːʔi, gv̌ːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140899,7 +140928,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᎬᏆᏚᎵᎭ [gv̀:gwadu:líha] 
+ᎬᏆᏚᎵᎭ [gv̀ːgwaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -140911,7 +140940,7 @@ They want me.
 \end_layout
 
 \begin_layout Description
-ᎬᏍᎦᎳᏗᎠ [gv̀:sgaládíʔa] I am hiding a long object.
+ᎬᏍᎦᎳᏗᎠ [gv̀ːsgaládíʔa] I am hiding a long object.
 \end_layout
 
 \begin_layout Plain Layout
@@ -140984,7 +141013,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎭᏢ [ha:dlv] 
+ᎭᏢ [haːdlv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141085,7 +141114,7 @@ He.
 \end_layout
 
 \begin_layout Description
-ᎯᎩᏍᎪᎯ [hiksgǒ:hi] 
+ᎯᎩᏍᎪᎯ [hiksgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141114,7 +141143,7 @@ You see it.
 \begin_inset space ~
 \end_inset
 
-ᎢᎦ [hila̋ ǐ:ga̋] 
+ᎢᎦ [hila̋ ǐːga̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141162,7 +141191,7 @@ How many animate things?
 \end_layout
 
 \begin_layout Description
-ᎯᎳᏴᎢ [hilâ:yv̋:ʔi] 
+ᎯᎳᏴᎢ [hilâːyv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141179,7 +141208,7 @@ When?
 \begin_inset space ~
 \end_inset
 
-ᎢᏴᎢ [hila̋ iyv̋:ʔi?] - 
+ᎢᏴᎢ [hila̋ iyv̋ːʔi?] - 
 \emph on
 Alternate pronunciation.
 \end_layout
@@ -141198,7 +141227,7 @@ Five.
 \end_layout
 
 \begin_layout Description
-ᎯᏍᎩᏁᎢ [hisgi:ne̋:ʔi] 
+ᎯᏍᎩᏁᎢ [hisgiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141210,7 +141239,7 @@ Fifth.
 \end_layout
 
 \begin_layout Description
-ᎯᏯᏚᎵᎭ [hi:ya:du:líha] 
+ᎯᏯᏚᎵᎭ [hiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141374,7 +141403,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎵᏂᏓ [lí:nida] “Linda”
+ᎵᏂᏓ [líːnida] “Linda”
 \end_layout
 
 \begin_layout Plain Layout
@@ -141447,11 +141476,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎹᎦᎵ [ma:gá:li] “Michael”
+ᎹᎦᎵ [maːgáːli] “Michael”
 \end_layout
 
 \begin_layout Description
-ᎹᎦᏰᏘ [má:gaye:ti] “Margaret”
+ᎹᎦᏰᏘ [máːgayeːti] “Margaret”
 \end_layout
 
 \begin_layout Plain Layout
@@ -141524,7 +141553,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎺᎵ [mé:li] “Mary”
+ᎺᎵ [méːli] “Mary”
 \end_layout
 
 \begin_layout Plain Layout
@@ -141691,7 +141720,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏁᎳᏍᎪᎯ [nélsgǒ:hi] 
+ᏁᎳᏍᎪᎯ [nélsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141704,7 +141733,7 @@ Eighty.
 \end_layout
 
 \begin_layout Description
-ᏁᎳᏚ [ně:la:du] 
+ᏁᎳᏚ [něːlaːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141801,7 +141830,7 @@ Look! Behold!
 \begin_inset space ~
 \end_inset
 
-ᏂᎦᏛ [niga̋:da, niga̋:dv] 
+ᏂᎦᏛ [niga̋ːda, niga̋ːdv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141814,7 +141843,7 @@ All.
 \end_layout
 
 \begin_layout Description
-ᏂᎦᏚ [niga:ʔdu] 
+ᏂᎦᏚ [nigaːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141909,7 +141938,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏃᏘ [nó:t] 
+ᏃᏘ [nóːt] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -141991,7 +142020,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏄᎳ [nű:la] 
+ᏄᎳ [nűːla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142003,7 +142032,7 @@ Hurry.
 \end_layout
 
 \begin_layout Description
-ᏄᎾ [nǔ:na] 
+ᏄᎾ [nǔːna] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142097,7 +142126,7 @@ Four.
 \end_layout
 
 \begin_layout Description
-ᏅᎩᏁᎢ [nvhgi:ne̋:ʔi] 
+ᏅᎩᏁᎢ [nvhgiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142109,7 +142138,7 @@ Fourth.
 \end_layout
 
 \begin_layout Description
-ᏅᎩᏍᎪᎯ [nvksgǒ:hi] 
+ᏅᎩᏍᎪᎯ [nvksgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142122,7 +142151,7 @@ Forty.
 \end_layout
 
 \begin_layout Description
-ᏅᏯ [nv̀:ya] 
+ᏅᏯ [nv̀ːya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142204,7 +142233,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏆᏆᎠ [gwa:gwaʔa] 
+ᏆᏆᎠ [gwaːgwaʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142289,7 +142318,7 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [sakǒ:níge̋ ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [sakǒːníge̋ ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142302,7 +142331,7 @@ Grey.
 \end_layout
 
 \begin_layout Description
-ᏌᎪᏂᎨᎢ [sakǒ:níge̋:ʔi] 
+ᏌᎪᏂᎨᎢ [sakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142314,7 +142343,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᏌᎶᎵ [salǒ:li] 
+ᏌᎶᎵ [salǒːli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142327,7 +142356,7 @@ A squirrel.
 \end_layout
 
 \begin_layout Description
-ᏌᏊ [sà:gwű] 
+ᏌᏊ [sàːgwű] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142339,7 +142368,7 @@ One.
 \end_layout
 
 \begin_layout Description
-ᏌᏚ [sa:ʔdu] 
+ᏌᏚ [saːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142351,7 +142380,7 @@ Eleven.
 \end_layout
 
 \begin_layout Description
-ᏌᏛᏗ [sadv́:di] 
+ᏌᏛᏗ [sadv́ːdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142364,7 +142393,7 @@ A trap.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏌᏛᏗ [di:sadv́:di] 
+ᏗᏌᏛᏗ [diːsadv́ːdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142446,7 +142475,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏍᎩᎦᏚ [sgiga:ʔdu] 
+ᏍᎩᎦᏚ [sgigaːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142458,7 +142487,7 @@ Fifteen.
 \end_layout
 
 \begin_layout Description
-ᏍᎪᎯ [sgǒ:hi] 
+ᏍᎪᎯ [sgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142470,7 +142499,7 @@ Ten.
 \end_layout
 
 \begin_layout Description
-ᏍᎪᎯᏥᏆ [sgǒ:hítsgwa] 
+ᏍᎪᎯᏥᏆ [sgǒːhítsgwa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142651,7 +142680,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳ [sóhně:la] 
+ᏐᏁᎳ [sóhněːla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142663,7 +142692,7 @@ Nine.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳᏍᎪᎯ [sóhnélsgǒ:hi] 
+ᏐᏁᎳᏍᎪᎯ [sóhnélsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142676,7 +142705,7 @@ Ninety.
 \end_layout
 
 \begin_layout Description
-ᏐᏁᎳᏚ [sóhněla:du] 
+ᏐᏁᎳᏚ [sóhnělaːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142688,7 +142717,7 @@ Nineteen.
 \end_layout
 
 \begin_layout Description
-ᏐᏈᎵ [sǒ:gwíli] 
+ᏐᏈᎵ [sǒːgwíli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142770,11 +142799,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏑᏌᏃ [sú:sano] “Susan”
+ᏑᏌᏃ [súːsano] “Susan”
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵ [sǔ:dáli] 
+ᏑᏓᎵ [sǔːdáli] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142786,7 +142815,7 @@ Six.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵᏁᎢ [sǔ:dáli:ne̋:ʔi] 
+ᏑᏓᎵᏁᎢ [sǔːdáliːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142798,7 +142827,7 @@ Sixth.
 \end_layout
 
 \begin_layout Description
-ᏑᏓᎵᏍᎪᎯ [sǔ:dálsgǒ:hi] 
+ᏑᏓᎵᏍᎪᎯ [sǔːdálsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142880,7 +142909,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏓᎩᎧᎭ [dà:gikáha] 
+ᏓᎩᎧᎭ [dàːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142892,7 +142921,7 @@ I have them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᏓᎩᎭ [dà:giha] 
+ᏓᎩᎭ [dàːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142904,7 +142933,7 @@ I have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏓᎪᏩᏘᎭ [dà:gowhtíha] 
+ᏓᎪᏩᏘᎭ [dàːgowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142916,7 +142945,7 @@ He sees them.
 \end_layout
 
 \begin_layout Description
-ᏓᎭᎵᎨᎢ [daha:lige̋:ʔi] 
+ᏓᎭᎵᎨᎢ [dahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142928,7 +142957,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᏓᎳᏚ [da:la:du] 
+ᏓᎳᏚ [daːlaːdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142944,7 +142973,7 @@ Sixteen.
 \begin_inset space ~
 \end_inset
 
-ᎤᏍᎪᎸᎢ [dalǒ:níge ù:sgǒ:lv̋:ʔi] 
+ᎤᏍᎪᎸᎢ [dalǒːníge ùːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142957,7 +142986,7 @@ Orange.
 \end_layout
 
 \begin_layout Description
-ᏓᎶᏂᎨᎢ [dalǒ:níge̋:ʔi] 
+ᏓᎶᏂᎨᎢ [dalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142969,7 +142998,7 @@ Yellow.
 \end_layout
 
 \begin_layout Description
-ᏓᏂᎪᏩᏘᎭ [dà:nigowhtíha] 
+ᏓᏂᎪᏩᏘᎭ [dàːnigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142981,7 +143010,7 @@ They see them.
 \end_layout
 
 \begin_layout Description
-ᏓᏆᏙᎠ [dà:gwadó:ʔa] 
+ᏓᏆᏙᎠ [dàːgwadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -142994,7 +143023,7 @@ They see them.
 \end_layout
 
 \begin_layout Description
-ᏓᏆᏚᎵᎭ [dà:gwadu:líha] 
+ᏓᏆᏚᎵᎭ [dàːgwaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143087,7 +143116,7 @@ Two.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏁᎢ [taʔli:ne̋:ʔi] 
+ᏔᎵᏁᎢ [taʔliːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143099,7 +143128,7 @@ Second.
 \end_layout
 
 \begin_layout Description
-ᏔᎵᏍᎪᎯ [táʔlsgǒ:hi] 
+ᏔᎵᏍᎪᎯ [táʔlsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143193,7 +143222,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᎯᎪᏩᏘᎭ [de:higowhtíha] 
+ᏕᎯᎪᏩᏘᎭ [deːhigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143205,7 +143234,7 @@ You see them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᏕᏍᏓᏙᎠ? [dě:sdádó:ʔa] 
+ᏕᏍᏓᏙᎠ? [děːsdádóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143218,7 +143247,7 @@ You see them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᏕᏣᎧᎭ [de:jakáha] 
+ᏕᏣᎧᎭ [deːjakáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143230,7 +143259,7 @@ You have them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᏕᏣᎭ [de:jaha] 
+ᏕᏣᎭ [deːjaha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143242,7 +143271,7 @@ You have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [dè:jádó:ʔa] 
+ᏕᏣᏙᎠ? [dèːjádóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143255,7 +143284,7 @@ You have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏚᎵᎭ [de:jadu:líha] 
+ᏕᏣᏚᎵᎭ [deːjaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143267,7 +143296,7 @@ You want them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᏕᏥᎪᏩᏘᎭ [de:jigowhtíha] 
+ᏕᏥᎪᏩᏘᎭ [deːjigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143279,7 +143308,7 @@ I see them-inanimate.
 \end_layout
 
 \begin_layout Description
-ᏕᏫᏗ [dé:widi] “David”
+ᏕᏫᏗ [déːwidi] “David”
 \end_layout
 
 \begin_layout Plain Layout
@@ -143364,7 +143393,7 @@ they-inanimate
 \end_layout
 
 \begin_layout Description
-ᏗᎩᎦᎨᎢ [digǐ:gáge̋:ʔi] 
+ᏗᎩᎦᎨᎢ [digǐːgáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143376,7 +143405,7 @@ Red.
 \end_layout
 
 \begin_layout Description
-ᏗᎬᎿᎨᎢ [digv̌:hnáge̋:ʔi] 
+ᏗᎬᎿᎨᎢ [digv̌ːhnáge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143388,7 +143417,7 @@ Black.
 \end_layout
 
 \begin_layout Description
-ᏗᏌᎪᏂᎨᎢ [disakǒ:níge̋:ʔi] 
+ᏗᏌᎪᏂᎨᎢ [disakǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143400,7 +143429,7 @@ Blue.
 \end_layout
 
 \begin_layout Description
-ᏗᏓᎭᎵᎨᎢ [didaha:lige̋:ʔi] 
+ᏗᏓᎭᎵᎨᎢ [didahaːlige̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143412,7 +143441,7 @@ Purple.
 \end_layout
 
 \begin_layout Description
-ᏗᏓᎶᏂᎨᎢ [didalǒ:níge̋:ʔi] 
+ᏗᏓᎶᏂᎨᎢ [didalǒːníge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143424,7 +143453,7 @@ Yellow.
 \end_layout
 
 \begin_layout Description
-ᏗᏤᎢ [dije̋:ʔi] 
+ᏗᏤᎢ [dije̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143436,7 +143465,7 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
-ᏗᏤᎢᏳᏍᏗ [dijé:ʔiyű:sdi] 
+ᏗᏤᎢᏳᏍᏗ [dijéːʔiyűːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143517,7 +143546,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎦᏙᎠ [dò:gadó:ʔa] 
+ᏙᎦᏙᎠ [dòːgadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143530,7 +143559,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎩᎾᏙᎠ [dò:gi:nadó:ʔa] 
+ᏙᎩᎾᏙᎠ [dòːgiːnadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143543,7 +143572,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎯ [tò:hi̋] 
+ᏙᎯ [tòːhi̋] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143556,7 +143585,7 @@ Peaceful.
 \end_layout
 
 \begin_layout Description
-ᏙᎯᏊ [tò:hi̋:gwu] 
+ᏙᎯᏊ [tòːhi̋ːgwu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143580,7 +143609,7 @@ Things are just well.
 \end_layout
 
 \begin_layout Description
-ᏙᎯᏧ? [tò:hi̋:ju?] 
+ᏙᎯᏧ? [tòːhi̋ːju?] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143604,11 +143633,11 @@ Things are well, aren't they?
 \end_layout
 
 \begin_layout Description
-ᏙᎹᏏ [tó:masi] “Thomas”
+ᏙᎹᏏ [tóːmasi] “Thomas”
 \end_layout
 
 \begin_layout Description
-ᏙᎾᏓᎪᎲᎢ [do:nada:go:hv:ʔi] 
+ᏙᎾᏓᎪᎲᎢ [doːnadaːgoːhvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143620,7 +143649,7 @@ Let both of us see each other again later.
 \end_layout
 
 \begin_layout Description
-ᏙᏓᏓᎪᎲᎢ [do:dada:go:hv:ʔi] 
+ᏙᏓᏓᎪᎲᎢ [doːdadaːgoːhvːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143632,7 +143661,7 @@ Let all of us see each other again later.
 \end_layout
 
 \begin_layout Description
-ᏙᏯ [do:ya] 
+ᏙᏯ [doːya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143714,7 +143743,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᎭ [dǔ:ha] 
+ᏚᎭ [dǔːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143726,7 +143755,7 @@ He has them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏚᎾᏙᎠ [dù:nadó:ʔa] 
+ᏚᎾᏙᎠ [dùːnadóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143739,7 +143768,7 @@ He has them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏚᎾᏚᎵᎭ [dù:na:du:líha] 
+ᏚᎾᏚᎵᎭ [dùːnaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143751,7 +143780,7 @@ They want them.
 \end_layout
 
 \begin_layout Description
-ᏚᏂᎧᎭ [dù:ni:káha] 
+ᏚᏂᎧᎭ [dùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143763,7 +143792,7 @@ They have them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᏚᏂᎭ [dù:nǐ:ha] 
+ᏚᏂᎭ [dùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143775,7 +143804,7 @@ They have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏚᏙᎠ [dù:dó:ʔa] 
+ᏚᏙᎠ [dùːdóːʔa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143788,7 +143817,7 @@ They have them, some solid things.
 \end_layout
 
 \begin_layout Description
-ᏚᏚᎵᎭ [dù:du:líha] 
+ᏚᏚᎵᎭ [dùːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143800,7 +143829,7 @@ He wants them.
 \end_layout
 
 \begin_layout Description
-ᏚᏩᎧᎭ [dù:wa:káha] 
+ᏚᏩᎧᎭ [dùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143812,7 +143841,7 @@ He has them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᏚᏯ [tǔ:ya] 
+ᏚᏯ [tǔːya] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143894,7 +143923,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏍᎩᎪᎯ [dv:ʔì:sgi:go:hi] 
+ᏛᎢᏍᎩᎪᎯ [dvːʔìːsgiːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143930,7 +143959,7 @@ All of you will see me or both of us or all of us again.
 \end_layout
 
 \begin_layout Description
-ᏛᎢᏨᎪᎯ [dv:ʔì:jv:go:hi] 
+ᏛᎢᏨᎪᎯ [dvːʔìːjvːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143966,7 +143995,7 @@ All of us will see you or both of you or all of you again.
 \end_layout
 
 \begin_layout Description
-ᏛᎬᎪᎯ [dv:gv:go:hi] 
+ᏛᎬᎪᎯ [dvːgvːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143978,7 +144007,7 @@ I will see you again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᎩᎪᎯ [dv:sgi:go:hi] 
+ᏛᏍᎩᎪᎯ [dvːsgiːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -143990,7 +144019,7 @@ You will see me again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᎩᏂᎪᎯ [dv:sgini:go:hi] 
+ᏛᏍᎩᏂᎪᎯ [dvːsginiːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144014,7 +144043,7 @@ Both of you will see me or the both of us again.
 \end_layout
 
 \begin_layout Description
-ᏛᏍᏛᎪᎯ [dv:sdv:go:hi] 
+ᏛᏍᏛᎪᎯ [dvːsdvːgoːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144118,7 +144147,7 @@ _____
 ᏱᎩ.
  [hla _____ 
 \lang american
-yi̋:gi
+yi̋ːgi
 \lang english
 ] 
 \begin_inset Quotes eld
@@ -144136,7 +144165,7 @@ It isn't _____.
 \begin_inset space ~
 \end_inset
 
-ᏯᎩᎧᎭ [hla yà:gikáha] 
+ᏯᎩᎧᎭ [hla yàːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144174,7 +144203,7 @@ He doesn't see me.
 \begin_inset space ~
 \end_inset
 
-ᏯᎩᎭ [hla yà:giha] 
+ᏯᎩᎭ [hla yàːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144190,7 +144219,7 @@ I don't have it, something solid.
 \begin_inset space ~
 \end_inset
 
-ᏱᎦ [hla yi̋:ga] 
+ᏱᎦ [hla yi̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144206,7 +144235,7 @@ Isn't.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᎮᎢ [hla yi:gè:hé:ʔi] 
+ᏱᎨᎮᎢ [hla yiːgèːhéːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144224,7 +144253,7 @@ Without personal knowledge, or consciousness.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᎲᎢ [hla yi:gè:hv̌:ʔi] 
+ᏱᎨᎲᎢ [hla yiːgèːhv̌ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144240,7 +144269,7 @@ Had not been (a while ago).
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏎᎢ [hla yi:gè:sé:ʔi] 
+ᏱᎨᏎᎢ [hla yiːgèːséːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144258,7 +144287,7 @@ Without personal knowledge, or consciousness.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏎᏍᏗ [hla yi:gè:sé:sdi] 
+ᏱᎨᏎᏍᏗ [hla yiːgèːséːsdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144274,7 +144303,7 @@ Will not be being.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏐᎢ [hla yi:gè:só:ʔi] 
+ᏱᎨᏐᎢ [hla yiːgèːsóːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144290,7 +144319,7 @@ Isn't usually.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏒᎢ [hla yi:gè:sv̌:ʔi] 
+ᏱᎨᏒᎢ [hla yiːgèːsv̌ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144306,7 +144335,7 @@ Not being.
 \begin_inset space ~
 \end_inset
 
-ᏱᎨᏣᎪᏩᏘᎭ [hla yige:jagowhtíha] 
+ᏱᎨᏣᎪᏩᏘᎭ [hla yigeːjagowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144322,7 +144351,7 @@ They don't see you.
 \begin_inset space ~
 \end_inset
 
-ᏱᎩ [hla yi̋:gi] 
+ᏱᎩ [hla yi̋ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144338,7 +144367,7 @@ Isn't.
 \begin_inset space ~
 \end_inset
 
-ᏱᎬᎩᎪᏩᏘᎭ [hla yigv:gigowhtíha] 
+ᏱᎬᎩᎪᏩᏘᎭ [hla yigvːgigowhtíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144354,7 +144383,7 @@ They don't see me.
 \begin_inset space ~
 \end_inset
 
-ᏱᏓᎩᎧᎭ [hla yida:gikáha] 
+ᏱᏓᎩᎧᎭ [hla yidaːgikáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144370,7 +144399,7 @@ I don't have them, some alive things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏓᎩᎭ [hla yida:giha] 
+ᏱᏓᎩᎭ [hla yidaːgiha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144386,7 +144415,7 @@ I don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏗᏣᎧᎭ [hla yidi:jakáha] 
+ᏱᏗᏣᎧᎭ [hla yidiːjakáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144402,7 +144431,7 @@ You don't have them, some alive things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏗᏣᎭ [hla yidi:jaha] 
+ᏱᏗᏣᎭ [hla yidiːjaha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144418,7 +144447,7 @@ You don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᎭ [hla yidǔ:ha] 
+ᏱᏚᎭ [hla yidǔːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144434,7 +144463,7 @@ He doesn't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᏂᎧᎭ [hla yidù:ni:káha] 
+ᏱᏚᏂᎧᎭ [hla yidùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144450,7 +144479,7 @@ They don't have them, some alive things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᏂᎭ [hla yidù:nǐ:ha] 
+ᏱᏚᏂᎭ [hla yidùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144466,7 +144495,7 @@ They don't have them, some solid things.
 \begin_inset space ~
 \end_inset
 
-ᏱᏚᏩᎧᎭ [hla yidù:wa:káha] 
+ᏱᏚᏩᎧᎭ [hla yidùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144530,7 +144559,7 @@ You don't have it, something solid.
 \begin_inset space ~
 \end_inset
 
-ᏳᎭ [hla yǔ:ha] 
+ᏳᎭ [hla yǔːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144552,7 +144581,7 @@ He doesn't have it, something solid.
 \begin_inset space ~
 \end_inset
 
-ᏳᏂᎧᎭ [hla yù:ni:káha] 
+ᏳᏂᎧᎭ [hla yùːniːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144568,7 +144597,7 @@ They don't have it, something alive.
 \begin_inset space ~
 \end_inset
 
-ᏳᏂᎭ [hla yù:nǐ:ha] 
+ᏳᏂᎭ [hla yùːnǐːha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144584,7 +144613,7 @@ They don't have it, something solid.
 \begin_inset space ~
 \end_inset
 
-ᏳᏩᎧᎭ [hla yù:wa:káha] 
+ᏳᏩᎧᎭ [hla yùːwaːkáha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144665,7 +144694,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏡᎬᎢ [hlʔgv̋:ʔi, tluʔgv̋:ʔi, dluhgv̋:ʔi] 
+ᏡᎬᎢ [hlʔgv̋ːʔi, tluʔgv̋ːʔi, dluhgv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144678,7 +144707,7 @@ A tree.
 
 \begin_deeper
 \begin_layout Description
-ᏕᏡᎬᎢ [dě:hlʔgv̋:ʔi, dě:hluʔgv̋:ʔi, dě:dluhgv̋:ʔi] 
+ᏕᏡᎬᎢ [děːhlʔgv̋ːʔi, děːhluʔgv̋ːʔi, děːdluhgv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144825,7 +144854,7 @@ Cherokee.
 \end_layout
 
 \begin_layout Description
-ᏣᎵ [chá:li] “Charles”
+ᏣᎵ [cháːli] “Charles”
 \end_layout
 
 \begin_layout Description
@@ -144833,7 +144862,7 @@ Cherokee.
 \begin_inset space ~
 \end_inset
 
-ᏧᏁᎳ [chaně:la, chuně:la] 
+ᏧᏁᎳ [chaněːla, chuněːla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144845,11 +144874,11 @@ Eight.
 \end_layout
 
 \begin_layout Description
-ᏣᏂ [já:ni] “John”
+ᏣᏂ [jáːni] “John”
 \end_layout
 
 \begin_layout Description
-ᏣᏚᎵᎭ [jadu:líha] 
+ᏣᏚᎵᎭ [jaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144942,7 +144971,7 @@ I see it.
 \end_layout
 
 \begin_layout Description
-ᏥᏍᏚ [ji:sdu] 
+ᏥᏍᏚ [jiːsdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -144955,7 +144984,7 @@ A rabbit.
 \end_layout
 
 \begin_layout Description
-ᏥᏯᏚᎵᎭ [ji:ya:du:líha] 
+ᏥᏯᏚᎵᎭ [jiːyaːduːlíha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145048,7 +145077,7 @@ Three.
 \end_layout
 
 \begin_layout Description
-ᏦᎢᏁᎢ [joʔi:ne̋:ʔi] 
+ᏦᎢᏁᎢ [joʔiːne̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145060,7 +145089,7 @@ Third.
 \end_layout
 
 \begin_layout Description
-ᏦᎦᏚ [joʔga:ʔdu] 
+ᏦᎦᏚ [joʔgaːʔdu] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145072,7 +145101,7 @@ Thirteen.
 \end_layout
 
 \begin_layout Description
-ᏦᏍᎪᎯ [joʔsgǒ:hi] 
+ᏦᏍᎪᎯ [joʔsgǒːhi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145154,7 +145183,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏧᏁᎦ [ju:ne̋:ga] 
+ᏧᏁᎦ [juːne̋ːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145166,7 +145195,7 @@ White.
 \end_layout
 
 \begin_layout Description
-ᏧᏃᏗᎨᎢ [ju:nǒ:díge̋:ʔi] 
+ᏧᏃᏗᎨᎢ [juːnǒːdíge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145178,7 +145207,7 @@ Brown.
 \end_layout
 
 \begin_layout Description
-ᏧᏍᎪᎸᎢ [ju:sgǒ:lv̋:ʔi] 
+ᏧᏍᎪᎸᎢ [juːsgǒːlv̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145191,7 +145220,7 @@ Dim.
 \end_layout
 
 \begin_layout Description
-ᏧᏬᏗᎨᎢ [juwǒ:díge̋:ʔi] 
+ᏧᏬᏗᎨᎢ [juwǒːdíge̋ːʔi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145370,7 +145399,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏪᏌ [wě:sa] 
+ᏪᏌ [wěːsa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145452,7 +145481,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏲᎾ [yǒ:na] 
+ᏲᎾ [yǒːna] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145469,7 +145498,7 @@ A bear.
 \begin_inset space ~
 \end_inset
 
-ᏴᏭᏁᎦ [yó:ne:ga, yv́:wúne:ga] 
+ᏴᏭᏁᎦ [yóːneːga, yv́ːwúneːga] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145551,7 +145580,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏴᏫ [yv:wi] 
+ᏴᏫ [yvːwi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -145692,7 +145721,7 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Section
+\begin_layout Chapter
 Names
 \begin_inset CommandInset label
 LatexCommand label
