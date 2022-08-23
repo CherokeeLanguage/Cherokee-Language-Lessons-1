@@ -6,8 +6,8 @@ export OMP_NUM_THREADS=4
 
 cwd="$(pwd)"
 
-CROP_WIDTH=2588
-CROP_HEIGHT=3375
+CROP_WIDTH=2400
+CROP_HEIGHT=3000
 
 for D in *; do
 
