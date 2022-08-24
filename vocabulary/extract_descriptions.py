@@ -111,7 +111,7 @@ end{multicols}
         if not re.search("(?ms)\\\\begin_layout Description\\s+[Ꭰ-Ᏼ]+.*?[\\[]", entry_text):
             continue
         entry_key: str = entry_text[len("\begin_layout Description")+2:]
-        entry_key = entry_key[:entry_key.index("[")].strip()
+        entry_key = entry_key[:entry_key.index("]")+1].strip()
         entry_key = re.sub("\\s+\\\\begin_inset space ~\\s+\\\\end_inset\\s+", " ", entry_key)
         if "\\begin_deeper" in entry_key:
             continue

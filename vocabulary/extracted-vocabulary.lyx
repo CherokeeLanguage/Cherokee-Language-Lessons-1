@@ -85,8 +85,8 @@
 \shortcut idx
 \color #008000
 \end_index
-\paperwidth 8.25in
-\paperheight 11in
+\paperwidth 8in
+\paperheight 10in
 \leftmargin 0.85in
 \topmargin 0.75in
 \rightmargin 0.75in
@@ -438,6 +438,10 @@ And.
 \end_layout
 
 \begin_layout Description
+ᎠᎹ [ama] Water.
+\end_layout
+
+\begin_layout Description
 ᎠᎹ [áːma] Salt.
 \end_layout
 
@@ -671,10 +675,6 @@ Numbers.
 \end_layout
 
 \end_deeper
-\begin_layout Description
-ᎠᏓ [a̋ʔda] Young animal.
-\end_layout
-
 
 \begin_layout Standard
 \begin_inset ERT
@@ -735,6 +735,14 @@ raggedcolumns
 \end_layout
 \end_inset
 \end_layout
+\begin_layout Description
+ᎠᏓ [ada] Wood.
+\end_layout
+
+\begin_layout Description
+ᎠᏓ [a̋ʔda] Young animal.
+\end_layout
+
 \begin_layout Description
 ᎠᏓᎭᎵᎨᎢ [adahaːlige̋ːʔi] 
 \begin_inset Quotes eld
@@ -1140,6 +1148,20 @@ All of you come around again.
 \end_inset
 
 
+\end_layout
+
+\begin_layout Description
+ᎢᎦ [i̋ːga] 
+\begin_inset Quotes eld
+\end_inset
+
+Is.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Now and ongoing.
 \end_layout
 
 \begin_layout Description
@@ -2093,6 +2115,22 @@ What thing?
 \begin_inset space ~
 \end_inset
 
+ᎤᏍᏗ [gadō űːsdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Which one?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
 ᏧᏍᏗ [gadō jűːsdi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2909,6 +2947,10 @@ They want me.
 \end_layout
 
 \begin_layout Description
+ᎬᏍᎦᎳᏗᎠ [gvːsgaládíʔa] He is hiding a long object.
+\end_layout
+
+\begin_layout Description
 ᎬᏍᎦᎳᏗᎠ [gv̀ːsgaládíʔa] I am hiding a long object.
 \end_layout
 
@@ -3083,6 +3125,18 @@ Fifty.
 \end_inset
 
 You see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᎪᏩᏘᎭ [hiːgowhtíha] 
+\begin_inset Quotes eld
+\end_inset
+
+You see him.
 \begin_inset Quotes erd
 \end_inset
 
@@ -5064,6 +5118,19 @@ You have them, some solid things.
 \end_layout
 
 \begin_layout Description
+ᏕᏣᏙᎠ? [děːjádóːʔa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what you are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᏕᏣᏚᎵᎭ [deːjaduːlíha] 
 \begin_inset Quotes eld
 \end_inset
@@ -6672,6 +6739,18 @@ raggedcolumns
 \end_inset
 
 I see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᎪᏩᏘᎭ [jiːgowhtíha] 
+\begin_inset Quotes eld
+\end_inset
+
+I see him.
 \begin_inset Quotes erd
 \end_inset
 
