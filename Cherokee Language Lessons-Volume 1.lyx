@@ -644,8 +644,8 @@ https://bit.ly/3zB1O9z
 If reporting an issue please check for any already submitted issues that
  address what you are reporting and add your comment there if there is one
  available.
- If there isn't an issue that matches the issue you are reporting, hit the
- "[New issue]" button.
+ If there isn't an issue that matches the issue you are reporting, select
+ the "[New issue]" button.
 \end_layout
 
 \begin_layout Chapter
@@ -1197,9 +1197,10 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-☞
-\emph on
- Start listening to the audio now and do not proceed to the next section
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
  until instructed to do so in the audio.
 \end_layout
 
@@ -3238,6 +3239,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Answers
 \end_layout
@@ -3461,8 +3469,8 @@ Learning the Cherokee Syllabary is not difficult if the right technique
  is used.
  ☞ 
 \emph on
-You should be able to learn the Cherokee Syllabary with three to five days
- of dedicated study.
+You should be able to learn to read the Cherokee Syllabary with three to
+ five days of dedicated study.
 \end_layout
 
 \begin_layout Standard
@@ -72606,6 +72614,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  instructed to switch to the book.
 \end_layout
 
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
+\end_layout
+
 \begin_layout Section
 ᏘᎪᎵᏯ (Read them)
 \end_layout
@@ -73736,6 +73752,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  instructed to switch to the book.
 \end_layout
 
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
+\end_layout
+
 \begin_layout Section
 ᏘᎪᎵᏯ (Read them)
 \end_layout
@@ -74292,7 +74316,7 @@ vowel length modifier
 \begin_inset Quotes erd
 \end_inset
 
- (ː), a 
+ (ː) or a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -75510,6 +75534,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -77089,6 +77121,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -79991,6 +80031,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Answers
 \end_layout
@@ -80528,6 +80575,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -83447,6 +83502,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
 Answers
 \end_layout
@@ -84348,6 +84410,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -87797,6 +87867,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 Answers
 \end_layout
@@ -88820,6 +88897,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -92286,6 +92371,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  instructed to switch to the book.
 \end_layout
 
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
+\end_layout
+
 \begin_layout Section
 ᏘᎪᎵᏯ (Read them)
 \end_layout
@@ -95544,6 +95637,13 @@ it is
 ᎯᏍᎩ ᎠᎴ ᏔᎵ?
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
 Answers
 \end_layout
@@ -95860,6 +95960,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -98991,6 +99099,13 @@ Bear is his or her name.
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 ᎩᎵᏏ
 \end_layout
@@ -99328,6 +99443,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -99954,6 +100077,13 @@ status collapsed
 end{multicols}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -100667,6 +100797,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -102563,6 +102701,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -104636,6 +104782,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  instructed to switch to the book.
 \end_layout
 
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
+\end_layout
+
 \begin_layout Section
 ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
 \end_layout
@@ -106199,6 +106353,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section*
 Answers
 \end_layout
@@ -107211,6 +107372,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -113123,6 +113292,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 ᎩᎵᏏ
 \end_layout
@@ -113904,6 +114080,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -118851,6 +119035,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
 ᎩᎵᏏ
 \end_layout
@@ -119603,6 +119794,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -125252,6 +125451,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
 ᎩᎵᏏ
 \end_layout
@@ -126004,6 +126210,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -131186,6 +131400,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
 ᎩᎵᏏ
 \end_layout
@@ -131938,6 +132159,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
@@ -135953,6 +136182,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
 ᎩᎵᏏ
 \end_layout
@@ -136705,6 +136941,14 @@ Be sure to listen to all audio the exercises until the audio instructs you
  After you complete the book up to the point the audio instructs, continue
  listening to the audio starting with the next session until you are again
  instructed to switch to the book.
+\end_layout
+
+\begin_layout Standard
+
+\size larger
+\noun on
+☞ Start listening to the audio now and do not proceed to the next section
+ until instructed to do so in the audio.
 \end_layout
 
 \begin_layout Section
