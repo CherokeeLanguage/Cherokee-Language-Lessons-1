@@ -16,7 +16,7 @@
 \end_preamble
 \use_default_options false
 \maintain_unincluded_children false
-\language english
+\language american
 \language_package auto
 \inputencoding utf8-plain
 \fontencoding global
@@ -474,30 +474,23 @@ Preface
 \end_layout
 
 \begin_layout Standard
-It is not perfection in speaking the Cherokee language that is required.
- Even the most proficient of speakers have differences in the way they speak
+Participation is required to speak the Cherokee language, not perfection.
+ Even the most proficient speakers have differences in the way they speak
  from each other.
- What is required is participation.
- Participation in speaking it.
- In reading it.
- In writing it.
- In teaching it.
- If you do not participate, or if you go out of your way to cause others
- harm who are working hard to keep the language alive, you are only doing
+ You must participate in speaking it, reading it, writing it, and teaching
+ it.
+ If you do not participate or if you go out of your way to cause harm to
+ others who are working hard to keep the language alive, you are only doing
  the work of those who sent us to the boarding schools.
  You have become 
 \begin_inset Quotes eld
 \end_inset
 
-them
+them,
 \begin_inset Quotes erd
 \end_inset
 
-.
- The foreigners.
- The conquerors.
- Those who would remove us.
- Those who failed.
+ the foreigners, the conquerors, those who would remove us, those who failed.
  Be counted among those who keep 
 \begin_inset Quotes eld
 \end_inset
@@ -507,13 +500,13 @@ them
 \end_inset
 
  failing.
- Be not among those who would remove us from this Earth.
+ Do not be among those who would remove us from this Earth.
 \end_layout
 
 \begin_layout Standard
-One of the keys to acquiring a new language is to learn the patterns that
- make up the language.
- Simply learning phrases so you can speak 
+To acquire a new language, one must learn the patterns that make up the
+ language.
+ Learning phrases so you can speak 
 \begin_inset Quotes eld
 \end_inset
 
@@ -524,15 +517,15 @@ pidgin
  Cherokee is not learning Cherokee.
  You need to learn the fundamentals of the language on how words are put
  together to be able to understand and communicate in the language.
- There are many degrees of meaning that different word parts provide and
- if you don't learn these shades of meaning up front and how they are expressed
- you will never progress beyond simple memorized phrases and never obtain
- satisfaction with the language.
+ Different word parts provide many degrees of meaning and if you do not
+ learn these shades of meaning up front and how they are expressed, you
+ will never progress beyond simple memorized phrases and never obtain satisfacti
+on with the language.
  While each person's skill will differ, one should strive to gain enough
  understanding of the mechanics of the language to be able to comprehend
  and communicate effectively.
- The goal of this material is to provide you a solid structural foundation
- on how Cherokee works.
+ This material aims to provide you with a solid structural foundation on
+ how Cherokee works.
  You will learn how words are put together in basic sentences and how to
  form new words for ideas not listed in the dictionary.
 \end_layout
@@ -546,55 +539,23 @@ Please keep the following in mind as you do these lessons:
 \end_layout
 
 \begin_layout Itemize
-The lessons in this material are like life.
- First we crawl, then we walk, and finally we run.
- The Cherokee you find in these lessons has been modified to fit a special
- requirement referred to by many language instructors as 
+These lessons in this material are like life.
+ You crawl first, then you walk, and finally you run.
+ Many language instructors refer to a special requirement called 
 \emph on
 Staying in Bounds
 \emph default
 .
- This means that the lesson exercise material only uses the vocabulary and
- grammar rules that have already been taught.
+ This requirement means that the lesson exercise material only uses the
+ vocabulary and grammar rules that have already been taught.
  As a result, many of the exercises, especially the earlier ones, will seem
- full of 
-\begin_inset Quotes eld
-\end_inset
-
-childish
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-bad
-\begin_inset Quotes erd
-\end_inset
-
- Cherokee language to full speakers.
- As these lessons progress, the less 
-\begin_inset Quotes eld
-\end_inset
-
-childish
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-bad
-\begin_inset Quotes erd
-\end_inset
-
- the Cherokee that is taught will be.
+ full of “childish” or “bad” Cherokee language to full speakers.
+ As these lessons progress, the Cherokee that is taught will be less “childish”
+ or “bad”.
 \end_layout
 
 \begin_layout Itemize
-Cherokee is a language of description and of relationship.
+Cherokee is a language of description and relationship.
  For this reason, much of the language at first glance appears to work opposite
  to the way English does.
  This material will hopefully ease the shift required in your thinking by
@@ -839,42 +800,48 @@ The Middle
 \end_layout
 
 \begin_layout Standard
-There is no single central form of Cherokee, instead, there are many variations
- of pronunciation and word usage within each dialect, usually centered around
- different communities and townships.
+Each dialect has many variations of pronunciation and word usage within
+ it, usually centered around different communities and townships.
 \end_layout
 
 \begin_layout Standard
-The vocabulary and language structure as presented in this lesson material
- is based primarily on the 
-\begin_inset Quotes eld
-\end_inset
-
+The “
+\emph on
 Cherokee-English Dictionary (ᏣᎳᎩ-ᏲᏁᎦ ᏗᏕᏠᏆᏍᏙᏗ)
-\begin_inset Quotes erd
-\end_inset
-
- published in 1975 by the 
+\emph default
+” published in 1975 by the 
 \emph on
 Cherokee Nation of Oklahoma
 \emph default
-, and is commonly referred to as the 
-\begin_inset Quotes eld
-\end_inset
-
+ primarily forms the vocabulary and language structure presented in this
+ lesson material.
+ It is commonly referred to as the “
+\emph on
 Durbin Feeling Dictionary
-\begin_inset Quotes erd
-\end_inset
-
- or 
+\emph default
+” or “
+\emph on
+CED
+\emph default
+”.
+ The grammar used in this material is also based on that presented in the
+ 
 \begin_inset Quotes eld
 \end_inset
 
-CED
+
+\emph on
+Cherokee Messenger
+\emph default
+ 
+\emph on
+(ᏣᎳᎩ ᎠᏥᏅᏏᏛ)
+\emph default
+
 \begin_inset Quotes erd
 \end_inset
 
-.
+ published from August 1844 to May 1846.
 \end_layout
 
 \begin_layout Section
@@ -969,9 +936,8 @@ Many activities involve TPR by participants performing physical actions
 \end_layout
 
 \begin_layout Standard
-One thing both approaches agree on is that students should be listening
- and only responding with actions only using simple and brief verbal responses
- when necessary.
+Both approaches agree that students should be listening and only responding
+ with actions only using simple and brief verbal responses when necessary.
  It usually takes about 30 hours of instruction in a classroom setting before
  students are ready to start speaking simple sentences.
  
@@ -2259,28 +2225,14 @@ In the CED and other source materials you will see references to pitch or
 \end_layout
 
 \begin_layout Standard
-What is pitch or tone? Pitch or tone, when dealing with languages, refers
- to shifting the tone of the voice up or down.
- An example of this in English is the shifting of the tone upwards towards
- the end of a sentence when asking a question.
- In Cherokee shifts in tone are actually considered parts of words and can
- also be used to indicate things like 
-\begin_inset Quotes eld
-\end_inset
-
-happened in the past
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-let it happen in the future
-\begin_inset Quotes erd
-\end_inset
-
-.
+Pitch or tone refers to the way we use our voice to convey meaning in language.
+ Pitch is the degree of highness or lowness of a tone and is determined
+ by the frequency of the sound.
+ Tone is the use of pitch in language to distinguish lexical or grammatical
+ meaning.
+ In some languages, such as Cherokee, shifts in tone are actually considered
+ parts of words and can also be used to indicate things like “happened in
+ the past” or “let it happen in the future”.
  ☞ 
 \emph on
 The tones used in words or phrases can change their meaning, sometimes dramatica
@@ -85506,11 +85458,7 @@ _____
 \end_inset
 
 ᏱᎩ.
- [hla _____ 
-\lang american
-yi̋ːgi
-\lang english
-] 
+ [hla _____ yi̋ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -126979,70 +126927,6 @@ raggedcolumns
 \begin_inset space ~
 \end_inset
 
-ᏱᎩ [hla yi̋ːgi] 
-\begin_inset Quotes eld
-\end_inset
-
-Isn't.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-ᏱᎦ [hla yi̋ːga] 
-\begin_inset Quotes eld
-\end_inset
-
-Isn't.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-ᏱᎨᏐᎢ [hla yiːgèːsóːʔi] 
-\begin_inset Quotes eld
-\end_inset
-
-Isn't usually.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-ᏱᎨᏒᎢ [hla yiːgèːsv̌ːʔi] 
-\begin_inset Quotes eld
-\end_inset
-
-Not being.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
 ᏱᎨᏎᎢ [hla yiːgèːséːʔi] 
 \begin_inset Quotes eld
 \end_inset
@@ -127100,6 +126984,180 @@ Without personal knowledge, or consciousness.
 \end_inset
 
 Will not be being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎢᎩ [hla i̋ːgi] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Is now or was just now.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎢᎦ [hla i̋ːga] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Now and ongoing.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏐᎢ [hla gèːsóːʔi] 
+\begin_inset Quotes eld
+\end_inset
+
+Isn't usually.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Usually, habitually, or on certain occasions.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏒᎢ [hla gèːsv̋ːʔi] 
+\begin_inset Quotes eld
+\end_inset
+
+Not being.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏒᎩ [hla gèːsv̌ːgi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't being.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+With personal knowledge, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏎᎢ [hla gèːséːʔi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't being.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowledge, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᎲᎢ [hla gèːhv̌ːʔi] 
+\begin_inset Quotes eld
+\end_inset
+
+Not been (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᎲᎩ [hla gèːhv̌ːgi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+With personal knowledge, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᎮᎢ [hla gèːhéːʔi] 
+\begin_inset Quotes eld
+\end_inset
+
+Wasn't (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+Without personal knowledge, or consciousness.
+\end_layout
+
+\begin_layout Description
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᎨᏎᏍᏗ [hla gèːséːsdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Won't be being.
 \begin_inset Quotes erd
 \end_inset
 
@@ -144747,11 +144805,7 @@ _____
 \end_inset
 
 ᏱᎩ.
- [hla _____ 
-\lang american
-yi̋ːgi
-\lang english
-] 
+ [hla _____ yi̋ːgi] 
 \begin_inset Quotes eld
 \end_inset
 
