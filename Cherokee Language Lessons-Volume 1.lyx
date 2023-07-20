@@ -1303,18 +1303,22 @@ They are generally pronounced as follows:
 \end_layout
 
 \begin_layout Itemize
-a - as (a̱) in fa̱ther.
+a - as (o̱) in ho̱t.
 \end_layout
 
 \begin_layout Itemize
-e - as (a̱) in ca̱ke.
+e - as (a̱) in a̱te.
  
 \emph on
 Some speakers shift this letter to sound more like the 
 \begin_inset Quotes eld
 \end_inset
 
-ē
+e
+\emph default
+̱
+\emph on
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -1322,7 +1326,11 @@ Some speakers shift this letter to sound more like the
 \begin_inset Quotes eld
 \end_inset
 
-ēcho
+e
+\emph default
+̱
+\emph on
+cho
 \begin_inset Quotes erd
 \end_inset
 
@@ -1337,7 +1345,11 @@ Some speakers shift this letter to sound more like the
 \begin_inset Quotes eld
 \end_inset
 
-ī
+i
+\emph default
+̱
+\emph on
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -1345,7 +1357,11 @@ Some speakers shift this letter to sound more like the
 \begin_inset Quotes eld
 \end_inset
 
-pīt
+i
+\emph default
+̱
+\emph on
+t
 \begin_inset Quotes erd
 \end_inset
 
@@ -1353,15 +1369,15 @@ pīt
 \end_layout
 
 \begin_layout Itemize
-o - as (o̱) in hello̱.
+o - as (o̱) in o̱ld.
 \end_layout
 
 \begin_layout Itemize
-u - as (u̱) in tu̱ba.
+u - as (o̱o̱) in ho̱o̱p.
 \end_layout
 
 \begin_layout Itemize
-v - as (u̱) in ru̱ng and is always nasalized (sounded through the nose).
+v - as (u̱) in u̱ncle and is always nasalized (sounded through the nose).
 \end_layout
 
 \begin_layout Paragraph
