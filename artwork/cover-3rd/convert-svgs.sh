@@ -6,8 +6,8 @@ export OMP_NUM_THREADS=4
 
 cwd="$(pwd)"
 
-CROP_WIDTH=2400
-CROP_HEIGHT=3000
+CROP_WIDTH=2588
+CROP_HEIGHT=3375
 
 for D in *; do
 
@@ -59,10 +59,10 @@ for D in *; do
 		for png in pngs/*.png; do
 			if [[ "${png}" == "pngs/half"* ]]; then continue; fi
 			if [[ "${png}" != *"cover.png" ]]; then echo "[x] ${png}"; continue; fi
-			pngfront="$(echo "$png"|sed s/cover.png/frontcover.png/)"
-			pngback="$(echo "$png"|sed s/cover.png/backcover.png/)"
-			epubfront="$(echo "$png"|sed s/cover.png/epub-cover.png/)"
-			jpgfront="$(echo "$png"|sed s/cover.png/frontcover.jpg/|sed s/pngs/jpgs/)"
+			pngfront="$(echo "$png"|sed s/cover/front-cover/)"
+			pngback="$(echo "$png"|sed s/cover/back-cover/)"
+			epubfront="$(echo "$png"|sed s/cover/epub-cover/)"
+			jpgfront="$(echo "$png"|sed s/cover/front-cover/|sed s/pngs/jpgs/|sed s/.png/.jpg/)"
 			gm convert -filter Sinc "$png" -gravity NorthEast -crop ${CROP_WIDTH}x${CROP_HEIGHT}+0+0 "$pngfront"
 			gm convert -filter Sinc "$png" -gravity NorthWest -crop ${CROP_WIDTH}x${CROP_HEIGHT}+0+0 "$pngback"
 			gm convert -filter Sinc -quality 90 "$png" -gravity NorthEast -crop ${CROP_WIDTH}x${CROP_HEIGHT}+0+0 "$jpgfront"
